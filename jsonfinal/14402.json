@@ -1,0 +1,20 @@
+{
+    "name": "PITTI GOLA E CANTINA",
+    "description": "",
+    "address": "16, Piazza Pitti - 50125 Firenze (FI)",
+    "streetAddress": "16, Piazza Pitti",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76574,
+        "lon": 11.24936
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 212704"
+    ],
+    "rating": ""
+}

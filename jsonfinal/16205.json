@@ -1,0 +1,20 @@
+{
+    "name": "PULTER",
+    "description": "Il Pulter è il ritrovo ideale per una chiacchierata fra amici, per una merenda o un aperitivo: è a Pescia (PT).",
+    "address": "88, P. Mazzini - 51017 Pescia (PT)",
+    "streetAddress": "88, P. Mazzini",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90238,
+        "lon": 10.68839
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 477949"
+    ],
+    "rating": ""
+}

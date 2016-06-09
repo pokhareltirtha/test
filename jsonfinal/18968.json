@@ -1,0 +1,20 @@
+{
+    "name": "TORRE GUELFA",
+    "description": "",
+    "address": "Borgo Santissimi Apostoli 8 - 50123 Firenze (FI)",
+    "streetAddress": "Borgo Santissimi Apostoli 8",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7692,
+        "lon": 11.25291
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2396338"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE 1556",
+    "description": "",
+    "address": "1556, Via Della Lupaia - 50036 Vaglia (FI)",
+    "streetAddress": "1556, Via Della Lupaia",
+    "postalCode": "50036",
+    "addressLocality": "Vaglia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.86798,
+        "lon": 11.3179
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 505641"
+    ],
+    "rating": ""
+}

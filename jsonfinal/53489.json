@@ -1,0 +1,20 @@
+{
+    "name": "IL NUOVO PANDA",
+    "description": "",
+    "address": "64, Via Pratese - 50145 Firenze (FI)",
+    "streetAddress": "64, Via Pratese",
+    "postalCode": "50145",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79959,
+        "lon": 11.19335
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 3024636"
+    ],
+    "rating": ""
+}

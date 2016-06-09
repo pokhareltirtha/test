@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL CAMINO",
+    "description": "Da oltre 40 anni è un punto di riferimento per i buongustai. Intimo e raccolto appena fuori dal centro storico di Marradi, nelle vicinanze della stazione ferroviaria, troverete un ambiente rustico e a...",
+    "address": "38, Vl. Baccarini - 50034 Marradi (FI)",
+    "streetAddress": "38, Vl. Baccarini",
+    "postalCode": "50034",
+    "addressLocality": "Marradi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.07907,
+        "lon": 11.61777
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8045069"
+    ],
+    "rating": ""
+}

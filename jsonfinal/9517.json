@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA NUMERO UNO",
+    "description": "Numero uno tra le osterie.",
+    "address": "1, V. Romana Lucchese - 50054 Ponte A Cappiano (FI)",
+    "streetAddress": "1, V. Romana Lucchese",
+    "postalCode": "50054",
+    "addressLocality": "Ponte A Cappiano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74504,
+        "lon": 10.76961
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 297001"
+    ],
+    "rating": ""
+}

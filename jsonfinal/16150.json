@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA MARGHERITA'S S.R.L.",
+    "description": "",
+    "address": "1, Via Valdinievole Nord - 56031 Quattro Strade (PI)",
+    "streetAddress": "1, Via Valdinievole Nord",
+    "postalCode": "56031",
+    "addressLocality": "Quattro Strade",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70933,
+        "lon": 10.65919
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 714375"
+    ],
+    "rating": "5.0"
+}

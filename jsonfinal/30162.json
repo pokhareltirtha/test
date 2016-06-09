@@ -1,0 +1,20 @@
+{
+    "name": "BELLINI",
+    "description": "",
+    "address": "22, Via Dei Ciliegi - 50066 Ciliegi (FI)",
+    "streetAddress": "22, Via Dei Ciliegi",
+    "postalCode": "50066",
+    "addressLocality": "Ciliegi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.66691,
+        "lon": 11.45655
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8662135"
+    ],
+    "rating": ""
+}

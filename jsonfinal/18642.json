@@ -1,0 +1,21 @@
+{
+    "name": "G.R.A. S.R.L.",
+    "description": "",
+    "address": "1, Via Terre Bianche - 50023 Impruneta (FI)",
+    "streetAddress": "1, Via Terre Bianche",
+    "postalCode": "50023",
+    "addressLocality": "Impruneta",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.67961,
+        "lon": 11.27336
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8832993",
+        "055 8811422"
+    ],
+    "rating": ""
+}

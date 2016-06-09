@@ -1,0 +1,20 @@
+{
+    "name": "TONIO",
+    "description": "",
+    "address": "161, Piazza Mercatale - 59100 Prato (PO)",
+    "streetAddress": "161, Piazza Mercatale",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87952,
+        "lon": 11.10154
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 21266"
+    ],
+    "rating": ""
+}

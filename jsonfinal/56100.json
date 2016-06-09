@@ -1,0 +1,20 @@
+{
+    "name": "SPIZZETTANDO",
+    "description": "La Spizzettando, a Montevarchi in Via Aretina, stuzzicherà il vostro appetito con deliziose e saporite pizze dalle ricche e speciali farciture.",
+    "address": "299, V. Aretina - 52025 Montevarchi (AR)",
+    "streetAddress": "299, V. Aretina",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.51417,
+        "lon": 11.59181
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9789166"
+    ],
+    "rating": ""
+}

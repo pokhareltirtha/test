@@ -1,0 +1,21 @@
+{
+    "name": "VAGALUME",
+    "description": "",
+    "address": "Via Pietrapiana, 40r - 50121 Firenze (FI)",
+    "streetAddress": "Via Pietrapiana, 40r",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77139,
+        "lon": 11.26333
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2466740",
+        "335 5792674"
+    ],
+    "rating": ""
+}

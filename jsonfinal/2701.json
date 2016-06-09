@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL FOCOLARE DI BACCHI & MALATESTI S.N.C.",
+    "description": "",
+    "address": "7, Via Salvadori - 50050 Montaione (FI)",
+    "streetAddress": "7, Via Salvadori",
+    "postalCode": "50050",
+    "addressLocality": "Montaione",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.55474,
+        "lon": 10.9079
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "338 1127073"
+    ],
+    "rating": ""
+}

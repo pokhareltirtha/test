@@ -1,0 +1,20 @@
+{
+    "name": "MAGNIFICO MESSERE",
+    "description": "",
+    "address": "40/R, Via S. Gallo - 50129 Firenze (FI)",
+    "streetAddress": "40/R, Via S. Gallo",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77908,
+        "lon": 11.2576
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4684604"
+    ],
+    "rating": ""
+}

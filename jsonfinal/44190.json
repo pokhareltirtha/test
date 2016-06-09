@@ -1,0 +1,20 @@
+{
+    "name": "YUMMY YUMMY SRL",
+    "description": "",
+    "address": "1/Af, Via Baracca Francesco - 50127 Firenze (FI)",
+    "streetAddress": "1/Af, Via Baracca Francesco",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7871,
+        "lon": 11.22618
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "388 8199963"
+    ],
+    "rating": ""
+}

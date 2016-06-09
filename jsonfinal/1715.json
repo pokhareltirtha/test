@@ -1,0 +1,21 @@
+{
+    "name": "IL RONCO",
+    "description": "",
+    "address": "59, Via Roncobilaccio - 40035 Roncobilaccio (BO)",
+    "streetAddress": "59, Via Roncobilaccio",
+    "postalCode": "40035",
+    "addressLocality": "Roncobilaccio",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.11557,
+        "lon": 11.2232
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0534 97581"
+    ],
+    "rating": "4.0"
+}

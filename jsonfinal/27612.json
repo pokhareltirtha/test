@@ -1,0 +1,20 @@
+{
+    "name": "ANTICA MESCITA",
+    "description": "",
+    "address": "60, Via Di San Niccolo - 50125 Firenze (FI)",
+    "streetAddress": "60, Via Di San Niccolo",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76442,
+        "lon": 11.26103
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2342836"
+    ],
+    "rating": "3.0"
+}

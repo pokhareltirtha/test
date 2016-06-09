@@ -1,0 +1,21 @@
+{
+    "name": "ANTICA PIZZERIA DA CAMMILLO BOTRINI MASSIMO &C.SAS",
+    "description": "",
+    "address": "36, Via Togliatti Palmiro - 56025 Pontedera (PI)",
+    "streetAddress": "36, Via Togliatti Palmiro",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.65744,
+        "lon": 10.63901
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 291190",
+        "0587 952021"
+    ],
+    "rating": "4.0"
+}

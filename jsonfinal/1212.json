@@ -1,0 +1,20 @@
+{
+    "name": "CLUB PARADISO",
+    "description": "",
+    "address": "24, Via Dell Orto - 50124 Firenze (FI)",
+    "streetAddress": "24, Via Dell Orto",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76904,
+        "lon": 11.24073
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 223955"
+    ],
+    "rating": ""
+}

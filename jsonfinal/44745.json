@@ -1,0 +1,20 @@
+{
+    "name": "LE SPIAGGE",
+    "description": "",
+    "address": "3, Localita Alpe - 50035 Palazzuolo Sul Senio (FI)",
+    "streetAddress": "3, Localita Alpe",
+    "postalCode": "50035",
+    "addressLocality": "Palazzuolo Sul Senio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.1138,
+        "lon": 11.54658
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 812281"
+    ],
+    "rating": ""
+}

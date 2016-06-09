@@ -1,0 +1,21 @@
+{
+    "name": "PASTICCERIA ENOTECA FERRETTI",
+    "description": "",
+    "address": "1, Via Carraia - 56037 Peccioli (PI)",
+    "streetAddress": "1, Via Carraia",
+    "postalCode": "56037",
+    "addressLocality": "Peccioli",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.54759,
+        "lon": 10.72093
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 636257",
+        "0587 635124"
+    ],
+    "rating": ""
+}

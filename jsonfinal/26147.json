@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE GIARDINO",
+    "description": "",
+    "address": "160, V. Pieve A Celle - 51100 Pistoia (PT)",
+    "streetAddress": "160, V. Pieve A Celle",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92506,
+        "lon": 10.88851
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 571356",
+        "0573 571398"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "HOTEL VITTORIA",
+    "description": "Stile liberty e funzionalità moderna coniugati ad'oc dall'Hotel Vittoria a Potenza.",
+    "address": "",
+    "streetAddress": "",
+    "postalCode": "",
+    "addressLocality": "",
+    "addressRegion": "",
+    "coordinates": {
+        "lat": null,
+        "lon": null
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0971 56632"
+    ],
+    "rating": "4.7"
+}

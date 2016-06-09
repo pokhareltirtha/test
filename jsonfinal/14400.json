@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE GIAN BURRASCA",
+    "description": "",
+    "address": "8, Via Giuseppe Valentini - 59100 Prato (PO)",
+    "streetAddress": "8, Via Giuseppe Valentini",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87451,
+        "lon": 11.1018
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 605920"
+    ],
+    "rating": ""
+}

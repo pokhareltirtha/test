@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA DA TEO ANTONELLA",
+    "description": "",
+    "address": "17/R, Viale Morgagni Giovan Battista - 50134 Firenze (FI)",
+    "streetAddress": "17/R, Viale Morgagni Giovan Battista",
+    "postalCode": "50134",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79695,
+        "lon": 11.24142
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4360831"
+    ],
+    "rating": ""
+}

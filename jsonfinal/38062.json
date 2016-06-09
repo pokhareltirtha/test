@@ -1,0 +1,21 @@
+{
+    "name": "GRAND HOTEL ADRIATICO",
+    "description": "",
+    "address": "Via Maso Finiguerra 9 - 50123 Firenze (FI)",
+    "streetAddress": "Via Maso Finiguerra 9",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77353,
+        "lon": 11.2447
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 27931",
+        "055 289661"
+    ],
+    "rating": ""
+}

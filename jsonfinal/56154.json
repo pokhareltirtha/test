@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE NONNA GIUDITTA",
+    "description": "Ristorante a Castel Focognano in cui gustare la tipica cucina Toscana.",
+    "address": "39, Castel Focognano - 52016 Castel Focognano (AR)",
+    "streetAddress": "39, Castel Focognano",
+    "postalCode": "52016",
+    "addressLocality": "Castel Focognano",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.65409,
+        "lon": 11.78796
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 592592",
+        "347 1918028"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "FIRENZE NOVA",
+    "description": "",
+    "address": "122, Via Benedetto Dei - 50127 Firenze (FI)",
+    "streetAddress": "122, Via Benedetto Dei",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79806,
+        "lon": 11.23296
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4221876",
+        "055 411937"
+    ],
+    "rating": ""
+}

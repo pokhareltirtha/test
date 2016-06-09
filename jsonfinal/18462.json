@@ -1,0 +1,21 @@
+{
+    "name": "OFFICINA DELLA BISTECCA DI DARIO CECCHINI",
+    "description": "",
+    "address": "11, Via XX Luglio - 50022 Panzano In Chianti (FI)",
+    "streetAddress": "11, Via XX Luglio",
+    "postalCode": "50022",
+    "addressLocality": "Panzano In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54414,
+        "lon": 11.31685
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 852727",
+        "055 852020"
+    ],
+    "rating": ""
+}

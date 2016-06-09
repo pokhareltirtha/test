@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CINESE LE SORGENTI",
+    "description": "",
+    "address": "6, Via Chiara - 50123 Firenze (FI)",
+    "streetAddress": "6, Via Chiara",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77751,
+        "lon": 11.25264
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 213959"
+    ],
+    "rating": ""
+}

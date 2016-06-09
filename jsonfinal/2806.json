@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA ANGELO",
+    "description": "",
+    "address": "5, Via Trento - 53036 Poggibonsi (SI)",
+    "streetAddress": "5, Via Trento",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46935,
+        "lon": 11.14709
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 936283"
+    ],
+    "rating": "3.0"
+}

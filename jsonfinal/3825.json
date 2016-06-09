@@ -1,0 +1,20 @@
+{
+    "name": "PANINOTECA DA TOMMY I RE DEL PANINO",
+    "description": "Panini e piadine di tutti i gusti accompagnate da patatine fritte, sala con maxischermo e fast food anche per vegetariani a Firenze.",
+    "address": "8/R, V. Forlanini - 50127 Firenze (FI)",
+    "streetAddress": "8/R, V. Forlanini",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79025,
+        "lon": 11.22903
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4476493"
+    ],
+    "rating": ""
+}

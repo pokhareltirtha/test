@@ -1,0 +1,20 @@
+{
+    "name": "PASTICCERIA DOLCI FOLLIE S.N.C.",
+    "description": "",
+    "address": "2, Via Boccaccio Giovanni - 50052 Certaldo (FI)",
+    "streetAddress": "2, Via Boccaccio Giovanni",
+    "postalCode": "50052",
+    "addressLocality": "Certaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54923,
+        "lon": 11.04535
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 668188"
+    ],
+    "rating": ""
+}

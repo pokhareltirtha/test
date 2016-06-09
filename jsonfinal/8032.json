@@ -1,0 +1,20 @@
+{
+    "name": "CITTA' D'ORO",
+    "description": "",
+    "address": "78, Via Senese - 53036 Poggibonsi (SI)",
+    "streetAddress": "78, Via Senese",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.4644,
+        "lon": 11.15305
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 936169"
+    ],
+    "rating": "4.7"
+}

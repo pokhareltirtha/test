@@ -1,0 +1,21 @@
+{
+    "name": "LE MASCHERE",
+    "description": "",
+    "address": "70, Via Nazionale - 50031 Le Maschere (FI)",
+    "streetAddress": "70, Via Nazionale",
+    "postalCode": "50031",
+    "addressLocality": "Le Maschere",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.99168,
+        "lon": 11.26905
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8418456",
+        "055 841354"
+    ],
+    "rating": ""
+}

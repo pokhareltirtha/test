@@ -1,0 +1,21 @@
+{
+    "name": "CANTUCCIO DEL BUONGUSTAIO",
+    "description": "",
+    "address": "16, Via Aretina - 50065 Pontassieve (FI)",
+    "streetAddress": "16, Via Aretina",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7875,
+        "lon": 11.39527
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "348 7396200",
+        "055 8368133"
+    ],
+    "rating": ""
+}

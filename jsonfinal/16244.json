@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE KAORU",
+    "description": "",
+    "address": "98, Via Pisana - 56025 Pontedera (PI)",
+    "streetAddress": "98, Via Pisana",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66503,
+        "lon": 10.62533
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "347 2697976"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "RISTORANTE IL PARCO DI STRONCAPANE IL PARCO DI STRONCAPANE S.R.L.",
+    "description": "",
+    "address": "Localita' Piani 70/A - 50066 Reggello (FI)",
+    "streetAddress": "Localita' Piani 70/A",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.70963,
+        "lon": 11.53795
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8695895",
+        "055 8667457"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA I' CHIODO",
+    "description": "",
+    "address": "166, Via Volterrana Nord - 50025 Montespertoli (FI)",
+    "streetAddress": "166, Via Volterrana Nord",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.67269,
+        "lon": 11.10476
+    },
+    "categories": [
+        "Associazioni artistiche, culturali e ricreative"
+    ],
+    "telephone": [
+        "0571 671108"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "EDILIZIAMENSOLA",
+    "description": "",
+    "address": "102, Via Tevere - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "102, Via Tevere",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80874,
+        "lon": 11.1761
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 310209"
+    ],
+    "rating": ""
+}

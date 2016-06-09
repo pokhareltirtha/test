@@ -1,0 +1,21 @@
+{
+    "name": "VECCHIA FIRENZE  ART - WINE - RESTAURANT",
+    "description": "",
+    "address": "Borgo Degli Albizi 18/76r - 50122 Firenze (FI)",
+    "streetAddress": "Borgo Degli Albizi 18/76r",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77152,
+        "lon": 11.25958
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2340361",
+        "055 2340362"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "IL GRILLO",
+    "description": "",
+    "address": "33, Piazza Di Santa Maria Novella - 50123 Firenze (FI)",
+    "streetAddress": "33, Piazza Di Santa Maria Novella",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77361,
+        "lon": 11.24992
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 282438"
+    ],
+    "rating": "5.0"
+}

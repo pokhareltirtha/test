@@ -1,0 +1,21 @@
+{
+    "name": "LA B DEL B",
+    "description": "",
+    "address": "12, Via Michelangelo Buonarroti - 50058 Signa (FI)",
+    "streetAddress": "12, Via Michelangelo Buonarroti",
+    "postalCode": "50058",
+    "addressLocality": "Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79125,
+        "lon": 11.09744
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 876548"
+    ],
+    "rating": ""
+}

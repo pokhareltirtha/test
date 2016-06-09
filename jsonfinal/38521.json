@@ -1,0 +1,20 @@
+{
+    "name": "REDDEM SRL",
+    "description": "",
+    "address": "57/R, Via S. Gallo - 50129 Firenze (FI)",
+    "streetAddress": "57/R, Via S. Gallo",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77905,
+        "lon": 11.25758
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 481030"
+    ],
+    "rating": "3.0"
+}

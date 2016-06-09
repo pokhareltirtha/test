@@ -1,0 +1,20 @@
+{
+    "name": "AL PESCATORE",
+    "description": "",
+    "address": "Via 1 Maggio, 18/19 - 40020 Casalfiumanese (BO)",
+    "streetAddress": "Via 1 Maggio, 18/19",
+    "postalCode": "40020",
+    "addressLocality": "Casalfiumanese",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.29564,
+        "lon": 11.62454
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0542 667212"
+    ],
+    "rating": ""
+}

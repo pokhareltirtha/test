@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LAGO GIARDINO",
+    "description": "Da più di 30 anni a Pistoia, al Ristorante Lago Giardino potrete gustare deliziose specialità della casa, dalla pizza ai piatti tipici del territorio.",
+    "address": "47, V. S. Sebastiano - 51100 Pistoia (PT)",
+    "streetAddress": "47, V. S. Sebastiano",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87822,
+        "lon": 10.96407
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 946226"
+    ],
+    "rating": ""
+}

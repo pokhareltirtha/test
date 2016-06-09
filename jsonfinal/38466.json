@@ -1,0 +1,20 @@
+{
+    "name": "BAHIA CAFE'",
+    "description": "Un aperitivo fresco e piacevole ed una esclusiva cena privata, sino a tarda notte, nel cuore di Firenze.",
+    "address": "3/R, V. Doni - 50144 Firenze (FI)",
+    "streetAddress": "3/R, V. Doni",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78556,
+        "lon": 11.23239
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 333368"
+    ],
+    "rating": "4.0"
+}

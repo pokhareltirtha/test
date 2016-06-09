@@ -1,0 +1,21 @@
+{
+    "name": "FUORI ORARIO SRL",
+    "description": "",
+    "address": "84/B, Via Lucchese - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "84/B, Via Lucchese",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8056,
+        "lon": 11.18035
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3921389",
+        "055 3921411"
+    ],
+    "rating": ""
+}

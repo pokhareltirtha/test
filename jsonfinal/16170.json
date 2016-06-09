@@ -1,0 +1,21 @@
+{
+    "name": "LE TERRAZZE",
+    "description": "",
+    "address": "10/11/12, Piazza Della Chiesa - 51010 Casore Del Monte (PT)",
+    "streetAddress": "10/11/12, Piazza Della Chiesa",
+    "postalCode": "51010",
+    "addressLocality": "Casore Del Monte",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93332,
+        "lon": 10.80911
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 616106",
+        "0572 618044"
+    ],
+    "rating": ""
+}

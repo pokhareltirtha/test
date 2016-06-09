@@ -1,0 +1,20 @@
+{
+    "name": "O'SCUGNIZZO",
+    "description": "",
+    "address": "25, Via Dell Orto - 50124 Firenze (FI)",
+    "streetAddress": "25, Via Dell Orto",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76892,
+        "lon": 11.24125
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2286471"
+    ],
+    "rating": ""
+}

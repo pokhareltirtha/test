@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA TAVOLA CALDA IL LAGHETTO",
+    "description": "",
+    "address": "Via Tosco Romagnola - 56025 Pontedera (PI)",
+    "streetAddress": "Via Tosco Romagnola",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.6665,
+        "lon": 10.65158
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0587 484876"
+    ],
+    "rating": ""
+}

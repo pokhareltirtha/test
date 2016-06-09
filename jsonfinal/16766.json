@@ -1,0 +1,21 @@
+{
+    "name": "IL CORIANDOLO",
+    "description": "",
+    "address": "1, Piazza S Rocco - 50056 Fibbiana (FI)",
+    "streetAddress": "1, Piazza S Rocco",
+    "postalCode": "50056",
+    "addressLocality": "Fibbiana",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73163,
+        "lon": 10.99405
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 541021",
+        "366 9937319"
+    ],
+    "rating": ""
+}

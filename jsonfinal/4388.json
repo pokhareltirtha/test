@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA IL PURGATORIO",
+    "description": "Ristorante a Firenze in cui potrete assaggiare le migliori pizze e specialità di carne e di pesce della cucina toscana.",
+    "address": "3, V. Del Garbo - 50134 Firenze (FI)",
+    "streetAddress": "3, V. Del Garbo",
+    "postalCode": "50134",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79779,
+        "lon": 11.24485
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 416134"
+    ],
+    "rating": "3.7"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "STEGIS 005 S.R.L.",
+    "description": "",
+    "address": "2, Via S. Maiano - 56028 San Miniato (PI)",
+    "streetAddress": "2, Via S. Maiano",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.672,
+        "lon": 10.85131
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 408032",
+        "0571 408113"
+    ],
+    "rating": ""
+}

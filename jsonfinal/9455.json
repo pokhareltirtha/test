@@ -1,0 +1,20 @@
+{
+    "name": "LA CANTINA DEL PRETE",
+    "description": "",
+    "address": "17, Via Della Repubblica - 50051 Castelnuovo D'Elsa (FI)",
+    "streetAddress": "17, Via Della Repubblica",
+    "postalCode": "50051",
+    "addressLocality": "Castelnuovo D'Elsa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.63611,
+        "lon": 10.93681
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 673309"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL DRAGO VERDE",
+    "description": "",
+    "address": "50, Via Autostazione - 40048 San Benedetto Val Di Sambro (BO)",
+    "streetAddress": "50, Via Autostazione",
+    "postalCode": "40048",
+    "addressLocality": "San Benedetto Val Di Sambro",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.15509,
+        "lon": 11.20582
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0534 98404"
+    ],
+    "rating": ""
+}

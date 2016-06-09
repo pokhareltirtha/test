@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA LA BARACCHINA",
+    "description": "",
+    "address": "199, Via Scopeti - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": "199, Via Scopeti",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.70267,
+        "lon": 11.21295
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8229600"
+    ],
+    "rating": ""
+}

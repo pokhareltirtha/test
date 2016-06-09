@@ -1,0 +1,20 @@
+{
+    "name": "IL CAVALIERE",
+    "description": "",
+    "address": "4, Via Degli Olmi - 50012 Bagno A Ripoli (FI)",
+    "streetAddress": "4, Via Degli Olmi",
+    "postalCode": "50012",
+    "addressLocality": "Bagno A Ripoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75658,
+        "lon": 11.31094
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 637710"
+    ],
+    "rating": ""
+}

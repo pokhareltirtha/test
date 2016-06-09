@@ -1,0 +1,21 @@
+{
+    "name": "LAQUOLINA",
+    "description": "Venite a gustare la nostra cucina, per una pizza o un antipasto con affettati, a Bibbiena, in provincia di Arezzo.",
+    "address": "4, P. Garibaldi - 52011 Soci (AR)",
+    "streetAddress": "4, P. Garibaldi",
+    "postalCode": "52011",
+    "addressLocality": "Soci",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.73626,
+        "lon": 11.81291
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0575 561849"
+    ],
+    "rating": ""
+}

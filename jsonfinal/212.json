@@ -1,0 +1,21 @@
+{
+    "name": "LA CANTINA",
+    "description": "",
+    "address": "3, Piazza Trento - 50022 Greve In Chianti (FI)",
+    "streetAddress": "3, Piazza Trento",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58418,
+        "lon": 11.31546
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 854097"
+    ],
+    "rating": ""
+}

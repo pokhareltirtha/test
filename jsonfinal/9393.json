@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE ALLORO DI PROFETI FRANCESCO",
+    "description": "",
+    "address": "101, Via Rio Magno - 56032 Buti (PI)",
+    "streetAddress": "101, Via Rio Magno",
+    "postalCode": "56032",
+    "addressLocality": "Buti",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.72659,
+        "lon": 10.59114
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 723333"
+    ],
+    "rating": ""
+}

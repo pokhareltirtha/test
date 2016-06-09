@@ -1,0 +1,22 @@
+{
+    "name": "DA FOFFO",
+    "description": "",
+    "address": "3, Via Egisto Ferroni - 50058 Signa (FI)",
+    "streetAddress": "3, Via Egisto Ferroni",
+    "postalCode": "50058",
+    "addressLocality": "Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77995,
+        "lon": 11.09757
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 3921426",
+        "055 876029"
+    ],
+    "rating": ""
+}

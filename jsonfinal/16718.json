@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE DADA",
+    "description": "",
+    "address": "3, Piazza Giovanni XXIII - 51100 Pistoia (PT)",
+    "streetAddress": "3, Piazza Giovanni XXIII",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93492,
+        "lon": 10.91796
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "335 6127052",
+        "0573 21095"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "LOCANDA ZACCO",
+    "description": "",
+    "address": "Via Provinciale Mammianese 49 - 51010 Goraiolo (PT)",
+    "streetAddress": "Via Provinciale Mammianese 49",
+    "postalCode": "51010",
+    "addressLocality": "Goraiolo",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94424,
+        "lon": 10.75772
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 698028",
+        "345 4429387"
+    ],
+    "rating": "5.0"
+}

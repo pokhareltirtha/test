@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA LEGNO ROSSO",
+    "description": "",
+    "address": "44, Via Bolognese - 51100 Pistoia (PT)",
+    "streetAddress": "44, Via Bolognese",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.95735,
+        "lon": 10.90173
+    },
+    "categories": [
+        "Sport impianti e corsi - varie discipline"
+    ],
+    "telephone": [
+        "0573 135006992",
+        "0573 401775"
+    ],
+    "rating": ""
+}

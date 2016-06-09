@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE I TRE ULIVI",
+    "description": "",
+    "address": "259, Via Baldanzese - 50041 Calenzano (FI)",
+    "streetAddress": "259, Via Baldanzese",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8414,
+        "lon": 11.16684
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8869513"
+    ],
+    "rating": ""
+}

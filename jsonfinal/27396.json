@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE COREANO GANGNAM",
+    "description": "Ristorante Coreano Gangnam, in Firenze centro, vi attende con specialità cucinate da esperti cuochi.",
+    "address": "94/R, V. Guelfa - 50129 Firenze (FI)",
+    "streetAddress": "94/R, V. Guelfa",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77876,
+        "lon": 11.25187
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3842434"
+    ],
+    "rating": ""
+}

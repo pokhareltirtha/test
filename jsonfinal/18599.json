@@ -1,0 +1,20 @@
+{
+    "name": "LA PENTOLA DELL'ORO S.A.S.",
+    "description": "",
+    "address": "22/24/26r, Via Di Mezzo - 50121 Firenze (FI)",
+    "streetAddress": "22/24/26r, Via Di Mezzo",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77194,
+        "lon": 11.26491
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 241808"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "COCONOVO DI PIETRO FORTUNATO",
+    "description": "",
+    "address": "101/3, Via Torcicoda - 50100 Firenze (FI)",
+    "streetAddress": "101/3, Via Torcicoda",
+    "postalCode": "50100",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78006,
+        "lon": 11.21056
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 7094010",
+        "055 7874748"
+    ],
+    "rating": "3.0"
+}

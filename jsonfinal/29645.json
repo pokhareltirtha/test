@@ -1,0 +1,20 @@
+{
+    "name": "VILLA LE BARONE",
+    "description": "A Greve in Chianti (FI) antica villa trasformata in albergo immersa nel verde fra vigne e ulivi con giardino, ristorante, piscina e campi da tennis.",
+    "address": "19, V. S. Leolino - 50022 Greve In Chianti (FI)",
+    "streetAddress": "19, V. S. Leolino",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.53482,
+        "lon": 11.31409
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 852621"
+    ],
+    "rating": "5.0"
+}

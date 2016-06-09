@@ -1,0 +1,20 @@
+{
+    "name": "CAPRICCIO",
+    "description": "",
+    "address": "4, Via Giuseppe Garibaldi - 50123 Firenze (FI)",
+    "streetAddress": "4, Via Giuseppe Garibaldi",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7744,
+        "lon": 11.24015
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 27471"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA PALLOTTINO",
+    "description": "",
+    "address": "1/R, Via Isole Delle Stinche - 50122 Firenze (FI)",
+    "streetAddress": "1/R, Via Isole Delle Stinche",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7839,
+        "lon": 11.19588
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 289573"
+    ],
+    "rating": ""
+}

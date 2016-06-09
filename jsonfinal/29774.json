@@ -1,0 +1,21 @@
+{
+    "name": "IL MACCHERONE",
+    "description": "",
+    "address": "26, Via Di Doccia - 50065 Pontassieve (FI)",
+    "streetAddress": "26, Via Di Doccia",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82029,
+        "lon": 11.42359
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8364194",
+        "328 6477383"
+    ],
+    "rating": ""
+}

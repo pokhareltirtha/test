@@ -1,0 +1,20 @@
+{
+    "name": "LA NOCE SALVATORE",
+    "description": "",
+    "address": "4/R, Via S. Gallo - 50129 Firenze (FI)",
+    "streetAddress": "4/R, Via S. Gallo",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77734,
+        "lon": 11.25631
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2399893"
+    ],
+    "rating": ""
+}

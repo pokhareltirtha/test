@@ -1,0 +1,21 @@
+{
+    "name": "LA TENTAZIONE",
+    "description": "",
+    "address": "Via Ciro Menotti, 53 - 50066 Leccio (FI)",
+    "streetAddress": "Via Ciro Menotti, 53",
+    "postalCode": "50066",
+    "addressLocality": "Leccio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.69764,
+        "lon": 11.47046
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8657110",
+        "328 4784524"
+    ],
+    "rating": ""
+}

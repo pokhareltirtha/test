@@ -1,0 +1,20 @@
+{
+    "name": "RELAIS LE JARDIN",
+    "description": "",
+    "address": "3, Piazza Massimo D'Azeglio - 50121 Firenze (FI)",
+    "streetAddress": "3, Piazza Massimo D'Azeglio",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77526,
+        "lon": 11.26808
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 245247"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "CRITERION SRL",
+    "description": "",
+    "address": "2, Via Marconi - 50050 Montaione (FI)",
+    "streetAddress": "2, Via Marconi",
+    "postalCode": "50050",
+    "addressLocality": "Montaione",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.55243,
+        "lon": 10.91178
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        ""
+    ],
+    "rating": ""
+}

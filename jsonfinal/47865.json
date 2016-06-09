@@ -1,0 +1,20 @@
+{
+    "name": "BERTO'S",
+    "description": "",
+    "address": "2, Via Antonio Gramsci - 50059 Spicchio-Sovigliana (FI)",
+    "streetAddress": "2, Via Antonio Gramsci",
+    "postalCode": "50059",
+    "addressLocality": "Spicchio-Sovigliana",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7249,
+        "lon": 10.94577
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 508686"
+    ],
+    "rating": ""
+}

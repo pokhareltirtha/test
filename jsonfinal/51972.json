@@ -1,0 +1,20 @@
+{
+    "name": "CAFE' TABOIS",
+    "description": "",
+    "address": "23, Piazza Roma - 56031 Bientina (PI)",
+    "streetAddress": "23, Piazza Roma",
+    "postalCode": "56031",
+    "addressLocality": "Bientina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.71097,
+        "lon": 10.61967
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 755625"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA TAVOLA CALDA DA BAFFO",
+    "description": "",
+    "address": "19/A, Via Provinciale - 50038 Scarperia E San Piero (FI)",
+    "streetAddress": "19/A, Via Provinciale",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia E San Piero",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.96123,
+        "lon": 11.3238
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8486781"
+    ],
+    "rating": ""
+}

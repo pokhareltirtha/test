@@ -1,0 +1,20 @@
+{
+    "name": "MAGARI... VINO",
+    "description": "",
+    "address": "1, Viale Edmondo De Amicis - 50137 Firenze (FI)",
+    "streetAddress": "1, Viale Edmondo De Amicis",
+    "postalCode": "50137",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77208,
+        "lon": 11.28354
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3990569"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "BERTI",
+    "description": "",
+    "address": "22/B, Via Bolognese - 50033 Traversa (FI)",
+    "streetAddress": "22/B, Via Bolognese",
+    "postalCode": "50033",
+    "addressLocality": "Traversa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.12038,
+        "lon": 11.37273
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 815265"
+    ],
+    "rating": ""
+}

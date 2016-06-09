@@ -1,0 +1,21 @@
+{
+    "name": "AGRITURISMO RIDOLLA",
+    "description": "L’Agriturismo Ridolla di Premilcuore, offre rilassanti soggiorni, in appartamento e in campeggio, escursioni a cavallo e cucina tosco-romagnola.",
+    "address": "1, Via Fiorentina Vecchia - 47010 Premilcuore (FC)",
+    "streetAddress": "1, Via Fiorentina Vecchia",
+    "postalCode": "47010",
+    "addressLocality": "Premilcuore",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 43.97442,
+        "lon": 11.77538
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0543 956829",
+        "348 3806646"
+    ],
+    "rating": ""
+}

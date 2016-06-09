@@ -1,0 +1,20 @@
+{
+    "name": "NUOVO MEXICO",
+    "description": "",
+    "address": "52, Via Di Scandicci - 50143 Firenze (FI)",
+    "streetAddress": "52, Via Di Scandicci",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76653,
+        "lon": 11.21422
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 7398456"
+    ],
+    "rating": ""
+}

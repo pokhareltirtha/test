@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE E PIZZERIA LA FORNACE DI VOLPI GABRIELLA",
+    "description": "",
+    "address": "3, Via Enrico Berlinguer - 51010 Uzzano (PT)",
+    "streetAddress": "3, Via Enrico Berlinguer",
+    "postalCode": "51010",
+    "addressLocality": "Uzzano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.91075,
+        "lon": 10.67722
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 451721"
+    ],
+    "rating": ""
+}

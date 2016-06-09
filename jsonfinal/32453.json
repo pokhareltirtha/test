@@ -1,0 +1,20 @@
+{
+    "name": "I'B RISTORANTE BIRRIFICIO DEL MUGELLO",
+    "description": "",
+    "address": "Viale Dante Alighieri, 2 - 50038 Scarperia (FI)",
+    "streetAddress": "Viale Dante Alighieri, 2",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.99471,
+        "lon": 11.35531
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8459857"
+    ],
+    "rating": ""
+}

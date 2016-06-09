@@ -1,0 +1,21 @@
+{
+    "name": "CIRO & SON'S",
+    "description": "",
+    "address": "26, Via Del Giglio - 50123 Firenze (FI)",
+    "streetAddress": "26, Via Del Giglio",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77467,
+        "lon": 11.25234
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2740355",
+        "055 289694"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "AZIENDA AGRITURISTICA LA QUERCIA",
+    "description": "Nell'azienda agrituristica potrete assaporare la tipica cucina romagnola, merende e spuntini a base di panini, piadine ed affettati a Brisighella.",
+    "address": "35, V. Mulino Del Rosso - 48013 Brisighella (RA)",
+    "streetAddress": "35, V. Mulino Del Rosso",
+    "postalCode": "48013",
+    "addressLocality": "Brisighella",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.23818,
+        "lon": 11.82622
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 81824",
+        "339 5612708"
+    ],
+    "rating": ""
+}

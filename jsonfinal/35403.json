@@ -1,0 +1,20 @@
+{
+    "name": "BAR RISTORANTE PIT STOP DI BALLERINI NADIA E C.SNC",
+    "description": "",
+    "address": "98/A, Via Nazionale - 50033 Firenzuola (FI)",
+    "streetAddress": "98/A, Via Nazionale",
+    "postalCode": "50033",
+    "addressLocality": "Firenzuola",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.12051,
+        "lon": 11.38004
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 813464"
+    ],
+    "rating": ""
+}

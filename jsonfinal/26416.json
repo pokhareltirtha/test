@@ -1,0 +1,20 @@
+{
+    "name": "TUTTOTOSCANO S.R.L.",
+    "description": "",
+    "address": "112, Via Val Di Bisenzio - 59021 Vaiano (PO)",
+    "streetAddress": "112, Via Val Di Bisenzio",
+    "postalCode": "59021",
+    "addressLocality": "Vaiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.92116,
+        "lon": 11.12593
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 986892"
+    ],
+    "rating": ""
+}

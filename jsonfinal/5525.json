@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA SPADA",
+    "description": "A Firenze, vieni al ristorante La Spada per assaporare la tipica bistecca fiorentina a due passi dal centro in 62/r, v. Spada - 50123 Firenze (FI).",
+    "address": "62/R, V. Spada - 50123 Firenze (FI)",
+    "streetAddress": "62/R, V. Spada",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77218,
+        "lon": 11.24955
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 218757"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "CORRADOSSI FRATELLI snc",
+    "description": "L'enoteca dei Fratelli Corradossi specialità carne chianina, vi aspetta a Pistoia in viale A. Frosini, 112.",
+    "address": "112, Vl. A. Frosini - 51100 Pistoia (PT)",
+    "streetAddress": "112, Vl. A. Frosini",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92788,
+        "lon": 10.91759
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 25683"
+    ],
+    "rating": "4.3"
+}

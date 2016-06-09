@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE NIWA",
+    "description": "",
+    "address": "16, Via Del Ponte Alle Mosse - 50144 Firenze (FI)",
+    "streetAddress": "16, Via Del Ponte Alle Mosse",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77926,
+        "lon": 11.23852
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 355736"
+    ],
+    "rating": "4.5"
+}

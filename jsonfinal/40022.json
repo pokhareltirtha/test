@@ -1,0 +1,21 @@
+{
+    "name": "TRATTORIA AFFITTACAMERE DINO",
+    "description": "La Trattoria Dino, da cent’anni a conduzione familiare, realizza piatti tipici della tradizione toscana e fiorentina, a Scandicci, in via S. Colombano.",
+    "address": "82, V. S. Colombano - 50018 Scandicci (FI)",
+    "streetAddress": "82, V. S. Colombano",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77736,
+        "lon": 11.13575
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 790005",
+        "393 8720219"
+    ],
+    "rating": "3.0"
+}

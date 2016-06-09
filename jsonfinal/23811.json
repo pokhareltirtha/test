@@ -1,0 +1,21 @@
+{
+    "name": "FAVA",
+    "description": "",
+    "address": "70, Via Giuseppe Cenni - 48032 Casola Valsenio (RA)",
+    "streetAddress": "70, Via Giuseppe Cenni",
+    "postalCode": "48032",
+    "addressLocality": "Casola Valsenio",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.22261,
+        "lon": 11.61903
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 73908",
+        "348 6421521"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "ANTICA TRATTORIA DELLA VALDINIEVOLE",
+    "description": "",
+    "address": "48, Via Camillo Benso Conte Di Cavour - 51017 Pescia (PT)",
+    "streetAddress": "48, Via Camillo Benso Conte Di Cavour",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90165,
+        "lon": 10.69114
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 81365"
+    ],
+    "rating": ""
+}

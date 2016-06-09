@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA TRATTORIA IL PONTE DI VELTRI ELEONORA",
+    "description": "",
+    "address": "39, Via De Gasperi Alcide - 56022 Castelfranco Di Sotto (PI)",
+    "streetAddress": "39, Via De Gasperi Alcide",
+    "postalCode": "56022",
+    "addressLocality": "Castelfranco Di Sotto",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69641,
+        "lon": 10.74733
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 486140"
+    ],
+    "rating": ""
+}

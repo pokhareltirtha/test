@@ -1,0 +1,20 @@
+{
+    "name": "MERCURI SANTE",
+    "description": "",
+    "address": "297, Via Livornese - 50053 Ponte A Elsa (FI)",
+    "streetAddress": "297, Via Livornese",
+    "postalCode": "50053",
+    "addressLocality": "Ponte A Elsa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.69188,
+        "lon": 10.89922
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 408130"
+    ],
+    "rating": ""
+}

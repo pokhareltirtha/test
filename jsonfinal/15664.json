@@ -1,0 +1,21 @@
+{
+    "name": "ALBERGO RISTORANTE STERLINA",
+    "description": "A Castiglione dei Pepoli in loc. Sterlina, l'albergo ristorante Sterlina offre un'ambiente caldo, moderno e confortevole e piatti della cucina emiliana.",
+    "address": "16, V. Nazionale Nord - Loc. Sterlina - 40035 Castiglione Dei Pepoli (BO)",
+    "streetAddress": "16, V. Nazionale Nord - Loc. Sterlina",
+    "postalCode": "40035",
+    "addressLocality": "Castiglione Dei Pepoli",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.22272,
+        "lon": 11.18147
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 1167096",
+        "0534 897141"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LA SOSTA",
+    "description": "",
+    "address": "127, Via Provinciale Lucchese - 51030 Serravalle Pistoiese (PT)",
+    "streetAddress": "127, Via Provinciale Lucchese",
+    "postalCode": "51030",
+    "addressLocality": "Serravalle Pistoiese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9109,
+        "lon": 10.85608
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 51254"
+    ],
+    "rating": ""
+}

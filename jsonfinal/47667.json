@@ -1,0 +1,20 @@
+{
+    "name": "FORNO CICCONE",
+    "description": "Laboratorio a Calenzano (FI) che produce prodotti da forno e pasticceria, prodotti caserecci e genuini.",
+    "address": "4, P. Ghirlandaio - 50041 Calenzano (FI)",
+    "streetAddress": "4, P. Ghirlandaio",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.86634,
+        "lon": 11.16615
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8826862"
+    ],
+    "rating": "4.8"
+}

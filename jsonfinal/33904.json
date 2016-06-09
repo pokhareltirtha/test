@@ -1,0 +1,21 @@
+{
+    "name": "L'OSTERIA DI MOSCIANO DI CAPORALI ROBERTO",
+    "description": "",
+    "address": "76, Via Mosciano - 50018 Scandicci (FI)",
+    "streetAddress": "76, Via Mosciano",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73229,
+        "lon": 11.15006
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 768795",
+        "055 768253"
+    ],
+    "rating": "4.5"
+}

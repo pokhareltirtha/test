@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE SOTTOVOCE",
+    "description": "",
+    "address": "Via Braga, 232 - 59021 Vaiano (PO)",
+    "streetAddress": "Via Braga, 232",
+    "postalCode": "59021",
+    "addressLocality": "Vaiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.96902,
+        "lon": 11.12412
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 061861",
+        "0574 946361"
+    ],
+    "rating": ""
+}

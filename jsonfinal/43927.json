@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA DA SASA' S.R.L.",
+    "description": "",
+    "address": "7, Via Valentini Giuseppe - 59100 Prato (PO)",
+    "streetAddress": "7, Via Valentini Giuseppe",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87416,
+        "lon": 11.10146
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 31322"
+    ],
+    "rating": ""
+}

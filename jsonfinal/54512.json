@@ -1,0 +1,20 @@
+{
+    "name": "LA BOTTEGA DELLA PIZZA DI V.FRATINI & R.PISCITELLI",
+    "description": "",
+    "address": "85, V. S. Stefano - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "85, V. S. Stefano",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82126,
+        "lon": 11.13697
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9336920"
+    ],
+    "rating": ""
+}

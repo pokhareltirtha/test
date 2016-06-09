@@ -1,0 +1,20 @@
+{
+    "name": "GIRARROSTO PRIMAVERA",
+    "description": "",
+    "address": "11, Via XXIV Maggio - 50055 Lastra A Signa (FI)",
+    "streetAddress": "11, Via XXIV Maggio",
+    "postalCode": "50055",
+    "addressLocality": "Lastra A Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76987,
+        "lon": 11.10611
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8720024"
+    ],
+    "rating": ""
+}

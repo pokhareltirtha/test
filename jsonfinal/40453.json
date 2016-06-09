@@ -1,0 +1,21 @@
+{
+    "name": "ANTICA SOSTA A COMBIATE",
+    "description": "",
+    "address": "71, Via Di Barberino - 50041 Le Croci (FI)",
+    "streetAddress": "71, Via Di Barberino",
+    "postalCode": "50041",
+    "addressLocality": "Le Croci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.94521,
+        "lon": 11.21423
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "392 9057920",
+        "055 8876980"
+    ],
+    "rating": ""
+}

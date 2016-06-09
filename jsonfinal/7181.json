@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA MONTALGETO DI BETTAZZI PIERO, PAOLO, ALESSIO E BARNI GIULIA S.N.C.",
+    "description": "",
+    "address": "3, Via Montalgeto - 59015 Carmignano (PO)",
+    "streetAddress": "3, Via Montalgeto",
+    "postalCode": "59015",
+    "addressLocality": "Carmignano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.81425,
+        "lon": 11.01941
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "392 6391824",
+        "055 8719988"
+    ],
+    "rating": "4.0"
+}

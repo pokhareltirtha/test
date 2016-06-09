@@ -1,0 +1,20 @@
+{
+    "name": "TEATRO DEI MEDICI",
+    "description": "",
+    "address": "14, Localita La Torre - 50038 La Torre (FI)",
+    "streetAddress": "14, Localita La Torre",
+    "postalCode": "50038",
+    "addressLocality": "La Torre",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.9612,
+        "lon": 11.35504
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8459876"
+    ],
+    "rating": ""
+}

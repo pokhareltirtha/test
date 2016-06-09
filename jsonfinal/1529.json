@@ -1,0 +1,20 @@
+{
+    "name": "COLLEGE HOUSE - T. E D. SRL",
+    "description": "",
+    "address": "3, Via Silvano Tosi - 50127 Firenze (FI)",
+    "streetAddress": "3, Via Silvano Tosi",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79284,
+        "lon": 11.22972
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4476485"
+    ],
+    "rating": ""
+}

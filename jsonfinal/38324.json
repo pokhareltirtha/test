@@ -1,0 +1,20 @@
+{
+    "name": "PONTE VECCHIO",
+    "description": "",
+    "address": "8, Lungarno Archibusieri - 50122 Firenze (FI)",
+    "streetAddress": "8, Lungarno Archibusieri",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76836,
+        "lon": 11.25381
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 292289"
+    ],
+    "rating": "5.0"
+}

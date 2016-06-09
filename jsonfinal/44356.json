@@ -1,0 +1,20 @@
+{
+    "name": "MAVI' CAFE' DI MATTEO DONIGAGLIA & C. SAS",
+    "description": "",
+    "address": "7, Viale Degli Ubaldini - 50035 Palazzuolo Sul Senio (FI)",
+    "streetAddress": "7, Viale Degli Ubaldini",
+    "postalCode": "50035",
+    "addressLocality": "Palazzuolo Sul Senio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.11313,
+        "lon": 11.54706
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8046737"
+    ],
+    "rating": ""
+}

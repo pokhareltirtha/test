@@ -1,0 +1,20 @@
+{
+    "name": "L'OROLOGIO",
+    "description": "",
+    "address": "26, Via Por Santa Maria - 50122 Firenze (FI)",
+    "streetAddress": "26, Via Por Santa Maria",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7689,
+        "lon": 11.25375
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2396572"
+    ],
+    "rating": ""
+}

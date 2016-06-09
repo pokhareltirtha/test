@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DA DUILIO",
+    "description": "Il posto ideale dove gustare sia per pranzo che per cena offre anche un servizio di rosticceria con un'ampia scelta di piatti pronti a Fucecchio (FI).",
+    "address": "37, V. Bonaparte - 50054 Fucecchio (FI)",
+    "streetAddress": "37, V. Bonaparte",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73374,
+        "lon": 10.80603
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 261272"
+    ],
+    "rating": "4.0"
+}

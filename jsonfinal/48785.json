@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA TIME DI SANDRO MANCINI E SARA TASSELLI SNC",
+    "description": "",
+    "address": "36, Via Visiana - 59100 Prato (PO)",
+    "streetAddress": "36, Via Visiana",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.89057,
+        "lon": 11.04796
+    },
+    "categories": [
+        "Gastronomie, salumerie e rosticcerie"
+    ],
+    "telephone": [
+        "0574 810687"
+    ],
+    "rating": ""
+}

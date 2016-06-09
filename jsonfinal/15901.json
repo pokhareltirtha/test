@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA IL TRENINO",
+    "description": "",
+    "address": "Via Ciliegiole 77 - 51100 Pistoia (PT)",
+    "streetAddress": "Via Ciliegiole 77",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9256,
+        "lon": 10.90722
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 29399"
+    ],
+    "rating": ""
+}

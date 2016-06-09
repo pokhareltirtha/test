@@ -1,0 +1,20 @@
+{
+    "name": "ROSTICCERIA CASALINGA",
+    "description": "",
+    "address": "53, Via Del Leone - 50124 Firenze (FI)",
+    "streetAddress": "53, Via Del Leone",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76756,
+        "lon": 11.24184
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 212862"
+    ],
+    "rating": ""
+}

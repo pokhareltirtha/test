@@ -1,0 +1,22 @@
+{
+    "name": "DON BETA",
+    "description": "",
+    "address": "39, Via Matteotti - 56048 Volterra (PI)",
+    "streetAddress": "39, Via Matteotti",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40198,
+        "lon": 10.86087
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0588 86730",
+        "0588 90491"
+    ],
+    "rating": "5.0"
+}

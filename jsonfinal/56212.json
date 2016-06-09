@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ALLA LOCANDA DELLA MINIERA",
+    "description": "",
+    "address": "31, Via Attilio Sassi - 52022 Santa Barbara (AR)",
+    "streetAddress": "31, Via Attilio Sassi",
+    "postalCode": "52022",
+    "addressLocality": "Santa Barbara",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.56741,
+        "lon": 11.48493
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 961972"
+    ],
+    "rating": ""
+}

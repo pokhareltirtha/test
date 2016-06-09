@@ -1,0 +1,20 @@
+{
+    "name": "HONG JUNYONG",
+    "description": "",
+    "address": "61/R, Via Ghibellina - 50122 Firenze (FI)",
+    "streetAddress": "61/R, Via Ghibellina",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76961,
+        "lon": 11.26458
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2466892"
+    ],
+    "rating": ""
+}

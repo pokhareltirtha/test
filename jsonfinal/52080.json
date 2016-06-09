@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA E FICHI",
+    "description": "",
+    "address": "395, Via Tiglio - 55012 San Leonardo In Treponzio (LU)",
+    "streetAddress": "395, Via Tiglio",
+    "postalCode": "55012",
+    "addressLocality": "San Leonardo In Treponzio",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.80787,
+        "lon": 10.56607
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 90588"
+    ],
+    "rating": ""
+}

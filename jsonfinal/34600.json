@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA FUNICULI'",
+    "description": "Pizzeria Funiculì, pizza napoletana cotta nel forno a legna, servizio da asporto e il venerdì pesce fresco a Firenze in 81/r, v. Il Prato.",
+    "address": "81/R, V. IL Prato - 50123 Firenze (FI)",
+    "streetAddress": "81/R, V. IL Prato",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77683,
+        "lon": 11.24089
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2608722"
+    ],
+    "rating": ""
+}

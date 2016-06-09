@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA ROSTICCERIA LA GHIOTTA",
+    "description": "A Firenze troverete un ristorante dove potrete gustare ottime pizze e piatti pronti d’asporto.",
+    "address": "7/R, V. Pietrapiana - 50121 Firenze (FI)",
+    "streetAddress": "7/R, V. Pietrapiana",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77141,
+        "lon": 11.26594
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 241237"
+    ],
+    "rating": "2.5"
+}

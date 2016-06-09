@@ -1,0 +1,21 @@
+{
+    "name": "B&B LA GUFAIA",
+    "description": "Il B&B, a Carmignano (PO), offre un'atmosfera rilassante e tranquilla, in un ambiente familiare a contatto con la natura.",
+    "address": "12, V. Elzana - 59015 Carmignano (PO)",
+    "streetAddress": "12, V. Elzana",
+    "postalCode": "59015",
+    "addressLocality": "Carmignano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.79499,
+        "lon": 11.03043
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "331 8460332",
+        "055 8712144"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "ANTICA TRATTORIA LA TORRE",
+    "description": "",
+    "address": "Piazza Del Comune, 15 - 53011 Castellina In Chianti (SI)",
+    "streetAddress": "Piazza Del Comune, 15",
+    "postalCode": "53011",
+    "addressLocality": "Castellina In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46903,
+        "lon": 11.28732
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 740236"
+    ],
+    "rating": ""
+}

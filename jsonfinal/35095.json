@@ -1,0 +1,21 @@
+{
+    "name": "ANTICHI SAPORI",
+    "description": "",
+    "address": "40, Via V Da Filicaia - 59100 Prato (PO)",
+    "streetAddress": "40, Via V Da Filicaia",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88872,
+        "lon": 11.09405
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 471182",
+        "0574 062546"
+    ],
+    "rating": "4.0"
+}

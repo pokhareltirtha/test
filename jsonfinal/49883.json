@@ -1,0 +1,20 @@
+{
+    "name": "AL MOLINACCIO",
+    "description": "",
+    "address": "75, Via Francesca Vecchia - 51010 Uzzano (PT)",
+    "streetAddress": "75, Via Francesca Vecchia",
+    "postalCode": "51010",
+    "addressLocality": "Uzzano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87898,
+        "lon": 10.70066
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 451504"
+    ],
+    "rating": ""
+}

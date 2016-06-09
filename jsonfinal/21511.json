@@ -1,0 +1,21 @@
+{
+    "name": "IL FONDACCIO DAI DOTTORI",
+    "description": "",
+    "address": "Via Fiorentina, 73 - 53011 Castellina In Chianti (SI)",
+    "streetAddress": "Via Fiorentina, 73",
+    "postalCode": "53011",
+    "addressLocality": "Castellina In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.47278,
+        "lon": 11.28091
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 741084",
+        "0577 742911"
+    ],
+    "rating": ""
+}

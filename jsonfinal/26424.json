@@ -1,0 +1,20 @@
+{
+    "name": "LA TAVERNA DELL'OZIO",
+    "description": "",
+    "address": "85, Via Zara - 56024 Corazzano (PI)",
+    "streetAddress": "85, Via Zara",
+    "postalCode": "56024",
+    "addressLocality": "Corazzano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.6209,
+        "lon": 10.86834
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 462862"
+    ],
+    "rating": "4.0"
+}

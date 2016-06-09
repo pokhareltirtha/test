@@ -1,0 +1,20 @@
+{
+    "name": "SERRA MASSIMO",
+    "description": "",
+    "address": "24, Via Giosue Carducci - 50018 Scandicci (FI)",
+    "streetAddress": "24, Via Giosue Carducci",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75792,
+        "lon": 11.18329
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 255430"
+    ],
+    "rating": ""
+}

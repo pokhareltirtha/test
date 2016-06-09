@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA TRATTORIA IL TORRIONE",
+    "description": "",
+    "address": "78, Via Roma - 50038 Scarperia (FI)",
+    "streetAddress": "78, Via Roma",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.99627,
+        "lon": 11.35497
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8468217"
+    ],
+    "rating": ""
+}

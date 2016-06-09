@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA OCA ROSSA",
+    "description": "",
+    "address": "13, Via Doria Andrea - 51100 Pistoia (PT)",
+    "streetAddress": "13, Via Doria Andrea",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8906,
+        "lon": 10.95827
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 545376"
+    ],
+    "rating": "4.0"
+}

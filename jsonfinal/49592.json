@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA UN QUARTO DI LUNA SAS",
+    "description": "",
+    "address": "35, Via Polidori - 56031 Bientina (PI)",
+    "streetAddress": "35, Via Polidori",
+    "postalCode": "56031",
+    "addressLocality": "Bientina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.71236,
+        "lon": 10.61924
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 758199"
+    ],
+    "rating": ""
+}

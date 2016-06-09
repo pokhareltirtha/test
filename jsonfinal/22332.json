@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PEKING",
+    "description": "",
+    "address": "21, Via Del Melarancio - 50123 Firenze (FI)",
+    "streetAddress": "21, Via Del Melarancio",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77479,
+        "lon": 11.25219
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6811361",
+        "055 282922"
+    ],
+    "rating": ""
+}

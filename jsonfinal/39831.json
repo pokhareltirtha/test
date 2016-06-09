@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA DI BARONIO SILVIA",
+    "description": "",
+    "address": "945, Via Raffaello Orlandini - 51015 Bizzarrino (PT)",
+    "streetAddress": "945, Via Raffaello Orlandini",
+    "postalCode": "51015",
+    "addressLocality": "Bizzarrino",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83518,
+        "lon": 10.84203
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 640667"
+    ],
+    "rating": ""
+}

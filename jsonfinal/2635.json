@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA DA PIERO",
+    "description": "",
+    "address": "62, Via Della Liberta - 53036 Poggibonsi (SI)",
+    "streetAddress": "62, Via Della Liberta",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46735,
+        "lon": 11.15229
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 938871"
+    ],
+    "rating": ""
+}

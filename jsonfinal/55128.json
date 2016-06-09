@@ -1,0 +1,21 @@
+{
+    "name": "BECHI MAURO",
+    "description": "",
+    "address": "69, Via Volterrana - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": "69, Via Volterrana",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.68462,
+        "lon": 11.12859
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "333 8312251",
+        "055 8259453"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LE PORTE",
+    "description": "",
+    "address": "Snc, Via Monte Serra - 56011 Calci (PI)",
+    "streetAddress": "Snc, Via Monte Serra",
+    "postalCode": "56011",
+    "addressLocality": "Calci",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.71889,
+        "lon": 10.51059
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "339 3688808"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "PITENA",
+    "description": "",
+    "address": "313, Localita Pancole - 52022 Cavriglia (AR)",
+    "streetAddress": "313, Localita Pancole",
+    "postalCode": "52022",
+    "addressLocality": "Cavriglia",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.51984,
+        "lon": 11.5163
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "335 7532745",
+        "055 966016"
+    ],
+    "rating": ""
+}

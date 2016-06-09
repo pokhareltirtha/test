@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA SPACCA NAPOLI",
+    "description": "Pizzeria Spacca napoli: la vera pizza napoletana a Firenze, anche d'asporto!",
+    "address": "45/A, V. Palazzo Diavoli - 50142 Firenze (FI)",
+    "streetAddress": "45/A, V. Palazzo Diavoli",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77449,
+        "lon": 11.22026
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 711469"
+    ],
+    "rating": "5.0"
+}

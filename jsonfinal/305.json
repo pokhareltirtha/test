@@ -1,0 +1,20 @@
+{
+    "name": "LA POLENA",
+    "description": "",
+    "address": "292, Via S Quirico - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "292, Via S Quirico",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85052,
+        "lon": 11.14828
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 89551"
+    ],
+    "rating": ""
+}

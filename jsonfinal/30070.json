@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA DI RENDOLA",
+    "description": "",
+    "address": "89, Localita Rendola - 52025 Montevarchi (AR)",
+    "streetAddress": "89, Localita Rendola",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.48908,
+        "lon": 11.54676
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9707491",
+        "055 9707474"
+    ],
+    "rating": ""
+}

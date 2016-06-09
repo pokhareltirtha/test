@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE AGRITURISMO LA COLOMBAIA",
+    "description": "",
+    "address": "149, Localita' Vespignano - 50039 Vicchio (FI)",
+    "streetAddress": "149, Localita' Vespignano",
+    "postalCode": "50039",
+    "addressLocality": "Vicchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.93173,
+        "lon": 11.46409
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "329 6258459",
+        "055 8449867"
+    ],
+    "rating": ""
+}

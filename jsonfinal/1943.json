@@ -1,0 +1,21 @@
+{
+    "name": "LA SPIAGGETTA",
+    "description": "La Spiaggetta di Camugnano (BO), è un ristorante in riva al lago che dispone di sale per feste private, cerimonie e banchetti ed offre un'ottima cucina tipica.",
+    "address": "87/B, V. Ca' Soprani - 40032 Bargi (BO)",
+    "streetAddress": "87/B, V. Ca' Soprani",
+    "postalCode": "40032",
+    "addressLocality": "Bargi",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.12092,
+        "lon": 11.04615
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "348 4060543",
+        "0534 43405"
+    ],
+    "rating": ""
+}

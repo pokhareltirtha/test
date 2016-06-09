@@ -1,0 +1,20 @@
+{
+    "name": "TOMATO",
+    "description": "",
+    "address": "145, Piazza Delle Scuole - 52025 Montevarchi (AR)",
+    "streetAddress": "145, Piazza Delle Scuole",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.5213,
+        "lon": 11.56849
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        ""
+    ],
+    "rating": ""
+}

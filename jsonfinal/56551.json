@@ -1,0 +1,20 @@
+{
+    "name": "SIRO",
+    "description": "",
+    "address": "53, Via Trieste - 52027 San Giovanni Valdarno (AR)",
+    "streetAddress": "53, Via Trieste",
+    "postalCode": "52027",
+    "addressLocality": "San Giovanni Valdarno",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.56878,
+        "lon": 11.53115
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9122517"
+    ],
+    "rating": ""
+}

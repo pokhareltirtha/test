@@ -1,0 +1,20 @@
+{
+    "name": "BRAC",
+    "description": "",
+    "address": "10, Via Dei Vagellai - 50122 Firenze (FI)",
+    "streetAddress": "10, Via Dei Vagellai",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76765,
+        "lon": 11.25808
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 0944877"
+    ],
+    "rating": ""
+}

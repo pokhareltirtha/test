@@ -1,0 +1,21 @@
+{
+    "name": "BADIA DI MOSCHETA",
+    "description": "",
+    "address": "Via Di Moscheta - 50033 Firenzuola (FI)",
+    "streetAddress": "Via Di Moscheta",
+    "postalCode": "50033",
+    "addressLocality": "Firenzuola",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.06597,
+        "lon": 11.41043
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8144305",
+        "055 8144015"
+    ],
+    "rating": ""
+}

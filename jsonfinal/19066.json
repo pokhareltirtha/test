@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA CANTAGALLO",
+    "description": "",
+    "address": "Via Valicarda, 35 - 50050 Capraia E Limite (FI)",
+    "streetAddress": "Via Valicarda, 35",
+    "postalCode": "50050",
+    "addressLocality": "Capraia E Limite",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74984,
+        "lon": 11.01601
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 910078",
+        "0571 1820860"
+    ],
+    "rating": "5.0"
+}

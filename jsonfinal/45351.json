@@ -1,0 +1,20 @@
+{
+    "name": "I'BARROCCIO - ANTICA TRATTORIA DI GALCETI",
+    "description": "I'barroccio - Antica Trattoria di Galceti a Prato, offre cucina tipica toscana, carni alla griglia, carni di cacciagione, pizza in forno a legna e tanto altro.",
+    "address": "105, V. Galceti - 59100 Prato (PO)",
+    "streetAddress": "105, V. Galceti",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.90826,
+        "lon": 11.0844
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 465970"
+    ],
+    "rating": ""
+}

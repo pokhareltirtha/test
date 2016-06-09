@@ -1,0 +1,22 @@
+{
+    "name": "PIZZA BIKE",
+    "description": "Pizzeria a Firenze dove si preparano molteplici varietà di pizze, calzoni ed insalate. Si offre anche servizio d'asporto e consegna a domicilio.",
+    "address": "127/R, V. Ponte Mosse - 50144 Firenze (FI)",
+    "streetAddress": "127/R, V. Ponte Mosse",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78319,
+        "lon": 11.23318
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 5386263",
+        "333 7090962"
+    ],
+    "rating": "5.0"
+}

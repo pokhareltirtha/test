@@ -1,0 +1,20 @@
+{
+    "name": "R.M. SRLS",
+    "description": "",
+    "address": "21, Via Donatori Del Sangue - 51100 Pistoia (PT)",
+    "streetAddress": "21, Via Donatori Del Sangue",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94014,
+        "lon": 10.9147
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 20249"
+    ],
+    "rating": ""
+}

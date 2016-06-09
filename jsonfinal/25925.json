@@ -1,0 +1,21 @@
+{
+    "name": "C. E C.",
+    "description": "",
+    "address": "28, Via Del Gelsomino - 50053 Empoli (FI)",
+    "streetAddress": "28, Via Del Gelsomino",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72003,
+        "lon": 10.94741
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 473478",
+        "0571 73478"
+    ],
+    "rating": ""
+}

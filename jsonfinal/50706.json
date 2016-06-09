@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA ALEX PIZZA",
+    "description": "",
+    "address": "Circonvallazione Di Fucecchio - 50054 Fucecchio (FI)",
+    "streetAddress": "Circonvallazione Di Fucecchio",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73682,
+        "lon": 10.80496
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 32767"
+    ],
+    "rating": ""
+}

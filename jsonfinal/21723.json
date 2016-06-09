@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA DEL VANNI FUCCI",
+    "description": "",
+    "address": "2, Via Collina Di Vinacciano - 51034 Serravalle Pistoiese (PT)",
+    "streetAddress": "2, Via Collina Di Vinacciano",
+    "postalCode": "51034",
+    "addressLocality": "Serravalle Pistoiese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88757,
+        "lon": 10.87108
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 1871355"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "AROMA",
+    "description": "",
+    "address": "67, Via Gibellina - 50122 Firenze (FI)",
+    "streetAddress": "67, Via Gibellina",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76976,
+        "lon": 11.26388
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2260038"
+    ],
+    "rating": "4.0"
+}

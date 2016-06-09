@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA DEL VICARIO",
+    "description": "",
+    "address": "3, Via Del Rivellino - 50052 Certaldo (FI)",
+    "streetAddress": "3, Via Del Rivellino",
+    "postalCode": "50052",
+    "addressLocality": "Certaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54909,
+        "lon": 11.04555
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 668228",
+        "0571 667809"
+    ],
+    "rating": ""
+}

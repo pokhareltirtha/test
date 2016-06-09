@@ -1,0 +1,20 @@
+{
+    "name": "GARBO",
+    "description": "",
+    "address": "23, Borgo S. Frediano - 50124 Firenze (FI)",
+    "streetAddress": "23, Borgo S. Frediano",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76953,
+        "lon": 11.24468
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 295311"
+    ],
+    "rating": "4.0"
+}

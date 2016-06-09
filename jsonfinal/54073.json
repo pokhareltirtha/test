@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA AMICI MIEI",
+    "description": "",
+    "address": "99, Borgo Lisci - 56048 Saline Di Volterra (PI)",
+    "streetAddress": "99, Borgo Lisci",
+    "postalCode": "56048",
+    "addressLocality": "Saline Di Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.36136,
+        "lon": 10.81226
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0588 44654"
+    ],
+    "rating": ""
+}

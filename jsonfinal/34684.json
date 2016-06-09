@@ -1,0 +1,20 @@
+{
+    "name": "MEI",
+    "description": "",
+    "address": "6, Via Vittorio Veneto - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "6, Via Vittorio Veneto",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82092,
+        "lon": 11.13852
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 891036"
+    ],
+    "rating": ""
+}

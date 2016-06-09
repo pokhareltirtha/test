@@ -1,0 +1,21 @@
+{
+    "name": "MOLO 73",
+    "description": "",
+    "address": "112, Via Tosco Romagnola - 50053 Empoli (FI)",
+    "streetAddress": "112, Via Tosco Romagnola",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72084,
+        "lon": 10.97733
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 991750",
+        "0571 1603084"
+    ],
+    "rating": ""
+}

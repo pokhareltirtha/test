@@ -1,0 +1,20 @@
+{
+    "name": "L'ANGOLO DA VITO PIZZERIA ROSTICCERIA",
+    "description": "La pizzeria e rosticceria di Pistoia che offre servizi di catering per eventi",
+    "address": "44/A, V. Borgognoni - 51100 Pistoia (PT)",
+    "streetAddress": "44/A, V. Borgognoni",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93483,
+        "lon": 10.89827
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 975543"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA IL CANTO DEL MAGGIO",
+    "description": "",
+    "address": "166, Frazione Penna - 52028 Penna (AR)",
+    "streetAddress": "166, Frazione Penna",
+    "postalCode": "52028",
+    "addressLocality": "Penna",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.56549,
+        "lon": 11.6086
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9705147"
+    ],
+    "rating": "5.0"
+}

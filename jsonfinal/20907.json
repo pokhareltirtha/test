@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ALBERGACCIO",
+    "description": "Il Ristorante Albergaccio di Castellina in Chianti (SI) è l'ideale per cenare con amici, organizzare una festa o meeting di lavoro gustando specialità toscane.",
+    "address": "63, V. Fiorentina - 53011 Castellina In Chianti (SI)",
+    "streetAddress": "63, V. Fiorentina",
+    "postalCode": "53011",
+    "addressLocality": "Castellina In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.47247,
+        "lon": 11.28141
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 741042"
+    ],
+    "rating": ""
+}

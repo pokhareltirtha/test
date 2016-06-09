@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA UNO PI",
+    "description": "",
+    "address": "Via Amendola 58 - 51018 Pieve A Nievole (PT)",
+    "streetAddress": "Via Amendola 58",
+    "postalCode": "51018",
+    "addressLocality": "Pieve A Nievole",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88475,
+        "lon": 10.80983
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 951143"
+    ],
+    "rating": "5.0"
+}

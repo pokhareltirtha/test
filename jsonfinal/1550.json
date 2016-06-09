@@ -1,0 +1,22 @@
+{
+    "name": "EDI HOUSE",
+    "description": "A Firenze, in p. Fra' G. Savonarola 9/R, Edi House propone menù di carne e pesce, pizze e focacce cotte nel forno a legna.",
+    "address": "9/R, P. Fra' G. Savonarola - 50132 Firenze (FI)",
+    "streetAddress": "9/R, P. Fra' G. Savonarola",
+    "postalCode": "50132",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78207,
+        "lon": 11.26726
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 588886",
+        "333 1863818"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA BAR CAFFE' BIM BUM BAR",
+    "description": "Bim Bum Bar Caffè, a Larciano, per ricche prime colazioni, aperitivi e pizza da asporto.",
+    "address": "1178, V. Matteotti - 51036 Larciano (PT)",
+    "streetAddress": "1178, V. Matteotti",
+    "postalCode": "51036",
+    "addressLocality": "Larciano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.82495,
+        "lon": 10.87413
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "388 3970003"
+    ],
+    "rating": ""
+}

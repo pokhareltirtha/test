@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA GLI SCUGNIZZI",
+    "description": "",
+    "address": "37, Via Chiarugi Vincenzo - 50053 Empoli (FI)",
+    "streetAddress": "37, Via Chiarugi Vincenzo",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71989,
+        "lon": 10.9432
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 537022"
+    ],
+    "rating": "3.7"
+}

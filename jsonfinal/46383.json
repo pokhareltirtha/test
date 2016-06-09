@@ -1,0 +1,20 @@
+{
+    "name": "GESTIONE FIVE DI VEZZOSI A. & C. SNC",
+    "description": "",
+    "address": "29, Piazza Vittorio Veneto - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "29, Piazza Vittorio Veneto",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8313,
+        "lon": 11.19945
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 446263"
+    ],
+    "rating": "4.5"
+}

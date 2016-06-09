@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL BOSCHETTO",
+    "description": "",
+    "address": "421, Via Della Repubblica - 52022 Cavriglia (AR)",
+    "streetAddress": "421, Via Della Repubblica",
+    "postalCode": "52022",
+    "addressLocality": "Cavriglia",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.51727,
+        "lon": 11.48114
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 966651"
+    ],
+    "rating": ""
+}

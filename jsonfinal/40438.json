@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA HIRON",
+    "description": "",
+    "address": "10, Via Lapo Da Castiglionchio - 50126 Firenze (FI)",
+    "streetAddress": "10, Via Lapo Da Castiglionchio",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76264,
+        "lon": 11.28582
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "338 6581047",
+        "055 6581047"
+    ],
+    "rating": ""
+}

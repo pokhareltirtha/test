@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA  PIZZAZA  MATTEO   ELISA SAS DI RUGGIERO ELISA   C",
+    "description": "",
+    "address": "297, Via Primo Maggio - 51010 Massa E Cozzile (PT)",
+    "streetAddress": "297, Via Primo Maggio",
+    "postalCode": "51010",
+    "addressLocality": "Massa E Cozzile",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88408,
+        "lon": 10.74972
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 773342"
+    ],
+    "rating": ""
+}

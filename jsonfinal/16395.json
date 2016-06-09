@@ -1,0 +1,20 @@
+{
+    "name": "MOVIDA RISTOPIZZA",
+    "description": "",
+    "address": "181, Via Provinciale Lucchese - 51010 Uzzano (PT)",
+    "streetAddress": "181, Via Provinciale Lucchese",
+    "postalCode": "51010",
+    "addressLocality": "Uzzano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88374,
+        "lon": 10.70285
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 444887"
+    ],
+    "rating": ""
+}

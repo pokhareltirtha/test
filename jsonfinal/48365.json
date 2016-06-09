@@ -1,0 +1,20 @@
+{
+    "name": "LA RUSTICA PIZZERIA AL TAGLIO",
+    "description": "",
+    "address": "41, Viale Montegrappa - 59100 Prato (PO)",
+    "streetAddress": "41, Viale Montegrappa",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87591,
+        "lon": 11.10563
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 564870"
+    ],
+    "rating": ""
+}

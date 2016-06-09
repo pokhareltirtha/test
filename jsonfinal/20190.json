@@ -1,0 +1,20 @@
+{
+    "name": "PUZZLE S.R.L.",
+    "description": "",
+    "address": "8, Via Del Colle - 50056 Montelupo Fiorentino (FI)",
+    "streetAddress": "8, Via Del Colle",
+    "postalCode": "50056",
+    "addressLocality": "Montelupo Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71406,
+        "lon": 11.00906
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 591856"
+    ],
+    "rating": ""
+}

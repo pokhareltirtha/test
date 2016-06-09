@@ -1,0 +1,20 @@
+{
+    "name": "IL MOSTRINO",
+    "description": "",
+    "address": "141, Borgo Ognissanti - 50123 Firenze (FI)",
+    "streetAddress": "141, Borgo Ognissanti",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77405,
+        "lon": 11.24335
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2398704"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LA VERA ROMAGNA",
+    "description": "",
+    "address": "10, Via Biserno - 47018 Biserno (FC)",
+    "streetAddress": "10, Via Biserno",
+    "postalCode": "47018",
+    "addressLocality": "Biserno",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 43.90184,
+        "lon": 11.84547
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0543 970160"
+    ],
+    "rating": ""
+}

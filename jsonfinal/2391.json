@@ -1,0 +1,21 @@
+{
+    "name": "IL FRANTOIO",
+    "description": "",
+    "address": "40, Via Del Castello - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "40, Via Del Castello",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42207,
+        "lon": 11.11961
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 923652"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "CAFFETTERIA RISTORANTE OASI  B&B",
+    "description": "",
+    "address": "62, Via Dei Confini - 59100 Prato (PO)",
+    "streetAddress": "62, Via Dei Confini",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.84464,
+        "lon": 11.11752
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 550000",
+        "0574 511315"
+    ],
+    "rating": ""
+}

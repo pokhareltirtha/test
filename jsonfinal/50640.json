@@ -1,0 +1,20 @@
+{
+    "name": "DA LIBE",
+    "description": "",
+    "address": "542, Via Francesca Uggia - 51015 Uggia Pazzera (PT)",
+    "streetAddress": "542, Via Francesca Uggia",
+    "postalCode": "51015",
+    "addressLocality": "Uggia Pazzera",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83424,
+        "lon": 10.83197
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 62583"
+    ],
+    "rating": "4.5"
+}

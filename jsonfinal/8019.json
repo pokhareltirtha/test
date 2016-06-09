@@ -1,0 +1,20 @@
+{
+    "name": "KOORI SUSHI",
+    "description": "",
+    "address": "17, Via Del Commercio - 53036 Poggibonsi (SI)",
+    "streetAddress": "17, Via Del Commercio",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.47262,
+        "lon": 11.14569
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 601312"
+    ],
+    "rating": "5.0"
+}

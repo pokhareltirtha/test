@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE FIUMICELLO RESIDENZA TURISTICA PESCA SPORTIVA",
+    "description": "",
+    "address": "1, Nucleo Fiumicello - 47010 Premilcuore (FC)",
+    "streetAddress": "1, Nucleo Fiumicello",
+    "postalCode": "47010",
+    "addressLocality": "Premilcuore",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 43.93686,
+        "lon": 11.7498
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0543 956836"
+    ],
+    "rating": ""
+}

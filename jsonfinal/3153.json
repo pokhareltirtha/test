@@ -1,0 +1,22 @@
+{
+    "name": "LE SCALELLE",
+    "description": "",
+    "address": "Piazza Scalelle 12 - 50034 Marradi (FI)",
+    "streetAddress": "Piazza Scalelle 12",
+    "postalCode": "50034",
+    "addressLocality": "Marradi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.07572,
+        "lon": 11.61287
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8042372",
+        "055 8045106"
+    ],
+    "rating": ""
+}

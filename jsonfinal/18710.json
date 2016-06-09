@@ -1,0 +1,20 @@
+{
+    "name": "DEF S.R.L.S.",
+    "description": "",
+    "address": "29, Via Vecchia Faentina - 50014 Fiesole (FI)",
+    "streetAddress": "29, Via Vecchia Faentina",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84389,
+        "lon": 11.32189
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 597000"
+    ],
+    "rating": ""
+}

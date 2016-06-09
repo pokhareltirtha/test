@@ -1,0 +1,21 @@
+{
+    "name": "SAN MARTINO",
+    "description": "",
+    "address": "6, Via Chiantigiana Per Strada - 50023 Impruneta (FI)",
+    "streetAddress": "6, Via Chiantigiana Per Strada",
+    "postalCode": "50023",
+    "addressLocality": "Impruneta",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.70666,
+        "lon": 11.28973
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8558348",
+        "055 2301095"
+    ],
+    "rating": ""
+}

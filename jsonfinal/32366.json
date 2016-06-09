@@ -1,0 +1,20 @@
+{
+    "name": "LA FALTERONA",
+    "description": "",
+    "address": "10, Via Giovan Battista Zannoni - 50123 Firenze (FI)",
+    "streetAddress": "10, Via Giovan Battista Zannoni",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77659,
+        "lon": 11.25214
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 216112"
+    ],
+    "rating": "5.0"
+}

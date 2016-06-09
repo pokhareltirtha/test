@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DEL ROSSO",
+    "description": "",
+    "address": "18, Via Costa Al Rosso - 50012 Grassina (FI)",
+    "streetAddress": "18, Via Costa Al Rosso",
+    "postalCode": "50012",
+    "addressLocality": "Grassina",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72367,
+        "lon": 11.29302
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 640240"
+    ],
+    "rating": ""
+}

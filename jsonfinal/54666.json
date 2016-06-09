@@ -1,0 +1,20 @@
+{
+    "name": "TUCANO S.R.L.",
+    "description": "",
+    "address": "2, Via Del Torrino - 50059 Vinci (FI)",
+    "streetAddress": "2, Via Del Torrino",
+    "postalCode": "50059",
+    "addressLocality": "Vinci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74285,
+        "lon": 10.90176
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "338 4212465"
+    ],
+    "rating": ""
+}

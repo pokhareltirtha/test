@@ -1,0 +1,20 @@
+{
+    "name": "LE CAPANNINE",
+    "description": "",
+    "address": "88, Viale Don Giovanni Minzoni - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "88, Viale Don Giovanni Minzoni",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.98872,
+        "lon": 11.24075
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8420777"
+    ],
+    "rating": ""
+}

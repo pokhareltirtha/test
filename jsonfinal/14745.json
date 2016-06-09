@@ -1,0 +1,20 @@
+{
+    "name": "SALOON TOSCANO",
+    "description": "",
+    "address": "Via Verdi, 47 R - 50122 Firenze (FI)",
+    "streetAddress": "Via Verdi, 47 R",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77068,
+        "lon": 11.26188
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3880034"
+    ],
+    "rating": ""
+}

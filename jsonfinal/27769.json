@@ -1,0 +1,20 @@
+{
+    "name": "TOTÒ RISTORANTE",
+    "description": "",
+    "address": "Borgo Santi Apostoli 6/R - 50123 Firenze (FI)",
+    "streetAddress": "Borgo Santi Apostoli 6/R",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.769,
+        "lon": 11.25359
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 212096"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA S. ELENA",
+    "description": "",
+    "address": "1, Via Delle Gavine - 51011 Buggiano (PT)",
+    "streetAddress": "1, Via Delle Gavine",
+    "postalCode": "51011",
+    "addressLocality": "Buggiano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88516,
+        "lon": 10.74676
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "360 375034",
+        "0572 30548"
+    ],
+    "rating": ""
+}

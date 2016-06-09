@@ -1,0 +1,21 @@
+{
+    "name": "GIGLIO PIZZA DI ARDITO GIANNO",
+    "description": "",
+    "address": "11, Via Olanda - 50126 Firenze (FI)",
+    "streetAddress": "11, Via Olanda",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75759,
+        "lon": 11.29922
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "331 7423614",
+        "055 6533260"
+    ],
+    "rating": ""
+}

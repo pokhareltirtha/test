@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DE RUFINANTI",
+    "description": "",
+    "address": "33, Via Colognolese - 50065 Pontassieve (FI)",
+    "streetAddress": "33, Via Colognolese",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82848,
+        "lon": 11.48003
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8399578"
+    ],
+    "rating": ""
+}

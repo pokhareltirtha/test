@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA NUOVA CITTA' IMPERIALE",
+    "description": "",
+    "address": "108, Via Pratese - 50145 Firenze (FI)",
+    "streetAddress": "108, Via Pratese",
+    "postalCode": "50145",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80131,
+        "lon": 11.19062
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3424713",
+        "055 3905114"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "VITTORIA",
+    "description": "",
+    "address": "57, Via Roma - 50028 Tavarnelle Val Di Pesa (FI)",
+    "streetAddress": "57, Via Roma",
+    "postalCode": "50028",
+    "addressLocality": "Tavarnelle Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.56181,
+        "lon": 11.17488
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8076180",
+        "055 8077097"
+    ],
+    "rating": ""
+}

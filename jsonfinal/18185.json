@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE KALIMERA",
+    "description": "Kalimera è un ristorante di specialità greche a Firenze in via Borgo la Croce 33/r.",
+    "address": "33/R, Bg. Croce - 50121 Firenze (FI)",
+    "streetAddress": "33/R, Bg. Croce",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7711,
+        "lon": 11.26911
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2001719"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA PANIFICIO DA NENE'",
+    "description": "",
+    "address": "33, Via Del Commercio - 53036 Poggibonsi (SI)",
+    "streetAddress": "33, Via Del Commercio",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.47273,
+        "lon": 11.14464
+    },
+    "categories": [
+        "Panifici industriali ed artigianali"
+    ],
+    "telephone": [
+        "0577 1522184"
+    ],
+    "rating": ""
+}

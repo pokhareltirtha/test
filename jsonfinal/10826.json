@@ -1,0 +1,21 @@
+{
+    "name": "TRATTORIA DA MARINO",
+    "description": "A Serravalle Pistoiese una trattoria che prepara piatti fiorentini deliziosi.",
+    "address": "102, V. Provinciale Lucchese - 51034 Ponte Di Serravalle (PT)",
+    "streetAddress": "102, V. Provinciale Lucchese",
+    "postalCode": "51034",
+    "addressLocality": "Ponte Di Serravalle",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89661,
+        "lon": 10.82189
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 51042",
+        "347 4402439"
+    ],
+    "rating": ""
+}

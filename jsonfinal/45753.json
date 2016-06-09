@@ -1,0 +1,20 @@
+{
+    "name": "NON SOLO BAR",
+    "description": "",
+    "address": "1, Via Provinciale Lucchese - 51034 Stazione Masotti (PT)",
+    "streetAddress": "1, Via Provinciale Lucchese",
+    "postalCode": "51034",
+    "addressLocality": "Stazione Masotti",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9094,
+        "lon": 10.85139
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 1610695"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LA LOGGIA",
+    "description": "",
+    "address": "Piazza Mercato 7 - 40048 Piano Del Voglio (BO)",
+    "streetAddress": "Piazza Mercato 7",
+    "postalCode": "40048",
+    "addressLocality": "Piano Del Voglio",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.16992,
+        "lon": 11.21474
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0534 98215"
+    ],
+    "rating": ""
+}

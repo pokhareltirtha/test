@@ -1,0 +1,20 @@
+{
+    "name": "MR PIZZA FIRENZE",
+    "description": "MR PIZZA FIRENZE è il Signore delle pizze, il principe dell'impasto napoletano, il re del gusto mediterraneo a Firenze.",
+    "address": "5/R, P. Duomo - 50122 Firenze (FI)",
+    "streetAddress": "5/R, P. Duomo",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77356,
+        "lon": 11.25673
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2382263"
+    ],
+    "rating": ""
+}

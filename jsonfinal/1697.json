@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE OSTERIA LO STUZZICHINO",
+    "description": "",
+    "address": "2, Via Bosco Dei Grilli - 40048 San Benedetto Val Di Sambro (BO)",
+    "streetAddress": "2, Via Bosco Dei Grilli",
+    "postalCode": "40048",
+    "addressLocality": "San Benedetto Val Di Sambro",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.21335,
+        "lon": 11.23509
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0534 95227"
+    ],
+    "rating": ""
+}

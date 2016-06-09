@@ -1,0 +1,20 @@
+{
+    "name": "LIME'ON",
+    "description": "",
+    "address": "Via Del Tiglio 149 - 56012 Sardina (PI)",
+    "streetAddress": "Via Del Tiglio 149",
+    "postalCode": "56012",
+    "addressLocality": "Sardina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69997,
+        "lon": 10.62065
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "393 2537746"
+    ],
+    "rating": ""
+}

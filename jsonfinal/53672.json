@@ -1,0 +1,20 @@
+{
+    "name": "DA CLAUDIA SRLS",
+    "description": "",
+    "address": "191, Via Braga G. - 59021 Vaiano (PO)",
+    "streetAddress": "191, Via Braga G.",
+    "postalCode": "59021",
+    "addressLocality": "Vaiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.96984,
+        "lon": 11.12374
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 946503"
+    ],
+    "rating": ""
+}

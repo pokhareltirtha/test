@@ -1,0 +1,21 @@
+{
+    "name": "SPECIAL PIZZA",
+    "description": "",
+    "address": "11, Via Masini - 50051 Castelfiorentino (FI)",
+    "streetAddress": "11, Via Masini",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.60677,
+        "lon": 10.9678
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 633367",
+        "329 6934314"
+    ],
+    "rating": ""
+}

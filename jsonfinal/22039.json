@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE L'ARCIMBOLDO",
+    "description": "Il Ristorante l'Arcimboldo di Pistoia offre menù vegano, vegetariano per un tripudio di delicatezza e bontà.",
+    "address": "57, V. XX Settembre - 51100 Pistoia (PT)",
+    "streetAddress": "57, V. XX Settembre",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92774,
+        "lon": 10.91452
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 1780080"
+    ],
+    "rating": ""
+}

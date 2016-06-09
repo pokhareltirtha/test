@@ -1,0 +1,20 @@
+{
+    "name": "CARMENCITA S.R.L.",
+    "description": "",
+    "address": "88, Via Fossanuova - 55016 Porcari (LU)",
+    "streetAddress": "88, Via Fossanuova",
+    "postalCode": "55016",
+    "addressLocality": "Porcari",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.79512,
+        "lon": 10.61408
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 1130129"
+    ],
+    "rating": ""
+}

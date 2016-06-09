@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA FIORELLA",
+    "description": "",
+    "address": "11, Via Gabriele D Annunzio - 50135 Firenze (FI)",
+    "streetAddress": "11, Via Gabriele D Annunzio",
+    "postalCode": "50135",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77494,
+        "lon": 11.28841
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 678989"
+    ],
+    "rating": "4.0"
+}

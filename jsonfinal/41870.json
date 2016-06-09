@@ -1,0 +1,21 @@
+{
+    "name": "LA CAPPUCCINA",
+    "description": "",
+    "address": "46, Localita La Capuccina - 53037 San Gimignano (SI)",
+    "streetAddress": "46, Localita La Capuccina",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.47746,
+        "lon": 11.02709
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 940381",
+        "0577 942050"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE GIAPPONESE YAGURA",
+    "description": "Ristorante giapponese Yagura situato a Firenze in v. Pisana, in cui lo chef è specializzato nei piatti di pesce, dal sushi al sashimi onigiri.",
+    "address": "16/R, V. Pisana - 50143 Firenze (FI)",
+    "streetAddress": "16/R, V. Pisana",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77062,
+        "lon": 11.2395
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 223145",
+        "342 6327137"
+    ],
+    "rating": "5.0"
+}

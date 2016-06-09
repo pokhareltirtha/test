@@ -1,0 +1,21 @@
+{
+    "name": "CAFFE' PITTI",
+    "description": "",
+    "address": "9, Piazza Pitti - 50125 Firenze (FI)",
+    "streetAddress": "9, Piazza Pitti",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76558,
+        "lon": 11.24905
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2399863",
+        "333 1761502"
+    ],
+    "rating": ""
+}

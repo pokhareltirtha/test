@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA SOTTOCASA",
+    "description": "",
+    "address": "4, Via Morrocchesi - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": "4, Via Morrocchesi",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.65643,
+        "lon": 11.18617
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8294641",
+        "333 3273898"
+    ],
+    "rating": ""
+}

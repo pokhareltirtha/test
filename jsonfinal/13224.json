@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA TRAMAGLINO",
+    "description": "",
+    "address": "68, Via Fiorentina - 50064 Palazzolo (FI)",
+    "streetAddress": "68, Via Fiorentina",
+    "postalCode": "50064",
+    "addressLocality": "Palazzolo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.69114,
+        "lon": 11.4344
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9153519"
+    ],
+    "rating": "4.0"
+}

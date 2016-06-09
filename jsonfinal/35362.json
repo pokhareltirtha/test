@@ -1,0 +1,20 @@
+{
+    "name": "GIRONGIRO",
+    "description": "",
+    "address": "31, Borgo Santa Croce - 50122 Firenze (FI)",
+    "streetAddress": "31, Borgo Santa Croce",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76825,
+        "lon": 11.26152
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 244901"
+    ],
+    "rating": ""
+}

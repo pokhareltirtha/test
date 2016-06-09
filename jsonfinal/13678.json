@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE RAGNO D'ORO",
+    "description": "",
+    "address": "Via Pistoiese 211 - 50058 Signa (FI)",
+    "streetAddress": "Via Pistoiese 211",
+    "postalCode": "50058",
+    "addressLocality": "Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80941,
+        "lon": 11.08954
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "347 8877505",
+        "055 8798109"
+    ],
+    "rating": ""
+}

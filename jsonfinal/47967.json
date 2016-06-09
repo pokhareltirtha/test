@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA DA BARBARA",
+    "description": "",
+    "address": "15, Via Saccenti - 59100 Maliseti (PO)",
+    "streetAddress": "15, Via Saccenti",
+    "postalCode": "59100",
+    "addressLocality": "Maliseti",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.89867,
+        "lon": 11.07604
+    },
+    "categories": [
+        "Cravatte, sciarpe e foulards"
+    ],
+    "telephone": [
+        "0574 654373"
+    ],
+    "rating": ""
+}

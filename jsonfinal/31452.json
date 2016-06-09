@@ -1,0 +1,20 @@
+{
+    "name": "LA VELA",
+    "description": "",
+    "address": "10, Via Maso Finiguerra - 50123 Firenze (FI)",
+    "streetAddress": "10, Via Maso Finiguerra",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77392,
+        "lon": 11.24516
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 27931"
+    ],
+    "rating": ""
+}

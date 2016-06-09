@@ -1,0 +1,20 @@
+{
+    "name": "LA BOTTEGA DELLA PIZZA",
+    "description": "",
+    "address": "7/9, Via Vittorio Veneto - 52024 Loro Ciuffenna (AR)",
+    "streetAddress": "7/9, Via Vittorio Veneto",
+    "postalCode": "52024",
+    "addressLocality": "Loro Ciuffenna",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.59124,
+        "lon": 11.63298
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9172953"
+    ],
+    "rating": ""
+}

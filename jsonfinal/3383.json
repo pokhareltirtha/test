@@ -1,0 +1,20 @@
+{
+    "name": "LE GARAGE BISTROT",
+    "description": "",
+    "address": "26, Piazza San Domenico - 59100 Prato (PO)",
+    "streetAddress": "26, Piazza San Domenico",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88167,
+        "lon": 11.09423
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 24842"
+    ],
+    "rating": ""
+}

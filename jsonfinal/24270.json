@@ -1,0 +1,21 @@
+{
+    "name": "I DUE LAGHI",
+    "description": "",
+    "address": "58  Via Del Commercio - Casciana Terme Lari (PI)",
+    "streetAddress": "58, Via Del Commercio",
+    "postalCode": "",
+    "addressLocality": "Casciana Terme Lari",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.54874,
+        "lon": 10.62405
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 685140",
+        "0587 686255"
+    ],
+    "rating": "5.0"
+}

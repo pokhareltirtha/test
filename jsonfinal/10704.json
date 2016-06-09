@@ -1,0 +1,20 @@
+{
+    "name": "CAPATOSTA",
+    "description": "",
+    "address": "1, Piazza Della Sala - 51100 Pistoia (PT)",
+    "streetAddress": "1, Piazza Della Sala",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93273,
+        "lon": 10.91623
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 308240"
+    ],
+    "rating": ""
+}

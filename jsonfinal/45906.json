@@ -1,0 +1,20 @@
+{
+    "name": "PARK WOK S.R.L.",
+    "description": "",
+    "address": "22, Via S. Agostino - 51100 Pistoia (PT)",
+    "streetAddress": "22, Via S. Agostino",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.98281,
+        "lon": 10.85171
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 1972703"
+    ],
+    "rating": ""
+}

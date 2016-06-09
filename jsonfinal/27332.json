@@ -1,0 +1,20 @@
+{
+    "name": "SLOW FOOD SCANDICCI SRL",
+    "description": "",
+    "address": "7, Via Pantin - 50018 Scandicci (FI)",
+    "streetAddress": "7, Via Pantin",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75925,
+        "lon": 11.17827
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 7356549"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "PANIFICIO LA SCHIACCIATERIA",
+    "description": "",
+    "address": "105  Vl. Talenti - Firenze (FI)",
+    "streetAddress": "105, Vl. Talenti",
+    "postalCode": "",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77342,
+        "lon": 11.2163
+    },
+    "categories": [
+        "Panetterie"
+    ],
+    "telephone": [
+        "055 701235",
+        "055 710531"
+    ],
+    "rating": ""
+}

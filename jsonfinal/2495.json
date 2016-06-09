@@ -1,0 +1,21 @@
+{
+    "name": "IL CASTELLO",
+    "description": "",
+    "address": "6, Via Della Rena - 50052 Certaldo (FI)",
+    "streetAddress": "6, Via Della Rena",
+    "postalCode": "50052",
+    "addressLocality": "Certaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54865,
+        "lon": 11.04321
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 668250"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA COCCO D'ORO DI COLUCCIA MICHELA",
+    "description": "",
+    "address": "5, Via Ferraram - 59100 Prato (PO)",
+    "streetAddress": "5, Via Ferraram",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87228,
+        "lon": 11.09251
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "335 1611121",
+        "0574 400650"
+    ],
+    "rating": ""
+}

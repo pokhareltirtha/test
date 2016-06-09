@@ -1,0 +1,20 @@
+{
+    "name": "CAMERA DI COMMERCIO - SEDE STACCATA",
+    "description": "",
+    "address": "65, Viale Pecori Giraldi - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "65, Viale Pecori Giraldi",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.95174,
+        "lon": 11.39197
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8456733"
+    ],
+    "rating": ""
+}

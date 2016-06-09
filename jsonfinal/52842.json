@@ -1,0 +1,20 @@
+{
+    "name": "LA CASARECCIA",
+    "description": "",
+    "address": "187, Via Senese - 53036 Poggibonsi (SI)",
+    "streetAddress": "187, Via Senese",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46347,
+        "lon": 11.15583
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 983504"
+    ],
+    "rating": ""
+}

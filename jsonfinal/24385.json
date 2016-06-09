@@ -1,0 +1,21 @@
+{
+    "name": "CORTE ANTICA",
+    "description": "",
+    "address": "46, Via Francesco Chiarenti - 50050 Montaione (FI)",
+    "streetAddress": "46, Via Francesco Chiarenti",
+    "postalCode": "50050",
+    "addressLocality": "Montaione",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.55335,
+        "lon": 10.91208
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 69552",
+        "0571 698178"
+    ],
+    "rating": "4.3"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA SORGENTE S.R.L.",
+    "description": "",
+    "address": "Via Volterrana - 56033 Capannoli (PI)",
+    "streetAddress": "Via Volterrana",
+    "postalCode": "56033",
+    "addressLocality": "Capannoli",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.58523,
+        "lon": 10.67646
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 607508"
+    ],
+    "rating": ""
+}

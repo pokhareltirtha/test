@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA D'ASPORTO FORNO A LEGNA DA GIULIO",
+    "description": "",
+    "address": "17, Via Del Castellare - 51017 Pescia (PT)",
+    "streetAddress": "17, Via Del Castellare",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89713,
+        "lon": 10.69846
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "338 9540213",
+        "0572 444976"
+    ],
+    "rating": ""
+}

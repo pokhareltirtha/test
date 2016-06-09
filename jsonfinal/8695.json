@@ -1,0 +1,20 @@
+{
+    "name": "EL GATTO FUERTE S.R.L.",
+    "description": "",
+    "address": "1, Largo Giorgio La Pira - 51010 Massa E Cozzile (PT)",
+    "streetAddress": "1, Largo Giorgio La Pira",
+    "postalCode": "51010",
+    "addressLocality": "Massa E Cozzile",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.871,
+        "lon": 10.75657
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 74520"
+    ],
+    "rating": "5.0"
+}

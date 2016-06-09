@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA TRATTORIA PRIMAVERA",
+    "description": "",
+    "address": "Via Veracini, 22/A - 50144 Firenze (FI)",
+    "streetAddress": "Via Veracini, 22/A",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78743,
+        "lon": 11.23203
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 332332"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "CORNO D'AFRICA",
+    "description": "",
+    "address": "12, Via Sant'Jacopino - 50144 Firenze (FI)",
+    "streetAddress": "12, Via Sant'Jacopino",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78453,
+        "lon": 11.24102
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 362116"
+    ],
+    "rating": "5.0"
+}

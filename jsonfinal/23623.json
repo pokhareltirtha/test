@@ -1,0 +1,21 @@
+{
+    "name": "GRAN CAFFE'",
+    "description": "Il Gran Caffè di Renzi Claudio, situato a Ruggello (FI) in v. Europa offre gustosi piatti di cucina, primi e fritture di pesce.",
+    "address": "2, V. Europa - 50066 Reggello (FI)",
+    "streetAddress": "2, V. Europa",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.70203,
+        "lon": 11.46344
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8657876",
+        "055 8330800"
+    ],
+    "rating": ""
+}

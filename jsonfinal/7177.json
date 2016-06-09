@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE BAR IL TAMBURELLO",
+    "description": "Ristorante Pizzeria Bar Il Tamburello propone un delizioso menù di terra e di mare, nonché un'ottima pizza a Cerreto Guidi.",
+    "address": "122, V. 26 Giugno - 50050 Bassa (FI)",
+    "streetAddress": "122, V. 26 Giugno",
+    "postalCode": "50050",
+    "addressLocality": "Bassa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72269,
+        "lon": 10.8708
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 581570"
+    ],
+    "rating": ""
+}

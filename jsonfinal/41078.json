@@ -1,0 +1,21 @@
+{
+    "name": "SEDANO ALLEGRO",
+    "description": "",
+    "address": "30, Via Uguccione Della Faggiola - 50126 Firenze (FI)",
+    "streetAddress": "30, Via Uguccione Della Faggiola",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76199,
+        "lon": 11.28912
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "347 5565483",
+        "055 3830938"
+    ],
+    "rating": ""
+}

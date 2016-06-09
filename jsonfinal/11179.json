@@ -1,0 +1,21 @@
+{
+    "name": "CRAZY CHEF RISTORANTE PIZZERIA",
+    "description": "",
+    "address": "61, Via Carratica - 51100 Pistoia (PT)",
+    "streetAddress": "61, Via Carratica",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92939,
+        "lon": 10.91838
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "392 5136676",
+        "0573 20914"
+    ],
+    "rating": ""
+}

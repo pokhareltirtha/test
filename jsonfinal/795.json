@@ -1,0 +1,21 @@
+{
+    "name": "LA CAPPONCINA DI SETTIGNANO",
+    "description": "A Firenze il ristorante dove potrete gustare le specilaità tipiche locali, preparate con ingredienti di stagione e biologici.",
+    "address": "15/R, V. S. Romano - 50135 Firenze (FI)",
+    "streetAddress": "15/R, V. S. Romano",
+    "postalCode": "50135",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78332,
+        "lon": 11.32218
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 697037"
+    ],
+    "rating": ""
+}

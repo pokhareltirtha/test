@@ -1,0 +1,21 @@
+{
+    "name": "DA MARIO DI CHITI MARIO",
+    "description": "",
+    "address": "54, Via Sauro Nazario - 51100 Pistoia (PT)",
+    "streetAddress": "54, Via Sauro Nazario",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92927,
+        "lon": 10.90512
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "335 7042046",
+        "0573 358370"
+    ],
+    "rating": ""
+}

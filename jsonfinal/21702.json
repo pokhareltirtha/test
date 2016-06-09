@@ -1,0 +1,20 @@
+{
+    "name": "COVO DEI GOLOSI",
+    "description": "",
+    "address": "7, Via Ponte A Giogoli - 50019 Osmannoro (FI)",
+    "streetAddress": "7, Via Ponte A Giogoli",
+    "postalCode": "50019",
+    "addressLocality": "Osmannoro",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80443,
+        "lon": 11.18671
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 319103"
+    ],
+    "rating": "3.5"
+}

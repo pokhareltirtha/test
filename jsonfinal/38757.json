@@ -1,0 +1,21 @@
+{
+    "name": "DON CHISCIOTTE IOLO",
+    "description": "",
+    "address": "5, Via Didaco Bessi - 59100 Prato (PO)",
+    "streetAddress": "5, Via Didaco Bessi",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86069,
+        "lon": 11.04644
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 062546",
+        "348 8646642"
+    ],
+    "rating": ""
+}

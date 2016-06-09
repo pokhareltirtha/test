@@ -1,0 +1,21 @@
+{
+    "name": "ALBERGO RISTORANTE LA TORRETTA",
+    "description": "",
+    "address": "49, Via G Pepoli - 40035 Castiglione Dei Pepoli (BO)",
+    "streetAddress": "49, Via G Pepoli",
+    "postalCode": "40035",
+    "addressLocality": "Castiglione Dei Pepoli",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.14235,
+        "lon": 11.15862
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "348 3908776",
+        "0534 91039"
+    ],
+    "rating": ""
+}

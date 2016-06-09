@@ -1,0 +1,21 @@
+{
+    "name": "IL GALEONE",
+    "description": "",
+    "address": "67, Via Curtatone E Montanara - 50053 Empoli (FI)",
+    "streetAddress": "67, Via Curtatone E Montanara",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71683,
+        "lon": 10.95041
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 72826",
+        "0571 73492"
+    ],
+    "rating": ""
+}

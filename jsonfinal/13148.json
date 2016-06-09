@@ -1,0 +1,20 @@
+{
+    "name": "LE TRE LUNE",
+    "description": "",
+    "address": "1, Via Di Travalle - 50041 Travalle (FI)",
+    "streetAddress": "1, Via Di Travalle",
+    "postalCode": "50041",
+    "addressLocality": "Travalle",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.87754,
+        "lon": 11.15899
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8873156"
+    ],
+    "rating": ""
+}

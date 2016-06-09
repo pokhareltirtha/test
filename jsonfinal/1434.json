@@ -1,0 +1,21 @@
+{
+    "name": "CIRI BE' RISTORANTE",
+    "description": "",
+    "address": "Via Pigafetta 164 - 50127 Firenze (FI)",
+    "streetAddress": "Via Pigafetta 164",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79187,
+        "lon": 11.2337
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 432623"
+    ],
+    "rating": ""
+}

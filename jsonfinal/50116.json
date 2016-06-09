@@ -1,0 +1,20 @@
+{
+    "name": "LA TAVERNA DI CICCINO",
+    "description": "",
+    "address": ", Via Del Giglio - 50028 San Donato In Poggio (FI)",
+    "streetAddress": ", Via Del Giglio",
+    "postalCode": "50028",
+    "addressLocality": "San Donato In Poggio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.5355,
+        "lon": 11.23454
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8072307"
+    ],
+    "rating": ""
+}

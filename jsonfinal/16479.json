@@ -1,0 +1,20 @@
+{
+    "name": "IL MECENATE",
+    "description": "",
+    "address": "707, Via Della Chiesa - 55100 Lucca (LU)",
+    "streetAddress": "707, Via Della Chiesa",
+    "postalCode": "55100",
+    "addressLocality": "Lucca",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.84343,
+        "lon": 10.55565
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 512167"
+    ],
+    "rating": ""
+}

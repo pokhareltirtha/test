@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE TUGA",
+    "description": "",
+    "address": "37  Via Di Vacciano - Firenze (FI)",
+    "streetAddress": "37, Via Di Vacciano",
+    "postalCode": "",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7416,
+        "lon": 11.26942
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6461408"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LAGO DI VERTICE",
+    "description": "",
+    "address": "Via Di Vetrice - 50065 Pontassieve (FI)",
+    "streetAddress": "Via Di Vetrice",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82066,
+        "lon": 11.46254
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8399145"
+    ],
+    "rating": ""
+}

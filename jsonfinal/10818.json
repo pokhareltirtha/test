@@ -1,0 +1,21 @@
+{
+    "name": "CORIS DIA SRL SEMPLIFICATA",
+    "description": "",
+    "address": "122, Viale Montegrappa - 59100 Prato (PO)",
+    "streetAddress": "122, Viale Montegrappa",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.8745,
+        "lon": 11.10698
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 512293",
+        "0574 527510"
+    ],
+    "rating": ""
+}

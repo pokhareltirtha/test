@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL CANNICCIO",
+    "description": "",
+    "address": "68, Via Cetina - 50066 Reggello (FI)",
+    "streetAddress": "68, Via Cetina",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.66545,
+        "lon": 11.46544
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 863274",
+        "333 6460761"
+    ],
+    "rating": ""
+}

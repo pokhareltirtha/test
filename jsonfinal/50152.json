@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL POZZO DEI DESIDERI",
+    "description": "Il Ristorante Il Pozzo dei Desideri si trova a Poggibonsi (SI) in via Romana 93 ed è il posto giusto dove gustare la cucina tipica toscana.",
+    "address": "93, V. Romana - 53036 Poggibonsi (SI)",
+    "streetAddress": "93, V. Romana",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42228,
+        "lon": 11.18262
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "347 6998909",
+        "0577 930032"
+    ],
+    "rating": ""
+}

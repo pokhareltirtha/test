@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA AI 4 GATTI",
+    "description": "",
+    "address": "31, Localita San Clemente In Valle - 52024 San Clemente In Valle (AR)",
+    "streetAddress": "31, Localita San Clemente In Valle",
+    "postalCode": "52024",
+    "addressLocality": "San Clemente In Valle",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.6222,
+        "lon": 11.64017
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9704110"
+    ],
+    "rating": ""
+}

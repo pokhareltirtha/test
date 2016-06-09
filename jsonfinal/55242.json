@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA BAR CIMAMORI",
+    "description": "",
+    "address": "74, Viale Marconi - 53036 Poggibonsi (SI)",
+    "streetAddress": "74, Viale Marconi",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.4742,
+        "lon": 11.14675
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 936011"
+    ],
+    "rating": ""
+}

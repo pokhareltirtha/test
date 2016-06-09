@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA RICAROKA CAFE'",
+    "description": "",
+    "address": "5, Via Arrigo Boito - 51019 Ponte Buggianese (PT)",
+    "streetAddress": "5, Via Arrigo Boito",
+    "postalCode": "51019",
+    "addressLocality": "Ponte Buggianese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.84249,
+        "lon": 10.74919
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 930144"
+    ],
+    "rating": ""
+}

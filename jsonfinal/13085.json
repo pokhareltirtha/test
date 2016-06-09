@@ -1,0 +1,21 @@
+{
+    "name": "LE SOUK",
+    "description": "",
+    "address": "5, Via Del Ponte Rosso - 50129 Firenze (FI)",
+    "streetAddress": "5, Via Del Ponte Rosso",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78476,
+        "lon": 11.26211
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 490756",
+        "055 490772"
+    ],
+    "rating": "4.5"
+}

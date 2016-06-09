@@ -1,0 +1,20 @@
+{
+    "name": "IL PIRANA",
+    "description": "il ristorante propone ogni giorno pietanze diverse, sulla base del pescato di giornata a Cerreto Guidi (FI).",
+    "address": "61, V. 26 Giugno - 50050 Cerreto Guidi (FI)",
+    "streetAddress": "61, V. 26 Giugno",
+    "postalCode": "50050",
+    "addressLocality": "Cerreto Guidi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72355,
+        "lon": 10.87405
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 25746"
+    ],
+    "rating": ""
+}

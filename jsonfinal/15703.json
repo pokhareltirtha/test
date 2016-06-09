@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA IL POSTIGLIONE",
+    "description": "Il Postiglione, specialità della gastronomia tosco emiliana a Loiano.",
+    "address": "11, V. Foscolo - 40050 Quinzano (BO)",
+    "streetAddress": "11, V. Foscolo",
+    "postalCode": "40050",
+    "addressLocality": "Quinzano",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.26168,
+        "lon": 11.36599
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "051 6546104"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "AGRITURISMO CA' DI BAVELLINO",
+    "description": "",
+    "address": "Via Cà Di Bavellino, 51 - 40036 Monzuno (BO)",
+    "streetAddress": "Via Cà Di Bavellino, 51",
+    "postalCode": "40036",
+    "addressLocality": "Monzuno",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.28058,
+        "lon": 11.26432
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 7866066"
+    ],
+    "rating": ""
+}

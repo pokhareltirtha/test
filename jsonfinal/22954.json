@@ -1,0 +1,21 @@
+{
+    "name": "FINISTERRAE",
+    "description": "",
+    "address": "Piazza S. Croce 12 - 50122 Firenze (FI)",
+    "streetAddress": "Piazza S. Croce 12",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76906,
+        "lon": 11.26194
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2343222",
+        "055 2638675"
+    ],
+    "rating": "4.5"
+}

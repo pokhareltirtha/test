@@ -1,0 +1,20 @@
+{
+    "name": "DA ROBERTO",
+    "description": "",
+    "address": "49, Piazza Trieste - 50062 Dicomano (FI)",
+    "streetAddress": "49, Piazza Trieste",
+    "postalCode": "50062",
+    "addressLocality": "Dicomano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.89104,
+        "lon": 11.5225
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 838035"
+    ],
+    "rating": ""
+}

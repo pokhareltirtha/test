@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA IL TULIPANO",
+    "description": "Il ristorante pizzeria Il Tulipano, situato nella zona sportiva di Castelfiorentino, accoglie i propri ospiti in un ambiente confortevole ed accogliente, con la possibilità, nel periodo estivo, di man...",
+    "address": "35, V. S. Antonio - 50051 Castelfiorentino (FI)",
+    "streetAddress": "35, V. S. Antonio",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.60019,
+        "lon": 10.96794
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 633581"
+    ],
+    "rating": "5.0"
+}

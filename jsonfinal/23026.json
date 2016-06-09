@@ -1,0 +1,20 @@
+{
+    "name": "POVERO CHIC",
+    "description": "",
+    "address": "51, Via Sant'Andrea - 51100 Pistoia (PT)",
+    "streetAddress": "51, Via Sant'Andrea",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.936,
+        "lon": 10.91326
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 358855"
+    ],
+    "rating": ""
+}

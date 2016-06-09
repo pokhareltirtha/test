@@ -1,0 +1,20 @@
+{
+    "name": "LO SKIPPER",
+    "description": "",
+    "address": "78, Via Degli Alfani - 50121 Firenze (FI)",
+    "streetAddress": "78, Via Degli Alfani",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77624,
+        "lon": 11.25846
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 284019"
+    ],
+    "rating": ""
+}

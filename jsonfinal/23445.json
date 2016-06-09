@@ -1,0 +1,21 @@
+{
+    "name": "IL COLONELLO",
+    "description": "",
+    "address": "4, Via MILLI - 50060 Rincine (FI)",
+    "streetAddress": "4, Via MILLI",
+    "postalCode": "50060",
+    "addressLocality": "Rincine",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.86793,
+        "lon": 11.60376
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8354045",
+        "055 8354008"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,22 @@
+{
+    "name": "IL PETTIROSSO",
+    "description": "",
+    "address": "132, Localita Penna - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "132, Localita Penna",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.55797,
+        "lon": 11.598
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "335 6097402",
+        "055 9172095"
+    ],
+    "rating": ""
+}

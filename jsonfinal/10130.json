@@ -1,0 +1,21 @@
+{
+    "name": "DA OMERO ***",
+    "description": "A Greve in Chianti, in provincia di Firenze, si trova il residence che è anche bed & breakfast e ristorante che offre piatti genuini e selezionati.",
+    "address": "68, V. Falcone - 50022 Greve In Chianti (FI)",
+    "streetAddress": "68, V. Falcone",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.6248,
+        "lon": 11.28257
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 850715",
+        "055 850716"
+    ],
+    "rating": ""
+}

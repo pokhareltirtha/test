@@ -1,0 +1,20 @@
+{
+    "name": "BRUNERO",
+    "description": "",
+    "address": "14, Via Dell Unita Italiana - 50067 Rignano Sull'Arno (FI)",
+    "streetAddress": "14, Via Dell Unita Italiana",
+    "postalCode": "50067",
+    "addressLocality": "Rignano Sull'Arno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72159,
+        "lon": 11.45312
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8349240"
+    ],
+    "rating": ""
+}

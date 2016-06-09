@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LA VERA NAPOLI SAS",
+    "description": "",
+    "address": "101, Viale Grandi Achille - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "101, Viale Grandi Achille",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83526,
+        "lon": 11.21057
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 3921248"
+    ],
+    "rating": ""
+}

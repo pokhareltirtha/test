@@ -1,0 +1,20 @@
+{
+    "name": "IL MEZZOMETRO",
+    "description": "",
+    "address": "87, Via Vittorio Emanuele - 50041 Calenzano (FI)",
+    "streetAddress": "87, Via Vittorio Emanuele",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84488,
+        "lon": 11.18
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8874019"
+    ],
+    "rating": ""
+}

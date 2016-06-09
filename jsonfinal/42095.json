@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL PINO S.N.C. DI TAMBURINI & C.",
+    "description": "",
+    "address": "102, Via S. Matteo - 53037 San Gimignano (SI)",
+    "streetAddress": "102, Via S. Matteo",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46976,
+        "lon": 11.04124
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        ""
+    ],
+    "rating": ""
+}

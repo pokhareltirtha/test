@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA DA REMO S.N.C.",
+    "description": "",
+    "address": "1, Piazza Basso Lelio - 56022 Castelfranco Di Sotto (PI)",
+    "streetAddress": "1, Piazza Basso Lelio",
+    "postalCode": "56022",
+    "addressLocality": "Castelfranco Di Sotto",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.6984,
+        "lon": 10.7429
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 47664"
+    ],
+    "rating": ""
+}

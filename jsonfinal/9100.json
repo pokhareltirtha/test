@@ -1,0 +1,20 @@
+{
+    "name": "CIGNO NERO",
+    "description": "",
+    "address": "5, Via Della Lendinaia - 56031 Bientina (PI)",
+    "streetAddress": "5, Via Della Lendinaia",
+    "postalCode": "56031",
+    "addressLocality": "Bientina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69492,
+        "lon": 10.62536
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 489996"
+    ],
+    "rating": ""
+}

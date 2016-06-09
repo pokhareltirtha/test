@@ -1,0 +1,20 @@
+{
+    "name": "IL VESCOVINO",
+    "description": "",
+    "address": "9, Via Ciampolo Da Panzano - 50022 Panzano In Chianti (FI)",
+    "streetAddress": "9, Via Ciampolo Da Panzano",
+    "postalCode": "50022",
+    "addressLocality": "Panzano In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54749,
+        "lon": 11.31079
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8560152"
+    ],
+    "rating": "4.8"
+}

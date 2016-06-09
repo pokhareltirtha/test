@@ -1,0 +1,20 @@
+{
+    "name": "PEPE ROSA SRL",
+    "description": "",
+    "address": "64, Corso Matteotti Giacomo - 50063 Figline E Incisa Valdarno (FI)",
+    "streetAddress": "64, Corso Matteotti Giacomo",
+    "postalCode": "50063",
+    "addressLocality": "Figline E Incisa Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61958,
+        "lon": 11.47038
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9544413"
+    ],
+    "rating": ""
+}

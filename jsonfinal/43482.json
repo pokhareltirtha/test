@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE GLI ALBERI DI BALLONI LAURA & C. S.A.S.",
+    "description": "",
+    "address": "83, Via Bellini Vincenzo - 50041 Carraia (FI)",
+    "streetAddress": "83, Via Bellini Vincenzo",
+    "postalCode": "50041",
+    "addressLocality": "Carraia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.89659,
+        "lon": 11.18629
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8819912"
+    ],
+    "rating": ""
+}

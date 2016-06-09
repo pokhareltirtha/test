@@ -1,0 +1,21 @@
+{
+    "name": "IL SESTO GIRONE",
+    "description": "",
+    "address": "Via Villamagna, 77 - 50126 Nave A Rovezzano (FI)",
+    "streetAddress": "Via Villamagna, 77",
+    "postalCode": "50126",
+    "addressLocality": "Nave A Rovezzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76165,
+        "lon": 11.30958
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 6530695"
+    ],
+    "rating": "3.5"
+}

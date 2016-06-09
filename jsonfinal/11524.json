@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL BIVIO INSTREDA DI VANDELLI ADRIANO E C. SNC",
+    "description": "",
+    "address": "15, Via Montalbano - 50059 Vinci (FI)",
+    "streetAddress": "15, Via Montalbano",
+    "postalCode": "50059",
+    "addressLocality": "Vinci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78828,
+        "lon": 10.92733
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 508502"
+    ],
+    "rating": ""
+}

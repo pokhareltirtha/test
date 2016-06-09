@@ -1,0 +1,20 @@
+{
+    "name": "LA MANGIATOIA",
+    "description": "",
+    "address": "5, Via Mainardi - 53037 San Gimignano (SI)",
+    "streetAddress": "5, Via Mainardi",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46946,
+        "lon": 11.04127
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 941528"
+    ],
+    "rating": ""
+}

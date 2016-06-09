@@ -1,0 +1,20 @@
+{
+    "name": "LUNA DI SATURNO",
+    "description": "",
+    "address": "Via Dei Fossi, 52/54 - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "Via Dei Fossi, 52/54",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42222,
+        "lon": 11.12472
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 920115"
+    ],
+    "rating": ""
+}

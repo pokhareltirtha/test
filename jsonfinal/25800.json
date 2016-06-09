@@ -1,0 +1,20 @@
+{
+    "name": "TERRAZZA ROSSINI",
+    "description": "",
+    "address": "2, Via Solferino - 50123 Firenze (FI)",
+    "streetAddress": "2, Via Solferino",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77456,
+        "lon": 11.24149
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 284273"
+    ],
+    "rating": ""
+}

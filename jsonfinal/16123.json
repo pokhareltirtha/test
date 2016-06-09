@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA IL MORSO",
+    "description": "Il Ristorante Pizzeria Il Morso è il posto ideale per gustare i piatti tipici della tradizione toscana a Terricciola (PI).",
+    "address": "64, V. Roma - 56030 Terricciola (PI)",
+    "streetAddress": "64, V. Roma",
+    "postalCode": "56030",
+    "addressLocality": "Terricciola",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.52482,
+        "lon": 10.67635
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 654083"
+    ],
+    "rating": "3.0"
+}

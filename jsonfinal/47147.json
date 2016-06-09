@@ -1,0 +1,20 @@
+{
+    "name": "LA DANTESCA - IL PARADISO DELLA PIZZA",
+    "description": "",
+    "address": "57, Via Dei Panzani - 50123 Firenze (FI)",
+    "streetAddress": "57, Via Dei Panzani",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77448,
+        "lon": 11.25045
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 212287"
+    ],
+    "rating": ""
+}

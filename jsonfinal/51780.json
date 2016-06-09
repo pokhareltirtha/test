@@ -1,0 +1,20 @@
+{
+    "name": "CALYPSO",
+    "description": "",
+    "address": "5, Via Sant'Angelo - 50142 Firenze (FI)",
+    "streetAddress": "5, Via Sant'Angelo",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77104,
+        "lon": 11.21594
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 700115"
+    ],
+    "rating": ""
+}

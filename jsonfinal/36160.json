@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE INTERNATIONAL DI WANG CHAOKANG",
+    "description": "",
+    "address": "133, Via Roncioni Marco - 59100 Prato (PO)",
+    "streetAddress": "133, Via Roncioni Marco",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87568,
+        "lon": 11.08425
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 42333"
+    ],
+    "rating": ""
+}

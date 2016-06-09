@@ -1,0 +1,20 @@
+{
+    "name": "ASSOCIAZIONE LA RACCOLTA",
+    "description": "",
+    "address": "2/R, Via Leopardi Giacomo - 50121 Firenze (FI)",
+    "streetAddress": "2/R, Via Leopardi Giacomo",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77249,
+        "lon": 11.27097
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2479068"
+    ],
+    "rating": ""
+}

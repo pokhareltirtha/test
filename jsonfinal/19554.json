@@ -1,0 +1,20 @@
+{
+    "name": "DELIZIE CINESI",
+    "description": "",
+    "address": "428, Via Pistoiese - 50145 Firenze (FI)",
+    "streetAddress": "428, Via Pistoiese",
+    "postalCode": "50145",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79275,
+        "lon": 11.16569
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 310690"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LE LOGGE",
+    "description": "",
+    "address": "Snc, Piazza Del Comune - 59100 Prato (PO)",
+    "streetAddress": "Snc, Piazza Del Comune",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88052,
+        "lon": 11.09685
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 600078"
+    ],
+    "rating": ""
+}

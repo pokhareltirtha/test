@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE TIJUANA",
+    "description": "Tijuana, fondato nel 2002 a Firenze, è il primo ristorante messicano a Firenze che si dedica alla cucina messicana tradizionale.",
+    "address": "156/R, V. Ghibellina - 50122 Firenze (FI)",
+    "streetAddress": "156/R, V. Ghibellina",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77053,
+        "lon": 11.25914
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2341330"
+    ],
+    "rating": ""
+}

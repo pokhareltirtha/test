@@ -1,0 +1,21 @@
+{
+    "name": "LA TAVERNETTA DEL BATTISTERO SRL",
+    "description": "",
+    "address": "52/R, Via Dei Servi - 50122 Firenze (FI)",
+    "streetAddress": "52/R, Via Dei Servi",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77536,
+        "lon": 11.2593
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 286109",
+        "055 2740950"
+    ],
+    "rating": ""
+}

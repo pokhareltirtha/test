@@ -1,0 +1,20 @@
+{
+    "name": "IL POZZO",
+    "description": "",
+    "address": "20, Piazza Roma - 53035 Monteriggioni (SI)",
+    "streetAddress": "20, Piazza Roma",
+    "postalCode": "53035",
+    "addressLocality": "Monteriggioni",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.39001,
+        "lon": 11.22331
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 304127"
+    ],
+    "rating": ""
+}

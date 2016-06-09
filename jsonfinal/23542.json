@@ -1,0 +1,21 @@
+{
+    "name": "PUCINI",
+    "description": "",
+    "address": "4, Via Pucini - 52014 Poppi (AR)",
+    "streetAddress": "4, Via Pucini",
+    "postalCode": "52014",
+    "addressLocality": "Poppi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.78332,
+        "lon": 11.83369
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 556017",
+        "0575 519023"
+    ],
+    "rating": ""
+}

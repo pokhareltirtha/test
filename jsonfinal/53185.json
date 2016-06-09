@@ -1,0 +1,20 @@
+{
+    "name": "DAL VECCHIO CARLINO",
+    "description": "",
+    "address": "15, Viale Fratelli Rosselli - 50144 Firenze (FI)",
+    "streetAddress": "15, Viale Fratelli Rosselli",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77932,
+        "lon": 11.24419
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 353678"
+    ],
+    "rating": ""
+}

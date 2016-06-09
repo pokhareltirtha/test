@@ -1,0 +1,21 @@
+{
+    "name": "TAVERNA DEGLI OLIVI",
+    "description": "",
+    "address": "7, Localita Luchetta - 56010 Vicopisano (PI)",
+    "streetAddress": "7, Localita Luchetta",
+    "postalCode": "56010",
+    "addressLocality": "Vicopisano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70322,
+        "lon": 10.57228
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 799938"
+    ],
+    "rating": ""
+}

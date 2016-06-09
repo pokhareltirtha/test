@@ -1,0 +1,21 @@
+{
+    "name": "LUXURY LOUNGE",
+    "description": "",
+    "address": "6, Via Empoli - 50142 Firenze (FI)",
+    "streetAddress": "6, Via Empoli",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7718,
+        "lon": 11.20519
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 7327422",
+        "366 3663032"
+    ],
+    "rating": ""
+}

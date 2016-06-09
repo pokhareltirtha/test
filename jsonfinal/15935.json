@@ -1,0 +1,21 @@
+{
+    "name": "CHEZ MES AMIS",
+    "description": "",
+    "address": "228, Via Provinciale Vicarese - 56010 San Giovanni Alla Vena (PI)",
+    "streetAddress": "228, Via Provinciale Vicarese",
+    "postalCode": "56010",
+    "addressLocality": "San Giovanni Alla Vena",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68482,
+        "lon": 10.57804
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 798789"
+    ],
+    "rating": ""
+}

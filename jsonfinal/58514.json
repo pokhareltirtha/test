@@ -1,0 +1,20 @@
+{
+    "name": "LENZI BARBARA",
+    "description": "",
+    "address": "7, Via Antonio Gramsci - 51037 Montale (PT)",
+    "streetAddress": "7, Via Antonio Gramsci",
+    "postalCode": "51037",
+    "addressLocality": "Montale",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.96028,
+        "lon": 11.04517
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 557597"
+    ],
+    "rating": ""
+}

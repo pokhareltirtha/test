@@ -1,0 +1,21 @@
+{
+    "name": "ALBERGO RISTORANTE TRE COLLI",
+    "description": "L'Albergo Ristorante Tre Colli di Brisighella (RA) è una struttura elegante e raffinata, in grado di coniugare il massimo comfort all'ottima cucina locale.",
+    "address": "5/7, V. Gramsci - 48013 Brisighella (RA)",
+    "streetAddress": "5/7, V. Gramsci",
+    "postalCode": "48013",
+    "addressLocality": "Brisighella",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.22165,
+        "lon": 11.77662
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 81203",
+        "0546 81147"
+    ],
+    "rating": ""
+}

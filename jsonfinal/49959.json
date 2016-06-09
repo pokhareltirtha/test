@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA PAZZA",
+    "description": "",
+    "address": "21, Via Goffredo Mameli - 56025 Pontedera (PI)",
+    "streetAddress": "21, Via Goffredo Mameli",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66465,
+        "lon": 10.63392
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 52525"
+    ],
+    "rating": ""
+}

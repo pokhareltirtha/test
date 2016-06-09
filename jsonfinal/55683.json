@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA DONIZETTI",
+    "description": "",
+    "address": "Via Valerio Santelli - 50134 Firenze (FI)",
+    "streetAddress": "Via Valerio Santelli",
+    "postalCode": "50134",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7965,
+        "lon": 11.2426
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "392 2804436"
+    ],
+    "rating": ""
+}

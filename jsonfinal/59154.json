@@ -1,0 +1,20 @@
+{
+    "name": "PICCOLO CUORE",
+    "description": "",
+    "address": "22, Via Egisto Niccoli - 59100 Prato (PO)",
+    "streetAddress": "22, Via Egisto Niccoli",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87288,
+        "lon": 11.0984
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 27941"
+    ],
+    "rating": ""
+}

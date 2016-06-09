@@ -1,0 +1,21 @@
+{
+    "name": "ANTICO BORGO",
+    "description": "",
+    "address": "Via Iano , 5/9 - 50050 Iano (FI)",
+    "streetAddress": "Via Iano , 5/9",
+    "postalCode": "50050",
+    "addressLocality": "Iano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.51495,
+        "lon": 10.87604
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 698030",
+        "339 4252015"
+    ],
+    "rating": ""
+}

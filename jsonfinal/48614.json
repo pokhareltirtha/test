@@ -1,0 +1,21 @@
+{
+    "name": "PIZZA PAZZA SERVICE DI DI GREGORIO ANTONIO",
+    "description": "",
+    "address": "24/B, Via Curtatone E Montanara - 50053 Empoli (FI)",
+    "streetAddress": "24/B, Via Curtatone E Montanara",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71872,
+        "lon": 10.94996
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 530321",
+        "0571 534854"
+    ],
+    "rating": ""
+}

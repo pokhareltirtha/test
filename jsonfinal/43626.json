@@ -1,0 +1,21 @@
+{
+    "name": "ART RESTAURANT",
+    "description": "",
+    "address": "289, Viale Della Repubblica - 59100 Prato (PO)",
+    "streetAddress": "289, Viale Della Repubblica",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86032,
+        "lon": 11.10955
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 581341",
+        "0574 578888"
+    ],
+    "rating": ""
+}

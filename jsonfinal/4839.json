@@ -1,0 +1,20 @@
+{
+    "name": "ARZACH",
+    "description": "",
+    "address": "18, Via Del Casato - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "18, Via Del Casato",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82976,
+        "lon": 11.20234
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4490614"
+    ],
+    "rating": ""
+}

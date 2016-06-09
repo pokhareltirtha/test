@@ -1,0 +1,20 @@
+{
+    "name": "CANTINA DEL BONSIGNORE",
+    "description": "",
+    "address": "4, Via Recuperati - 48013 Brisighella (RA)",
+    "streetAddress": "4, Via Recuperati",
+    "postalCode": "48013",
+    "addressLocality": "Brisighella",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.22375,
+        "lon": 11.77242
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 81889"
+    ],
+    "rating": ""
+}

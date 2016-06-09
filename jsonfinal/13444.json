@@ -1,0 +1,20 @@
+{
+    "name": "C.LO M.C.L. S. M.LE MONTECUCCOLI",
+    "description": "",
+    "address": "3, Via Rocca Cerbaia - 50031 Latera (FI)",
+    "streetAddress": "3, Via Rocca Cerbaia",
+    "postalCode": "50031",
+    "addressLocality": "Latera",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.97263,
+        "lon": 11.23027
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 841035"
+    ],
+    "rating": ""
+}

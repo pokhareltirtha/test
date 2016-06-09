@@ -1,0 +1,22 @@
+{
+    "name": "CAFFE' PETRINI sas",
+    "description": "Ristorante a Buggiano, in provincia di Pistoia, dove gustare i piatti tipici toscani accompagnati da vasta selezione di vini italiani.",
+    "address": "13, P. Salutati Coluccio - 51011 Borgo A Buggiano (PT)",
+    "streetAddress": "13, P. Salutati Coluccio",
+    "postalCode": "51011",
+    "addressLocality": "Borgo A Buggiano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88008,
+        "lon": 10.72821
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 32070",
+        "0572 32117"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE DA LORENZO PESCE FRESCO E CRUDITE' PIZZERIA - ENOTECA",
+    "description": "",
+    "address": "45, Corso Roma - 51016 Montecatini Terme (PT)",
+    "streetAddress": "45, Corso Roma",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88424,
+        "lon": 10.76869
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 79557",
+        "333 3175942"
+    ],
+    "rating": ""
+}

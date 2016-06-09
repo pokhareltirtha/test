@@ -1,0 +1,20 @@
+{
+    "name": "LA PENTOLA DELL'ORO",
+    "description": "",
+    "address": "Via Dei Pepi Angolo Via Di Mezzo - 50121 Firenze (FI)",
+    "streetAddress": "Via Dei Pepi Angolo Via Di Mezzo",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7722,
+        "lon": 11.2639
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 241808"
+    ],
+    "rating": ""
+}

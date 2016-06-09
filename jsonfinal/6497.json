@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA TORRETTA",
+    "description": "La location migliore per assaporare le prelibatezze della cucina Toscana e godere dell¿ottima ospitalità di fantastici ristoratori a Vinci.",
+    "address": "19, V. Torre - 50059 Vinci (FI)",
+    "streetAddress": "19, V. Torre",
+    "postalCode": "50059",
+    "addressLocality": "Vinci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78796,
+        "lon": 10.92733
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 56100"
+    ],
+    "rating": "3.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA DA MICHELONE",
+    "description": "La Pizzeria da Michelone, a Fucecchio in Via Giardino, trasforma i vostri momenti conviviali in una saporita e gustosa festa.",
+    "address": "29, V. Giardino - 50054 San Pierino (FI)",
+    "streetAddress": "29, V. Giardino",
+    "postalCode": "50054",
+    "addressLocality": "San Pierino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71446,
+        "lon": 10.81418
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 244061"
+    ],
+    "rating": ""
+}

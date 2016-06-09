@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DA PADELLINA",
+    "description": "Da Padellina, locale accogliente per gustare ottime specialità della cucina tipica toscana, a Greve in Chianti in c. Del Popolo 54.",
+    "address": "54, C. Del Popolo - 50027 Strada In Chianti (FI)",
+    "streetAddress": "54, C. Del Popolo",
+    "postalCode": "50027",
+    "addressLocality": "Strada In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.6606,
+        "lon": 11.29542
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 858388"
+    ],
+    "rating": "5.0"
+}

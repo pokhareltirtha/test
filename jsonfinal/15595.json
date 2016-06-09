@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA GIACOMELA",
+    "description": "Tra le colline romagnole, a Brisighella (RA) in 1/a, p. Del Ponte, la Trattoria Giacomela propone i sapori e profumi della cucina tradizionale",
+    "address": "1/A, P. Del Ponte - 48013 San Martino (RA)",
+    "streetAddress": "1/A, P. Del Ponte",
+    "postalCode": "48013",
+    "addressLocality": "San Martino",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.11639,
+        "lon": 11.67166
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 87016"
+    ],
+    "rating": "5.0"
+}

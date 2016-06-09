@@ -1,0 +1,21 @@
+{
+    "name": "LOCANDA DEI FONDI",
+    "description": "",
+    "address": "Via Nazionale 20/A - 47013 Dovadola (FC)",
+    "streetAddress": "Via Nazionale 20/A",
+    "postalCode": "47013",
+    "addressLocality": "Dovadola",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.12393,
+        "lon": 11.88886
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0543 933325",
+        "0543 934475"
+    ],
+    "rating": ""
+}

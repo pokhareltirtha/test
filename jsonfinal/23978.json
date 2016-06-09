@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA LA TAGLIOLA DI SALVINI ROSSANO",
+    "description": "",
+    "address": "10/A, Via Chiecina - 56020 Montopoli In Val D'Arno (PI)",
+    "streetAddress": "10/A, Via Chiecina",
+    "postalCode": "56020",
+    "addressLocality": "Montopoli In Val D'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66867,
+        "lon": 10.7355
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 467829"
+    ],
+    "rating": ""
+}

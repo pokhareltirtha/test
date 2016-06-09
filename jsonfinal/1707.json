@@ -1,0 +1,22 @@
+{
+    "name": "LO SCRICCIOLO",
+    "description": "",
+    "address": "2, Via Delle Voltate - 50031 Montecarelli (FI)",
+    "streetAddress": "2, Via Delle Voltate",
+    "postalCode": "50031",
+    "addressLocality": "Montecarelli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.05077,
+        "lon": 11.26172
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8423928",
+        "055 8423116"
+    ],
+    "rating": ""
+}

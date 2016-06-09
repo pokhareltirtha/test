@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ATLANTIC OIL",
+    "description": "Il ristorante a Poppi (AR) che propone piatti tipici della cucina toscana e birre artigianali.",
+    "address": "50, V. Falterona - 52014 Porrena (AR)",
+    "streetAddress": "50, V. Falterona",
+    "postalCode": "52014",
+    "addressLocality": "Porrena",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.74445,
+        "lon": 11.74613
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 550513"
+    ],
+    "rating": "4.0"
+}

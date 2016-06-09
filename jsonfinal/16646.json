@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE TUTTAPPOSTO",
+    "description": "",
+    "address": "3, Via Castel Cellesi - 51100 Pistoia (PT)",
+    "streetAddress": "3, Via Castel Cellesi",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93261,
+        "lon": 10.91586
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 975430"
+    ],
+    "rating": ""
+}

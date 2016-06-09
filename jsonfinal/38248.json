@@ -1,0 +1,20 @@
+{
+    "name": "SAN PAOLO DELLA CROCE",
+    "description": "",
+    "address": "7, Via Di Colle Ramole - 50023 Bottai (FI)",
+    "streetAddress": "7, Via Di Colle Ramole",
+    "postalCode": "50023",
+    "addressLocality": "Bottai",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72736,
+        "lon": 11.2238
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2373684"
+    ],
+    "rating": ""
+}

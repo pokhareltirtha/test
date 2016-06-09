@@ -1,0 +1,20 @@
+{
+    "name": "LA CHIOSTRINA",
+    "description": "",
+    "address": "29, Piazza San Firenze - 50122 Firenze (FI)",
+    "streetAddress": "29, Piazza San Firenze",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76975,
+        "lon": 11.25766
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 288621"
+    ],
+    "rating": ""
+}

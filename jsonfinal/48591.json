@@ -1,0 +1,21 @@
+{
+    "name": "LA MAGIONE",
+    "description": "",
+    "address": "35, Via Perticaia - 51034 Serravalle Pistoiese (PT)",
+    "streetAddress": "35, Via Perticaia",
+    "postalCode": "51034",
+    "addressLocality": "Serravalle Pistoiese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89922,
+        "lon": 10.82657
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "335 7017867",
+        "0573 518066"
+    ],
+    "rating": ""
+}

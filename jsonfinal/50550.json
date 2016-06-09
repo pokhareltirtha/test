@@ -1,0 +1,20 @@
+{
+    "name": "PRONTO PIZZA - PIZZA A CASA PIZZA DA ASPORTO E DOMICILIO",
+    "description": "",
+    "address": "Via Cassia 18/A - 50144 Firenze (FI)",
+    "streetAddress": "Via Cassia 18/A",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78356,
+        "lon": 11.24084
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 355553"
+    ],
+    "rating": ""
+}

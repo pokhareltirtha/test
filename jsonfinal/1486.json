@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA SPAGHETTERIA IL CROSTINO",
+    "description": "Il ristorante Il Crostino, a Scandicci, propone gustose pizze, crostini e piatti della tradizione italiana.",
+    "address": "45, V. Vivaldi - 50018 Scandicci (FI)",
+    "streetAddress": "45, V. Vivaldi",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76083,
+        "lon": 11.17946
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 755689"
+    ],
+    "rating": ""
+}

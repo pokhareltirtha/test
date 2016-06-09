@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA SOTTOCASA",
+    "description": "",
+    "address": "42/A, Via Mincio - 52025 Montevarchi (AR)",
+    "streetAddress": "42/A, Via Mincio",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.52132,
+        "lon": 11.54088
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "331 8363398"
+    ],
+    "rating": ""
+}

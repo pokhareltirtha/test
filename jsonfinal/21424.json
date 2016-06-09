@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DELL'ANGELO",
+    "description": "",
+    "address": "3, Via Della Madonna - 52027 San Giovanni Valdarno (AR)",
+    "streetAddress": "3, Via Della Madonna",
+    "postalCode": "52027",
+    "addressLocality": "San Giovanni Valdarno",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.56461,
+        "lon": 11.52927
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 943799"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA DA GIOVANNI DI LIZZI GIOVANNI & C. SNC",
+    "description": "",
+    "address": "76, Via Romea Francesca - 55011 Altopascio (LU)",
+    "streetAddress": "76, Via Romea Francesca",
+    "postalCode": "55011",
+    "addressLocality": "Altopascio",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81916,
+        "lon": 10.66702
+    },
+    "categories": [
+        "Alimentari - vendita al dettaglio"
+    ],
+    "telephone": [
+        "0583 277144"
+    ],
+    "rating": ""
+}

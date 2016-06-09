@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA LOGGIA",
+    "description": "",
+    "address": "1, Piazzale Michelangiolo - 50125 Firenze (FI)",
+    "streetAddress": "1, Piazzale Michelangiolo",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76232,
+        "lon": 11.26525
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2345288",
+        "055 29083284"
+    ],
+    "rating": "5.0"
+}

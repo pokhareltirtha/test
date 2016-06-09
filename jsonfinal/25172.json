@@ -1,0 +1,21 @@
+{
+    "name": "LA FIASCHETTERIA",
+    "description": "",
+    "address": "5, Piazza Taddeo Gaddi - 50142 Firenze (FI)",
+    "streetAddress": "5, Piazza Taddeo Gaddi",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77375,
+        "lon": 11.23369
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2306518",
+        "055 706492"
+    ],
+    "rating": ""
+}

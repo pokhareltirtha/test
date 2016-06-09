@@ -1,0 +1,20 @@
+{
+    "name": "BERNACCHIONI SIMONE",
+    "description": "",
+    "address": "1, Piazza Di S. Maria Maggiore - 50123 Firenze (FI)",
+    "streetAddress": "1, Piazza Di S. Maria Maggiore",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77332,
+        "lon": 11.25273
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 290876"
+    ],
+    "rating": ""
+}

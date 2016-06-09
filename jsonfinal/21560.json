@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA SPAGHETTERIA DA MICHELE",
+    "description": "",
+    "address": "4, Viale XI Febbraio - 53017 Radda In Chianti (SI)",
+    "streetAddress": "4, Viale XI Febbraio",
+    "postalCode": "53017",
+    "addressLocality": "Radda In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.48683,
+        "lon": 11.37745
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 738784"
+    ],
+    "rating": ""
+}

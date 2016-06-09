@@ -1,0 +1,20 @@
+{
+    "name": "LA DANTESCA IL PARADISO DELLA PIZZA",
+    "description": "",
+    "address": "Piazza S. M. Novella 24/R - 50123 Firenze (FI)",
+    "streetAddress": "Piazza S. M. Novella 24/R",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77414,
+        "lon": 11.24994
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 212287"
+    ],
+    "rating": ""
+}

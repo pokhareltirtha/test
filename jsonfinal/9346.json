@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE MANGI E BEVI DI MONTI BEATRICE",
+    "description": "",
+    "address": "128, Via Provinciale Francesca Sud - 56022 Castelfranco Di Sotto (PI)",
+    "streetAddress": "128, Via Provinciale Francesca Sud",
+    "postalCode": "56022",
+    "addressLocality": "Castelfranco Di Sotto",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69845,
+        "lon": 10.73231
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 1933258",
+        "0571 489400"
+    ],
+    "rating": ""
+}

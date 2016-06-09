@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE L'ORCELLO",
+    "description": "Ristorante pizzeria rustico e suggestivo con cucina tradizionale toscana, a Talla.",
+    "address": "3, V. Battisti - 52010 Talla (AR)",
+    "streetAddress": "3, V. Battisti",
+    "postalCode": "52010",
+    "addressLocality": "Talla",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.60119,
+        "lon": 11.78867
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0575 597710"
+    ],
+    "rating": ""
+}

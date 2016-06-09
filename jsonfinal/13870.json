@@ -1,0 +1,20 @@
+{
+    "name": "LORY S.R.L.",
+    "description": "",
+    "address": "20, Via Del Pescinale - 50041 Calenzano (FI)",
+    "streetAddress": "20, Via Del Pescinale",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85409,
+        "lon": 11.15816
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8878698"
+    ],
+    "rating": ""
+}

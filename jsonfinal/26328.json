@@ -1,0 +1,20 @@
+{
+    "name": "FOUR SEASONS HOTEL FIRENZE",
+    "description": "Prestigioso hotel Four Seasons con una cucina stellata, suite, centro benessere, piscina all'aperto e palestra a Firenze in bg. Pinti, 99.",
+    "address": "99, Bg. Pinti - 50121 Firenze (FI)",
+    "streetAddress": "99, Bg. Pinti",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77694,
+        "lon": 11.26639
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 26261"
+    ],
+    "rating": "5.0"
+}

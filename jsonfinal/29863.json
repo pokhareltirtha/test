@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA DA L'ANNINA",
+    "description": "",
+    "address": "4, Via Don Milani Lorenzo-Soci - 52011 Bibbiena (AR)",
+    "streetAddress": "4, Via Don Milani Lorenzo-Soci",
+    "postalCode": "52011",
+    "addressLocality": "Bibbiena",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.72454,
+        "lon": 11.80883
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 561093"
+    ],
+    "rating": ""
+}

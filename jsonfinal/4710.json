@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA ZIO GIGI",
+    "description": "",
+    "address": "7, Via Folco Portinari - 50122 Firenze (FI)",
+    "streetAddress": "7, Via Folco Portinari",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77265,
+        "lon": 11.25911
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 215584"
+    ],
+    "rating": "4.8"
+}

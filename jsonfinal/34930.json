@@ -1,0 +1,20 @@
+{
+    "name": "IL PORTICHETTO",
+    "description": "",
+    "address": "9, Localita Ischieti - 50038 Scarperia E San Piero (FI)",
+    "streetAddress": "9, Localita Ischieti",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia E San Piero",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.95487,
+        "lon": 11.29965
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 848099"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "FLORIRIS BAR PIZZERIA SNC",
+    "description": "",
+    "address": "8, Piazza Della Fiera - 53019 Castelnuovo Berardenga (SI)",
+    "streetAddress": "8, Piazza Della Fiera",
+    "postalCode": "53019",
+    "addressLocality": "Castelnuovo Berardenga",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42165,
+        "lon": 11.34805
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "0577 322770"
+    ],
+    "rating": ""
+}

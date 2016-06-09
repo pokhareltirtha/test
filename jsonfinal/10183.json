@@ -1,0 +1,20 @@
+{
+    "name": "IL PAPAVERO SRLS",
+    "description": "",
+    "address": "22, Via Dei Cappuccini - 50053 Empoli (FI)",
+    "streetAddress": "22, Via Dei Cappuccini",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71436,
+        "lon": 10.9477
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 962835"
+    ],
+    "rating": ""
+}

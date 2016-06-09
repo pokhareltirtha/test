@@ -1,0 +1,20 @@
+{
+    "name": "HOTEL PASSO DELLA FUTA",
+    "description": "",
+    "address": "57, Via Castronella - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "57, Via Castronella",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82585,
+        "lon": 11.13383
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 815255"
+    ],
+    "rating": ""
+}

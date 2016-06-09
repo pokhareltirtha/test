@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE BELSOGGIORNO",
+    "description": "Il Ristorante Belsoggiorno, a San Gimignano propone l’ottima cucina toscana con specialità di mare e di terra e per i piatti di pasta fresca.",
+    "address": "91, V. S. Giovanni - 53037 San Gimignano (SI)",
+    "streetAddress": "91, V. S. Giovanni",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46488,
+        "lon": 11.04258
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 943149",
+        "340 2667386"
+    ],
+    "rating": ""
+}

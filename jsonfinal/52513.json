@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA L'ORO IN BOCCA",
+    "description": "",
+    "address": "7, Via Arti E Mestieri - 50056 Fibbiana (FI)",
+    "streetAddress": "7, Via Arti E Mestieri",
+    "postalCode": "50056",
+    "addressLocality": "Fibbiana",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72828,
+        "lon": 11.00117
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "334 3801767"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "FUORIPIAZZA",
+    "description": "",
+    "address": "46, Via Vincenzo Gioberti - 50121 Firenze (FI)",
+    "streetAddress": "46, Via Vincenzo Gioberti",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77011,
+        "lon": 11.2765
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 669957"
+    ],
+    "rating": ""
+}

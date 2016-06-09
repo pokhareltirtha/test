@@ -1,0 +1,20 @@
+{
+    "name": "BOMBINI NICOLA",
+    "description": "",
+    "address": "14, Via Dell' Osteria - 40050 Monterenzio (BO)",
+    "streetAddress": "14, Via Dell' Osteria",
+    "postalCode": "40050",
+    "addressLocality": "Monterenzio",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.33183,
+        "lon": 11.40714
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "051 929314"
+    ],
+    "rating": ""
+}

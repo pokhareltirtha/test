@@ -1,0 +1,20 @@
+{
+    "name": "CAVALLI CLUB",
+    "description": "",
+    "address": "Piazza Del Carmine 8/R - 50124 Firenze (FI)",
+    "streetAddress": "Piazza Del Carmine 8/R",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76858,
+        "lon": 11.24356
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 211650"
+    ],
+    "rating": ""
+}

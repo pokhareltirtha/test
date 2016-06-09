@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE CAMPAGNA",
+    "description": "",
+    "address": "90, V. Barberino - 50041 Calenzano (FI)",
+    "streetAddress": "90, V. Barberino",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.94418,
+        "lon": 11.21453
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "055 8877474",
+        "333 1249037"
+    ],
+    "rating": "5.0"
+}

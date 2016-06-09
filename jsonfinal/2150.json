@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA TRE PINI",
+    "description": "Al ristorante Tre Pini di Castiglione dei Popoli, in provincia di Bologna, troverete la passione per la buona tavola e piatti della tradizione.",
+    "address": "18, V. Toscana - 40035 Castiglione Dei Pepoli (BO)",
+    "streetAddress": "18, V. Toscana",
+    "postalCode": "40035",
+    "addressLocality": "Castiglione Dei Pepoli",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.14275,
+        "lon": 11.15946
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0534 91512"
+    ],
+    "rating": ""
+}

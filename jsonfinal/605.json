@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE \"BLUAQUA\"",
+    "description": "",
+    "address": "87, Via Del Molino - 50041 Calenzano (FI)",
+    "streetAddress": "87, Via Del Molino",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8607,
+        "lon": 11.15575
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8877154"
+    ],
+    "rating": ""
+}

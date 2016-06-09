@@ -1,0 +1,20 @@
+{
+    "name": "BENCIST",
+    "description": "",
+    "address": "Via Benedetto Da Maiano 4 - 50014 Fiesole (FI)",
+    "streetAddress": "Via Benedetto Da Maiano 4",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79836,
+        "lon": 11.3001
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 59163"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "AUTOGRILL",
+    "description": "",
+    "address": ",,Autostrada A1 Roma Firenze - 52027 San Giovanni Valdarno (AR)",
+    "streetAddress": ",  Autostrada A1 Roma Firenze",
+    "postalCode": "52027",
+    "addressLocality": "San Giovanni Valdarno",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.57675,
+        "lon": 11.5339
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9118099"
+    ],
+    "rating": ""
+}

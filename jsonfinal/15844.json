@@ -1,0 +1,21 @@
+{
+    "name": "BEPPE & BOGHE RISTORANTE PIZZERIA PUB S.R.L.",
+    "description": "",
+    "address": "1, Via Delle Pinete - 56029 Santa Croce Sull'Arno (PI)",
+    "streetAddress": "1, Via Delle Pinete",
+    "postalCode": "56029",
+    "addressLocality": "Santa Croce Sull'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.75157,
+        "lon": 10.70271
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 466878",
+        "0571 37455"
+    ],
+    "rating": ""
+}

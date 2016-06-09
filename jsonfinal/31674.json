@@ -1,0 +1,21 @@
+{
+    "name": "ALBERGO RISTORANTE LA FORESTA SRL",
+    "description": "",
+    "address": "2, Localita' Vallombrosa - 50066 Reggello (FI)",
+    "streetAddress": "2, Localita' Vallombrosa",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73464,
+        "lon": 11.55476
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8622389",
+        "055 862034"
+    ],
+    "rating": ""
+}

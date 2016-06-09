@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE POGGIO DEI PAPI",
+    "description": "",
+    "address": "28, Via San Giusto - 51034 Serravalle Pistoiese (PT)",
+    "streetAddress": "28, Via San Giusto",
+    "postalCode": "51034",
+    "addressLocality": "Serravalle Pistoiese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8761,
+        "lon": 10.89807
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "335 6369949",
+        "0573 528093"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "TENNIS CLUB LA LIMONAIA",
+    "description": "",
+    "address": "198, Vl. XX Settembre - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "198, Vl. XX Settembre",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83422,
+        "lon": 11.21252
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 445413"
+    ],
+    "rating": ""
+}

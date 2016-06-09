@@ -1,0 +1,20 @@
+{
+    "name": "SARNI BISENZIO OVEST",
+    "description": "",
+    "address": ",,Autostrada A1 Direzione Roma 279 - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": ",  Autostrada A1 Direzione Roma 279",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83951,
+        "lon": 11.19246
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0871 549491"
+    ],
+    "rating": ""
+}

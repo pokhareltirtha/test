@@ -1,0 +1,20 @@
+{
+    "name": "IL GALLO",
+    "description": "",
+    "address": "148, Via Del Gallo - 51016 Gallo (PT)",
+    "streetAddress": "148, Via Del Gallo",
+    "postalCode": "51016",
+    "addressLocality": "Gallo",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87175,
+        "lon": 10.78014
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 80335"
+    ],
+    "rating": ""
+}

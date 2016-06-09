@@ -1,0 +1,20 @@
+{
+    "name": "DIECIROSSO SRL",
+    "description": "",
+    "address": "10/R, Viale Minzoni Don Giovanni - 50129 Firenze (FI)",
+    "streetAddress": "10/R, Viale Minzoni Don Giovanni",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78461,
+        "lon": 11.26448
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 5048120"
+    ],
+    "rating": ""
+}

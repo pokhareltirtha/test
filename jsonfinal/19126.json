@@ -1,0 +1,20 @@
+{
+    "name": "CIAK SI MANGIA",
+    "description": "",
+    "address": "11, Via Cervi Fratelli - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "11, Via Cervi Fratelli",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84457,
+        "lon": 11.14124
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8969471"
+    ],
+    "rating": ""
+}

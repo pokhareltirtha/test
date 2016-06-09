@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE NOEMA",
+    "description": "",
+    "address": "79, Via Del Podesta' - 50125 Firenze (FI)",
+    "streetAddress": "79, Via Del Podesta'",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74483,
+        "lon": 11.23169
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2322066"
+    ],
+    "rating": ""
+}

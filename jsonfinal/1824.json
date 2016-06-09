@@ -1,0 +1,21 @@
+{
+    "name": "IL GUADO",
+    "description": "",
+    "address": "100, Via Bligny - 59100 Maliseti (PO)",
+    "streetAddress": "100, Via Bligny",
+    "postalCode": "59100",
+    "addressLocality": "Maliseti",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.89998,
+        "lon": 11.06776
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 654407"
+    ],
+    "rating": "5.0"
+}

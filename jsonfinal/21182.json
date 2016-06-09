@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA LA BRACERIA",
+    "description": "",
+    "address": "Via Poggilupi In Monsorbi - Pettini, 295 - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "Via Poggilupi In Monsorbi - Pettini, 295",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.55055,
+        "lon": 11.58833
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9738710"
+    ],
+    "rating": ""
+}

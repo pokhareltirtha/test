@@ -1,0 +1,20 @@
+{
+    "name": "DA COSO",
+    "description": "",
+    "address": "52, Via Livornese Di Sotto - 51013 Chiesina Uzzanese (PT)",
+    "streetAddress": "52, Via Livornese Di Sotto",
+    "postalCode": "51013",
+    "addressLocality": "Chiesina Uzzanese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.82771,
+        "lon": 10.72416
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 489061"
+    ],
+    "rating": ""
+}

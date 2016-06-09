@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA PIZZEUS",
+    "description": "",
+    "address": "4, Via Cavallotti Felice - 56025 Pontedera (PI)",
+    "streetAddress": "4, Via Cavallotti Felice",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66368,
+        "lon": 10.6379
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 52660"
+    ],
+    "rating": ""
+}

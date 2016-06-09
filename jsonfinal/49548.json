@@ -1,0 +1,20 @@
+{
+    "name": "LA PERGOLA DI NESTI KATIA",
+    "description": "",
+    "address": "48, Via Antonio Gramsci - 51035 Lamporecchio (PT)",
+    "streetAddress": "48, Via Antonio Gramsci",
+    "postalCode": "51035",
+    "addressLocality": "Lamporecchio",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8155,
+        "lon": 10.89577
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 81600"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "L'OSTERIA DEL POETA",
+    "description": "",
+    "address": "Via Provinciale Francesca, 248 - 56020 Santa Maria A Monte (PI)",
+    "streetAddress": "Via Provinciale Francesca, 248",
+    "postalCode": "56020",
+    "addressLocality": "Santa Maria A Monte",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70324,
+        "lon": 10.68705
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 709090"
+    ],
+    "rating": ""
+}

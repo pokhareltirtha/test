@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA PAPA' NINUCCIO DI SANTANIELLO FERDINANDO & C SNC",
+    "description": "",
+    "address": "47, Corso Matteotti Giacomo - 56021 Cascina (PI)",
+    "streetAddress": "47, Corso Matteotti Giacomo",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67637,
+        "lon": 10.54962
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 700040"
+    ],
+    "rating": ""
+}

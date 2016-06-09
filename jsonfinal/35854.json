@@ -1,0 +1,21 @@
+{
+    "name": "TOP RANK srl",
+    "description": "Top Rank a Sesto Fiorentino (FI), 57, vl. Toscanini. Ristorante, pizzeria. specialità pesce.",
+    "address": "57, Vl. Toscanini - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "57, Vl. Toscanini",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82328,
+        "lon": 11.21641
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 0503411",
+        "328 9206978"
+    ],
+    "rating": "4.0"
+}

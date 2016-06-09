@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA CASCINA",
+    "description": "La Cascina è stata ristrutturata dalla famiglia Cardelli, che ne cura anche la gestione.",
+    "address": "43, Vl. Verdi - 51016 Montecatini Terme (PT)",
+    "streetAddress": "43, Vl. Verdi",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8842,
+        "lon": 10.7724
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 78474"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA BAR LA CONCA S.A.S. DI GUIDOTTI GEMMA & C",
+    "description": "",
+    "address": "26, Via Chiesa - 55012 Massa Macinaia (LU)",
+    "streetAddress": "26, Via Chiesa",
+    "postalCode": "55012",
+    "addressLocality": "Massa Macinaia",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.78036,
+        "lon": 10.57953
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 90179"
+    ],
+    "rating": ""
+}

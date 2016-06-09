@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA PIU' DI TOSCHI LUCA",
+    "description": "",
+    "address": "24/B, Via Livornese - 56029 Santa Croce Sull'Arno (PI)",
+    "streetAddress": "24/B, Via Livornese",
+    "postalCode": "56029",
+    "addressLocality": "Santa Croce Sull'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.76347,
+        "lon": 10.70774
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 380026"
+    ],
+    "rating": ""
+}

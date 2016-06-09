@@ -1,0 +1,21 @@
+{
+    "name": "LORENZO DE' MEDICI",
+    "description": "",
+    "address": "49, Via Del Giglio - 50123 Firenze (FI)",
+    "streetAddress": "49, Via Del Giglio",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77463,
+        "lon": 11.25228
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 212932"
+    ],
+    "rating": ""
+}

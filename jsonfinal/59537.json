@@ -1,0 +1,20 @@
+{
+    "name": "LA CARBONAIA",
+    "description": "",
+    "address": "124, Via IV Novembre - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": "124, Via IV Novembre",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.65821,
+        "lon": 11.18794
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 828344"
+    ],
+    "rating": ""
+}

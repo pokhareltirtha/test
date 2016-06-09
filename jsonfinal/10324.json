@@ -1,0 +1,21 @@
+{
+    "name": "IL GIOGO",
+    "description": "",
+    "address": "Via Del Giogo 19 - 50038 Scarperia E San Piero (FI)",
+    "streetAddress": "Via Del Giogo 19",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia E San Piero",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.02717,
+        "lon": 11.38172
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 468320",
+        "055 8468320"
+    ],
+    "rating": ""
+}

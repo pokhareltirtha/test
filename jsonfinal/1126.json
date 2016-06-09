@@ -1,0 +1,22 @@
+{
+    "name": "MIA AMMOR",
+    "description": "",
+    "address": "18, Via Francesco Baracca - 50127 Firenze (FI)",
+    "streetAddress": "18, Via Francesco Baracca",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78755,
+        "lon": 11.22543
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 412342",
+        "055 414278"
+    ],
+    "rating": "5.0"
+}

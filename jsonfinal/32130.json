@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PENSIONE SBARAGLI SNC",
+    "description": "",
+    "address": "339, Via Casentinese - 50060 Pelago (AR)",
+    "streetAddress": "339, Via Casentinese",
+    "postalCode": "50060",
+    "addressLocality": "Pelago",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.78119,
+        "lon": 11.59686
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8306500"
+    ],
+    "rating": ""
+}

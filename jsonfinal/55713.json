@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA LOGGETTINA",
+    "description": "",
+    "address": "2, Via Cavalleggeri - 50023 Impruneta (FI)",
+    "streetAddress": "2, Via Cavalleggeri",
+    "postalCode": "50023",
+    "addressLocality": "Impruneta",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.68573,
+        "lon": 11.25433
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2312690"
+    ],
+    "rating": ""
+}

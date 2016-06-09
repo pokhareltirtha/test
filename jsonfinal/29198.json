@@ -1,0 +1,21 @@
+{
+    "name": "LOCANDA CASABLANCA",
+    "description": "",
+    "address": "48, Localita' Trappola - 52024 Loro Ciuffenna (AR)",
+    "streetAddress": "48, Localita' Trappola",
+    "postalCode": "52024",
+    "addressLocality": "Loro Ciuffenna",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.61904,
+        "lon": 11.64969
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9173223",
+        "055 9173400"
+    ],
+    "rating": "5.0"
+}

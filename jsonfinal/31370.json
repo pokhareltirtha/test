@@ -1,0 +1,20 @@
+{
+    "name": "DANNY ROCK",
+    "description": "",
+    "address": "13, Via Dei Pandolfini - 50122 Firenze (FI)",
+    "streetAddress": "13, Via Dei Pandolfini",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7709,
+        "lon": 11.2609
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2340307"
+    ],
+    "rating": "4.0"
+}

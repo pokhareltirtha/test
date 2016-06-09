@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE VILLA SAULINA",
+    "description": "Nel Ristorante Pizzeria Villa Saulina a Lastra a Signa (FI), sono proposti gustosi piatti tipici ed una cucina fresca e curata che rispecchia la nostra Italia.",
+    "address": "",
+    "streetAddress": "",
+    "postalCode": "",
+    "addressLocality": "",
+    "addressRegion": "",
+    "coordinates": {
+        "lat": null,
+        "lon": null
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "335 361467",
+        "055 8729511"
+    ],
+    "rating": ""
+}

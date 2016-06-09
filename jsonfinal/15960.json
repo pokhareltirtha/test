@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA PAPAO",
+    "description": "Il Ristorante Pizzeria Papao, a Capannori, propone in menù deliziose pizze, specialità di carne alla brace e piatti tipici toscani.",
+    "address": "110, V. Com. Vecchia Pesciatina - 55012 Lunata (LU)",
+    "streetAddress": "110, V. Com. Vecchia Pesciatina",
+    "postalCode": "55012",
+    "addressLocality": "Lunata",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.85868,
+        "lon": 10.58042
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 935066"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CIURI CIURI",
+    "description": "Il ristorante pizzeria di Poggibonsi, in provincia di Siena, che prepara pizze cotte in forno a legna e specialità di cucina siciliana.",
+    "address": "15/A, V. Santa Caterina - 53036 Poggibonsi (SI)",
+    "streetAddress": "15/A, V. Santa Caterina",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46662,
+        "lon": 11.14424
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 939650"
+    ],
+    "rating": ""
+}

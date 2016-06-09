@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA DA BEPPE DI CIERVO LUCIA",
+    "description": "",
+    "address": "5, Piazza Bianchini Giuseppe - 59100 Prato (PO)",
+    "streetAddress": "5, Piazza Bianchini Giuseppe",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86505,
+        "lon": 11.04047
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "333 9215553",
+        "0574 070504"
+    ],
+    "rating": "3.8"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL BRACCHETTONE",
+    "description": "",
+    "address": "8, Via Fonte Corrente - 56048 Volterra (PI)",
+    "streetAddress": "8, Via Fonte Corrente",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.39688,
+        "lon": 10.86052
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 85219"
+    ],
+    "rating": ""
+}

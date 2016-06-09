@@ -1,0 +1,20 @@
+{
+    "name": "LA GIOCONDA",
+    "description": "",
+    "address": "84, Via San Regolo - 56028 San Miniato (PI)",
+    "streetAddress": "84, Via San Regolo",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.6429,
+        "lon": 10.81851
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 460318"
+    ],
+    "rating": "3.7"
+}

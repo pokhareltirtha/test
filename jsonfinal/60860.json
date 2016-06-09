@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA MONOPOLI",
+    "description": "",
+    "address": "74, Via Alberghi - 51017 Pescia (PT)",
+    "streetAddress": "74, Via Alberghi",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88124,
+        "lon": 10.68771
+    },
+    "categories": [
+        "Gastronomie, salumerie e rosticcerie"
+    ],
+    "telephone": [
+        "0572 451240"
+    ],
+    "rating": ""
+}

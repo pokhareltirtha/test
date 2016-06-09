@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA DA ROCCO",
+    "description": "La Trattoria Da Rocco di piazza Ghiberti, a Firenze, accoglie i propri clienti in un ambiente caratteristico e famigliare dove gustare i piatti tipici locali.",
+    "address": "P. Ghiberti - 50122 Firenze (FI)",
+    "streetAddress": "P. Ghiberti",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77091,
+        "lon": 11.26703
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 8384555"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "VECCHIO CINEMA",
+    "description": "",
+    "address": "30, Via IV Novembre - 56028 San Miniato (PI)",
+    "streetAddress": "30, Via IV Novembre",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67895,
+        "lon": 10.84787
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 42518"
+    ],
+    "rating": ""
+}

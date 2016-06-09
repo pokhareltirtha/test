@@ -1,0 +1,20 @@
+{
+    "name": "LE PIANA SNC",
+    "description": "",
+    "address": "2/L, Via Bisenzio - 59024 Vernio (PO)",
+    "streetAddress": "2/L, Via Bisenzio",
+    "postalCode": "59024",
+    "addressLocality": "Vernio",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 44.03524,
+        "lon": 11.15378
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 950091"
+    ],
+    "rating": ""
+}

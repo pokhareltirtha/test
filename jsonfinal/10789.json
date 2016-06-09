@@ -1,0 +1,20 @@
+{
+    "name": "AL CAPOLINEA",
+    "description": "",
+    "address": "10, Via Ponte Alla Guardia - 51019 Ponte Buggianese (PT)",
+    "streetAddress": "10, Via Ponte Alla Guardia",
+    "postalCode": "51019",
+    "addressLocality": "Ponte Buggianese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83435,
+        "lon": 10.76456
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 930020"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA PIZZERIA ANTICA CALCINAIA",
+    "description": "",
+    "address": "21, Via Grevigiana - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": "21, Via Grevigiana",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.648,
+        "lon": 11.20466
+    },
+    "categories": [
+        "Ristoranti - trattorie ed osterie"
+    ],
+    "telephone": [
+        "055 8294785"
+    ],
+    "rating": ""
+}

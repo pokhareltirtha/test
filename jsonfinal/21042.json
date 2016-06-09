@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA DEL VIANDANTE",
+    "description": "",
+    "address": "52, Via Chiantigiana - 50028 Tavarnelle Val Di Pesa (FI)",
+    "streetAddress": "52, Via Chiantigiana",
+    "postalCode": "50028",
+    "addressLocality": "Tavarnelle Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.56334,
+        "lon": 11.22132
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "331 3191746",
+        "055 8072225"
+    ],
+    "rating": ""
+}

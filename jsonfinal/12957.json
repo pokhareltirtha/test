@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA BAITA",
+    "description": "",
+    "address": "Via Poggio Alla Ginestra 2 - 50060 Pelago (FI)",
+    "streetAddress": "Via Poggio Alla Ginestra 2",
+    "postalCode": "50060",
+    "addressLocality": "Pelago",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77828,
+        "lon": 11.58863
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8306482"
+    ],
+    "rating": "5.0"
+}

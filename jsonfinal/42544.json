@@ -1,0 +1,20 @@
+{
+    "name": "VILLA GIOTTO PARK",
+    "description": "",
+    "address": "Via Roma 69 - 50036 Bivigliano (FI)",
+    "streetAddress": "Via Roma 69",
+    "postalCode": "50036",
+    "addressLocality": "Bivigliano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.89482,
+        "lon": 11.3215
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 406608"
+    ],
+    "rating": ""
+}

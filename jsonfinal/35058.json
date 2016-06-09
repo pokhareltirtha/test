@@ -1,0 +1,20 @@
+{
+    "name": "BOTTEGA PALAZZINA",
+    "description": "",
+    "address": "1, Piazza Della Liberta - 40035 Castiglione Dei Pepoli (BO)",
+    "streetAddress": "1, Piazza Della Liberta",
+    "postalCode": "40035",
+    "addressLocality": "Castiglione Dei Pepoli",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.14137,
+        "lon": 11.1542
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0534 92982"
+    ],
+    "rating": ""
+}

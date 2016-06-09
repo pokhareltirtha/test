@@ -1,0 +1,21 @@
+{
+    "name": "TOMATO",
+    "description": "",
+    "address": "145, Piazza Delle Scuole - 52026 Faella (AR)",
+    "streetAddress": "145, Piazza Delle Scuole",
+    "postalCode": "52026",
+    "addressLocality": "Faella",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.6267,
+        "lon": 11.5165
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9789492"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "BRINCELLO",
+    "description": "",
+    "address": "110, Via Nazionale - 50123 Firenze (FI)",
+    "streetAddress": "110, Via Nazionale",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77868,
+        "lon": 11.25357
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 282645"
+    ],
+    "rating": "4.7"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "SPAMPANI VERONICA",
+    "description": "",
+    "address": "69, Via Venti Settembre - 51100 Pistoia (PT)",
+    "streetAddress": "69, Via Venti Settembre",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92746,
+        "lon": 10.91447
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 21497"
+    ],
+    "rating": ""
+}

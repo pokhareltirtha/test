@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DEI MERCANTI",
+    "description": "",
+    "address": "8, Via Ser Lapo Mazzei - 59015 Carmignano (PO)",
+    "streetAddress": "8, Via Ser Lapo Mazzei",
+    "postalCode": "59015",
+    "addressLocality": "Carmignano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.81349,
+        "lon": 11.01881
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8711587"
+    ],
+    "rating": ""
+}

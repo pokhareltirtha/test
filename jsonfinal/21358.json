@@ -1,0 +1,21 @@
+{
+    "name": "VECCHIO CARLINO",
+    "description": "",
+    "address": "Zona P.Ta Al Prato 17/R - 50123 Firenze (FI)",
+    "streetAddress": "Zona P.Ta Al Prato 17/R",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77484,
+        "lon": 11.24259
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "389 8376396",
+        "055 353678"
+    ],
+    "rating": "2.0"
+}

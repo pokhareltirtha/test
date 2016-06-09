@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE BAR PIZZERIA OASI AL LAGO",
+    "description": "Il ristorante, pizzeria e bar immerso nel verde dove trascorre una bella giornata...e praticare la pesca sportiva a Santa Maria a Monte in provincia di Pisa.",
+    "address": "V. Arnovecchio - 56020 Santa Maria A Monte (PI)",
+    "streetAddress": "V. Arnovecchio",
+    "postalCode": "56020",
+    "addressLocality": "Santa Maria A Monte",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67125,
+        "lon": 10.68334
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 709201"
+    ],
+    "rating": "3.7"
+}

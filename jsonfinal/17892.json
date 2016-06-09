@@ -1,0 +1,20 @@
+{
+    "name": "HOTEL I CILIEGI",
+    "description": "Nel nostro albergo di Reggello, in provincia di Firenze, troverete massimo comfort e personale cortese e professionale al vostro servizio.",
+    "address": "4, P. Amendola - 50066 Ciliegi (FI)",
+    "streetAddress": "4, P. Amendola",
+    "postalCode": "50066",
+    "addressLocality": "Ciliegi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.66453,
+        "lon": 11.45713
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 863451"
+    ],
+    "rating": "4.0"
+}

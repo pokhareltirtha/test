@@ -1,0 +1,20 @@
+{
+    "name": "COSMOPOLITAN COCKTAIL BAR",
+    "description": "Cosmopolitan Cocktail Bar nel centro di Firenze ti aspetta in brigata Allegri, 9/r.",
+    "address": "9/R Bg. Allegri - 50122 Firenze (FI)",
+    "streetAddress": "9/R Bg. Allegri",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76882,
+        "lon": 11.26377
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "366 2759210"
+    ],
+    "rating": ""
+}

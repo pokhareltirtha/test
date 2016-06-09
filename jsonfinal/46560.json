@@ -1,0 +1,20 @@
+{
+    "name": "BAR TABACCHERIA PIZZERIA DI GIUSTI MAURO",
+    "description": "",
+    "address": "57, Via Nazionale Sud - 40035 Creda (BO)",
+    "streetAddress": "57, Via Nazionale Sud",
+    "postalCode": "40035",
+    "addressLocality": "Creda",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.22084,
+        "lon": 11.1794
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "0534 897135"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA IN",
+    "description": "",
+    "address": "9, Via Martiri Del Popolo - 50066 Vaggio (FI)",
+    "streetAddress": "9, Via Martiri Del Popolo",
+    "postalCode": "50066",
+    "addressLocality": "Vaggio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.64077,
+        "lon": 11.50795
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8656924"
+    ],
+    "rating": ""
+}

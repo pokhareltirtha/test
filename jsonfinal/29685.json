@@ -1,0 +1,21 @@
+{
+    "name": "FERNANDA TURCHINI BARTOLINI",
+    "description": "Ristorante di Turchini Bartolini Fernanda, immerso nella natura, offre la possibilità di rilassarsi degustando piatti tipici a Reggello",
+    "address": "240, V. Aretina - 50066 Reggello (FI)",
+    "streetAddress": "240, V. Aretina",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.70119,
+        "lon": 11.46441
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8652048",
+        "333 4485288"
+    ],
+    "rating": ""
+}

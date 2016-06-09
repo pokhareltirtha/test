@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE BENEDICTA srl",
+    "description": "A Firenze, il locale menzionato nella Guida Michelin per l’ottima cucina tradizionale e internazionale.",
+    "address": "12/R, V. Benedetta - 50123 Firenze (FI)",
+    "streetAddress": "12/R, V. Benedetta",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77421,
+        "lon": 11.247
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2645429"
+    ],
+    "rating": ""
+}

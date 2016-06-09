@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA DEL BORGACCIO",
+    "description": "",
+    "address": "80, Via Borgaccio - 53036 Poggibonsi (SI)",
+    "streetAddress": "80, Via Borgaccio",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.47382,
+        "lon": 11.15056
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "328 7015001",
+        "0577 989037"
+    ],
+    "rating": ""
+}

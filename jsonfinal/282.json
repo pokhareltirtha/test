@@ -1,0 +1,21 @@
+{
+    "name": "OUTSIDE BISTROT",
+    "description": "Outside Bistrot offre servizi di ristorazione e pizzeria in un ambiente tranquillo e confortevole dotato di una lounge room underground, a Firenze.",
+    "address": "52, Lgarno Tempio - 50121 Firenze (FI)",
+    "streetAddress": "52, Lgarno Tempio",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76601,
+        "lon": 11.2719
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2343693"
+    ],
+    "rating": ""
+}

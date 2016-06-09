@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DA BREGA",
+    "description": "",
+    "address": "2, Via Monte La Pieve - 40025 Prato (BO)",
+    "streetAddress": "2, Via Monte La Pieve",
+    "postalCode": "40025",
+    "addressLocality": "Prato",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.26405,
+        "lon": 11.55641
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0542 92592"
+    ],
+    "rating": ""
+}

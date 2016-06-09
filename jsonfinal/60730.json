@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA ANDA E RIANDA",
+    "description": "",
+    "address": "14, Via Colzi F. - 51015 Monsummano Terme (PT)",
+    "streetAddress": "14, Via Colzi F.",
+    "postalCode": "51015",
+    "addressLocality": "Monsummano Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87184,
+        "lon": 10.81358
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 53298"
+    ],
+    "rating": "5.0"
+}

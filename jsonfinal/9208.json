@@ -1,0 +1,20 @@
+{
+    "name": "DAL PUCCI",
+    "description": "",
+    "address": "6, Via Libero Andreotti - 51017 Pescia (PT)",
+    "streetAddress": "6, Via Libero Andreotti",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90087,
+        "lon": 10.68792
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 476176"
+    ],
+    "rating": ""
+}

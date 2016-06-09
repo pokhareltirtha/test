@@ -1,0 +1,20 @@
+{
+    "name": "UNORISTORAZIONE S.R.L.",
+    "description": "",
+    "address": "53/R, Via Dei Conti - 50123 Firenze (FI)",
+    "streetAddress": "53/R, Via Dei Conti",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77473,
+        "lon": 11.2528
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 214210"
+    ],
+    "rating": "4.5"
+}

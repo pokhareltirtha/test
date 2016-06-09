@@ -1,0 +1,21 @@
+{
+    "name": "BACCABIANCA",
+    "description": "",
+    "address": "Via Lungagnana, 129 - 50025 Montespertoli (FI)",
+    "streetAddress": "Via Lungagnana, 129",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.63968,
+        "lon": 11.05531
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 658944",
+        "0571 676524"
+    ],
+    "rating": ""
+}

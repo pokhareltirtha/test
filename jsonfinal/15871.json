@@ -1,0 +1,21 @@
+{
+    "name": "QUEENS' CLUB",
+    "description": "",
+    "address": "1, Via Collegiata - 55015 Montecarlo (LU)",
+    "streetAddress": "1, Via Collegiata",
+    "postalCode": "55015",
+    "addressLocality": "Montecarlo",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.85133,
+        "lon": 10.668
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "347 3326414",
+        "0583 216698"
+    ],
+    "rating": ""
+}

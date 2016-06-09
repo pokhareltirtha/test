@@ -1,0 +1,20 @@
+{
+    "name": "PIZZOLANDO",
+    "description": "",
+    "address": "5, Piazza Ulivelli Ippolito - 50051 Castelfiorentino (FI)",
+    "streetAddress": "5, Piazza Ulivelli Ippolito",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.60375,
+        "lon": 10.97001
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 684904"
+    ],
+    "rating": ""
+}

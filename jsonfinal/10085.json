@@ -1,0 +1,21 @@
+{
+    "name": "FATTORIA RIGNANA",
+    "description": "",
+    "address": "15, Strada Rignana - 50022 Greve In Chianti (FI)",
+    "streetAddress": "15, Strada Rignana",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.57069,
+        "lon": 11.2708
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8252669",
+        "055 8560821"
+    ],
+    "rating": ""
+}

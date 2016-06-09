@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL BINARIO",
+    "description": "",
+    "address": "1, Via Mattei - 51037 Stazione (PT)",
+    "streetAddress": "1, Via Mattei",
+    "postalCode": "51037",
+    "addressLocality": "Stazione",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.91416,
+        "lon": 11.00967
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 1505382",
+        "0573 557569"
+    ],
+    "rating": "4.0"
+}

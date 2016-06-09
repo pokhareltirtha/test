@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA A METRO DI ALBANESE VIRGILIO",
+    "description": "",
+    "address": "38, Via Giuseppe Mazzini - 50054 Fucecchio (FI)",
+    "streetAddress": "38, Via Giuseppe Mazzini",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7259,
+        "lon": 10.81318
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0571 21049"
+    ],
+    "rating": ""
+}

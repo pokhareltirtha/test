@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA QUI QUO QUA",
+    "description": "Offriamo un'ottima cucina emiliana e non solo a Colle di Val d'Elsa in provincia di Siena; organizziamo serate a tema, rinfreschi e feste private.",
+    "address": "16, V. Gramsci - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "16, V. Gramsci",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42585,
+        "lon": 11.12598
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 921045"
+    ],
+    "rating": ""
+}

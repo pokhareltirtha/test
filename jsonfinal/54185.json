@@ -1,0 +1,20 @@
+{
+    "name": "A TUTTA PIZZA DI GIUNTINI FRANCESCO",
+    "description": "",
+    "address": "1, Piazza Del Mercato - 56035 Casciana Terme (PI)",
+    "streetAddress": "1, Piazza Del Mercato",
+    "postalCode": "56035",
+    "addressLocality": "Casciana Terme",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.52803,
+        "lon": 10.61847
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 645372"
+    ],
+    "rating": ""
+}

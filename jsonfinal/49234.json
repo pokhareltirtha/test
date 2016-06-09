@@ -1,0 +1,20 @@
+{
+    "name": "CAMPING VILLAGE INTERNAZIONALE FIRENZE",
+    "description": "Il Camping Internazionale Firenze, vacanza all'aria aperta in un contesto pulito e ben servito.",
+    "address": "2, V. S. Cristofano - 50023 Impruneta (FI)",
+    "streetAddress": "2, V. S. Cristofano",
+    "postalCode": "50023",
+    "addressLocality": "Impruneta",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72396,
+        "lon": 11.21307
+    },
+    "categories": [
+        "Campeggi, ostelli e villaggi turistici"
+    ],
+    "telephone": [
+        "055 2374704"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL TIGLIO",
+    "description": "Locale storico dove la tradizione della cucina tipica lucchese si sposa con accurati aggiornamenti e si propongono anche piatti di pesce assolutamente freschi secondo le ricette più valide della costa...",
+    "address": "3, V. Madonnina - 55012 Lunata (LU)",
+    "streetAddress": "3, V. Madonnina",
+    "postalCode": "55012",
+    "addressLocality": "Lunata",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.85455,
+        "lon": 10.55972
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 961855"
+    ],
+    "rating": ""
+}

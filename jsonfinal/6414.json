@@ -1,0 +1,22 @@
+{
+    "name": "RUGANTINO",
+    "description": "",
+    "address": "Via Francesco Guicciardini, 13 - 50053 Empoli (FI)",
+    "streetAddress": "Via Francesco Guicciardini, 13",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71929,
+        "lon": 10.92539
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 944161",
+        "338 4102996"
+    ],
+    "rating": ""
+}

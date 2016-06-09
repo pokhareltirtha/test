@@ -1,0 +1,20 @@
+{
+    "name": "SAMOVAR",
+    "description": "",
+    "address": "51/R, Via Della Mattonaia - 50121 Firenze (FI)",
+    "streetAddress": "51/R, Via Della Mattonaia",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77333,
+        "lon": 11.26907
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 244935"
+    ],
+    "rating": ""
+}

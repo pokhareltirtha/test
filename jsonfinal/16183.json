@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ATMAN",
+    "description": "",
+    "address": "4, Via Roma - 51017 Pescia (PT)",
+    "streetAddress": "4, Via Roma",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90134,
+        "lon": 10.68888
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 1903678"
+    ],
+    "rating": ""
+}

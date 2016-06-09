@@ -1,0 +1,20 @@
+{
+    "name": "CAFFE' IL CORSO",
+    "description": "",
+    "address": "86, Corso Matteotti - 56021 Cascina (PI)",
+    "streetAddress": "86, Corso Matteotti",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67643,
+        "lon": 10.54871
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 742605"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "L'ANTICA OSTERIA",
+    "description": "",
+    "address": "399, Via Mammianese - 51010 Marliana (PT)",
+    "streetAddress": "399, Via Mammianese",
+    "postalCode": "51010",
+    "addressLocality": "Marliana",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.96932,
+        "lon": 10.78539
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "334 8395388",
+        "0572 699930"
+    ],
+    "rating": ""
+}

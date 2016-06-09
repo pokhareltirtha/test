@@ -1,0 +1,21 @@
+{
+    "name": "IO-OSTERIA PERSONALE",
+    "description": "",
+    "address": "167, Borgo San Frediano - 50124 Firenze (FI)",
+    "streetAddress": "167, Borgo San Frediano",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77046,
+        "lon": 11.24048
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "331 7338332",
+        "055 9331341"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA EL PASO FORNO A LEGNA",
+    "description": "",
+    "address": "8d, Voc. Cisterna - Firenzuola - 50033 Firenzuola (FI)",
+    "streetAddress": "8d, Voc. Cisterna - Firenzuola",
+    "postalCode": "50033",
+    "addressLocality": "Firenzuola",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.11315,
+        "lon": 11.35901
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "349 7227325",
+        "0744 930003"
+    ],
+    "rating": ""
+}

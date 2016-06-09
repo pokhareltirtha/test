@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA PARTENOPE DI ALBANO ROSANNA",
+    "description": "",
+    "address": "38, Via Diaz - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "38, Via Diaz",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.41909,
+        "lon": 11.12842
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 923745"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "FINISTERRAE",
+    "description": "Regalati un viaggio senza confini nei sapori della cucina mediterranea con le specialità del ristorante Finisterrae, in piazza S. Croce a Firenze.",
+    "address": "12, P. S. Croce - 50122 Firenze (FI)",
+    "streetAddress": "12, P. S. Croce",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76902,
+        "lon": 11.26192
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2638675",
+        "342 3375485"
+    ],
+    "rating": ""
+}

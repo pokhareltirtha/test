@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PONTE D'ORO WOK SUSHI S.R.L.",
+    "description": "",
+    "address": "Snc, Via Del Pesciolino - 50145 Firenze (FI)",
+    "streetAddress": "Snc, Via Del Pesciolino",
+    "postalCode": "50145",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79243,
+        "lon": 11.18539
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 315832"
+    ],
+    "rating": ""
+}

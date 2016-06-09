@@ -1,0 +1,20 @@
+{
+    "name": "DAL TAGLIAPIZZA",
+    "description": "",
+    "address": "Viale Montalbano, 177 - 51039 Quarrata (PT)",
+    "streetAddress": "Viale Montalbano, 177",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.85578,
+        "lon": 10.98316
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 774377"
+    ],
+    "rating": ""
+}

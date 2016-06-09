@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE \"LAGO GIARDINO\"",
+    "description": "",
+    "address": "47, Via Del Pozzo San Sebastiano - 51100 Bottegone (PT)",
+    "streetAddress": "47, Via Del Pozzo San Sebastiano",
+    "postalCode": "51100",
+    "addressLocality": "Bottegone",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88803,
+        "lon": 10.95849
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 544486"
+    ],
+    "rating": ""
+}

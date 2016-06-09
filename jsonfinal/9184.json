@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE GOURMET",
+    "description": "Il Ristorante Gourmet vi aspetta a Montecatini (PT) per farvi assaporare piatti creati con la massima cura ed attenzione nella scelta delle materie prime.",
+    "address": "6, Vl. Amendola - 51016 Montecatini Terme (PT)",
+    "streetAddress": "6, Vl. Amendola",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88585,
+        "lon": 10.76931
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 771012"
+    ],
+    "rating": "3.7"
+}

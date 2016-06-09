@@ -1,0 +1,21 @@
+{
+    "name": "YORK SRL",
+    "description": "",
+    "address": "43/R, Borgo S. Jacopo - 50125 Firenze (FI)",
+    "streetAddress": "43/R, Borgo S. Jacopo",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7679,
+        "lon": 11.25109
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 215706",
+        "055 215579"
+    ],
+    "rating": ""
+}

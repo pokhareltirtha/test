@@ -1,0 +1,21 @@
+{
+    "name": "PIZZA EXPRESS & KEBAB CONSEGNA A DOMICILIO",
+    "description": "Pizze, focacce e kebab di altissima qualità da gustare da noi o a casa tua in Sesto Fiorentino (FI) in 22, gall. Fosco Giachetti.",
+    "address": "22, Gall. Fosco Giachetti - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "22, Gall. Fosco Giachetti",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83315,
+        "lon": 11.20016
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 445389",
+        "800 706706"
+    ],
+    "rating": ""
+}

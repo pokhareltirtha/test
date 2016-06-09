@@ -1,0 +1,21 @@
+{
+    "name": "CANDOLESI",
+    "description": "",
+    "address": "3, Via Di Candolesi - 52010 Soci (AR)",
+    "streetAddress": "3, Via Di Candolesi",
+    "postalCode": "52010",
+    "addressLocality": "Soci",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.72451,
+        "lon": 11.81102
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0575 561699"
+    ],
+    "rating": ""
+}

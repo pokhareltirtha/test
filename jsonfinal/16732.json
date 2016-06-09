@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA PIZZERIA L'UOVO AL TEGAMINO CUCINA CASALINGA",
+    "description": "",
+    "address": "30, V. Prov. Della Botte - 56010 Vicopisano (PI)",
+    "streetAddress": "30, V. Prov. Della Botte",
+    "postalCode": "56010",
+    "addressLocality": "Vicopisano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68536,
+        "lon": 10.58344
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 799131"
+    ],
+    "rating": ""
+}

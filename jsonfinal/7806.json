@@ -1,0 +1,20 @@
+{
+    "name": "SBARBACIPOLLA",
+    "description": "",
+    "address": "11, Piazza Bartolomeo Scala - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "11, Piazza Bartolomeo Scala",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42376,
+        "lon": 11.12574
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 926701"
+    ],
+    "rating": "4.5"
+}

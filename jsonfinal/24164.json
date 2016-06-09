@@ -1,0 +1,20 @@
+{
+    "name": "L'OSTE DI BORGO",
+    "description": "",
+    "address": "58, Via Gracco Del Secco - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "58, Via Gracco Del Secco",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.4213,
+        "lon": 11.11405
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 922499"
+    ],
+    "rating": ""
+}

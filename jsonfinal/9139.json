@@ -1,0 +1,20 @@
+{
+    "name": "NONNA TINA",
+    "description": "A Marliana, sulla colline di Pistoia, trovate il piccolo ristorante Nonna Tina specializzato in cucina locale.",
+    "address": "101, V. Di Sovvigno - 51010 Marliana (PT)",
+    "streetAddress": "101, V. Di Sovvigno",
+    "postalCode": "51010",
+    "addressLocality": "Marliana",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93346,
+        "lon": 10.79411
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 618022"
+    ],
+    "rating": ""
+}

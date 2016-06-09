@@ -1,0 +1,20 @@
+{
+    "name": "TORRACCHI",
+    "description": "",
+    "address": "11, Via Imo Biancalani - 51037 Montale (PT)",
+    "streetAddress": "11, Via Imo Biancalani",
+    "postalCode": "51037",
+    "addressLocality": "Montale",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.96452,
+        "lon": 11.05315
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 596394"
+    ],
+    "rating": ""
+}

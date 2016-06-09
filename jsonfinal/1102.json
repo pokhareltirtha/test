@@ -1,0 +1,21 @@
+{
+    "name": "STAR GATE",
+    "description": "",
+    "address": "91, Via Di Novoli - 50127 Firenze (FI)",
+    "streetAddress": "91, Via Di Novoli",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79699,
+        "lon": 11.21255
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4224040"
+    ],
+    "rating": "3.0"
+}

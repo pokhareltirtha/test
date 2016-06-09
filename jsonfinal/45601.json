@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE TRE CORONE - VILLA CASTELLETTI SRL",
+    "description": "",
+    "address": "5, Via Castelletti - 50058 Signa (FI)",
+    "streetAddress": "5, Via Castelletti",
+    "postalCode": "50058",
+    "addressLocality": "Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78859,
+        "lon": 11.08267
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8735280",
+        "055 8791915"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LAI FU ZHI DI ZHANG SHANCI",
+    "description": "",
+    "address": "4/A, Via Marini Antonio - 59100 Prato (PO)",
+    "streetAddress": "4/A, Via Marini Antonio",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88438,
+        "lon": 11.09006
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 42360"
+    ],
+    "rating": ""
+}

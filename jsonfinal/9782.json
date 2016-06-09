@@ -1,0 +1,20 @@
+{
+    "name": "LA FUENTE DEL GUSTO",
+    "description": "",
+    "address": "Via Fontevivo, 5 - 56028 San Miniato (PI)",
+    "streetAddress": "Via Fontevivo, 5",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68958,
+        "lon": 10.85166
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 360523"
+    ],
+    "rating": ""
+}

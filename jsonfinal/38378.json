@@ -1,0 +1,20 @@
+{
+    "name": "LA TAVERNA DI CASTRUCCIO",
+    "description": "",
+    "address": "129, Via Pisana - 50018 Scandicci (FI)",
+    "streetAddress": "129, Via Pisana",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76439,
+        "lon": 11.18015
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 751198"
+    ],
+    "rating": ""
+}

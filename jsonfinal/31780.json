@@ -1,0 +1,20 @@
+{
+    "name": "CUCCHIETTA",
+    "description": "",
+    "address": "15, Piazza Delle Cure - 50133 Firenze (FI)",
+    "streetAddress": "15, Piazza Delle Cure",
+    "postalCode": "50133",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78682,
+        "lon": 11.26945
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 578889"
+    ],
+    "rating": ""
+}

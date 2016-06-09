@@ -1,0 +1,20 @@
+{
+    "name": "MACERETO",
+    "description": "",
+    "address": "10, Strada Canaglia - 50028 Tavarnelle Val Di Pesa (FI)",
+    "streetAddress": "10, Strada Canaglia",
+    "postalCode": "50028",
+    "addressLocality": "Tavarnelle Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.56259,
+        "lon": 11.2214
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8071111"
+    ],
+    "rating": "4.0"
+}

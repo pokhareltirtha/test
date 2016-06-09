@@ -1,0 +1,20 @@
+{
+    "name": "WALLACE",
+    "description": "",
+    "address": "24, Piazza Mercatale - 59100 Prato (PO)",
+    "streetAddress": "24, Piazza Mercatale",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88106,
+        "lon": 11.10066
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 876029"
+    ],
+    "rating": ""
+}

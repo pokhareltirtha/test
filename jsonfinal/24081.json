@@ -1,0 +1,20 @@
+{
+    "name": "LA BARACCHINA",
+    "description": "",
+    "address": "68, 22,300 - 56040 Montecatini Val Di Cecina (PI)",
+    "streetAddress": "68, 22,300",
+    "postalCode": "56040",
+    "addressLocality": "Montecatini Val Di Cecina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.39537,
+        "lon": 10.74891
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 37285"
+    ],
+    "rating": ""
+}

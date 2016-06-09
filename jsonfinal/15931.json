@@ -1,0 +1,20 @@
+{
+    "name": "CAVALIERI",
+    "description": "",
+    "address": "10, Localita Tei - 55011 Altopascio (LU)",
+    "streetAddress": "10, Localita Tei",
+    "postalCode": "55011",
+    "addressLocality": "Altopascio",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81061,
+        "lon": 10.69251
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 216260"
+    ],
+    "rating": ""
+}

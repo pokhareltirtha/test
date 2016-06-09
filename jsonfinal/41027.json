@@ -1,0 +1,20 @@
+{
+    "name": "LA NUOVA STELLA",
+    "description": "",
+    "address": "749, Via Statale - 51039 Quarrata (PT)",
+    "streetAddress": "749, Via Statale",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.84884,
+        "lon": 11.0112
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 743346"
+    ],
+    "rating": "4.0"
+}

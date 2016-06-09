@@ -1,0 +1,21 @@
+{
+    "name": "AL PARCO",
+    "description": "",
+    "address": "5, Via Del Senio - 48032 Casola Valsenio (RA)",
+    "streetAddress": "5, Via Del Senio",
+    "postalCode": "48032",
+    "addressLocality": "Casola Valsenio",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.24047,
+        "lon": 11.64115
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 73806",
+        "0546 73236"
+    ],
+    "rating": ""
+}

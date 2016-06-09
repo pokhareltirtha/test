@@ -1,0 +1,21 @@
+{
+    "name": "BAR PIZZERIA IL RITROVO SNC",
+    "description": "",
+    "address": "7, Via Borgata S. Lazzaro - 56048 Volterra (PI)",
+    "streetAddress": "7, Via Borgata S. Lazzaro",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.39968,
+        "lon": 10.87082
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0588 1900279",
+        "348 8352841"
+    ],
+    "rating": ""
+}

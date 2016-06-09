@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA STEFAN SAS BAR",
+    "description": "",
+    "address": "24, Via Puccini G. - 55016 Porcari (LU)",
+    "streetAddress": "24, Via Puccini G.",
+    "postalCode": "55016",
+    "addressLocality": "Porcari",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.83135,
+        "lon": 10.62783
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 297927"
+    ],
+    "rating": ""
+}

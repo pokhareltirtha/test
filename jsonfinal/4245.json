@@ -1,0 +1,20 @@
+{
+    "name": "TK-TRADE SRL",
+    "description": "",
+    "address": "10/12, Via Volturno - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "10/12, Via Volturno",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.81218,
+        "lon": 11.17855
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 307445"
+    ],
+    "rating": ""
+}

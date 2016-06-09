@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE ENOTECA BACCIOMEO",
+    "description": "",
+    "address": "6, Via Della Pieve - 56036 Palaia (PI)",
+    "streetAddress": "6, Via Della Pieve",
+    "postalCode": "56036",
+    "addressLocality": "Palaia",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.60555,
+        "lon": 10.77418
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 622548",
+        "334 3651100"
+    ],
+    "rating": ""
+}

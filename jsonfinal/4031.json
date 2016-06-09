@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA ALL'ANTICO MERCATO",
+    "description": "",
+    "address": "78, Via Nazionale - 50123 Firenze (FI)",
+    "streetAddress": "78, Via Nazionale",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77854,
+        "lon": 11.25346
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 284182"
+    ],
+    "rating": ""
+}

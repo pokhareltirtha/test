@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA OSTERIA COTTA A PUNTINO",
+    "description": "Da 30 anni nella ristorazione, figlio di un importante Chef Fiorentino, Angelo ormai da 3 anni si è inventato L'Osteria Pizzeria Cotta a Puntino di via Guido Biagi, 6R angolo via Rondinella. Cucina ti...",
+    "address": "6/R, V. Biagi - 50135 Firenze (FI)",
+    "streetAddress": "6/R, V. Biagi",
+    "postalCode": "50135",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77321,
+        "lon": 11.29544
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 6121937"
+    ],
+    "rating": "4.5"
+}

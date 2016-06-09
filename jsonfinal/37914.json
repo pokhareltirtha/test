@@ -1,0 +1,21 @@
+{
+    "name": "OPIFICIO JM",
+    "description": "",
+    "address": "39, Piazza S. Marco - 59100 Prato (PO)",
+    "streetAddress": "39, Piazza S. Marco",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87772,
+        "lon": 11.10146
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 870502",
+        "0574 870503"
+    ],
+    "rating": ""
+}

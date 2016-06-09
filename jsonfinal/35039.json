@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DI' GIOGO",
+    "description": "Osteria Di'Giogo è una piccola trattoria con specialità toscane e prodotti biologici in un piccolo paese alla periferia di Firenze in via Chiantigiana 106.",
+    "address": "106, V. Chiantigiana - 50126 Ponte A Ema (FI)",
+    "streetAddress": "106, V. Chiantigiana",
+    "postalCode": "50126",
+    "addressLocality": "Ponte A Ema",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74014,
+        "lon": 11.29554
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6461311"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "LA MAREMMA",
+    "description": "",
+    "address": "16, Via Giuseppe Verdi - 50122 Firenze (FI)",
+    "streetAddress": "16, Via Giuseppe Verdi",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77011,
+        "lon": 11.26141
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 240972",
+        "055 244615"
+    ],
+    "rating": "5.0"
+}

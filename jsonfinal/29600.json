@@ -1,0 +1,20 @@
+{
+    "name": "IL COLOGNOLO",
+    "description": "",
+    "address": "28, Via Piero Palagi - 50068 Rufina (FI)",
+    "streetAddress": "28, Via Piero Palagi",
+    "postalCode": "50068",
+    "addressLocality": "Rufina",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78444,
+        "lon": 11.59495
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8319734"
+    ],
+    "rating": ""
+}

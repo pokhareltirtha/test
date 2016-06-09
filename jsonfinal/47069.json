@@ -1,0 +1,20 @@
+{
+    "name": "FANTASY PIZZA DI CIAMBELLOTTI MARCO",
+    "description": "",
+    "address": "67, Via Antonio Marini - 59100 Prato (PO)",
+    "streetAddress": "67, Via Antonio Marini",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88626,
+        "lon": 11.09169
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0574 30666"
+    ],
+    "rating": ""
+}

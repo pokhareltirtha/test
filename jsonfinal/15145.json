@@ -1,0 +1,21 @@
+{
+    "name": "ENOTECA RAZMATAZ",
+    "description": "",
+    "address": "110, Piazza Mercatale - 59100 Prato (PO)",
+    "streetAddress": "110, Piazza Mercatale",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88068,
+        "lon": 11.10191
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 448619",
+        "338 5690611"
+    ],
+    "rating": ""
+}

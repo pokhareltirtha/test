@@ -1,0 +1,21 @@
+{
+    "name": "BIRRERIA DI PIETRAFITTA",
+    "description": "La birreria di Pietrafitta della signora Rossi Francesca è un ristorante trattoria che offre cucina tipica toscana in 78, Loc. Cortennano-sp36, San Gimignano.",
+    "address": "78, Località Cortennano-Sp36 - 53037 San Gimignano (SI)",
+    "streetAddress": "78, Località Cortennano-Sp36",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.45266,
+        "lon": 11.08435
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 940560",
+        "340 1533443"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PERUVIANO EL INCA",
+    "description": "Il ristorante peruviano El Inca è il posto perfetto per gustare i piatti tipici del Perù a Firenze.",
+    "address": "14/16, V. L. Da Castiglionchio - 50126 Firenze (FI)",
+    "streetAddress": "14/16, V. L. Da Castiglionchio",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76255,
+        "lon": 11.28581
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 0881288",
+        "393 1326951"
+    ],
+    "rating": ""
+}

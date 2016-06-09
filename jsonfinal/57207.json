@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA JOLLY",
+    "description": "",
+    "address": "Via Senese, 41 - 50028 Tavarnelle Val Di Pesa (FI)",
+    "streetAddress": "Via Senese, 41",
+    "postalCode": "50028",
+    "addressLocality": "Tavarnelle Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.53581,
+        "lon": 11.23635
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "349 5134429"
+    ],
+    "rating": ""
+}

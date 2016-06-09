@@ -1,0 +1,21 @@
+{
+    "name": "AVIAZIONE CAMPO DI MARTE",
+    "description": "",
+    "address": "8, Viale Malta - 50137 Firenze (FI)",
+    "streetAddress": "8, Viale Malta",
+    "postalCode": "50137",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77526,
+        "lon": 11.28316
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 5381058"
+    ],
+    "rating": "3.9"
+}

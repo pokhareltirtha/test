@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DELLA PRIORA DI SEGHETTI FABIO",
+    "description": "",
+    "address": "8, Via Poggio Al Pino - 56028 San Miniato (PI)",
+    "streetAddress": "8, Via Poggio Al Pino",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68936,
+        "lon": 10.89139
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 464257"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "BIRRERIA RUGBIER",
+    "description": "Birreria Rugbier in viale Paoli 21 a Firenze propone pizzeria, hamburger e servizio bar una ricca scelta da gustare in compagnia dei vostri amici.",
+    "address": "21, Vl. Paoli - 50137 Firenze (FI)",
+    "streetAddress": "21, Vl. Paoli",
+    "postalCode": "50137",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77836,
+        "lon": 11.28386
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 572586"
+    ],
+    "rating": ""
+}

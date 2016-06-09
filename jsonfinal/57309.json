@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA BIRRERIA BUTTERFLY PUB",
+    "description": "",
+    "address": "5, Piazza Giuseppe Garibaldi - 47018 Santa Sofia (FC)",
+    "streetAddress": "5, Piazza Giuseppe Garibaldi",
+    "postalCode": "47018",
+    "addressLocality": "Santa Sofia",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 43.94677,
+        "lon": 11.9096
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0572 30870"
+    ],
+    "rating": ""
+}

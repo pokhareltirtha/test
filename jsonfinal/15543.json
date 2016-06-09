@@ -1,0 +1,21 @@
+{
+    "name": "IL FERIOLO",
+    "description": "",
+    "address": "32, Via Faentina - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "32, Via Faentina",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.01162,
+        "lon": 11.4383
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8409928",
+        "389 6831577"
+    ],
+    "rating": ""
+}

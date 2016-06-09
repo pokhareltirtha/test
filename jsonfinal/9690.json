@@ -1,0 +1,20 @@
+{
+    "name": "TRE ARCHI",
+    "description": "",
+    "address": "35, Localita Castel San Gimignano - 53030 Castel San Gimignano (SI)",
+    "streetAddress": "35, Localita Castel San Gimignano",
+    "postalCode": "53030",
+    "addressLocality": "Castel San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.40437,
+        "lon": 11.01812
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 953099"
+    ],
+    "rating": ""
+}

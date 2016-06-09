@@ -1,0 +1,20 @@
+{
+    "name": "LO SPELA",
+    "description": "",
+    "address": "44, Via Poneta - 50023 Il Ferrone (FI)",
+    "streetAddress": "44, Via Poneta",
+    "postalCode": "50023",
+    "addressLocality": "Il Ferrone",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.65682,
+        "lon": 11.25801
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 850787"
+    ],
+    "rating": ""
+}

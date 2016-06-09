@@ -1,0 +1,21 @@
+{
+    "name": "L'ANTICA TORRE DI NEGRI GIUSEPPE",
+    "description": "",
+    "address": "6, Piazza Bianchi Bianco - 50063 Figline E Incisa Valdarno (FI)",
+    "streetAddress": "6, Piazza Bianchi Bianco",
+    "postalCode": "50063",
+    "addressLocality": "Figline E Incisa Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.6181,
+        "lon": 11.47282
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9154066",
+        "392 8639473"
+    ],
+    "rating": ""
+}

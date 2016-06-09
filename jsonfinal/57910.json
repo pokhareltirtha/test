@@ -1,0 +1,20 @@
+{
+    "name": "IL BIVIO",
+    "description": "",
+    "address": "2, Via San Cristofano - 50023 Impruneta (FI)",
+    "streetAddress": "2, Via San Cristofano",
+    "postalCode": "50023",
+    "addressLocality": "Impruneta",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72396,
+        "lon": 11.21307
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2020258"
+    ],
+    "rating": ""
+}

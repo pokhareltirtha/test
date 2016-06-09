@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA ACONE",
+    "description": "Il Ristorante Pizzeria Acone è una tappa irrinunciabile di Pontassieve, in provincia di Firenze, per gustare i migliori piatti della tradizione locale.",
+    "address": "65/A, V. Della Vittoria - 50065 Pontassieve (FI)",
+    "streetAddress": "65/A, V. Della Vittoria",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85247,
+        "lon": 11.46954
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8361719"
+    ],
+    "rating": ""
+}

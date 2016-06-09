@@ -1,0 +1,20 @@
+{
+    "name": "LEO E LEO S.R.L.",
+    "description": "",
+    "address": "20, Via Salvagnoli V. - 50053 Empoli (FI)",
+    "streetAddress": "20, Via Salvagnoli V.",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72143,
+        "lon": 10.94785
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 7110300"
+    ],
+    "rating": ""
+}

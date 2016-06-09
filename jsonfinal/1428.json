@@ -1,0 +1,21 @@
+{
+    "name": "CROSSOVER",
+    "description": "Crossover è pizzeria, ristorante, spaghetteria, cocktail bar e pub, in via Donatello a Sesto Fiorentino fin dal 2005.",
+    "address": "V. Donatello - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "V. Donatello",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83931,
+        "lon": 11.19606
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4204876"
+    ],
+    "rating": ""
+}

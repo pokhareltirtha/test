@@ -1,0 +1,21 @@
+{
+    "name": "L'ORTO DI CASOLE",
+    "description": "",
+    "address": "Strada Provinciale 27, N° 4 - 53031 Casole D'Elsa (SI)",
+    "streetAddress": "Strada Provinciale 27, N° 4",
+    "postalCode": "53031",
+    "addressLocality": "Casole D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.3612,
+        "lon": 11.04168
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 961754",
+        "0577 963042"
+    ],
+    "rating": ""
+}

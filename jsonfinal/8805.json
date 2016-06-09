@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA CANTINA",
+    "description": "Il ristorante La Cantina è un ristorante immerso nel verde, luogo ideale dove poter gustare piatti prelibati tipicamente toscani. La loro cucina offre specialità sia di terra che di mare, creando piat...",
+    "address": "55, V. Picasso - 51015 Monsummano Terme (PT)",
+    "streetAddress": "55, V. Picasso",
+    "postalCode": "51015",
+    "addressLocality": "Monsummano Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86049,
+        "lon": 10.82485
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 53173"
+    ],
+    "rating": "4.0"
+}

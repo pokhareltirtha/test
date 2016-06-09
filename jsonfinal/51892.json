@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA ONE",
+    "description": "",
+    "address": "37, Via Capannori - 55016 Porcari (LU)",
+    "streetAddress": "37, Via Capannori",
+    "postalCode": "55016",
+    "addressLocality": "Porcari",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.84177,
+        "lon": 10.61489
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 295680"
+    ],
+    "rating": ""
+}

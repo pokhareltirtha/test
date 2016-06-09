@@ -1,0 +1,21 @@
+{
+    "name": "LAGO LO SPECCHIO",
+    "description": "",
+    "address": "1, Via Spedaletto - 51100 Spedaletto (PT)",
+    "streetAddress": "1, Via Spedaletto",
+    "postalCode": "51100",
+    "addressLocality": "Spedaletto",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 44.03866,
+        "lon": 10.94716
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 470054"
+    ],
+    "rating": "5.0"
+}

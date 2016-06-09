@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE DAL PUCCI 1950 srl",
+    "description": "Il ristorante Pucci, il locale romantico e intimo che cercavi a Pescia, in provincia di Pistoia in via Amendola 4.",
+    "address": "4, V. Amendola - 51017 Pescia (PT)",
+    "streetAddress": "4, V. Amendola",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89971,
+        "lon": 10.68791
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "338 640168",
+        "334 5884640"
+    ],
+    "rating": ""
+}

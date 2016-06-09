@@ -1,0 +1,20 @@
+{
+    "name": "ANTICA TRATTORIA CHETERENA",
+    "description": "Il posto ideale dove trovare un'ottima cucina romagnola a Brisighella provincia di Ravenna.",
+    "address": "7, P. Garibaldi - 48013 Fognano (RA)",
+    "streetAddress": "7, P. Garibaldi",
+    "postalCode": "48013",
+    "addressLocality": "Fognano",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.20468,
+        "lon": 11.73333
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 85008"
+    ],
+    "rating": ""
+}

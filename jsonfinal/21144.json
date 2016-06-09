@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE GIAPPONESE YOI YOI",
+    "description": "A Scandicci, il Ristorante Yoi Yoi, propone sushi e piatti giapponesi, a pranzo e a cena con la formula all you can eat.",
+    "address": "16, P. Marconi - 50018 Scandicci (FI)",
+    "streetAddress": "16, P. Marconi",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75437,
+        "lon": 11.19274
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 250393"
+    ],
+    "rating": ""
+}

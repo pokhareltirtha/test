@@ -1,0 +1,20 @@
+{
+    "name": "CAFFE' LA GARE",
+    "description": "",
+    "address": "2, Via Giacomo Puccini - 52025 Montevarchi (AR)",
+    "streetAddress": "2, Via Giacomo Puccini",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.52683,
+        "lon": 11.56415
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 980286"
+    ],
+    "rating": ""
+}

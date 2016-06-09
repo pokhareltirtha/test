@@ -1,0 +1,20 @@
+{
+    "name": "LA NUOVA CITTA' IMPERIALE srl",
+    "description": "A Firenze un ristorante che propone specialità della cucina cinese, venite assaggiare i loro ottimi piatti.",
+    "address": "100/108, V. Pratese - 50145 Firenze (FI)",
+    "streetAddress": "100/108, V. Pratese",
+    "postalCode": "50145",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80091,
+        "lon": 11.19132
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3424713"
+    ],
+    "rating": "4.5"
+}

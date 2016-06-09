@@ -1,0 +1,20 @@
+{
+    "name": "NIZZI",
+    "description": "",
+    "address": "6, Via Toscana - 50052 Certaldo (FI)",
+    "streetAddress": "6, Via Toscana",
+    "postalCode": "50052",
+    "addressLocality": "Certaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.55918,
+        "lon": 11.03103
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0571 652419"
+    ],
+    "rating": ""
+}

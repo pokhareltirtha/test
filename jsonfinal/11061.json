@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA BAITA SRL",
+    "description": "",
+    "address": "72, Localita' Canfittori - 51010 Massa E Cozzile (PT)",
+    "streetAddress": "72, Localita' Canfittori",
+    "postalCode": "51010",
+    "addressLocality": "Massa E Cozzile",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88632,
+        "lon": 10.75623
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 698010",
+        "0572 66275"
+    ],
+    "rating": "4.0"
+}

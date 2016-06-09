@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA IL TERZO TEMPO",
+    "description": "Pizza da asporto, consegne a domicilio.",
+    "address": "19, P. Oglio - 59013 Montemurlo (PO)",
+    "streetAddress": "19, P. Oglio",
+    "postalCode": "59013",
+    "addressLocality": "Montemurlo",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.91199,
+        "lon": 11.02457
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 1824607"
+    ],
+    "rating": ""
+}

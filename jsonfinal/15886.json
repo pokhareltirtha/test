@@ -1,0 +1,22 @@
+{
+    "name": "LA CANTINA DI ALFREDO srl",
+    "description": "La Cantina di Alfredo a Capannori, il ristorante a conduzione familiare noto in tutta la zona, luogo di ritrovo per clienti di tutte le età.",
+    "address": "32, V. Com. Colognora - 55012 Capannori (LU)",
+    "streetAddress": "32, V. Com. Colognora",
+    "postalCode": "55012",
+    "addressLocality": "Capannori",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81843,
+        "lon": 10.57282
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 980192",
+        "331 3876800"
+    ],
+    "rating": "5.0"
+}

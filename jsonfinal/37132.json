@@ -1,0 +1,20 @@
+{
+    "name": "I' PRUGNOLO",
+    "description": "",
+    "address": "4, Piazza IV Novembre - 59011 Seano (PO)",
+    "streetAddress": "4, Piazza IV Novembre",
+    "postalCode": "59011",
+    "addressLocality": "Seano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.82848,
+        "lon": 11.01732
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8706933"
+    ],
+    "rating": ""
+}

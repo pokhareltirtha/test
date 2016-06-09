@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA RISTORANTE IL FABBRO DI FABIO TARTONI",
+    "description": "",
+    "address": "Via Di Cantagallo - 59025 Cantagallo (PO)",
+    "streetAddress": "Via Di Cantagallo",
+    "postalCode": "59025",
+    "addressLocality": "Cantagallo",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 44.02573,
+        "lon": 11.07702
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0574 946380"
+    ],
+    "rating": ""
+}

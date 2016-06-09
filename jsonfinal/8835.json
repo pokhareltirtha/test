@@ -1,0 +1,20 @@
+{
+    "name": "CHEN YING YING",
+    "description": "",
+    "address": "88, Via Romea Francesca - 55011 Altopascio (LU)",
+    "streetAddress": "88, Via Romea Francesca",
+    "postalCode": "55011",
+    "addressLocality": "Altopascio",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81945,
+        "lon": 10.66663
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 277341"
+    ],
+    "rating": ""
+}

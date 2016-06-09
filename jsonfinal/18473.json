@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA MAN",
+    "description": "",
+    "address": "148, Via Baracca - 50127 Firenze (FI)",
+    "streetAddress": "148, Via Baracca",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79465,
+        "lon": 11.20845
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4379931"
+    ],
+    "rating": "4.2"
+}

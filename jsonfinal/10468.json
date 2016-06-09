@@ -1,0 +1,20 @@
+{
+    "name": "VILLE SULL'ARNO",
+    "description": "",
+    "address": "1, Lungarno Cristoforo Colombo - 50136 Firenze (FI)",
+    "streetAddress": "1, Lungarno Cristoforo Colombo",
+    "postalCode": "50136",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7661,
+        "lon": 11.28443
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 670971"
+    ],
+    "rating": ""
+}

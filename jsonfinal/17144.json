@@ -1,0 +1,20 @@
+{
+    "name": "LA MANGIATOIA",
+    "description": "",
+    "address": "7, Via Castellana - 56030 Orciatico (PI)",
+    "streetAddress": "7, Via Castellana",
+    "postalCode": "56030",
+    "addressLocality": "Orciatico",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.43544,
+        "lon": 10.72295
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 641082"
+    ],
+    "rating": ""
+}

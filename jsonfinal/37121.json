@@ -1,0 +1,20 @@
+{
+    "name": "GE.AL S.R.L.",
+    "description": "",
+    "address": "17/D/E/F, Via Senese - 50124 Firenze (FI)",
+    "streetAddress": "17/D/E/F, Via Senese",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75876,
+        "lon": 11.24112
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 515679"
+    ],
+    "rating": ""
+}

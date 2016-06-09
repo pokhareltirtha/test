@@ -1,0 +1,21 @@
+{
+    "name": "CIRCOLO RICREATIVO I PARTIGIANI RISTORANTE PIZZERIA",
+    "description": "Il Ristorante Circolo Ricreativo I Partigiani offre specialità tipiche e ottime pizze cotte nel forno a legna vi aspetta a Vernio, in provincia di Prato.",
+    "address": "46, Loc. La Pieve - 59024 Sant'Ippolito (PO)",
+    "streetAddress": "46, Loc. La Pieve",
+    "postalCode": "59024",
+    "addressLocality": "Sant'Ippolito",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 44.03244,
+        "lon": 11.14363
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 950678",
+        "347 6403743"
+    ],
+    "rating": ""
+}

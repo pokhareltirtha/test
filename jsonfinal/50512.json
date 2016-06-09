@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA MUSICA",
+    "description": "Pizzeria La Musica a Lastra a Signa (FI), dove potrete gustare una buonissima pizza ma anche un aperitivo trascorrendo momenti piacevoli in un bell'ambiente.",
+    "address": "108, V. Pisana - 50055 Lastra A Signa (FI)",
+    "streetAddress": "108, V. Pisana",
+    "postalCode": "50055",
+    "addressLocality": "Lastra A Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7689,
+        "lon": 11.12912
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8729266"
+    ],
+    "rating": ""
+}

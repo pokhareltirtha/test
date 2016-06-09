@@ -1,0 +1,20 @@
+{
+    "name": "BOUTIQUE DELLA PIZZA SAS DI MARCO MARCUCCI",
+    "description": "",
+    "address": "2/F, Via Romana Lucchese - 55011 Altopascio (LU)",
+    "streetAddress": "2/F, Via Romana Lucchese",
+    "postalCode": "55011",
+    "addressLocality": "Altopascio",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.80891,
+        "lon": 10.68251
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 211063"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "L'ASSASSINO",
+    "description": "",
+    "address": "17, Via Senese - 50123 Firenze (FI)",
+    "streetAddress": "17, Via Senese",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75876,
+        "lon": 11.24112
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 225877"
+    ],
+    "rating": ""
+}

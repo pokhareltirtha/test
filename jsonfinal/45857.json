@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE L'AMANTE DELLA BISTECCA",
+    "description": "A Carmignano (PO) ristorante dedicato a tutti coloro che la sognano, la desiderano, la amano.. per tutti gli amanti della bistecca",
+    "address": "20, V. Fonte Morana - 59011 Bacchereto (PO)",
+    "streetAddress": "20, V. Fonte Morana",
+    "postalCode": "59011",
+    "addressLocality": "Bacchereto",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.80429,
+        "lon": 10.98848
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8717114"
+    ],
+    "rating": "5.0"
+}

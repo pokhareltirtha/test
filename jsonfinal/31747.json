@@ -1,0 +1,20 @@
+{
+    "name": "ARTEGAIA",
+    "description": "",
+    "address": "1, Via Faentina - 50014 Fiesole (FI)",
+    "streetAddress": "1, Via Faentina",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80594,
+        "lon": 11.27982
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 5978498"
+    ],
+    "rating": ""
+}

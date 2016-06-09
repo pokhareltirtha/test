@@ -1,0 +1,20 @@
+{
+    "name": "I MAGGI",
+    "description": "",
+    "address": "4, Via Rio Dei Ceci - 56032 Buti (PI)",
+    "streetAddress": "4, Via Rio Dei Ceci",
+    "postalCode": "56032",
+    "addressLocality": "Buti",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.7264,
+        "lon": 10.58401
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 724532"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LE STAGIONI",
+    "description": "Scopri il nostro menù, ogni giorno nuove specialità!",
+    "address": "10/R, V. Capo Di Mondo - 50136 Firenze (FI)",
+    "streetAddress": "10/R, V. Capo Di Mondo",
+    "postalCode": "50136",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77053,
+        "lon": 11.27528
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 678300"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LA CONCA",
+    "description": "Ambiente confortevole e sapori genuini della cucina tradizionale ti aspettano per una splendida serata al Ristorante La Conca, in via Chiesa a Capannori.",
+    "address": "26, V. Chiesa - 55012 Massa Macinaia (LU)",
+    "streetAddress": "26, V. Chiesa",
+    "postalCode": "55012",
+    "addressLocality": "Massa Macinaia",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.78036,
+        "lon": 10.57953
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 909532"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA A TUTTA PIZZA DI FASTI LIANA",
+    "description": "",
+    "address": "1, Via Piana - 52024 Loro Ciuffenna (AR)",
+    "streetAddress": "1, Via Piana",
+    "postalCode": "52024",
+    "addressLocality": "Loro Ciuffenna",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.59236,
+        "lon": 11.63107
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9174034"
+    ],
+    "rating": ""
+}

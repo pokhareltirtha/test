@@ -1,0 +1,20 @@
+{
+    "name": "BAR PIZZERIA DEI MILLE",
+    "description": "",
+    "address": "22, Via Dei Mille - 56029 Santa Croce Sull'Arno (PI)",
+    "streetAddress": "22, Via Dei Mille",
+    "postalCode": "56029",
+    "addressLocality": "Santa Croce Sull'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.71343,
+        "lon": 10.78371
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "0571 34153"
+    ],
+    "rating": ""
+}

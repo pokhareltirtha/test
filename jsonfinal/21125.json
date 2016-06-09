@@ -1,0 +1,21 @@
+{
+    "name": "PALAZZO LEOPOLDO",
+    "description": "",
+    "address": "33, Via Roma - 53017 Radda In Chianti (SI)",
+    "streetAddress": "33, Via Roma",
+    "postalCode": "53017",
+    "addressLocality": "Radda In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.48686,
+        "lon": 11.37479
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 735605",
+        "331 5051215"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE SHISHI WEI TIAN",
+    "description": "",
+    "address": "39/T, Via Filzi Fabio - 59100 Prato (PO)",
+    "streetAddress": "39/T, Via Filzi Fabio",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88596,
+        "lon": 11.0879
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 605150"
+    ],
+    "rating": ""
+}

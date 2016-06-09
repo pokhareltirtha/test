@@ -1,0 +1,20 @@
+{
+    "name": "ACQUACHETA",
+    "description": "",
+    "address": "Via Molino, 46 - San Benedetto In Alpe - 47010 San Benedetto In Alpe (FC)",
+    "streetAddress": "Via Molino, 46 - San Benedetto In Alpe",
+    "postalCode": "47010",
+    "addressLocality": "San Benedetto In Alpe",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 43.98174,
+        "lon": 11.68812
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0543 965314"
+    ],
+    "rating": "5.0"
+}

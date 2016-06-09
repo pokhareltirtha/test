@@ -1,0 +1,20 @@
+{
+    "name": "RISTO DISCO PUB ROBLINDA",
+    "description": "Il locale Roblinda di Rosalia Sansone è un ristorante disco-pub a Pistoia, che Offre cucina emiliana, toscana e mediterranea.",
+    "address": "9, V. Macelli - 51100 Pistoia (PT)",
+    "streetAddress": "9, V. Macelli",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93853,
+        "lon": 10.91342
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "347 0704925"
+    ],
+    "rating": "5.0"
+}

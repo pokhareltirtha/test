@@ -1,0 +1,20 @@
+{
+    "name": "LA CASA DI LUCULLO",
+    "description": "",
+    "address": "33, Via Maremmana - 56028 San Miniato (PI)",
+    "streetAddress": "33, Via Maremmana",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.65428,
+        "lon": 10.80341
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 460399"
+    ],
+    "rating": ""
+}

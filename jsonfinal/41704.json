@@ -1,0 +1,20 @@
+{
+    "name": "LA PIPERNA",
+    "description": "",
+    "address": "60, Via Giampaolo Orsini - 50126 Firenze (FI)",
+    "streetAddress": "60, Via Giampaolo Orsini",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76327,
+        "lon": 11.275
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 5270661"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DA MARIO DI CARDINI WILMA",
+    "description": "",
+    "address": "15, Via Monticino - 48013 Brisighella (RA)",
+    "streetAddress": "15, Via Monticino",
+    "postalCode": "48013",
+    "addressLocality": "Brisighella",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.22405,
+        "lon": 11.77022
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 85471"
+    ],
+    "rating": ""
+}

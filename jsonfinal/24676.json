@@ -1,0 +1,20 @@
+{
+    "name": "LA VALLE",
+    "description": "",
+    "address": "58, Via Val Di Bisenzio - 59021 Vaiano (PO)",
+    "streetAddress": "58, Via Val Di Bisenzio",
+    "postalCode": "59021",
+    "addressLocality": "Vaiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.93566,
+        "lon": 11.12565
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 984042"
+    ],
+    "rating": ""
+}

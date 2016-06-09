@@ -1,0 +1,20 @@
+{
+    "name": "LA CASACCIA",
+    "description": "",
+    "address": "37, Via Provinciale Vicarese - 56010 Caprona (PI)",
+    "streetAddress": "37, Via Provinciale Vicarese",
+    "postalCode": "56010",
+    "addressLocality": "Caprona",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.7063,
+        "lon": 10.50511
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 788737"
+    ],
+    "rating": ""
+}

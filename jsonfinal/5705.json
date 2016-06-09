@@ -1,0 +1,20 @@
+{
+    "name": "LA BOTTEGAIA",
+    "description": "",
+    "address": "17, Via Del Lastrone - 51100 Pistoia (PT)",
+    "streetAddress": "17, Via Del Lastrone",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93302,
+        "lon": 10.91662
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 365602"
+    ],
+    "rating": ""
+}

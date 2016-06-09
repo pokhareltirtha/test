@@ -1,0 +1,20 @@
+{
+    "name": "MEO PATACCA RISTOPIZZA",
+    "description": "",
+    "address": "89, Via Del Salsero - 51016 Montecatini Terme (PT)",
+    "streetAddress": "89, Via Del Salsero",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87793,
+        "lon": 10.77297
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "338 7065697"
+    ],
+    "rating": ""
+}

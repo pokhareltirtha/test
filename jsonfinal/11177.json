@@ -1,0 +1,20 @@
+{
+    "name": "CONSERVATORY",
+    "description": "",
+    "address": "42  Via IL Prato - Firenze (FI)",
+    "streetAddress": "42, Via IL Prato",
+    "postalCode": "",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77567,
+        "lon": 11.24227
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 277171"
+    ],
+    "rating": ""
+}

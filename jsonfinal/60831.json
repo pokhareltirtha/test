@@ -1,0 +1,20 @@
+{
+    "name": "I QUATTRO",
+    "description": "",
+    "address": "64, Via Colligiana - 51019 Casabianca (PT)",
+    "streetAddress": "64, Via Colligiana",
+    "postalCode": "51019",
+    "addressLocality": "Casabianca",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.85449,
+        "lon": 10.74623
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 930143"
+    ],
+    "rating": ""
+}

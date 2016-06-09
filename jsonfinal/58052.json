@@ -1,0 +1,21 @@
+{
+    "name": "TRATTORIA PIZZERIA CASA FIORAVANTI",
+    "description": "",
+    "address": "168, Viale Montegrappa - 59100 Prato (PO)",
+    "streetAddress": "168, Viale Montegrappa",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.873,
+        "lon": 11.10841
+    },
+    "categories": [
+        "Ristoranti - trattorie ed osterie"
+    ],
+    "telephone": [
+        "0574 593344",
+        "393 7774444"
+    ],
+    "rating": "4.0"
+}

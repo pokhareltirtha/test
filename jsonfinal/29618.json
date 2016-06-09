@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE CONSUMI S.N.C.",
+    "description": "",
+    "address": "307, Via Casentinese - 50060 Consuma (FI)",
+    "streetAddress": "307, Via Casentinese",
+    "postalCode": "50060",
+    "addressLocality": "Consuma",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7806,
+        "lon": 11.59605
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8306536",
+        "055 0763332"
+    ],
+    "rating": ""
+}

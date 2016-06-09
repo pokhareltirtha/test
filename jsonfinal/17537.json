@@ -1,0 +1,20 @@
+{
+    "name": "CASSIA VETUS OSTERIA GELATERIA",
+    "description": "",
+    "address": "9, Via Manzoni - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "9, Via Manzoni",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.54977,
+        "lon": 11.58338
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9172116"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,22 @@
+{
+    "name": "RISTORANTE PIZZERIA IL NUOVO POGGETTO",
+    "description": "",
+    "address": "24/B, Via Mercati Michele - 50139 Firenze (FI)",
+    "streetAddress": "24/B, Via Mercati Michele",
+    "postalCode": "50139",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79489,
+        "lon": 11.24773
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 471320",
+        "055 5272949"
+    ],
+    "rating": ""
+}

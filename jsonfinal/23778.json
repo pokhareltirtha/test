@@ -1,0 +1,20 @@
+{
+    "name": "L'OSTERIA PONTENONO DI KOVACS NELA",
+    "description": "",
+    "address": "51, Via Pontenono - 48013 Fognano (RA)",
+    "streetAddress": "51, Via Pontenono",
+    "postalCode": "48013",
+    "addressLocality": "Fognano",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.20819,
+        "lon": 11.74665
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 81496"
+    ],
+    "rating": ""
+}

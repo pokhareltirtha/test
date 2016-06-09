@@ -1,0 +1,21 @@
+{
+    "name": "DA MARIO",
+    "description": "",
+    "address": "5, Via Martiri Di Marzabotto - 48025 Riolo Terme (RA)",
+    "streetAddress": "5, Via Martiri Di Marzabotto",
+    "postalCode": "48025",
+    "addressLocality": "Riolo Terme",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.27885,
+        "lon": 11.72658
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0546 74355"
+    ],
+    "rating": ""
+}

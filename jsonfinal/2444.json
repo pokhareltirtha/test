@@ -1,0 +1,21 @@
+{
+    "name": "LA LOGGIA DE CHIANTI",
+    "description": "",
+    "address": "1, Viale Degli Ulivi - 53017 Radda In Chianti (SI)",
+    "streetAddress": "1, Viale Degli Ulivi",
+    "postalCode": "53017",
+    "addressLocality": "Radda In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.48496,
+        "lon": 11.32133
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 738491"
+    ],
+    "rating": ""
+}

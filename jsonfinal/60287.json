@@ -1,0 +1,20 @@
+{
+    "name": "DA LIVI",
+    "description": "",
+    "address": "47, Via Giovanni Villani - 50033 Firenzuola (FI)",
+    "streetAddress": "47, Via Giovanni Villani",
+    "postalCode": "50033",
+    "addressLocality": "Firenzuola",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.11929,
+        "lon": 11.37883
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 819104"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "F.N.F. RESTAURANT DI NATALI FRANCO & C. S.N.C.",
+    "description": "",
+    "address": "89, Via Capannone - 51019 Ponte Buggianese (PT)",
+    "streetAddress": "89, Via Capannone",
+    "postalCode": "51019",
+    "addressLocality": "Ponte Buggianese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.82184,
+        "lon": 10.76163
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 634001"
+    ],
+    "rating": ""
+}

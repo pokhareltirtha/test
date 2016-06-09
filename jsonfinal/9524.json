@@ -1,0 +1,20 @@
+{
+    "name": "HOTEL COUNTRY CLUB",
+    "description": "Il complesso turistico Country Club di Capannori (LU) è immerso in un'oasi di verde delle colline lucchesi, è situato per la precisione a Gragnano.",
+    "address": "874, V. Pesciatina - 55012 Capannori (LU)",
+    "streetAddress": "874, V. Pesciatina",
+    "postalCode": "55012",
+    "addressLocality": "Capannori",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.87135,
+        "lon": 10.63799
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 434404"
+    ],
+    "rating": ""
+}

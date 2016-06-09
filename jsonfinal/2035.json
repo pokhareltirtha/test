@@ -1,0 +1,20 @@
+{
+    "name": "LA PANZANELLA",
+    "description": "",
+    "address": "21, Piazzetta Di Spedaletto - 51100 Spedaletto (PT)",
+    "streetAddress": "21, Piazzetta Di Spedaletto",
+    "postalCode": "51100",
+    "addressLocality": "Spedaletto",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 44.03713,
+        "lon": 10.94598
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 470081"
+    ],
+    "rating": "4.0"
+}

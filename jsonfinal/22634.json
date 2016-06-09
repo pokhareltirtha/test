@@ -1,0 +1,20 @@
+{
+    "name": "IL CARBONILE",
+    "description": "",
+    "address": "Piazza Del Carmine, 6/B - 51100 Pistoia (PT)",
+    "streetAddress": "Piazza Del Carmine, 6/B",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.936,
+        "lon": 10.91627
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "331 8438915"
+    ],
+    "rating": ""
+}

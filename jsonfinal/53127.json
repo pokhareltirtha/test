@@ -1,0 +1,20 @@
+{
+    "name": "LA SFOGLIATELLA BAR PASTICCERIA NAPOLETANA",
+    "description": "La Sfogliatella, bar e pasticceria napoletana, v. Dante a Montevarchi (AR), offre un vasto assortimento di specialità tipiche, dolci e salate.",
+    "address": "16, V. Dante - 52025 Montevarchi (AR)",
+    "streetAddress": "16, V. Dante",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.5257,
+        "lon": 11.56689
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 984682"
+    ],
+    "rating": ""
+}

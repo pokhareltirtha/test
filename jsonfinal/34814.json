@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA DEL PELLEGRINO",
+    "description": "",
+    "address": "Via Boccadirio 8 - 40035 Castiglione Dei Pepoli (BO)",
+    "streetAddress": "Via Boccadirio 8",
+    "postalCode": "40035",
+    "addressLocality": "Castiglione Dei Pepoli",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.12423,
+        "lon": 11.20668
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0534 898304"
+    ],
+    "rating": ""
+}

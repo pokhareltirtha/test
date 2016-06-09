@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE & PIZZERIA IL GALLO CEDRONE 2.0",
+    "description": "Il Gallo Cedrone 2.0, a San Miniato, offre gustosi piatti per soddisfare tutti i gusti.",
+    "address": "58, V. Trento - 56028 San Miniato (PI)",
+    "streetAddress": "58, V. Trento",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70018,
+        "lon": 10.86811
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 43071"
+    ],
+    "rating": ""
+}

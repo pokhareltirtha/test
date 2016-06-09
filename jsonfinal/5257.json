@@ -1,0 +1,20 @@
+{
+    "name": "MAMMA BUTTA LA PASTA",
+    "description": "",
+    "address": "16, Via Livorno - 59013 Montemurlo (PO)",
+    "streetAddress": "16, Via Livorno",
+    "postalCode": "59013",
+    "addressLocality": "Montemurlo",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.9206,
+        "lon": 11.03269
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 1953179"
+    ],
+    "rating": ""
+}

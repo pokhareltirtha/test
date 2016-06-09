@@ -1,0 +1,20 @@
+{
+    "name": "CACIOSTERIA DEI DUE PONTI",
+    "description": "",
+    "address": "47, Ponte Della Venturina - 51020 Sambuca Pistoiese (PT)",
+    "streetAddress": "47, Ponte Della Venturina",
+    "postalCode": "51020",
+    "addressLocality": "Sambuca Pistoiese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 44.13248,
+        "lon": 10.99691
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 892520"
+    ],
+    "rating": "5.0"
+}

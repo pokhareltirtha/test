@@ -1,0 +1,21 @@
+{
+    "name": "SORGENTE CALORIA",
+    "description": "",
+    "address": "708, Via Angiolini - 51036 Larciano (PT)",
+    "streetAddress": "708, Via Angiolini",
+    "postalCode": "51036",
+    "addressLocality": "Larciano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83783,
+        "lon": 10.87903
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 838434",
+        "0573 83144"
+    ],
+    "rating": ""
+}

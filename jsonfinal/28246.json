@@ -1,0 +1,21 @@
+{
+    "name": "MONTI",
+    "description": "",
+    "address": "27, Via Sumbilla - 40063 Monghidoro (BO)",
+    "streetAddress": "27, Via Sumbilla",
+    "postalCode": "40063",
+    "addressLocality": "Monghidoro",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.22832,
+        "lon": 11.345
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "051 6551176",
+        "051 6551119"
+    ],
+    "rating": ""
+}

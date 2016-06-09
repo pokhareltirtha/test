@@ -1,0 +1,20 @@
+{
+    "name": "BAR ALIMENTARI TRATTORIA IL GIORGIONE",
+    "description": "",
+    "address": "46, Localita' Sagginale - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "46, Localita' Sagginale",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.93292,
+        "lon": 11.41597
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8490130"
+    ],
+    "rating": ""
+}

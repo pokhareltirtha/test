@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA PIZZAMANIA PIZZA AL TAGLIO E D'ASPORTO",
+    "description": "",
+    "address": "9, V. Nazionale (Corsalone) - 52010 Chiusi Della Verna (AR)",
+    "streetAddress": "9, V. Nazionale (Corsalone)",
+    "postalCode": "52010",
+    "addressLocality": "Chiusi Della Verna",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.67405,
+        "lon": 11.83602
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0575 511257"
+    ],
+    "rating": ""
+}

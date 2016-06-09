@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA RISTORANTE BARCO REALE",
+    "description": "",
+    "address": "26, Piazza Vittorio Emanuele II - 59015 Carmignano (PO)",
+    "streetAddress": "26, Piazza Vittorio Emanuele II",
+    "postalCode": "59015",
+    "addressLocality": "Carmignano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.81398,
+        "lon": 11.01903
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8711559"
+    ],
+    "rating": "5.0"
+}

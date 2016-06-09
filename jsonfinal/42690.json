@@ -1,0 +1,20 @@
+{
+    "name": "FRIGGI FRIGGI",
+    "description": "",
+    "address": "21, Piazza Giacomo Matteotti - 50018 Scandicci (FI)",
+    "streetAddress": "21, Piazza Giacomo Matteotti",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75351,
+        "lon": 11.19022
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 4100936"
+    ],
+    "rating": ""
+}

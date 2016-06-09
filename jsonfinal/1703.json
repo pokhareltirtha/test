@@ -1,0 +1,21 @@
+{
+    "name": "LA CAPPONCINA SRL",
+    "description": "",
+    "address": "36, Viale Minzoni Don Giovanni - 50100 Firenze (FI)",
+    "streetAddress": "36, Viale Minzoni Don Giovanni",
+    "postalCode": "50100",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78542,
+        "lon": 11.26612
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 589060",
+        "055 5535607"
+    ],
+    "rating": ""
+}

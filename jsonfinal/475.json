@@ -1,0 +1,21 @@
+{
+    "name": "CIVICO 312 srl",
+    "description": "Concediti il piacere di un’ottima pizza o di un buon pasto in un ambiente divertente e famigliare al Civico 312, in via Roma a Prato.",
+    "address": "312/L/M, V. Roma - 59100 Prato (PO)",
+    "streetAddress": "312/L/M, V. Roma",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86139,
+        "lon": 11.08145
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 631406"
+    ],
+    "rating": ""
+}

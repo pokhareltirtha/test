@@ -1,0 +1,21 @@
+{
+    "name": "IL GIRASOLE",
+    "description": "",
+    "address": "5, Via Provinciale Francesca Nord - 56010 Vicopisano (PI)",
+    "streetAddress": "5, Via Provinciale Francesca Nord",
+    "postalCode": "56010",
+    "addressLocality": "Vicopisano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70011,
+        "lon": 10.59294
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "377 4523248",
+        "050 798669"
+    ],
+    "rating": ""
+}

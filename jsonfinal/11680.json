@@ -1,0 +1,20 @@
+{
+    "name": "CAFFE' AL TEATRO",
+    "description": "",
+    "address": "28, Via Giuseppe Verdi - 59100 Prato (PO)",
+    "streetAddress": "28, Via Giuseppe Verdi",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87975,
+        "lon": 11.09972
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 30658"
+    ],
+    "rating": ""
+}

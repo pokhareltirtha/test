@@ -1,0 +1,21 @@
+{
+    "name": "J. K. LOUNGE",
+    "description": "",
+    "address": "7, Piazza Di Santa Maria Novella - 50123 Firenze (FI)",
+    "streetAddress": "7, Piazza Di Santa Maria Novella",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77305,
+        "lon": 11.24959
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2645181",
+        "055 2658387"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RIO GRANDE",
+    "description": "",
+    "address": "165, Via San Quirico - 50013 Capalle (FI)",
+    "streetAddress": "165, Via San Quirico",
+    "postalCode": "50013",
+    "addressLocality": "Capalle",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84554,
+        "lon": 11.14372
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8974460"
+    ],
+    "rating": ""
+}

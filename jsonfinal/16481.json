@@ -1,0 +1,20 @@
+{
+    "name": "MAGO BAGO",
+    "description": "",
+    "address": "41, Via Pistoiese - 51011 Borgo A Buggiano (PT)",
+    "streetAddress": "41, Via Pistoiese",
+    "postalCode": "51011",
+    "addressLocality": "Borgo A Buggiano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87913,
+        "lon": 10.74208
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 33102"
+    ],
+    "rating": ""
+}

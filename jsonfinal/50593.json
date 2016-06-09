@@ -1,0 +1,20 @@
+{
+    "name": "BAR PIZZERIA PONTENOVO DI BARONTINI LUCA",
+    "description": "",
+    "address": "220, Via Sestini Bartolomeo - 51100 Pistoia (PT)",
+    "streetAddress": "220, Via Sestini Bartolomeo",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94172,
+        "lon": 10.95587
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "0573 452662"
+    ],
+    "rating": ""
+}

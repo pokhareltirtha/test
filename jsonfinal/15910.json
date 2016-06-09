@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA A BENGIO DI MICHELONI E DAVID",
+    "description": "",
+    "address": "15, Via Nuova - 55018 Segromigno In Monte (LU)",
+    "streetAddress": "15, Via Nuova",
+    "postalCode": "55018",
+    "addressLocality": "Segromigno In Monte",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.88087,
+        "lon": 10.60157
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 403089"
+    ],
+    "rating": ""
+}

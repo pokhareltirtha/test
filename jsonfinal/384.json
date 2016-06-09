@@ -1,0 +1,20 @@
+{
+    "name": "IL SASSO ENOTECA PASQUINI",
+    "description": "",
+    "address": "40, Via Firenze - 59100 Prato (PO)",
+    "streetAddress": "40, Via Firenze",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86973,
+        "lon": 11.12374
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 560864"
+    ],
+    "rating": ""
+}

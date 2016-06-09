@@ -1,0 +1,21 @@
+{
+    "name": "LA FORESTERIA",
+    "description": "",
+    "address": "10, Piazza Castello - 51015 Monsummano Terme (PT)",
+    "streetAddress": "10, Piazza Castello",
+    "postalCode": "51015",
+    "addressLocality": "Monsummano Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8793,
+        "lon": 10.82297
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 81036",
+        "339 5421336"
+    ],
+    "rating": ""
+}

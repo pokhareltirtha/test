@@ -1,0 +1,21 @@
+{
+    "name": "RIVASUD RISTORANTE PIZZERIA",
+    "description": "Ambientazione unica immersa nel verde per gustare gastronomia mediterranea a Barberino di Mugello, provincia di Firenze",
+    "address": "S.S. 65 Cafaggiolo - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "S.S. 65 Cafaggiolo",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.96492,
+        "lon": 11.29615
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8479405"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA LA FONTANA",
+    "description": "La trattoria di Prato che accoglie i propri ospiti in un ambiente dall'atmosfera cordiale e famigliare dove gustare piatti tipici della cucina toscana.",
+    "address": "1, V. Canneto - 59100 Prato (PO)",
+    "streetAddress": "1, V. Canneto",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.89728,
+        "lon": 11.11225
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 27282"
+    ],
+    "rating": ""
+}

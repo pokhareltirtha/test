@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA RESIDENCE FRANCESCO",
+    "description": "A Pelago (FI) il luogo ideale per la scoperta delle colline del Chianti, dove gustare una cucina semplice e rustica che propone piatti tipici fiorentini.",
+    "address": "46/48, V. Aretina-Carbonile - 50060 Pelago (FI)",
+    "streetAddress": "46/48, V. Aretina-Carbonile",
+    "postalCode": "50060",
+    "addressLocality": "Pelago",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75313,
+        "lon": 11.47283
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "338 5044611",
+        "055 8311043"
+    ],
+    "rating": "5.0"
+}

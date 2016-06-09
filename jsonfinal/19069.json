@@ -1,0 +1,21 @@
+{
+    "name": "ALFREDO RISTORANTE PIZZERIA",
+    "description": "",
+    "address": "3, Viale Don Giovanni Minzoni - 50129 Firenze (FI)",
+    "streetAddress": "3, Viale Don Giovanni Minzoni",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78413,
+        "lon": 11.2635
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 4165149",
+        "335 275565"
+    ],
+    "rating": ""
+}

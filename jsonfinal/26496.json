@@ -1,0 +1,20 @@
+{
+    "name": "COLLEGE CAFFE' DI TASSELLI JACOPO  C. S.A.S.",
+    "description": "",
+    "address": "101, Via Pertini Sandro - 50041 Calenzano (FI)",
+    "streetAddress": "101, Via Pertini Sandro",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85727,
+        "lon": 11.16274
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8826531"
+    ],
+    "rating": ""
+}

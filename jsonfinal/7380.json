@@ -1,0 +1,20 @@
+{
+    "name": "LA VALLE DEI CEDRI",
+    "description": "",
+    "address": ", Borgo S Croce - 50122 Firenze (FI)",
+    "streetAddress": ", Borgo S Croce",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76807,
+        "lon": 11.26063
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2346340"
+    ],
+    "rating": "5.0"
+}

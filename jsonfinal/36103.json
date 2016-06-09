@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PANDA WOK",
+    "description": "Il ristorante Panda Wok a Vinci, ambiente elegante e confortevole per ogni tipo di pranzo lavorativo o cena romantica.",
+    "address": "345, V. L. Da Vinci - 50059 Vinci (FI)",
+    "streetAddress": "345, V. L. Da Vinci",
+    "postalCode": "50059",
+    "addressLocality": "Vinci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73153,
+        "lon": 10.91577
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 902173",
+        "333 6693098"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "POGGIO BAR RISTORANTE PIZZERIA",
+    "description": "",
+    "address": "92, Via Ortimino - 50025 Montespertoli (FI)",
+    "streetAddress": "92, Via Ortimino",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.62898,
+        "lon": 11.02015
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 674140"
+    ],
+    "rating": ""
+}

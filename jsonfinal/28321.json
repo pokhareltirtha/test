@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE HOTEL ROSA BIANCA",
+    "description": "A Rocca San casciano, in provincia di Forlì Cesena, si trova il ristorante dove gustare piatti della cucina toscana ed emiliana accompagnati da buon vino.",
+    "address": "40, V. Corbari - 47017 Rocca San Casciano (FC)",
+    "streetAddress": "40, V. Corbari",
+    "postalCode": "47017",
+    "addressLocality": "Rocca San Casciano",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.06274,
+        "lon": 11.84288
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0543 933344",
+        "349 8601818"
+    ],
+    "rating": ""
+}

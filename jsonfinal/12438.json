@@ -1,0 +1,20 @@
+{
+    "name": "FUNICULI' PIZZERIA RISTORANTE",
+    "description": "A Sesto Fiorentino, il ristorante pizzeria che ricrea un angolo di Napoli con prodotti genuini e freschi del territorio.",
+    "address": "52, P. IV Novembre - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "52, P. IV Novembre",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83316,
+        "lon": 11.19882
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4480489"
+    ],
+    "rating": ""
+}

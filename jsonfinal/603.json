@@ -1,0 +1,21 @@
+{
+    "name": "SOTTOSOPRA",
+    "description": "",
+    "address": "106, Via Chiantigiana - 50055 Lastra A Signa (FI)",
+    "streetAddress": "106, Via Chiantigiana",
+    "postalCode": "50055",
+    "addressLocality": "Lastra A Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.70904,
+        "lon": 11.07204
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8713626"
+    ],
+    "rating": ""
+}

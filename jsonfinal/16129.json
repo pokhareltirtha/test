@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE EL PATIO S.R.L.",
+    "description": "",
+    "address": "67, Via Pesciatina - 50054 Fucecchio (FI)",
+    "streetAddress": "67, Via Pesciatina",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.81214,
+        "lon": 10.72791
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 296052"
+    ],
+    "rating": ""
+}

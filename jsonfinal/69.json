@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA RISTORANTE VICO DEL CARMINE srl",
+    "description": "Pizzeria Ristorante Vico del Carmine vi aspetta per farvi gustare le specialità napoletane a Firenze (FI) 40/r, v. Pisana.",
+    "address": "40/R, V. Pisana - 50143 Firenze (FI)",
+    "streetAddress": "40/R, V. Pisana",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77077,
+        "lon": 11.23873
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2336862"
+    ],
+    "rating": ""
+}

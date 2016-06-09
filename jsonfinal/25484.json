@@ -1,0 +1,20 @@
+{
+    "name": "GOMBOLI ENRICO",
+    "description": "",
+    "address": "4, Via Casellina - 50018 Scandicci (FI)",
+    "streetAddress": "4, Via Casellina",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76411,
+        "lon": 11.17237
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 753801"
+    ],
+    "rating": ""
+}

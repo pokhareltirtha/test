@@ -1,0 +1,20 @@
+{
+    "name": "GILDA BISTROT FIRENZE",
+    "description": "Ristorante, enoteca, bistrot, caffè, bar e sala da tè. Siamo specializzati in aperitivi e cocktail. La nostra cucina propone specialità di pesce, cucina toscana e cucina francese oltre ad un ottima se...",
+    "address": "40/41/R, P. Ghiberti - 50122 Firenze (FI)",
+    "streetAddress": "40/41/R, P. Ghiberti",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77108,
+        "lon": 11.26668
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2343885"
+    ],
+    "rating": "4.5"
+}

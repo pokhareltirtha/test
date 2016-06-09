@@ -1,0 +1,21 @@
+{
+    "name": "LE BOTTEGHE DI DONATELLO",
+    "description": "",
+    "address": "28, Piazza Duomo - 50122 Firenze (FI)",
+    "streetAddress": "28, Piazza Duomo",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77324,
+        "lon": 11.25755
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 216183",
+        "055 216678"
+    ],
+    "rating": ""
+}

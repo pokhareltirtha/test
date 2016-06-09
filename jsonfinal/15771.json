@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA INDIANA",
+    "description": "",
+    "address": "172, Via Di Piaggiori - 55018 Segromigno In Monte (LU)",
+    "streetAddress": "172, Via Di Piaggiori",
+    "postalCode": "55018",
+    "addressLocality": "Segromigno In Monte",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.88039,
+        "lon": 10.59649
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 926700"
+    ],
+    "rating": ""
+}

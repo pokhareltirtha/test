@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE FANELLINO",
+    "description": "",
+    "address": "35, V. Livornese - 56029 Santa Croce Sull'Arno (PI)",
+    "streetAddress": "35, V. Livornese",
+    "postalCode": "56029",
+    "addressLocality": "Santa Croce Sull'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.75223,
+        "lon": 10.70103
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 37287"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE BASSA MAREA",
+    "description": "",
+    "address": "1, Via Pietro Mascagni - 50050 Bassa (FI)",
+    "streetAddress": "1, Via Pietro Mascagni",
+    "postalCode": "50050",
+    "addressLocality": "Bassa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72417,
+        "lon": 10.87781
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 580043"
+    ],
+    "rating": ""
+}

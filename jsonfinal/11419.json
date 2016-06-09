@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE MONTACCOLLE",
+    "description": "",
+    "address": "Via Marlianese 27 - 51016 Montecatini Terme (PT)",
+    "streetAddress": "Via Marlianese 27",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90771,
+        "lon": 10.77969
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 72480",
+        "0572 773828"
+    ],
+    "rating": ""
+}

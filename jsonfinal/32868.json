@@ -1,0 +1,20 @@
+{
+    "name": "AGRITURISMO PODERONE",
+    "description": "",
+    "address": "64, Via Campigna - 47018 Santa Sofia (FC)",
+    "streetAddress": "64, Via Campigna",
+    "postalCode": "47018",
+    "addressLocality": "Santa Sofia",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 43.87304,
+        "lon": 11.74858
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0543 980069"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LUCULLO",
+    "description": "Cucina ricercata a base di pesce freschissimo tutti i giorni e la sua ricca cantina di vini, a Calenzano (FI)",
+    "address": "95, V. Vitt. Eman. - 50041 Calenzano (FI)",
+    "streetAddress": "95, V. Vitt. Eman.",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84598,
+        "lon": 11.17786
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8874957"
+    ],
+    "rating": ""
+}

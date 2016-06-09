@@ -1,0 +1,20 @@
+{
+    "name": "ESTERO DOMENICO",
+    "description": "",
+    "address": "5, Localita' Salutio - 52016 Castel Focognano (AR)",
+    "streetAddress": "5, Localita' Salutio",
+    "postalCode": "52016",
+    "addressLocality": "Castel Focognano",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.61841,
+        "lon": 11.81428
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 591942"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "GRUPPO MIRAGLIA S.R.L.",
+    "description": "",
+    "address": "50, Viale Marconi Guglielmo - 59100 Prato (PO)",
+    "streetAddress": "50, Viale Marconi Guglielmo",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.85985,
+        "lon": 11.1206
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 757189"
+    ],
+    "rating": "4.0"
+}

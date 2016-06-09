@@ -1,0 +1,20 @@
+{
+    "name": "DA DELFINA",
+    "description": "",
+    "address": "1, Via Della Chiesa - 59015 Carmignano (PO)",
+    "streetAddress": "1, Via Della Chiesa",
+    "postalCode": "59015",
+    "addressLocality": "Carmignano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.7788,
+        "lon": 11.03203
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8718074"
+    ],
+    "rating": "5.0"
+}

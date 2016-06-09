@@ -1,0 +1,21 @@
+{
+    "name": "COLLEOLI",
+    "description": "",
+    "address": ", Via Di Colleoli - 56036 Palaia (PI)",
+    "streetAddress": ", Via Di Colleoli",
+    "postalCode": "56036",
+    "addressLocality": "Palaia",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.62391,
+        "lon": 10.75014
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 622621",
+        "349 8461430"
+    ],
+    "rating": ""
+}

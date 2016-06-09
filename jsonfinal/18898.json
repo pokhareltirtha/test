@@ -1,0 +1,21 @@
+{
+    "name": "LA TERRAZZA DEL PRINCIPE",
+    "description": "",
+    "address": "10, Viale Niccolo Machiavelli - 50125 Firenze (FI)",
+    "streetAddress": "10, Viale Niccolo Machiavelli",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75862,
+        "lon": 11.24502
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 224104",
+        "055 2335375"
+    ],
+    "rating": ""
+}

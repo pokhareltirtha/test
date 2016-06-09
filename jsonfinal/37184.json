@@ -1,0 +1,21 @@
+{
+    "name": "TAVERNA Y TAPAS EL QUIJOTE BAR",
+    "description": "",
+    "address": "Via Rozzalupi, 12 - 50053 Empoli (FI)",
+    "streetAddress": "Via Rozzalupi, 12",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72104,
+        "lon": 10.9422
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "334 8802664",
+        "0571 73066"
+    ],
+    "rating": ""
+}

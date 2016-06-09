@@ -1,0 +1,20 @@
+{
+    "name": "INTERNACIONAL FOOD",
+    "description": "",
+    "address": "1, Via Edmondo De Amicis - 50013 Sant'Angelo A Lecore (FI)",
+    "streetAddress": "1, Via Edmondo De Amicis",
+    "postalCode": "50013",
+    "addressLocality": "Sant'Angelo A Lecore",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.81367,
+        "lon": 11.06501
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8798019"
+    ],
+    "rating": ""
+}

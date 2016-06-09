@@ -1,0 +1,21 @@
+{
+    "name": "I VECCHI AMICI",
+    "description": "",
+    "address": "1, Via Scandicci Alto - 50018 Scandicci (FI)",
+    "streetAddress": "1, Via Scandicci Alto",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75183,
+        "lon": 11.19626
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2577218",
+        "055 2579446"
+    ],
+    "rating": ""
+}

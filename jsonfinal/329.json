@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL PINOLO",
+    "description": "",
+    "address": "24, Via Del Ponte Alle Mosse - 50144 Firenze (FI)",
+    "streetAddress": "24, Via Del Ponte Alle Mosse",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77947,
+        "lon": 11.23828
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 353673"
+    ],
+    "rating": "3.0"
+}

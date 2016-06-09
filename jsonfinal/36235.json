@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PERUVIANO LA VACA LOKA",
+    "description": "Ristorante con cucina tipica del Perù, sud americana ed etnica ubicato a Firenze, per poter gustare ottime specialità etniche.",
+    "address": "148/H, V. Baracca - 50127 Firenze (FI)",
+    "streetAddress": "148/H, V. Baracca",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79438,
+        "lon": 11.20951
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 411942"
+    ],
+    "rating": ""
+}

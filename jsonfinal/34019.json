@@ -1,0 +1,20 @@
+{
+    "name": "VILLA LA BORGHETTA srl",
+    "description": "Un albergo ristorante a quattro stelle a Figline e Incisa Valdarno per un pernottamento sereno e riposante e una tavola sempre impeccabile, raffinata e gustosa.",
+    "address": "57, V. Golfonaia - 50063 Figline Valdarno (FI)",
+    "streetAddress": "57, V. Golfonaia",
+    "postalCode": "50063",
+    "addressLocality": "Figline Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.6016,
+        "lon": 11.41848
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 952868"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA IL RAGNO",
+    "description": "Dal 1964, Il Ragno è una delle pizzerie storiche più antiche della città di Prato, con una qualità che è rimasta immutata nel tempo.",
+    "address": "133, V. Valentini - 59100 Prato (PO)",
+    "streetAddress": "133, V. Valentini",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86705,
+        "lon": 11.09614
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 596700"
+    ],
+    "rating": "4.6"
+}

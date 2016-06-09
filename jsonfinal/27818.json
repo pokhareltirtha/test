@@ -1,0 +1,20 @@
+{
+    "name": "PIAZZA DEL POPOLO",
+    "description": "",
+    "address": "10, Piazza Del Popolo - 56028 San Miniato (PI)",
+    "streetAddress": "10, Piazza Del Popolo",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67994,
+        "lon": 10.84865
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 42548"
+    ],
+    "rating": ""
+}

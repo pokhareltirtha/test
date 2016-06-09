@@ -1,0 +1,20 @@
+{
+    "name": "SPARTA S.R.L.",
+    "description": "",
+    "address": "7, Via Delle Torri - 50142 Firenze (FI)",
+    "streetAddress": "7, Via Delle Torri",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77699,
+        "lon": 11.20495
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 3851819"
+    ],
+    "rating": ""
+}

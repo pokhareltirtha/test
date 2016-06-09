@@ -1,0 +1,20 @@
+{
+    "name": "SPAGHETTERIA IR TEGAME",
+    "description": "",
+    "address": "9, Via Pisana - 50143 Firenze (FI)",
+    "streetAddress": "9, Via Pisana",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77059,
+        "lon": 11.23963
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2337412"
+    ],
+    "rating": ""
+}

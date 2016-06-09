@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA TANA DEGLI ORSI",
+    "description": "",
+    "address": "1, Viale Roma - 52017 Pratovecchio (AR)",
+    "streetAddress": "1, Viale Roma",
+    "postalCode": "52017",
+    "addressLocality": "Pratovecchio",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.78962,
+        "lon": 11.72101
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 583377"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA IL BOIA",
+    "description": "",
+    "address": "1, Via Porta Fiorentina - 56035 (PI)",
+    "streetAddress": "1, Via Porta Fiorentina",
+    "postalCode": "56035",
+    "addressLocality": "",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.56649,
+        "lon": 10.5919
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 686088"
+    ],
+    "rating": ""
+}

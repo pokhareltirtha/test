@@ -1,0 +1,20 @@
+{
+    "name": "DIM SUM RESTAURANT",
+    "description": "",
+    "address": "37, Via Dei Neri - 50122 Firenze (FI)",
+    "streetAddress": "37, Via Dei Neri",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76851,
+        "lon": 11.25727
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 284331"
+    ],
+    "rating": ""
+}

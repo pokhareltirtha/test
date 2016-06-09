@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE OSTERIA MAMMA COZZA",
+    "description": "",
+    "address": "95/97, Via Confini - 50013 Capalle (FI)",
+    "streetAddress": "95/97, Via Confini",
+    "postalCode": "50013",
+    "addressLocality": "Capalle",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8373,
+        "lon": 11.13192
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "347 6755241",
+        "055 8948632"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA BAR ERA ORA S.A.S.",
+    "description": "",
+    "address": "191, Via Val Di Bisenzio - 59021 Vaiano (PO)",
+    "streetAddress": "191, Via Val Di Bisenzio",
+    "postalCode": "59021",
+    "addressLocality": "Vaiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.94629,
+        "lon": 11.12496
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 985236"
+    ],
+    "rating": ""
+}

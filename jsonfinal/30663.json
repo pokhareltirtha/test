@@ -1,0 +1,20 @@
+{
+    "name": "COSA MEHDI",
+    "description": "",
+    "address": "126/R, Via Guelfa - 50129 Firenze (FI)",
+    "streetAddress": "126/R, Via Guelfa",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77836,
+        "lon": 11.25293
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "327 2330945"
+    ],
+    "rating": ""
+}

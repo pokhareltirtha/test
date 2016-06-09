@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ALLA GRIGLIA",
+    "description": "Ristorante pizzeria e griglieria Alla Griglia con specialità grigliate di pesce e di carne a Firenze in v. Banchi.",
+    "address": "25/R, V. Banchi - 50123 Firenze (FI)",
+    "streetAddress": "25/R, V. Banchi",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77346,
+        "lon": 11.25144
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 290314"
+    ],
+    "rating": ""
+}

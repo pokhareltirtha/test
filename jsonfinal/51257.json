@@ -1,0 +1,20 @@
+{
+    "name": "POP S.A.S.",
+    "description": "",
+    "address": "38/A, Viale Corsica - 50127 Firenze (FI)",
+    "streetAddress": "38/A, Viale Corsica",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79056,
+        "lon": 11.23877
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 360493"
+    ],
+    "rating": ""
+}

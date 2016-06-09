@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LE COLONNE",
+    "description": "",
+    "address": "2, Piazza Don Minzoni - 50063 Matassino (FI)",
+    "streetAddress": "2, Piazza Don Minzoni",
+    "postalCode": "50063",
+    "addressLocality": "Matassino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.62442,
+        "lon": 11.48454
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9544097"
+    ],
+    "rating": ""
+}

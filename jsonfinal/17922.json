@@ -1,0 +1,21 @@
+{
+    "name": "BUDE",
+    "description": "",
+    "address": "23, Piazza Vittorio Emanuele - 52020 Castelfranco Di Sopra (AR)",
+    "streetAddress": "23, Piazza Vittorio Emanuele",
+    "postalCode": "52020",
+    "addressLocality": "Castelfranco Di Sopra",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.62135,
+        "lon": 11.55435
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9149040",
+        "055 964016"
+    ],
+    "rating": ""
+}

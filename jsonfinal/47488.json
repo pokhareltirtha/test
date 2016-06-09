@@ -1,0 +1,20 @@
+{
+    "name": "I'CICCIOLO",
+    "description": "",
+    "address": "21/A, Via Minzoni Don Giovanni - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "21/A, Via Minzoni Don Giovanni",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82217,
+        "lon": 11.13721
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8970788"
+    ],
+    "rating": ""
+}

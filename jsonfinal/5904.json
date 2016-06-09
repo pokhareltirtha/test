@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA SU SANTA TRINITA",
+    "description": "Godete di squisite specialità toscane in un ambiente familiare, tranquillo e confortevole: ti stiamo aspettando nella nostra osteria a Prato.",
+    "address": "4, Vc. Neroni - 59100 Prato (PO)",
+    "streetAddress": "4, Vc. Neroni",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87783,
+        "lon": 11.09551
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 605899",
+        "349 2956877"
+    ],
+    "rating": ""
+}

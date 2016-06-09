@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA OSVALDO",
+    "description": "Trattoria tipica toscana, a Firenze, primi piatti e specialità alla brace, immersi nel verde della collina di Settignano.",
+    "address": "51/R, V. D'Annunzio - 50135 Firenze (FI)",
+    "streetAddress": "51/R, V. D'Annunzio",
+    "postalCode": "50135",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78177,
+        "lon": 11.3091
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 602168"
+    ],
+    "rating": "4.8"
+}

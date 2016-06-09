@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA ANTICHE TORRI",
+    "description": "",
+    "address": "419, Via Pisana - 50018 Scandicci (FI)",
+    "streetAddress": "419, Via Pisana",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76534,
+        "lon": 11.16457
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 755405"
+    ],
+    "rating": ""
+}

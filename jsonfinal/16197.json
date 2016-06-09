@@ -1,0 +1,21 @@
+{
+    "name": "TENUTA SANTALLAGO",
+    "description": "",
+    "address": ", Localita Monteserra - 55062 Capannori (LU)",
+    "streetAddress": ", Localita Monteserra",
+    "postalCode": "55062",
+    "addressLocality": "Capannori",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.75896,
+        "lon": 10.563
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 48422"
+    ],
+    "rating": ""
+}

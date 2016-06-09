@@ -1,0 +1,21 @@
+{
+    "name": "IL MARZOCCO",
+    "description": "",
+    "address": "44, Via Paolo Pucci - 51036 Larciano Castello (PT)",
+    "streetAddress": "44, Via Paolo Pucci",
+    "postalCode": "51036",
+    "addressLocality": "Larciano Castello",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83388,
+        "lon": 10.88978
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 83147",
+        "347 5546734"
+    ],
+    "rating": ""
+}

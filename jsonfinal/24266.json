@@ -1,0 +1,20 @@
+{
+    "name": "OMBRA DELLA SERA",
+    "description": "",
+    "address": "70, Via Gramsci - 56048 Volterra (PI)",
+    "streetAddress": "70, Via Gramsci",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40125,
+        "lon": 10.86285
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 86663"
+    ],
+    "rating": ""
+}

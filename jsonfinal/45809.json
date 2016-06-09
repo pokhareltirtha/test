@@ -1,0 +1,20 @@
+{
+    "name": "NOVELLETO",
+    "description": "",
+    "address": "90, Via Per Montagnana - 51030 Momigno (PT)",
+    "streetAddress": "90, Via Per Montagnana",
+    "postalCode": "51030",
+    "addressLocality": "Momigno",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.97042,
+        "lon": 10.80416
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 619311"
+    ],
+    "rating": ""
+}

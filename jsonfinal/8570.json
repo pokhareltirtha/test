@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE GIULIANI SAS",
+    "description": "",
+    "address": "7, Via Roma - 51013 Chiesina Uzzanese (PT)",
+    "streetAddress": "7, Via Roma",
+    "postalCode": "51013",
+    "addressLocality": "Chiesina Uzzanese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83868,
+        "lon": 10.71751
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 411644",
+        "338 8281503"
+    ],
+    "rating": ""
+}

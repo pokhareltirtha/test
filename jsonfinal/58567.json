@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA A TAGLIO LA GOLOSA DI DE MASI ELISABETTA",
+    "description": "",
+    "address": "349, Via Vecchia Fiorentina - 51039 Quarrata (PT)",
+    "streetAddress": "349, Via Vecchia Fiorentina",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8726,
+        "lon": 10.95712
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 743266"
+    ],
+    "rating": ""
+}

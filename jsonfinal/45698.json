@@ -1,0 +1,20 @@
+{
+    "name": "VILLA GIORGIA",
+    "description": "Villa Giorgia di Pistoia è un’incantevole sorpresa per chi vuole assaporare i ritmi lenti della Toscana! Vieni da noi per un soggiorno rilassante!",
+    "address": "164, V. Bolognese - 51100 Pistoia (PT)",
+    "streetAddress": "164, V. Bolognese",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9802,
+        "lon": 10.89979
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 480042"
+    ],
+    "rating": "4.0"
+}

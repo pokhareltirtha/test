@@ -1,0 +1,20 @@
+{
+    "name": "LA POSTA",
+    "description": "",
+    "address": "8, Via Del Papa Giuseppe - 50053 Empoli (FI)",
+    "streetAddress": "8, Via Del Papa Giuseppe",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71916,
+        "lon": 10.94672
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 74279"
+    ],
+    "rating": "3.0"
+}

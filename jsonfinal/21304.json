@@ -1,0 +1,21 @@
+{
+    "name": "CARLONI",
+    "description": "",
+    "address": "24, Via Giacomo Puccini - 53013 Gaiole In Chianti (SI)",
+    "streetAddress": "24, Via Giacomo Puccini",
+    "postalCode": "53013",
+    "addressLocality": "Gaiole In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.47048,
+        "lon": 11.43243
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 749549",
+        "339 6623646"
+    ],
+    "rating": ""
+}

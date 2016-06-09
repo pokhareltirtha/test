@@ -1,0 +1,20 @@
+{
+    "name": "LA BUSSOLA",
+    "description": "",
+    "address": "58, Via Porta Rossa - 50123 Firenze (FI)",
+    "streetAddress": "58, Via Porta Rossa",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77024,
+        "lon": 11.2522
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 293376"
+    ],
+    "rating": "4.0"
+}

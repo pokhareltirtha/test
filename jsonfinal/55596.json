@@ -1,0 +1,20 @@
+{
+    "name": "GIACOMETTI CLAUDIA",
+    "description": "",
+    "address": "73/R, Via Faenza - 50123 Firenze (FI)",
+    "streetAddress": "73/R, Via Faenza",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77731,
+        "lon": 11.25127
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2382940"
+    ],
+    "rating": ""
+}

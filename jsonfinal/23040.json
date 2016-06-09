@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LA FENICE",
+    "description": "Il Ristorante La Fenice nasce nel 2006 da un'idea di Maria Iodice, con una un'esperienza ventennale nel settore, che unisce il gusto della tradizione gastronomica italiana e toscana, genuina e saporit...",
+    "address": "69/73, V. Dalmazia - 51100 Pistoia (PT)",
+    "streetAddress": "69/73, V. Dalmazia",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93838,
+        "lon": 10.91027
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 21167"
+    ],
+    "rating": "5.0"
+}

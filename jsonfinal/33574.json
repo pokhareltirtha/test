@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIAMERIANNA DI CICALINI MERI & C. S.N.C.",
+    "description": "",
+    "address": "25, Via Venticinque Aprile - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "25, Via Venticinque Aprile",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82032,
+        "lon": 11.13537
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 892890"
+    ],
+    "rating": "4.5"
+}

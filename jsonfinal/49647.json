@@ -1,0 +1,20 @@
+{
+    "name": "MARA MEO",
+    "description": "",
+    "address": "120, Via Roma - 55016 Porcari (LU)",
+    "streetAddress": "120, Via Roma",
+    "postalCode": "55016",
+    "addressLocality": "Porcari",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.83847,
+        "lon": 10.6195
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 29113"
+    ],
+    "rating": ""
+}

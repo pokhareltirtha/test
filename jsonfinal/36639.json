@@ -1,0 +1,21 @@
+{
+    "name": "IN VINO VERITAS",
+    "description": "",
+    "address": "36, Via Aldo Moro - 51035 Lamporecchio (PT)",
+    "streetAddress": "36, Via Aldo Moro",
+    "postalCode": "51035",
+    "addressLocality": "Lamporecchio",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.81406,
+        "lon": 10.89538
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 803666",
+        "0573 802560"
+    ],
+    "rating": ""
+}

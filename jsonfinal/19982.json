@@ -1,0 +1,20 @@
+{
+    "name": "IL POVERO PESCE",
+    "description": "",
+    "address": "Via Pier Fortunato Calvi, 8/R - 50137 Firenze (FI)",
+    "streetAddress": "Via Pier Fortunato Calvi, 8/R",
+    "postalCode": "50137",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77452,
+        "lon": 11.28339
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 671218"
+    ],
+    "rating": "4.0"
+}

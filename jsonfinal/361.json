@@ -1,0 +1,21 @@
+{
+    "name": "DA FRANCO",
+    "description": "",
+    "address": "37, Via Taddeo Alderotti - 50139 Firenze (FI)",
+    "streetAddress": "37, Via Taddeo Alderotti",
+    "postalCode": "50139",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.797,
+        "lon": 11.24476
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 435718"
+    ],
+    "rating": ""
+}

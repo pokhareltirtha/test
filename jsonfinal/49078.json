@@ -1,0 +1,20 @@
+{
+    "name": "BAR GIULIANO",
+    "description": "",
+    "address": "4, Piazza XX Settembre - 50054 Fucecchio (FI)",
+    "streetAddress": "4, Piazza XX Settembre",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72705,
+        "lon": 10.8072
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 20798"
+    ],
+    "rating": ""
+}

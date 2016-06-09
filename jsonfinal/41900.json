@@ -1,0 +1,21 @@
+{
+    "name": "PETRARCA SRL",
+    "description": "",
+    "address": "11, Via Francesco Petrarca - 50064 Incisa In Val D'Arno (FI)",
+    "streetAddress": "11, Via Francesco Petrarca",
+    "postalCode": "50064",
+    "addressLocality": "Incisa In Val D'Arno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.66143,
+        "lon": 11.44885
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8333946",
+        "055 8333945"
+    ],
+    "rating": ""
+}

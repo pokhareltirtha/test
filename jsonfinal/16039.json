@@ -1,0 +1,21 @@
+{
+    "name": "BAR PIZZERIA IL QUARTO DI DERI ALESSANDRO",
+    "description": "",
+    "address": "1039, Via Tosco Romagnola - 56021 San Giorgio (PI)",
+    "streetAddress": "1039, Via Tosco Romagnola",
+    "postalCode": "56021",
+    "addressLocality": "San Giorgio",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68299,
+        "lon": 10.51215
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 742945"
+    ],
+    "rating": ""
+}

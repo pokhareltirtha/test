@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA.NET DI SABATINI ENIO",
+    "description": "",
+    "address": "7, Via V. Dante - 53037 San Gimignano (SI)",
+    "streetAddress": "7, Via V. Dante",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46704,
+        "lon": 11.04045
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 940406"
+    ],
+    "rating": ""
+}

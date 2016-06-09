@@ -1,0 +1,20 @@
+{
+    "name": "ROSTICCERIA CIACCO",
+    "description": "Una rosticceria di Firenze che propone ogni giorno specialità fresche della tradizione regionale.",
+    "address": "17/18/19/R, P. Gaddi - 50142 Firenze (FI)",
+    "streetAddress": "17/18/19/R, P. Gaddi",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77365,
+        "lon": 11.23324
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 702186"
+    ],
+    "rating": "4.0"
+}

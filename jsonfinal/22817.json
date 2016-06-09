@@ -1,0 +1,20 @@
+{
+    "name": "WINE & SERVICE SRL",
+    "description": "",
+    "address": "18/R, Via Del Cronaca - 50142 Firenze (FI)",
+    "streetAddress": "18/R, Via Del Cronaca",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77149,
+        "lon": 11.21865
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 703819"
+    ],
+    "rating": ""
+}

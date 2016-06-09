@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE MOZART",
+    "description": "",
+    "address": "3, Via Montefortino - 48032 Casola Valsenio (RA)",
+    "streetAddress": "3, Via Montefortino",
+    "postalCode": "48032",
+    "addressLocality": "Casola Valsenio",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.22466,
+        "lon": 11.62109
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 382017",
+        "0546 73508"
+    ],
+    "rating": ""
+}

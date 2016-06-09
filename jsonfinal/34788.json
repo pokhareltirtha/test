@@ -1,0 +1,20 @@
+{
+    "name": "TANG",
+    "description": "",
+    "address": "14, Via XXVII Aprile - 50129 Firenze (FI)",
+    "streetAddress": "14, Via XXVII Aprile",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77931,
+        "lon": 11.25535
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 483435"
+    ],
+    "rating": ""
+}

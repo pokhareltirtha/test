@@ -1,0 +1,20 @@
+{
+    "name": "CASORINO",
+    "description": "",
+    "address": "17, Via Casorino - 51010 Massa E Cozzile (PT)",
+    "streetAddress": "17, Via Casorino",
+    "postalCode": "51010",
+    "addressLocality": "Massa E Cozzile",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.907,
+        "lon": 10.75812
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 604439"
+    ],
+    "rating": ""
+}

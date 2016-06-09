@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA STAGNINO",
+    "description": "Dal 1971 Stagnino e la sua famiglia, hanno sfornato milioni di magnifiche pizze e la specialità è proprio la nostra pizza con funghi porcini freschi e tartufo.",
+    "address": "2, P. S. Pietro - 50066 Reggello (FI)",
+    "streetAddress": "2, P. S. Pietro",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.67553,
+        "lon": 11.52893
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 868121"
+    ],
+    "rating": ""
+}

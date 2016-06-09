@@ -1,0 +1,22 @@
+{
+    "name": "PIZZERIA L'ISOLA VERDE",
+    "description": "Il Ristorante Pizzeria L’Isola Verde di Giorgio Teresa opera nel settore della ristorazione dal 1986. In questa location incantevole la clientela potrà gustare specialità toscane a base pesce e carne....",
+    "address": "135/A, Vl. Diaz - 52025 Montevarchi (AR)",
+    "streetAddress": "135/A, Vl. Diaz",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.53114,
+        "lon": 11.56274
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9103004",
+        "333 2344413"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "FENG GUSTO SRL",
+    "description": "",
+    "address": "160, Viale Europa - 50126 Firenze (FI)",
+    "streetAddress": "160, Viale Europa",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75703,
+        "lon": 11.29768
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6532411"
+    ],
+    "rating": ""
+}

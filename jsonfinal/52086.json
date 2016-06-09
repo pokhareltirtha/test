@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA DA MARIANO DI LENCIONI MARIANO",
+    "description": "",
+    "address": "32, Via Comunale Nuova - 55012 Segromigno In Monte (LU)",
+    "streetAddress": "32, Via Comunale Nuova",
+    "postalCode": "55012",
+    "addressLocality": "Segromigno In Monte",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.88087,
+        "lon": 10.60157
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 926432"
+    ],
+    "rating": ""
+}

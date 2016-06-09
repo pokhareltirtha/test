@@ -1,0 +1,20 @@
+{
+    "name": "LA GRATELLA",
+    "description": "",
+    "address": "81, Via Guelfa - 50129 Firenze (FI)",
+    "streetAddress": "81, Via Guelfa",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77873,
+        "lon": 11.25196
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 211292"
+    ],
+    "rating": ""
+}

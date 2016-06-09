@@ -1,0 +1,21 @@
+{
+    "name": "TOP FISH SRL",
+    "description": "",
+    "address": "37/R, Via Pisana - 50143 Firenze (FI)",
+    "streetAddress": "37/R, Via Pisana",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77079,
+        "lon": 11.23873
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 222299",
+        "055 2281816"
+    ],
+    "rating": ""
+}

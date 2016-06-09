@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA DI LA' DAI PONTE",
+    "description": "",
+    "address": "20/A, Via Duca D'Aosta - 50051 Castelfiorentino (FI)",
+    "streetAddress": "20/A, Via Duca D'Aosta",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.60565,
+        "lon": 10.96521
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 633987"
+    ],
+    "rating": ""
+}

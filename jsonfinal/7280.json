@@ -1,0 +1,21 @@
+{
+    "name": "BUCA SAN GIOVANNI",
+    "description": "",
+    "address": "8, Piazza San Giovanni - 50123 Firenze (FI)",
+    "streetAddress": "8, Piazza San Giovanni",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77304,
+        "lon": 11.25446
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 219151",
+        "055 287612"
+    ],
+    "rating": ""
+}

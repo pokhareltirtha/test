@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA IL CIELO S.N.C. DI PIOMBONI",
+    "description": "",
+    "address": "15, Via Cintoia Alta - 50022 La Panca (FI)",
+    "streetAddress": "15, Via Cintoia Alta",
+    "postalCode": "50022",
+    "addressLocality": "La Panca",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61729,
+        "lon": 11.36011
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "339 3238887"
+    ],
+    "rating": ""
+}

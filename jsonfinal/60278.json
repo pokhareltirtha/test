@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA BAR VALERI",
+    "description": "Il bar pizzeria Valeri è il locale ideale dove gustare tortelli freschi fatti in casa. specialità di pesce a Borgo San Lorenzo (FI) in v. Traversi.",
+    "address": "95, V. Traversi - 50032 Luco Mugello (FI)",
+    "streetAddress": "95, V. Traversi",
+    "postalCode": "50032",
+    "addressLocality": "Luco Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.0011,
+        "lon": 11.39666
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8401776"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ALEX BAR PIZZERIA DI LEONE CONCETTA ROSARIA",
+    "description": "",
+    "address": "7, Piazza De Gasperi Alcide - 50018 Scandicci (FI)",
+    "streetAddress": "7, Piazza De Gasperi Alcide",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74736,
+        "lon": 11.17563
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "055 7301322",
+        "055 741044"
+    ],
+    "rating": ""
+}

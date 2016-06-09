@@ -1,0 +1,20 @@
+{
+    "name": "MYCHEF AGLIO EST",
+    "description": "",
+    "address": ",,Autostrada A1 Firenze - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": ",  Autostrada A1 Firenze",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.03595,
+        "lon": 11.22395
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 841085"
+    ],
+    "rating": ""
+}

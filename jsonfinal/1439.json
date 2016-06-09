@@ -1,0 +1,20 @@
+{
+    "name": "L'ORCIO",
+    "description": "",
+    "address": "19, Viale Risorgimento - 50025 Montespertoli (FI)",
+    "streetAddress": "19, Viale Risorgimento",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.64473,
+        "lon": 11.07148
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 608021"
+    ],
+    "rating": ""
+}

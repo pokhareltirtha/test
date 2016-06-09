@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA TAVERNETTA",
+    "description": "",
+    "address": "15, Via XXVIII Agosto - 52011 Bibbiena (AR)",
+    "streetAddress": "15, Via XXVIII Agosto",
+    "postalCode": "52011",
+    "addressLocality": "Bibbiena",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.6945,
+        "lon": 11.81788
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0575 593627"
+    ],
+    "rating": ""
+}

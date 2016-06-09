@@ -1,0 +1,21 @@
+{
+    "name": "LA NINA",
+    "description": "",
+    "address": "54, Via San Martino - 55015 Montecarlo (LU)",
+    "streetAddress": "54, Via San Martino",
+    "postalCode": "55015",
+    "addressLocality": "Montecarlo",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.86187,
+        "lon": 10.65208
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 22018",
+        "0583 22178"
+    ],
+    "rating": ""
+}

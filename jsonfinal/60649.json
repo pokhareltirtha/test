@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA OSTERIA LA MANGIATOIA",
+    "description": "",
+    "address": "50, Via Delle Mimose - 51039 Quarrata (PT)",
+    "streetAddress": "50, Via Delle Mimose",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8655,
+        "lon": 10.95679
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 735053"
+    ],
+    "rating": ""
+}

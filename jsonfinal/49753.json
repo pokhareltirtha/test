@@ -1,0 +1,20 @@
+{
+    "name": "LA FORMICA",
+    "description": "",
+    "address": "36, Via Romana - 55015 Turchetto (LU)",
+    "streetAddress": "36, Via Romana",
+    "postalCode": "55015",
+    "addressLocality": "Turchetto",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.83068,
+        "lon": 10.63917
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 277116"
+    ],
+    "rating": ""
+}

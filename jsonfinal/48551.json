@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA AL TAGLIO DI VEGNI PIERO",
+    "description": "",
+    "address": "93, Via Dei Calzaioli - 50122 Firenze (FI)",
+    "streetAddress": "93, Via Dei Calzaioli",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77215,
+        "lon": 11.25533
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 210991"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA TERRAZZA S.N.C.",
+    "description": "",
+    "address": "225, Via Baccheretana - 59015 Carmignano (PO)",
+    "streetAddress": "225, Via Baccheretana",
+    "postalCode": "59015",
+    "addressLocality": "Carmignano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.82877,
+        "lon": 11.01834
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8706258"
+    ],
+    "rating": ""
+}

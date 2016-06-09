@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA RISTORANTE VAT 69 DI PAOLINI VITTORIO",
+    "description": "",
+    "address": "16, Via Dalmazia - 51100 Pistoia (PT)",
+    "streetAddress": "16, Via Dalmazia",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93732,
+        "lon": 10.91033
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 571299"
+    ],
+    "rating": ""
+}

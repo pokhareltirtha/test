@@ -1,0 +1,20 @@
+{
+    "name": "MAGA MAGO'",
+    "description": "",
+    "address": "3, Via Di Montecarrelli - 50031 Montecarelli (FI)",
+    "streetAddress": "3, Via Di Montecarrelli",
+    "postalCode": "50031",
+    "addressLocality": "Montecarelli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.0488,
+        "lon": 11.26108
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8423041"
+    ],
+    "rating": "5.0"
+}

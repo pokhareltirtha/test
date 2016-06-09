@@ -1,0 +1,20 @@
+{
+    "name": "BACCANALE FIRENZE",
+    "description": "",
+    "address": "11, Via Del Termine - 50127 Firenze (FI)",
+    "streetAddress": "11, Via Del Termine",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8019,
+        "lon": 11.20103
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3436628"
+    ],
+    "rating": ""
+}

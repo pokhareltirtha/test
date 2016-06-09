@@ -1,0 +1,20 @@
+{
+    "name": "BRANCATO VINCENZO",
+    "description": "",
+    "address": "138, Viale Petrocchi Policarpo - 51100 Pistoia (PT)",
+    "streetAddress": "138, Viale Petrocchi Policarpo",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9362,
+        "lon": 10.90996
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 402488"
+    ],
+    "rating": ""
+}

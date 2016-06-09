@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA PARTY",
+    "description": "Pizza a taglio e d'asporto cotta nel forno a legna a Pescia (PT).",
+    "address": "294, V. Lucchese - 51017 Ponte All'Abate (PT)",
+    "streetAddress": "294, V. Lucchese",
+    "postalCode": "51017",
+    "addressLocality": "Ponte All'Abate",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88827,
+        "lon": 10.65787
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "348 0399100"
+    ],
+    "rating": ""
+}

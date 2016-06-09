@@ -1,0 +1,20 @@
+{
+    "name": "MOLINO IL MORO",
+    "description": "",
+    "address": "2, Via Della Ruota - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "2, Via Della Ruota",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42346,
+        "lon": 11.12656
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 920862"
+    ],
+    "rating": ""
+}

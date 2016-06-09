@@ -1,0 +1,20 @@
+{
+    "name": "BAR PIZZERIA LA SVOLTA",
+    "description": "",
+    "address": "55, Via Provinciale Cerretese - 50050 Cerreto Guidi (FI)",
+    "streetAddress": "55, Via Provinciale Cerretese",
+    "postalCode": "50050",
+    "addressLocality": "Cerreto Guidi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75385,
+        "lon": 10.88205
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 559419"
+    ],
+    "rating": ""
+}

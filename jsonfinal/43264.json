@@ -1,0 +1,20 @@
+{
+    "name": "IL NOBIL GUSTO",
+    "description": "Nella vineria  Il Nobil Gusto di Firenze ottimi vini selezionati e cibo a km 0.",
+    "address": "1/R, V. Mino - 50122 Firenze (FI)",
+    "streetAddress": "1/R, V. Mino",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77029,
+        "lon": 11.26622
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "320 9443210"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA DA SERGIO",
+    "description": "",
+    "address": "145, Borgo San Frediano - 50124 Firenze (FI)",
+    "streetAddress": "145, Borgo San Frediano",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77044,
+        "lon": 11.24058
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 223449"
+    ],
+    "rating": "5.0"
+}

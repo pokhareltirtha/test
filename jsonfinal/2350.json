@@ -1,0 +1,20 @@
+{
+    "name": "MONTARIOSO",
+    "description": "",
+    "address": "9, Via Sandro Pertini - 53035 Belverde (SI)",
+    "streetAddress": "9, Via Sandro Pertini",
+    "postalCode": "53035",
+    "addressLocality": "Belverde",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.34876,
+        "lon": 11.30831
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 50403"
+    ],
+    "rating": ""
+}

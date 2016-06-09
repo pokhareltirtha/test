@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA OSVALDO",
+    "description": "",
+    "address": "51, Via Gabriele D Annunzio - 50135 Firenze (FI)",
+    "streetAddress": "51, Via Gabriele D Annunzio",
+    "postalCode": "50135",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77674,
+        "lon": 11.29382
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 603972"
+    ],
+    "rating": ""
+}

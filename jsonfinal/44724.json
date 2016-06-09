@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA REGGINELLA",
+    "description": "",
+    "address": "Via Del Canto De'Nelli 38/R - 50123 Firenze (FI)",
+    "streetAddress": "Via Del Canto De'Nelli 38/R",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77512,
+        "lon": 11.25302
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2645817"
+    ],
+    "rating": ""
+}

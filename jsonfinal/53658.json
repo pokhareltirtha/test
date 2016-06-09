@@ -1,0 +1,20 @@
+{
+    "name": "CIANTI SILVANO",
+    "description": "",
+    "address": "33, Via Botinaccio - 50025 Montespertoli (FI)",
+    "streetAddress": "33, Via Botinaccio",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.67681,
+        "lon": 11.03071
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 680381"
+    ],
+    "rating": ""
+}

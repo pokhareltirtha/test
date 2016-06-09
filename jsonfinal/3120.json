@@ -1,0 +1,20 @@
+{
+    "name": "LA COLOMBAIA",
+    "description": "",
+    "address": "32, Via Colombaia - 50034 Marradi (FI)",
+    "streetAddress": "32, Via Colombaia",
+    "postalCode": "50034",
+    "addressLocality": "Marradi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.07499,
+        "lon": 11.6115
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8045290"
+    ],
+    "rating": ""
+}

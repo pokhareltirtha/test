@@ -1,0 +1,20 @@
+{
+    "name": "CAFFE' LE LOGGE DI PIAZZA",
+    "description": "Il Caffè Le Logge a Greve in Chianti è un enoteca, ristorante e pizzeria. Anche vendita di prodotti tipici del Chiantigiano.",
+    "address": "32, P. Matteotti - 50022 Greve In Chianti (FI)",
+    "streetAddress": "32, P. Matteotti",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58278,
+        "lon": 11.31683
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 853038"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "IL PICCOLO GIARDINO",
+    "description": "Il ristorante pizzeria e bar a Santa Maria A Monte (PI) che offre piatti di cucina casalinga e legati alla tradizione toscana e pizze cotte in forno a legna.",
+    "address": "55, V. Provinciale Francesca - 56020 Santa Maria A Monte (PI)",
+    "streetAddress": "55, V. Provinciale Francesca",
+    "postalCode": "56020",
+    "addressLocality": "Santa Maria A Monte",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68475,
+        "lon": 10.66433
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 706018",
+        "348 6062588"
+    ],
+    "rating": ""
+}

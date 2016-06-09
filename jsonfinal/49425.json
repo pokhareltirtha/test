@@ -1,0 +1,20 @@
+{
+    "name": "CHICCO",
+    "description": "",
+    "address": "37, Via Garibaldi - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "37, Via Garibaldi",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42265,
+        "lon": 11.12486
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 921776"
+    ],
+    "rating": "5.0"
+}

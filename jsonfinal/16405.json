@@ -1,0 +1,21 @@
+{
+    "name": "FLORIDA",
+    "description": "",
+    "address": "Via Michelangelo 16 - 51016 Montecatini Terme (PT)",
+    "streetAddress": "Via Michelangelo 16",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88174,
+        "lon": 10.7725
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 911246",
+        "0572 911650"
+    ],
+    "rating": ""
+}

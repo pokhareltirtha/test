@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA MODUGNO",
+    "description": "",
+    "address": "49, Via Iacopo Del Polta - 56031 Bientina (PI)",
+    "streetAddress": "49, Via Iacopo Del Polta",
+    "postalCode": "56031",
+    "addressLocality": "Bientina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70798,
+        "lon": 10.61403
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "320 2511578"
+    ],
+    "rating": ""
+}

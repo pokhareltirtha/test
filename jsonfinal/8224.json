@@ -1,0 +1,21 @@
+{
+    "name": "MONTELLORI",
+    "description": "",
+    "address": "1, Via Pistoiese - 50054 Fucecchio (FI)",
+    "streetAddress": "1, Via Pistoiese",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73562,
+        "lon": 10.80869
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "334 9808778",
+        "0571 245716"
+    ],
+    "rating": ""
+}

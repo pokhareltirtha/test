@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA SENIO",
+    "description": "",
+    "address": "1, Via Borgo Dell Ore - 50035 Palazzuolo Sul Senio (FI)",
+    "streetAddress": "1, Via Borgo Dell Ore",
+    "postalCode": "50035",
+    "addressLocality": "Palazzuolo Sul Senio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.11223,
+        "lon": 11.54746
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8046019"
+    ],
+    "rating": ""
+}

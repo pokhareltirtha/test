@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE BORGO SAN JACOPO - LUNGARNO COLLECTION",
+    "description": "",
+    "address": "Borgo San Iacopo 62/R - 50125 Firenze (FI)",
+    "streetAddress": "Borgo San Iacopo 62/R",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76791,
+        "lon": 11.25108
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 291114",
+        "055 27264000"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "LA LIMONAIA",
+    "description": "",
+    "address": "83, Via Firenze - 59100 Prato (PO)",
+    "streetAddress": "83, Via Firenze",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87225,
+        "lon": 11.11868
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 752893",
+        "328 1181487"
+    ],
+    "rating": ""
+}

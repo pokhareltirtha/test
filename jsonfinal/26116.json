@@ -1,0 +1,20 @@
+{
+    "name": "UNA HOTEL VITTORIA",
+    "description": "",
+    "address": "Via Pisana 59 - 50143 Firenze (FI)",
+    "streetAddress": "Via Pisana 59",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77143,
+        "lon": 11.23504
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 22771"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "IL CAMINETTO DEL CHIANTI",
+    "description": "",
+    "address": "Via Della Montagnola, 52 - Strada In Chianti - 50022 Petigliolo (FI)",
+    "streetAddress": "Via Della Montagnola, 52 - Strada In Chianti",
+    "postalCode": "50022",
+    "addressLocality": "Petigliolo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.67105,
+        "lon": 11.29202
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8586062",
+        "055 8588909"
+    ],
+    "rating": ""
+}

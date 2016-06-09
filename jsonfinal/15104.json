@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE MAMMA GINA",
+    "description": "Mamma Gina, Trattoria storica di Firenze, offre un'ottima cantina dei vini, piatti tipici locali e primizie stagionali.",
+    "address": "37/R, Bg. S. Jacopo - 50125 Firenze (FI)",
+    "streetAddress": "37/R, Bg. S. Jacopo",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76785,
+        "lon": 11.25131
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2396009"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "SESTO PIZZERIA KEBAB",
+    "description": "",
+    "address": "Via Antonio Gramsci, 344 - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "Via Antonio Gramsci, 344",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83332,
+        "lon": 11.20194
+    },
+    "categories": [
+        "Ristoranti - self service e fast food"
+    ],
+    "telephone": [
+        "389 4929696"
+    ],
+    "rating": ""
+}

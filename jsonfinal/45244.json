@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA DA ERALDO",
+    "description": "",
+    "address": "Viale Bruno Buozzi 10 - 12 - 51017 Pescia (PT)",
+    "streetAddress": "Viale Bruno Buozzi 10 - 12",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90626,
+        "lon": 10.68907
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "392 7502842",
+        "0572 490864"
+    ],
+    "rating": ""
+}

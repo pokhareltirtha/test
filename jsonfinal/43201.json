@@ -1,0 +1,21 @@
+{
+    "name": "I' CHE' C'E' C'E'",
+    "description": "",
+    "address": "11, Via Dei Magalotti - 50122 Firenze (FI)",
+    "streetAddress": "11, Via Dei Magalotti",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76912,
+        "lon": 11.2587
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 216589",
+        "055 290485"
+    ],
+    "rating": ""
+}

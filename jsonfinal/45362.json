@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA FERRIERA SAS",
+    "description": "",
+    "address": "122, Via Crespole E Fabbriche - 51100 Bussotto (PT)",
+    "streetAddress": "122, Via Crespole E Fabbriche",
+    "postalCode": "51100",
+    "addressLocality": "Bussotto",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.97449,
+        "lon": 10.944
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 46715"
+    ],
+    "rating": ""
+}

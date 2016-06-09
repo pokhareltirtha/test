@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA BRILU'",
+    "description": "",
+    "address": "1, Via Vittime Rapido 904 - 40048 Ripoli (BO)",
+    "streetAddress": "1, Via Vittime Rapido 904",
+    "postalCode": "40048",
+    "addressLocality": "Ripoli",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.22006,
+        "lon": 11.19614
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "377 4937018"
+    ],
+    "rating": ""
+}

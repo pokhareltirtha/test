@@ -1,0 +1,20 @@
+{
+    "name": "IL PIRATA",
+    "description": "",
+    "address": "Via Orlandini Raffaello, 945 - 51015 Bizzarrino (PT)",
+    "streetAddress": "Via Orlandini Raffaello, 945",
+    "postalCode": "51015",
+    "addressLocality": "Bizzarrino",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83518,
+        "lon": 10.84203
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 617470"
+    ],
+    "rating": ""
+}

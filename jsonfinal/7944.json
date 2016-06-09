@@ -1,0 +1,20 @@
+{
+    "name": "LA TENDA ROSSA",
+    "description": "",
+    "address": "Piazza Del Monumento 9/14 - 50026 Cerbaia (FI)",
+    "streetAddress": "Piazza Del Monumento 9/14",
+    "postalCode": "50026",
+    "addressLocality": "Cerbaia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.68431,
+        "lon": 11.12903
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 826132"
+    ],
+    "rating": ""
+}

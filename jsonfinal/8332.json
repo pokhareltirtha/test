@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA SOSTA DI PIO VII",
+    "description": "Osteria nel Chianti, fra Siena e Firenze, specializzata in cucina tipica toscana con 40 posti. Si accettano gruppi su prenotazione.",
+    "address": "6, Loc. Sosta Del Papa - 50021 Barberino Val D'Elsa (FI)",
+    "streetAddress": "6, Loc. Sosta Del Papa",
+    "postalCode": "50021",
+    "addressLocality": "Barberino Val D'Elsa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.51323,
+        "lon": 11.16379
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8075923",
+        "055 8075626"
+    ],
+    "rating": "5.0"
+}

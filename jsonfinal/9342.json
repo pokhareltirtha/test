@@ -1,0 +1,22 @@
+{
+    "name": "YURI 2",
+    "description": "",
+    "address": "100, Via Achille Pacini - 56031 Bientina (PI)",
+    "streetAddress": "100, Via Achille Pacini",
+    "postalCode": "56031",
+    "addressLocality": "Bientina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.7158,
+        "lon": 10.62259
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 755534",
+        "0587 757365"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "BAR RISTORANTE SANT'ANDREA SNC",
+    "description": "",
+    "address": "203, Via Statale - 51039 Quarrata (PT)",
+    "streetAddress": "203, Via Statale",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87101,
+        "lon": 10.98552
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 718368"
+    ],
+    "rating": ""
+}

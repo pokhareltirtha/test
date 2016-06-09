@@ -1,0 +1,21 @@
+{
+    "name": "AL VECCHIO MOLINO",
+    "description": "",
+    "address": "61, Via Di Panicale - 56032 Buti (PI)",
+    "streetAddress": "61, Via Di Panicale",
+    "postalCode": "56032",
+    "addressLocality": "Buti",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.73112,
+        "lon": 10.57542
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "328 5381413",
+        "0587 723725"
+    ],
+    "rating": ""
+}

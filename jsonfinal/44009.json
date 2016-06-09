@@ -1,0 +1,21 @@
+{
+    "name": "PERFETTI FRANCO",
+    "description": "",
+    "address": "12, Piazza Scalelle - 50034 Marradi (FI)",
+    "streetAddress": "12, Piazza Scalelle",
+    "postalCode": "50034",
+    "addressLocality": "Marradi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.07572,
+        "lon": 11.61287
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8042372",
+        "328 9246895"
+    ],
+    "rating": ""
+}

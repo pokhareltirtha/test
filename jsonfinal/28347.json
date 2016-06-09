@@ -1,0 +1,20 @@
+{
+    "name": "TENUTA POGGIO POLLINO",
+    "description": "",
+    "address": "2, Via Monte Meldola - 40026 Imola (BO)",
+    "streetAddress": "2, Via Monte Meldola",
+    "postalCode": "40026",
+    "addressLocality": "Imola",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.30803,
+        "lon": 11.66806
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0542 667121"
+    ],
+    "rating": ""
+}

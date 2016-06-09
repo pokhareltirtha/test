@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA RISTORANTE IL GIARDINETTO",
+    "description": "La Pizzeria Ristorante Il Giardinetto con servizio da asporto a Volterra al 12, p. XX Settembre.",
+    "address": "12, P. XX Settembre - 56048 Volterra (PI)",
+    "streetAddress": "12, P. XX Settembre",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40123,
+        "lon": 10.86322
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0588 80585"
+    ],
+    "rating": ""
+}

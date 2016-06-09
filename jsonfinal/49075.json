@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA GRAN CAFFE' IL GIARDINO DI BIGNOZZI LUIGI",
+    "description": "",
+    "address": "22, Piazza Giusti Giuseppe - 51016 Montecatini Terme (PT)",
+    "streetAddress": "22, Piazza Giusti Giuseppe",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89666,
+        "lon": 10.78936
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "0572 73116"
+    ],
+    "rating": ""
+}

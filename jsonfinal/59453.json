@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA CAMPOLUNGO DI PERROTTA FILOMENA",
+    "description": "",
+    "address": "51, Viale Dei Mille - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "51, Viale Dei Mille",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.41322,
+        "lon": 11.1324
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 929454"
+    ],
+    "rating": ""
+}

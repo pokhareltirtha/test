@@ -1,0 +1,20 @@
+{
+    "name": "LA VECCHIA CUCINA DI SOLDANO",
+    "description": "",
+    "address": "23, Via Pomeria - 59100 Prato (PO)",
+    "streetAddress": "23, Via Pomeria",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87622,
+        "lon": 11.10072
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 34665"
+    ],
+    "rating": ""
+}

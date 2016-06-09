@@ -1,0 +1,20 @@
+{
+    "name": "BORGO ANTICO",
+    "description": "",
+    "address": "1, Strada Delle Pieve - 50028 Tavarnelle Val Di Pesa (FI)",
+    "streetAddress": "1, Strada Delle Pieve",
+    "postalCode": "50028",
+    "addressLocality": "Tavarnelle Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.56467,
+        "lon": 11.17938
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8076180"
+    ],
+    "rating": ""
+}

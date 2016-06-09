@@ -1,0 +1,21 @@
+{
+    "name": "I 4 MORI",
+    "description": "",
+    "address": "8, Viale Giovan Battista Morgagni - 50134 Firenze (FI)",
+    "streetAddress": "8, Viale Giovan Battista Morgagni",
+    "postalCode": "50134",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79717,
+        "lon": 11.24169
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4360816"
+    ],
+    "rating": "3.0"
+}

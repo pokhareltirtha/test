@@ -1,0 +1,21 @@
+{
+    "name": "ANASTASIA",
+    "description": "",
+    "address": "5, Via Di Mosciano - 50018 Scandicci (FI)",
+    "streetAddress": "5, Via Di Mosciano",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7399,
+        "lon": 11.17393
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 740601"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "DEL BUONO ANTONIO",
+    "description": "",
+    "address": "1, Via XX Settembre - 56021 Cascina (PI)",
+    "streetAddress": "1, Via XX Settembre",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67659,
+        "lon": 10.54792
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 744550",
+        "392 2297157"
+    ],
+    "rating": ""
+}

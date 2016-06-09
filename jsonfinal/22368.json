@@ -1,0 +1,21 @@
+{
+    "name": "IONITA AURELIA CARMEN",
+    "description": "",
+    "address": "46/R, Via Di Parione - 50123 Firenze (FI)",
+    "streetAddress": "46/R, Via Di Parione",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77082,
+        "lon": 11.24919
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 5320342",
+        "334 8723160"
+    ],
+    "rating": ""
+}

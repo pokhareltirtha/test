@@ -1,0 +1,20 @@
+{
+    "name": "RETASTE S.R.L.",
+    "description": "",
+    "address": "42, Via Andrea Del Castagno - 50132 Firenze (FI)",
+    "streetAddress": "42, Via Andrea Del Castagno",
+    "postalCode": "50132",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7819,
+        "lon": 11.27101
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "328 1225593"
+    ],
+    "rating": ""
+}

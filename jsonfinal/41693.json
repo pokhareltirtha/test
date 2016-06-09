@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE BAR DELL'ORSO",
+    "description": "Il Ristorante Bar dell'Orso di Monteriggioni (SI) accoglie tutti i suoi ospiti con squisiti affettati, formaggi, polenta, ravioli, pappardelle e ribollita.",
+    "address": "23, V. Cassia Nord - 53035 Monteriggioni (SI)",
+    "streetAddress": "23, V. Cassia Nord",
+    "postalCode": "53035",
+    "addressLocality": "Monteriggioni",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.39897,
+        "lon": 11.21479
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 305074",
+        "339 8815689"
+    ],
+    "rating": ""
+}

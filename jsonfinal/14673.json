@@ -1,0 +1,21 @@
+{
+    "name": "OTIUM",
+    "description": "",
+    "address": "Via Giacomo Matteotti, 26 - 50055 Lastra A Signa (FI)",
+    "streetAddress": "Via Giacomo Matteotti, 26",
+    "postalCode": "50055",
+    "addressLocality": "Lastra A Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76815,
+        "lon": 11.10719
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "328 2937767",
+        "055 8721441"
+    ],
+    "rating": "3.0"
+}

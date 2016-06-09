@@ -1,0 +1,21 @@
+{
+    "name": "STRAPIZZA PIZZA A TAGLIO",
+    "description": "Strapizza è pizzeria a taglio a Sesto Fiorentino, in viale Pratese. All'interno della pizzeria, potrete gustare tutti i giorni pizze di ogni tipo, realizzate con prodotti freschi e naturali, ed un for...",
+    "address": "123, Vl. Pratese - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "123, Vl. Pratese",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84209,
+        "lon": 11.18559
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4211242",
+        "333 2551182"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA AL TREBBIO",
+    "description": "",
+    "address": "47, Via Delle Belle Donne - 50123 Firenze (FI)",
+    "streetAddress": "47, Via Delle Belle Donne",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77317,
+        "lon": 11.25033
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 287089"
+    ],
+    "rating": "4.5"
+}

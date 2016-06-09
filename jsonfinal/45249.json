@@ -1,0 +1,20 @@
+{
+    "name": "IL FALCONE",
+    "description": "",
+    "address": "35, Piazza Venti Settembre - 59016 Poggio A Caiano (PO)",
+    "streetAddress": "35, Piazza Venti Settembre",
+    "postalCode": "59016",
+    "addressLocality": "Poggio A Caiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.81548,
+        "lon": 11.05862
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 877065"
+    ],
+    "rating": ""
+}

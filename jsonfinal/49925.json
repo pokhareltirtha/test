@@ -1,0 +1,20 @@
+{
+    "name": "BENI PIZZA E DINTORNI",
+    "description": "",
+    "address": "7, Via Giuseppe Saragat - 56031 Bientina (PI)",
+    "streetAddress": "7, Via Giuseppe Saragat",
+    "postalCode": "56031",
+    "addressLocality": "Bientina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.71513,
+        "lon": 10.62285
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 488234"
+    ],
+    "rating": ""
+}

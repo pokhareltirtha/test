@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA INCONTRO",
+    "description": "Incontro è bar, ristorante e pizzeria in 64, v. Roma - 48032 Casola Valsenio (RA).",
+    "address": "64, V. Roma - 48032 Casola Valsenio (RA)",
+    "streetAddress": "64, V. Roma",
+    "postalCode": "48032",
+    "addressLocality": "Casola Valsenio",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.22294,
+        "lon": 11.62253
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0546 73949"
+    ],
+    "rating": ""
+}

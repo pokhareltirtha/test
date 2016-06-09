@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DA I 5 AMICI TRATTORIA TIPICA FIORENTINA",
+    "description": "Il Ristorante Dai Cinque Amici, a Firenze, vi attende tutti i giorni della settimana per proporvi tante specialità tipiche della cucina toscana.",
+    "address": "30, V. Cimatori - 50122 Firenze (FI)",
+    "streetAddress": "30, V. Cimatori",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77055,
+        "lon": 11.25588
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2396672"
+    ],
+    "rating": ""
+}

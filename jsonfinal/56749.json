@@ -1,0 +1,20 @@
+{
+    "name": "LA TORTUGA",
+    "description": "",
+    "address": "195, Via Ponte Alle Mosse - 50144 Firenze (FI)",
+    "streetAddress": "195, Via Ponte Alle Mosse",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78467,
+        "lon": 11.23091
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 362598"
+    ],
+    "rating": "5.0"
+}

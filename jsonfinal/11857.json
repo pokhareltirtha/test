@@ -1,0 +1,20 @@
+{
+    "name": "HOTEL LONDRA",
+    "description": "",
+    "address": "16/20, Via Jacopo Da Diacceto - 50123 Firenze (FI)",
+    "streetAddress": "16/20, Via Jacopo Da Diacceto",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77794,
+        "lon": 11.24441
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 27390"
+    ],
+    "rating": "4.0"
+}

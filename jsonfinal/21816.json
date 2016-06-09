@@ -1,0 +1,21 @@
+{
+    "name": "LA CAPPONCINA SRL",
+    "description": "",
+    "address": "32, Via Della Capponcina - 50135 Firenze (FI)",
+    "streetAddress": "32, Via Della Capponcina",
+    "postalCode": "50135",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77698,
+        "lon": 11.31701
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 697409",
+        "055 697089"
+    ],
+    "rating": ""
+}

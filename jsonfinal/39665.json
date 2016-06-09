@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE S. DOMENICO S.R.L.",
+    "description": "",
+    "address": "35, Piazza S. Domenico - 59100 Prato (PO)",
+    "streetAddress": "35, Piazza S. Domenico",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88165,
+        "lon": 11.09457
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 401608"
+    ],
+    "rating": ""
+}

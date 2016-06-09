@@ -1,0 +1,21 @@
+{
+    "name": "ASTORIA",
+    "description": "",
+    "address": "1, Viale Fedeli - 51016 Montecatini Terme (PT)",
+    "streetAddress": "1, Viale Fedeli",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89022,
+        "lon": 10.77671
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 71191",
+        "0572 71193"
+    ],
+    "rating": ""
+}

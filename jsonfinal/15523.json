@@ -1,0 +1,20 @@
+{
+    "name": "LA DOLCE VITA",
+    "description": "",
+    "address": "66, Viale Gramsci - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "66, Viale Gramsci",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.99649,
+        "lon": 11.23986
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 841053"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "DANCAM S.R.L.",
+    "description": "",
+    "address": "2, Via Pisana - 50021 Barberino Val D'Elsa (FI)",
+    "streetAddress": "2, Via Pisana",
+    "postalCode": "50021",
+    "addressLocality": "Barberino Val D'Elsa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.47688,
+        "lon": 11.13612
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8078625"
+    ],
+    "rating": ""
+}

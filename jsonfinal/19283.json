@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE ACQUAPAZZA srl",
+    "description": "Il ristorante Acquapazza propone specialità di pesce fresco della cucina marinara, a Firenze in via Ridolfi 4/R.",
+    "address": "4/R, V. Ridolfi - 50129 Firenze (FI)",
+    "streetAddress": "4/R, V. Ridolfi",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78045,
+        "lon": 11.25262
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 475430",
+        "348 9197665"
+    ],
+    "rating": "4.0"
+}

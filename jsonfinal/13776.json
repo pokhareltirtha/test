@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA DI ORTIMINO",
+    "description": "",
+    "address": ", Strada Provinciale Volterrana - 50025 Montespertoli (FI)",
+    "streetAddress": ", Strada Provinciale Volterrana",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.64507,
+        "lon": 11.07308
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 674282"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "BUCA NICCOLINI",
+    "description": "",
+    "address": "5, Via Ricasoli - 50122 Firenze (FI)",
+    "streetAddress": "5, Via Ricasoli",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77392,
+        "lon": 11.2563
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 292124"
+    ],
+    "rating": "4.0"
+}

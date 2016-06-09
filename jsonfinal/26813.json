@@ -1,0 +1,20 @@
+{
+    "name": "VINI E VECCHI SAPORI",
+    "description": "",
+    "address": "3, Via Dei Magazzini - 50122 Firenze (FI)",
+    "streetAddress": "3, Via Dei Magazzini",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77038,
+        "lon": 11.25682
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 293045"
+    ],
+    "rating": "4.5"
+}

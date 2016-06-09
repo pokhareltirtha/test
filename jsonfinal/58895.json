@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA DAL GHIOTTO DI REGA ASSUNTA",
+    "description": "",
+    "address": "127, Via Di Mezzo - 51039 Quarrata (PT)",
+    "streetAddress": "127, Via Di Mezzo",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87027,
+        "lon": 10.99382
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0573 717570"
+    ],
+    "rating": ""
+}

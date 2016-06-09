@@ -1,0 +1,20 @@
+{
+    "name": "LA BICOCCA",
+    "description": "",
+    "address": "12, Via Carseggio - 40020 Casalfiumanese (BO)",
+    "streetAddress": "12, Via Carseggio",
+    "postalCode": "40020",
+    "addressLocality": "Casalfiumanese",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.23454,
+        "lon": 11.51674
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0542 95936"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RINUCCIO",
+    "description": "",
+    "address": ", Via Cassia Per Siena - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": ", Via Cassia Per Siena",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.63383,
+        "lon": 11.18227
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2359720"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "BAR RIST. PIZZERIA DELFINO BLU DI LANZA PAOLO S.N.C.",
+    "description": "",
+    "address": "7, Via Brete - 48025 Riolo Terme (RA)",
+    "streetAddress": "7, Via Brete",
+    "postalCode": "48025",
+    "addressLocality": "Riolo Terme",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.27428,
+        "lon": 11.68993
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "329 9884287"
+    ],
+    "rating": ""
+}

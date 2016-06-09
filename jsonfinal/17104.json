@@ -1,0 +1,20 @@
+{
+    "name": "OPPORTUNITY S.R.L.",
+    "description": "",
+    "address": "9/A, Via S. Appiano - 50021 Barberino Val D'Elsa (FI)",
+    "streetAddress": "9/A, Via S. Appiano",
+    "postalCode": "50021",
+    "addressLocality": "Barberino Val D'Elsa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.51251,
+        "lon": 11.14628
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 2744946"
+    ],
+    "rating": ""
+}

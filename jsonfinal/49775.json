@@ -1,0 +1,20 @@
+{
+    "name": "DELFINO BLU BAR PANINOTECA PIZZERIA",
+    "description": "A Pistoia in v. Panconi 16, Delfino Blu Bar Paninoteca Pizzeria propone prima colazione, pranzi veloci ed aperitivi.",
+    "address": "16, V. Panconi - 51100 Pistoia (PT)",
+    "streetAddress": "16, V. Panconi",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93439,
+        "lon": 10.90324
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "320 6631761"
+    ],
+    "rating": ""
+}

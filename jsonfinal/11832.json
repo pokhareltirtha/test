@@ -1,0 +1,21 @@
+{
+    "name": "LA VELA DA ERNESTO RISTORANTE PIZZERIA",
+    "description": "",
+    "address": "45, Via Santa Maria - 51011 Buggiano (PT)",
+    "streetAddress": "45, Via Santa Maria",
+    "postalCode": "51011",
+    "addressLocality": "Buggiano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87499,
+        "lon": 10.73217
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 33628",
+        "0572 284350"
+    ],
+    "rating": ""
+}

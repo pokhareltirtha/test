@@ -1,0 +1,20 @@
+{
+    "name": "BAMBU'",
+    "description": "",
+    "address": "2, Via Fratelli Rosselli - 50054 Fucecchio (FI)",
+    "streetAddress": "2, Via Fratelli Rosselli",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72474,
+        "lon": 10.81313
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 21299"
+    ],
+    "rating": ""
+}

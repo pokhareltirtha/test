@@ -1,0 +1,21 @@
+{
+    "name": "AUTOGRILL S.P.A.",
+    "description": "",
+    "address": "1, Autostrada Fi - 51034 Serravalle Pistoiese (PT)",
+    "streetAddress": "1, Autostrada Fi",
+    "postalCode": "51034",
+    "addressLocality": "Serravalle Pistoiese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90564,
+        "lon": 10.83804
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 918064",
+        "0573 918063"
+    ],
+    "rating": ""
+}

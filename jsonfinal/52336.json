@@ -1,0 +1,21 @@
+{
+    "name": "LAGO AZZURRO RISTORANTE PIZZERIA",
+    "description": "",
+    "address": "Via Lucchese 51 B - 51011 Buggiano (PT)",
+    "streetAddress": "Via Lucchese 51 B",
+    "postalCode": "51011",
+    "addressLocality": "Buggiano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88058,
+        "lon": 10.71494
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 33704",
+        "328 1365747"
+    ],
+    "rating": ""
+}

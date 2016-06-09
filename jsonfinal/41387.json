@@ -1,0 +1,20 @@
+{
+    "name": "LA FORNACE",
+    "description": "",
+    "address": "5, Via Del Colle - 50056 Montelupo Fiorentino (FI)",
+    "streetAddress": "5, Via Del Colle",
+    "postalCode": "50056",
+    "addressLocality": "Montelupo Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.70518,
+        "lon": 11.01923
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 994068"
+    ],
+    "rating": ""
+}

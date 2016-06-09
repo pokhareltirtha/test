@@ -1,0 +1,20 @@
+{
+    "name": "CANOPE SRL",
+    "description": "",
+    "address": "47/R, Via Pietrapiana - 50121 Firenze (FI)",
+    "streetAddress": "47/R, Via Pietrapiana",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77141,
+        "lon": 11.2646
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2341108"
+    ],
+    "rating": ""
+}

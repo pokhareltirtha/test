@@ -1,0 +1,20 @@
+{
+    "name": "PODERE MIDOLLA",
+    "description": "",
+    "address": "20, Via Fontemorana - 59011 Bacchereto (PO)",
+    "streetAddress": "20, Via Fontemorana",
+    "postalCode": "59011",
+    "addressLocality": "Bacchereto",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.80429,
+        "lon": 10.98848
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8717086"
+    ],
+    "rating": ""
+}

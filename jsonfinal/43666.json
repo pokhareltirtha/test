@@ -1,0 +1,21 @@
+{
+    "name": "G.BAR",
+    "description": "G.Bar, a Firenze, vi attende tutti i giorni per ricche prime colazioni, pranzi veloci e, su prenotazione, cene e serate a tema.",
+    "address": "9/C, V. Giovan Filippo Mariti - 50127 Firenze (FI)",
+    "streetAddress": "9/C, V. Giovan Filippo Mariti",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79096,
+        "lon": 11.23449
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 0137045",
+        "338 9009708"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA DA MARINO CUCINA TIPICA TOSCANA",
+    "description": "",
+    "address": "1, V. Badiola - 52027 San Giovanni Valdarno (AR)",
+    "streetAddress": "1, V. Badiola",
+    "postalCode": "52027",
+    "addressLocality": "San Giovanni Valdarno",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.57519,
+        "lon": 11.54214
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 942566"
+    ],
+    "rating": ""
+}

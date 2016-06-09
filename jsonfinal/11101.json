@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE OLGA",
+    "description": "Ristorante pizzeria Olga, a Carmignano, dove è possibile degustare squisiti piatti in una location fresca lontano dalla città.",
+    "address": "6, V. Montalbano - 59015 Verghereto (PO)",
+    "streetAddress": "6, V. Montalbano",
+    "postalCode": "59015",
+    "addressLocality": "Verghereto",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.79018,
+        "lon": 11.00386
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8712028"
+    ],
+    "rating": ""
+}

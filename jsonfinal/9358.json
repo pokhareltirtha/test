@@ -1,0 +1,20 @@
+{
+    "name": "ANTICO TOPPATO",
+    "description": "",
+    "address": "Via Colmate Del Cerro,79 Loc. Vione - 51019 Ponte Buggianese (PT)",
+    "streetAddress": "Via Colmate Del Cerro,79 Loc. Vione",
+    "postalCode": "51019",
+    "addressLocality": "Ponte Buggianese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.82396,
+        "lon": 10.74131
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 634319"
+    ],
+    "rating": "5.0"
+}

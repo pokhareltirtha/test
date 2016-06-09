@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE 7 SCOGLI",
+    "description": "Al Ristorante 7 Scogli di Firenze troverete specialità a base di pesce deliziose.",
+    "address": "4/R, V. Cironi - 50134 Firenze (FI)",
+    "streetAddress": "4/R, V. Cironi",
+    "postalCode": "50134",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79174,
+        "lon": 11.24395
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 496225"
+    ],
+    "rating": ""
+}

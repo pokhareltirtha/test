@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA SU E GIU",
+    "description": "",
+    "address": "69, Via Antonelli Padre Giovanni - 51100 Pistoia (PT)",
+    "streetAddress": "69, Via Antonelli Padre Giovanni",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94052,
+        "lon": 10.92657
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "0573 453345"
+    ],
+    "rating": ""
+}

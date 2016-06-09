@@ -1,0 +1,20 @@
+{
+    "name": "IL MANDARINO",
+    "description": "",
+    "address": "43, Piazza Giacomo Matteotti - 50053 Empoli (FI)",
+    "streetAddress": "43, Piazza Giacomo Matteotti",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72226,
+        "lon": 10.94523
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 72140"
+    ],
+    "rating": ""
+}

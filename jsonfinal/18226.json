@@ -1,0 +1,20 @@
+{
+    "name": "HOTEL VILLA IL CROCICCHIO",
+    "description": "Hotel Villa Il Crocicchio in loc. San Siro al Crocicchio 133 a Reggello, è la location adatta e raffinata per una vacanza di relax.",
+    "address": "133, Loc. San Siro Al Crocicchio - 50066 Reggello (FI)",
+    "streetAddress": "133, Loc. San Siro Al Crocicchio",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.6632,
+        "lon": 11.51101
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8667262"
+    ],
+    "rating": ""
+}

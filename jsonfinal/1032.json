@@ -1,0 +1,21 @@
+{
+    "name": "LA VECCHIA PIAZZA",
+    "description": "",
+    "address": "58, Via Roma - 50028 Tavarnelle Val Di Pesa (FI)",
+    "streetAddress": "58, Via Roma",
+    "postalCode": "50028",
+    "addressLocality": "Tavarnelle Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.56181,
+        "lon": 11.17483
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8076600"
+    ],
+    "rating": "4.0"
+}

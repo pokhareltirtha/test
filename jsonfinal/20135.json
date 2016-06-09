@@ -1,0 +1,20 @@
+{
+    "name": "OVEJA NEGRA",
+    "description": "",
+    "address": "7, Via Giotto - 50058 Signa (FI)",
+    "streetAddress": "7, Via Giotto",
+    "postalCode": "50058",
+    "addressLocality": "Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77565,
+        "lon": 11.09265
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8732202"
+    ],
+    "rating": "3.0"
+}

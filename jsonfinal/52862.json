@@ -1,0 +1,21 @@
+{
+    "name": "MONDOPIZZA DI E.VACCA E C. S.A.S.",
+    "description": "",
+    "address": "19, Piazza Roanne - 52025 Montevarchi (AR)",
+    "streetAddress": "19, Piazza Roanne",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.52928,
+        "lon": 11.57477
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "348 2256566",
+        "333 2645329"
+    ],
+    "rating": ""
+}

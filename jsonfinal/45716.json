@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE SIMONE AL MARE",
+    "description": "Al Ristorante Simone al Mare, a 3 km da Montecatini Terme, si mangia la cucina tradizionale toscana. La specialità è il pesce come il branzino, la pasta fresca fatta in casa e i cantucci di produzione...",
+    "address": "78, V. Circonvallazione - 51011 Buggiano (PT)",
+    "streetAddress": "78, V. Circonvallazione",
+    "postalCode": "51011",
+    "addressLocality": "Buggiano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87795,
+        "lon": 10.72697
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 3789421",
+        "0572 32382"
+    ],
+    "rating": ""
+}

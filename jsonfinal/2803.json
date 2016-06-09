@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE ALCIDE",
+    "description": "Il Ristorante Alcide a Poggibonsi* è una vera e propria istituzione in Toscana e da oltre un secolo è meta prediletta di chi ama i piatti di pesce.",
+    "address": "67/A, Vl. Marconi - 53036 Poggibonsi (SI)",
+    "streetAddress": "67/A, Vl. Marconi",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.47248,
+        "lon": 11.14667
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 937501"
+    ],
+    "rating": ""
+}

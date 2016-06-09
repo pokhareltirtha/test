@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA TAVOLA CALDA MARTIN DI TORRE ANTONELLA & C. S.N.C.",
+    "description": "",
+    "address": "58, Via Di Bientina - 56020 Santa Maria A Monte (PI)",
+    "streetAddress": "58, Via Di Bientina",
+    "postalCode": "56020",
+    "addressLocality": "Santa Maria A Monte",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70298,
+        "lon": 10.68667
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 705080"
+    ],
+    "rating": ""
+}

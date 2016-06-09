@@ -1,0 +1,20 @@
+{
+    "name": "ARDI PIZZA DI PEMAJ ARDIAN",
+    "description": "",
+    "address": "656, Via Fiorentina - 51100 Pistoia (PT)",
+    "streetAddress": "656, Via Fiorentina",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89303,
+        "lon": 10.9586
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 545298"
+    ],
+    "rating": ""
+}

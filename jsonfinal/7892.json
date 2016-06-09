@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE DA NELLA",
+    "description": "",
+    "address": "12, Via Volterrana - 56030 Lajatico (PI)",
+    "streetAddress": "12, Via Volterrana",
+    "postalCode": "56030",
+    "addressLocality": "Lajatico",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.49884,
+        "lon": 10.72578
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "334 3526789",
+        "0587 643112"
+    ],
+    "rating": ""
+}

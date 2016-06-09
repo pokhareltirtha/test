@@ -1,0 +1,21 @@
+{
+    "name": "TARGA BISTROT FIORENTINO",
+    "description": "",
+    "address": "7, Lungarno Cristoforo Colombo - 50136 Firenze (FI)",
+    "streetAddress": "7, Lungarno Cristoforo Colombo",
+    "postalCode": "50136",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76546,
+        "lon": 11.2787
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 677377",
+        "335 6072367"
+    ],
+    "rating": ""
+}

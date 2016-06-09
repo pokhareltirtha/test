@@ -1,0 +1,20 @@
+{
+    "name": "I POLPA",
+    "description": "",
+    "address": "21, Piazza Mino Da Fiesole - 50014 Fiesole (FI)",
+    "streetAddress": "21, Piazza Mino Da Fiesole",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80697,
+        "lon": 11.29221
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 59485"
+    ],
+    "rating": "4.0"
+}

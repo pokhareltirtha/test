@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CANTINETTA SASSOLINI",
+    "description": "Ristorante a Greve in Chianti dove assaporare la vera cucina Toscana.",
+    "address": "2, P. Ricasoli - 50022 Greve In Chianti (FI)",
+    "streetAddress": "2, P. Ricasoli",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54733,
+        "lon": 11.31119
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8560142"
+    ],
+    "rating": ""
+}

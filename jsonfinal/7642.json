@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE CASA LA QUERCE",
+    "description": "",
+    "address": "47, Via La Querce - 59013 Montemurlo (PO)",
+    "streetAddress": "47, Via La Querce",
+    "postalCode": "59013",
+    "addressLocality": "Montemurlo",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.922,
+        "lon": 11.03947
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 683099",
+        "0574 684070"
+    ],
+    "rating": ""
+}

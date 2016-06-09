@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA IL CIGNO",
+    "description": "",
+    "address": "3, Via Di Varlungo - 50136 Firenze (FI)",
+    "streetAddress": "3, Via Di Varlungo",
+    "postalCode": "50136",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76512,
+        "lon": 11.30002
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 691762"
+    ],
+    "rating": "4.6"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PS RISTORANTE",
+    "description": "PS Ristorante, a Cerreto Guidi, vi aspetta per proporvi ricchi menù con specialità di cucina creativa.",
+    "address": "41, V. Pianello Val Tidone - 50050 Cerreto Guidi (FI)",
+    "streetAddress": "41, V. Pianello Val Tidone",
+    "postalCode": "50050",
+    "addressLocality": "Cerreto Guidi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75975,
+        "lon": 10.88025
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 559242"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA L' ARAGOSTA",
+    "description": "",
+    "address": "Via Gaetano Donizetti - 50018 Scandicci (FI)",
+    "streetAddress": "Via Gaetano Donizetti",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76136,
+        "lon": 11.17675
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 750365"
+    ],
+    "rating": "4.0"
+}

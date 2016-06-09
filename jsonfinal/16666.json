@@ -1,0 +1,21 @@
+{
+    "name": "PIAZZA LA PIZZA",
+    "description": "La pizzeria da asporto a Cascina (PI) che propone una grande varietà di pizze.",
+    "address": "1064, V. Tosco Romagnola - 56021 Cascina (PI)",
+    "streetAddress": "1064, V. Tosco Romagnola",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68291,
+        "lon": 10.51271
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "340 0579146"
+    ],
+    "rating": "5.0"
+}

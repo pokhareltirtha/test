@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PITENA DI PIEGARI VITO",
+    "description": "",
+    "address": "4, Localita' La Forra - 52022 Cavriglia (AR)",
+    "streetAddress": "4, Localita' La Forra",
+    "postalCode": "52022",
+    "addressLocality": "Cavriglia",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.49538,
+        "lon": 11.48805
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 966738"
+    ],
+    "rating": ""
+}

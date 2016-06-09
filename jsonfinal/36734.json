@@ -1,0 +1,20 @@
+{
+    "name": "MISERIA E NOBILTA'",
+    "description": "",
+    "address": "104, Via Aretina - 50136 Firenze (FI)",
+    "streetAddress": "104, Via Aretina",
+    "postalCode": "50136",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76654,
+        "lon": 11.31166
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 676634"
+    ],
+    "rating": ""
+}

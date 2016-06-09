@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA GARGANI",
+    "description": "Scegliete la Trattoria dall’atmosfera romantica nel cuore di Firenze per una cena romantica  o per una cena tra amici.",
+    "address": "48/R, V. Moro - 50123 Firenze (FI)",
+    "streetAddress": "48/R, V. Moro",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77209,
+        "lon": 11.24926
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2398898"
+    ],
+    "rating": "4.5"
+}

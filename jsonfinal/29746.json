@@ -1,0 +1,20 @@
+{
+    "name": "IL BOTTEGONE S.R.L.",
+    "description": "",
+    "address": "1, Via Dei Martelli - 50129 Firenze (FI)",
+    "streetAddress": "1, Via Dei Martelli",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77354,
+        "lon": 11.25539
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 217255"
+    ],
+    "rating": ""
+}

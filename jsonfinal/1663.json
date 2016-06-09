@@ -1,0 +1,20 @@
+{
+    "name": "DOWNUP srl",
+    "description": "",
+    "address": "6, V. Copernico - 50100 Firenze (FI)",
+    "streetAddress": "6, V. Copernico",
+    "postalCode": "50100",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80289,
+        "lon": 11.18591
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 1053703"
+    ],
+    "rating": ""
+}

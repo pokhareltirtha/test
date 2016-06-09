@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA BORGO ANTICO",
+    "description": "",
+    "address": "Via Case Sparse 55 - 50022 Greve In Chianti (FI)",
+    "streetAddress": "Via Case Sparse 55",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.66306,
+        "lon": 11.37084
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 851024"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA LOCANDA DI PIETRACUPA snc",
+    "description": "Il ristorante a Tavarnelle Val di Pesa (FI) in una graziosa casa borghese dei primi del '900  dove si incontrano eleganza e tradizione.",
+    "address": "31, V. Pietracupa - 50028 San Donato In Poggio (FI)",
+    "streetAddress": "31, V. Pietracupa",
+    "postalCode": "50028",
+    "addressLocality": "San Donato In Poggio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.5305,
+        "lon": 11.24108
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8072400"
+    ],
+    "rating": ""
+}

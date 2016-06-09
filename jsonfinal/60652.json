@@ -1,0 +1,20 @@
+{
+    "name": "PANAGGIO PIETRO",
+    "description": "",
+    "address": "32/B, Via Degli Arcipressi - 50143 Firenze (FI)",
+    "streetAddress": "32/B, Via Degli Arcipressi",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76691,
+        "lon": 11.21088
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 7390307"
+    ],
+    "rating": ""
+}

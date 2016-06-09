@@ -1,0 +1,21 @@
+{
+    "name": "FIORE",
+    "description": "",
+    "address": "112, Via Di Amarciola - 50018 Scandicci (FI)",
+    "streetAddress": "112, Via Di Amarciola",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72169,
+        "lon": 11.13567
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 768678",
+        "055 768177"
+    ],
+    "rating": "4.5"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA PISTA",
+    "description": "",
+    "address": "338, Via Montalese - 59100 Maliseti (PO)",
+    "streetAddress": "338, Via Montalese",
+    "postalCode": "59100",
+    "addressLocality": "Maliseti",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.90074,
+        "lon": 11.07698
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 721913"
+    ],
+    "rating": ""
+}

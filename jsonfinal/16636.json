@@ -1,0 +1,20 @@
+{
+    "name": "BOCCON DI VINO",
+    "description": "",
+    "address": "83, Corso Antonio Gramsci - 51100 Pistoia (PT)",
+    "streetAddress": "83, Corso Antonio Gramsci",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93245,
+        "lon": 10.91172
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 358765"
+    ],
+    "rating": ""
+}

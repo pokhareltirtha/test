@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA NAPOLETANA IL QUADRIFOGLIO DI PINTO ANTONIO",
+    "description": "",
+    "address": "7, Piazza Del Moro - 51017 Pescia (PT)",
+    "streetAddress": "7, Piazza Del Moro",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90664,
+        "lon": 10.68878
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 478276"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "IRI & MARI SNC DI SAVULESCU M.",
+    "description": "",
+    "address": "45, Via Roma - 55016 Porcari (LU)",
+    "streetAddress": "45, Via Roma",
+    "postalCode": "55016",
+    "addressLocality": "Porcari",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.84034,
+        "lon": 10.61795
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 211345",
+        "0583 1913374"
+    ],
+    "rating": ""
+}

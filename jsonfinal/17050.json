@@ -1,0 +1,21 @@
+{
+    "name": "SHAY S.R.L.",
+    "description": "",
+    "address": "Snc, Via Risciolo - 56020 Montopoli In Val D'Arno (PI)",
+    "streetAddress": "Snc, Via Risciolo",
+    "postalCode": "56020",
+    "addressLocality": "Montopoli In Val D'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67111,
+        "lon": 10.75795
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 468035",
+        "348 4941561"
+    ],
+    "rating": ""
+}

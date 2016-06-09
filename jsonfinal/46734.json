@@ -1,0 +1,20 @@
+{
+    "name": "E.T.",
+    "description": "",
+    "address": ", Via Maria Callas - 59100 Prato (PO)",
+    "streetAddress": ", Via Maria Callas",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88787,
+        "lon": 11.07231
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 39507"
+    ],
+    "rating": ""
+}

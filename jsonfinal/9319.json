@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA NUOVA VILLA MAGNA DI FONDELLI ROBERTO",
+    "description": "",
+    "address": "105, Via Montelupo - 50025 Montespertoli (FI)",
+    "streetAddress": "105, Via Montelupo",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.64863,
+        "lon": 11.07002
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 675052"
+    ],
+    "rating": ""
+}

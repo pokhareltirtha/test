@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA G. ROSSI",
+    "description": "",
+    "address": "13, Via Visiana - 59100 Prato (PO)",
+    "streetAddress": "13, Via Visiana",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.8901,
+        "lon": 11.04893
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        ""
+    ],
+    "rating": ""
+}

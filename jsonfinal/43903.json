@@ -1,0 +1,20 @@
+{
+    "name": "LA BUCHETTA",
+    "description": "",
+    "address": "3, Via Dei Benci - 50122 Firenze (FI)",
+    "streetAddress": "3, Via Dei Benci",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76735,
+        "lon": 11.25924
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 217833"
+    ],
+    "rating": ""
+}

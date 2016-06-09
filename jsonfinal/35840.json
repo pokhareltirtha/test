@@ -1,0 +1,20 @@
+{
+    "name": "IL BORGHETTO",
+    "description": "",
+    "address": "27, Via Guicciardini - 50125 Firenze (FI)",
+    "streetAddress": "27, Via Guicciardini",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76668,
+        "lon": 11.25116
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 210003"
+    ],
+    "rating": ""
+}

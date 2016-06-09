@@ -1,0 +1,20 @@
+{
+    "name": "O'SOLEMIO",
+    "description": "",
+    "address": "11, Via Traquandi Nello - 52025 Montevarchi (AR)",
+    "streetAddress": "11, Via Traquandi Nello",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.52944,
+        "lon": 11.57183
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9850109"
+    ],
+    "rating": ""
+}

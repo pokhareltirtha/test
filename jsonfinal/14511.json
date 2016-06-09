@@ -1,0 +1,20 @@
+{
+    "name": "EATALY",
+    "description": "",
+    "address": "22, Via Dei Martelli - 50129 Firenze (FI)",
+    "streetAddress": "22, Via Dei Martelli",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77405,
+        "lon": 11.25555
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 0153601"
+    ],
+    "rating": ""
+}

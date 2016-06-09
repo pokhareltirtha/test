@@ -1,0 +1,21 @@
+{
+    "name": "VALENTINA S.R.L.",
+    "description": "",
+    "address": "16, Via Mochi Francesco - 52025 Montevarchi (AR)",
+    "streetAddress": "16, Via Mochi Francesco",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.52206,
+        "lon": 11.56935
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 98337",
+        "055 918003"
+    ],
+    "rating": ""
+}

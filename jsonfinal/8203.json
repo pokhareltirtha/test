@@ -1,0 +1,20 @@
+{
+    "name": "CALANDRINO",
+    "description": "",
+    "address": "6, Localita Borgatello - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "6, Localita Borgatello",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42751,
+        "lon": 11.09394
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 958925"
+    ],
+    "rating": "5.0"
+}

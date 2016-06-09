@@ -1,0 +1,20 @@
+{
+    "name": "I QUATTRO AMICI",
+    "description": "",
+    "address": "Via Degli Orti Oricellari, 29r - 50123 Firenze (FI)",
+    "streetAddress": "Via Degli Orti Oricellari, 29r",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77666,
+        "lon": 11.24611
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 215413"
+    ],
+    "rating": ""
+}

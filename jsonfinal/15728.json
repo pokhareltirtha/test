@@ -1,0 +1,20 @@
+{
+    "name": "MARGHERITA",
+    "description": "",
+    "address": "Via Appennino 17/19 - 59026 Montepiano (PO)",
+    "streetAddress": "Via Appennino 17/19",
+    "postalCode": "59026",
+    "addressLocality": "Montepiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 44.09132,
+        "lon": 11.1607
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 959926"
+    ],
+    "rating": ""
+}

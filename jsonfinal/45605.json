@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LAGO VARRAMISTA",
+    "description": "",
+    "address": "106, Via Musciano - 56020 Montopoli In Val D'Arno (PI)",
+    "streetAddress": "106, Via Musciano",
+    "postalCode": "56020",
+    "addressLocality": "Montopoli In Val D'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66237,
+        "lon": 10.73843
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 468035",
+        "0571 468680"
+    ],
+    "rating": "5.0"
+}

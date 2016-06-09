@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA LA MAISON",
+    "description": "",
+    "address": "Viale Montegrappa 275 - 59100 Prato (PO)",
+    "streetAddress": "Viale Montegrappa 275",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86826,
+        "lon": 11.11305
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 1665893",
+        "338 3475247"
+    ],
+    "rating": ""
+}

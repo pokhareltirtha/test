@@ -1,0 +1,21 @@
+{
+    "name": "RIFRULLO",
+    "description": "",
+    "address": "55, Via Di San Niccolo - 50125 Firenze (FI)",
+    "streetAddress": "55, Via Di San Niccolo",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76423,
+        "lon": 11.26169
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2347850",
+        "055 2269860"
+    ],
+    "rating": "5.0"
+}

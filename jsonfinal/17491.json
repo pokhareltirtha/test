@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE YAMASAKY WOK SUSHI",
+    "description": "Il ristorante dove assaggiare la cucina thailandese, cinese e giapponese, a Figline e Incisa Valdarno (FI) in 13, v. della Comunità Europea.",
+    "address": "13, V. Della Comunità Europea - 50063 Figline E Incisa Valdarno (FI)",
+    "streetAddress": "13, V. Della Comunità Europea",
+    "postalCode": "50063",
+    "addressLocality": "Figline E Incisa Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.62881,
+        "lon": 11.46322
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 953065"
+    ],
+    "rating": ""
+}

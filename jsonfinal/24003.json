@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA ALLO SBARAGLIO",
+    "description": "",
+    "address": "17, Via Roma - 50054 Fucecchio (FI)",
+    "streetAddress": "17, Via Roma",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72613,
+        "lon": 10.81019
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 21593"
+    ],
+    "rating": ""
+}

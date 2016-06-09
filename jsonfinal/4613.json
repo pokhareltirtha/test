@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL FARO",
+    "description": "",
+    "address": "10, Via Delle Piastre - 51039 Quarrata (PT)",
+    "streetAddress": "10, Via Delle Piastre",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.84521,
+        "lon": 10.99767
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 739423"
+    ],
+    "rating": "4.5"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "LO SCHICCHERO",
+    "description": "",
+    "address": "45, Via Giuseppe Verdi - 52021 Bucine (AR)",
+    "streetAddress": "45, Via Giuseppe Verdi",
+    "postalCode": "52021",
+    "addressLocality": "Bucine",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.47957,
+        "lon": 11.56333
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9707453"
+    ],
+    "rating": ""
+}

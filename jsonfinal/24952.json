@@ -1,0 +1,21 @@
+{
+    "name": "CANTINA BARBAGIANNI",
+    "description": "",
+    "address": "13, Via Sant'Egidio - 50122 Firenze (FI)",
+    "streetAddress": "13, Via Sant'Egidio",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77243,
+        "lon": 11.26077
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2260591",
+        "055 2480508"
+    ],
+    "rating": "4.0"
+}

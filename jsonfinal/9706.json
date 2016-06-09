@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA IL CILIEGIOLO",
+    "description": "",
+    "address": "22, Via Chiantigiana Per Ferrone - 50023 Impruneta (FI)",
+    "streetAddress": "22, Via Chiantigiana Per Ferrone",
+    "postalCode": "50023",
+    "addressLocality": "Impruneta",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.67365,
+        "lon": 11.21391
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2326071"
+    ],
+    "rating": ""
+}

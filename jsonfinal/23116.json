@@ -1,0 +1,20 @@
+{
+    "name": "PANDEMONIO S.A.S.",
+    "description": "",
+    "address": "50/R, Via Del Leone - 50124 Firenze (FI)",
+    "streetAddress": "50/R, Via Del Leone",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76784,
+        "lon": 11.24203
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 224002"
+    ],
+    "rating": "5.0"
+}

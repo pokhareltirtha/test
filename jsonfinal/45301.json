@@ -1,0 +1,20 @@
+{
+    "name": "IL FORNELLO",
+    "description": "",
+    "address": "5, Via Provinciale Mammianese Sud - 55011 Marginone (LU)",
+    "streetAddress": "5, Via Provinciale Mammianese Sud",
+    "postalCode": "55011",
+    "addressLocality": "Marginone",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.83692,
+        "lon": 10.69106
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 216528"
+    ],
+    "rating": ""
+}

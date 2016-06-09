@@ -1,0 +1,20 @@
+{
+    "name": "MONALISA",
+    "description": "",
+    "address": "5, Via Petriolo - 50022 Greve In Chianti (FI)",
+    "streetAddress": "5, Via Petriolo",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.55873,
+        "lon": 11.35616
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8546624"
+    ],
+    "rating": ""
+}

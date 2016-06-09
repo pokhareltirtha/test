@@ -1,0 +1,21 @@
+{
+    "name": "ANTICA PIZZERIA DA CAMMILLO DI DI SANTO FILOMENA",
+    "description": "",
+    "address": "155, Corso Matteotti Giacomo - 56025 Pontedera (PI)",
+    "streetAddress": "155, Corso Matteotti Giacomo",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66375,
+        "lon": 10.63946
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 59813",
+        "0587 215899"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ALBANA",
+    "description": "",
+    "address": "71, Villaggio Mazzolla - 56048 Mazzolla (PI)",
+    "streetAddress": "71, Villaggio Mazzolla",
+    "postalCode": "56048",
+    "addressLocality": "Mazzolla",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.3677,
+        "lon": 10.90441
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 028018",
+        "388 5684822"
+    ],
+    "rating": ""
+}

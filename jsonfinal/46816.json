@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA BAITA DI PARAZZA MARIKA",
+    "description": "",
+    "address": "58, Localita' La Ca Guzzano - 40032 Camugnano (BO)",
+    "streetAddress": "58, Localita' La Ca Guzzano",
+    "postalCode": "40032",
+    "addressLocality": "Camugnano",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.15904,
+        "lon": 11.08501
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0534 872150"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA FORNACE DI MELETO",
+    "description": "",
+    "address": "49/A, Via Marconi - 53013 Gaiole In Chianti (SI)",
+    "streetAddress": "49/A, Via Marconi",
+    "postalCode": "53013",
+    "addressLocality": "Gaiole In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46478,
+        "lon": 11.43909
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 749481"
+    ],
+    "rating": ""
+}

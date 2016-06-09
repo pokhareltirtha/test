@@ -1,0 +1,21 @@
+{
+    "name": "RED GARTER",
+    "description": "",
+    "address": "33, Via Dei Benci - 50122 Firenze (FI)",
+    "streetAddress": "33, Via Dei Benci",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7689,
+        "lon": 11.26041
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2269270",
+        "055 2344904"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA IL CALDETINO",
+    "description": "Ristorante e pizzeria Il Caldetino, rigorosamente con forno a legna ideale per serate particolari, si trova a Vicchio (FI) in via Rossoio 26.",
+    "address": "26, V. Rossoio - 50039 Vicchio (FI)",
+    "streetAddress": "26, V. Rossoio",
+    "postalCode": "50039",
+    "addressLocality": "Vicchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.92771,
+        "lon": 11.50349
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8497551"
+    ],
+    "rating": ""
+}

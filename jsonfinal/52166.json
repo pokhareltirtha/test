@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LUCY DI GIROLAMI LUCIA",
+    "description": "",
+    "address": "225, Via Giacomo Matteotti - 51036 Larciano (PT)",
+    "streetAddress": "225, Via Giacomo Matteotti",
+    "postalCode": "51036",
+    "addressLocality": "Larciano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.82495,
+        "lon": 10.87413
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0573 837939"
+    ],
+    "rating": ""
+}

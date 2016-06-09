@@ -1,0 +1,21 @@
+{
+    "name": "AGRITURISMO TENUTA QUARRATA",
+    "description": "La Tenuta Quarrata – Agriturismo, a Cannoli in loc. Quaratta, è l’ottima location per i vostri momenti di relax, gite scolastiche e d’occasione conviviale.",
+    "address": "26, Loc. Quarrata - 56033 San Pietro In Belvedere (PI)",
+    "streetAddress": "26, Loc. Quarrata",
+    "postalCode": "56033",
+    "addressLocality": "San Pietro In Belvedere",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.56897,
+        "lon": 10.66772
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 606261",
+        "335 8239489"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "COMMERCIALE R.M. SRL",
+    "description": "",
+    "address": "33, Via Coianese - 50051 Castelfiorentino (FI)",
+    "streetAddress": "33, Via Coianese",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.62489,
+        "lon": 10.92047
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 673308"
+    ],
+    "rating": ""
+}

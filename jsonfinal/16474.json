@@ -1,0 +1,20 @@
+{
+    "name": "LE ANFORE",
+    "description": "",
+    "address": "240, Via Europa - 51039 Quarrata (PT)",
+    "streetAddress": "240, Via Europa",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.85834,
+        "lon": 10.96048
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 790182"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "ALBERGO GRANDUCA",
+    "description": "",
+    "address": "3, Via Centro - 47018 Campigna (FC)",
+    "streetAddress": "3, Via Centro",
+    "postalCode": "47018",
+    "addressLocality": "Campigna",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 43.87301,
+        "lon": 11.74677
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0543 980051"
+    ],
+    "rating": ""
+}

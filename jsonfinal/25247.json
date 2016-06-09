@@ -1,0 +1,20 @@
+{
+    "name": "AGRITURISMO IL MANIERO",
+    "description": "Il posto ideale dove ritrovare tranquillità e relax in un ambiente a conduzione familiare a Monsummano Terme (PT).",
+    "address": "34/38, V. Burianino - 51015 Monsummano Terme (PT)",
+    "streetAddress": "34/38, V. Burianino",
+    "postalCode": "51015",
+    "addressLocality": "Monsummano Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.85027,
+        "lon": 10.83225
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 628763"
+    ],
+    "rating": ""
+}

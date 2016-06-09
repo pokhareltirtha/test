@@ -1,0 +1,21 @@
+{
+    "name": "ANTICA POSTA",
+    "description": "",
+    "address": "Piazza Zannoni 1/3 - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": "Piazza Zannoni 1/3",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.65835,
+        "lon": 11.18822
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 822313",
+        "055 8294255"
+    ],
+    "rating": ""
+}

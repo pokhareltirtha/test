@@ -1,0 +1,21 @@
+{
+    "name": "I TRE PINI",
+    "description": "",
+    "address": "134, Via Imprunetana Per Pozzolatico - 50023 Impruneta (FI)",
+    "streetAddress": "134, Via Imprunetana Per Pozzolatico",
+    "postalCode": "50023",
+    "addressLocality": "Impruneta",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.69515,
+        "lon": 11.25139
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 208173",
+        "055 208065"
+    ],
+    "rating": ""
+}

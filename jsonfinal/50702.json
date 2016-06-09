@@ -1,0 +1,21 @@
+{
+    "name": "PORRINO FRANCESCA",
+    "description": "",
+    "address": "143, Via Del Salsero - 51016 Montecatini Terme (PT)",
+    "streetAddress": "143, Via Del Salsero",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87515,
+        "lon": 10.77288
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 71902",
+        "348 7937038"
+    ],
+    "rating": "4.0"
+}

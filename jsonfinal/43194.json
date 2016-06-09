@@ -1,0 +1,21 @@
+{
+    "name": "LE TERRAZZE",
+    "description": "",
+    "address": "263, Via Montorsoli - 50036 Vaglia (FI)",
+    "streetAddress": "263, Via Montorsoli",
+    "postalCode": "50036",
+    "addressLocality": "Vaglia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84415,
+        "lon": 11.29012
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 401782",
+        "055 401434"
+    ],
+    "rating": ""
+}

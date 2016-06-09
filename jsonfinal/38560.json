@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE SHANGCHENG SNC",
+    "description": "",
+    "address": "25, Via Gora Del Pero - 59100 Prato (PO)",
+    "streetAddress": "25, Via Gora Del Pero",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.8632,
+        "lon": 11.0637
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 621811"
+    ],
+    "rating": ""
+}

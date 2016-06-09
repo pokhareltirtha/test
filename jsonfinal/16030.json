@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE VILLA LA TORRE",
+    "description": "Ristorante, pizzeria con ambiente rustico e famigliare che propone alla propria clientela tutto il meglio della cucina toscana.",
+    "address": "32, V. Torre - 56033 Capannoli (PI)",
+    "streetAddress": "32, V. Torre",
+    "postalCode": "56033",
+    "addressLocality": "Capannoli",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.58633,
+        "lon": 10.67618
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 607556",
+        "347 8683543"
+    ],
+    "rating": "4.5"
+}

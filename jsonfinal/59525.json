@@ -1,0 +1,20 @@
+{
+    "name": "FOCACCERIA DI SABRINA PIETRONI",
+    "description": "",
+    "address": "38, Via Berrettini - 53035 Castellina Scalo Abate (SI)",
+    "streetAddress": "38, Via Berrettini",
+    "postalCode": "53035",
+    "addressLocality": "Castellina Scalo Abate",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.40735,
+        "lon": 11.21036
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 305015"
+    ],
+    "rating": ""
+}

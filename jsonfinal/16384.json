@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA DELL'AGRESTO",
+    "description": "",
+    "address": "Via Certaldese, 11 - 50050 Gambassi Terme (FI)",
+    "streetAddress": "Via Certaldese, 11",
+    "postalCode": "50050",
+    "addressLocality": "Gambassi Terme",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54074,
+        "lon": 10.95526
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 638800"
+    ],
+    "rating": ""
+}

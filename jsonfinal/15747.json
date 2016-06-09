@@ -1,0 +1,20 @@
+{
+    "name": "NICCOLINI MARTA",
+    "description": "",
+    "address": "10, Piazza Bargellini - 51015 Monsummano Terme (PT)",
+    "streetAddress": "10, Piazza Bargellini",
+    "postalCode": "51015",
+    "addressLocality": "Monsummano Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8589,
+        "lon": 10.84618
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 62337"
+    ],
+    "rating": "4.0"
+}

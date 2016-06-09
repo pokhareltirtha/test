@@ -1,0 +1,21 @@
+{
+    "name": "IL GIRARROSTO SRL",
+    "description": "",
+    "address": "31, Via Garibaldi Giuseppe - 50065 Pontassieve (FI)",
+    "streetAddress": "31, Via Garibaldi Giuseppe",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77466,
+        "lon": 11.4392
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8367424",
+        "055 8323744"
+    ],
+    "rating": ""
+}

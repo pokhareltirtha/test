@@ -1,0 +1,21 @@
+{
+    "name": "RISTEMA S.R.L.",
+    "description": "",
+    "address": "22, Via Orvieto - 59100 Prato (PO)",
+    "streetAddress": "22, Via Orvieto",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86872,
+        "lon": 11.09691
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 537962",
+        "0574 512323"
+    ],
+    "rating": ""
+}

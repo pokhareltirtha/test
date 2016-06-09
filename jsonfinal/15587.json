@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA DEI GAVULIANI",
+    "description": "Ambiente tranquillo e d’altri tempi con cucina della tradizione tipica emiliana a Pianoro.",
+    "address": "238/A, V. Nazionale - 40065 Pianoro (BO)",
+    "streetAddress": "238/A, V. Nazionale",
+    "postalCode": "40065",
+    "addressLocality": "Pianoro",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.32515,
+        "lon": 11.33222
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "051 775880"
+    ],
+    "rating": ""
+}

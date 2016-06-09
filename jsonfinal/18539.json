@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL PORTICO",
+    "description": "Il Ristorante a Greve in Chianti è un locale caratteristico con veranda estiva dove potrete degustare le specialità del Chianti.",
+    "address": "83, P. Matteotti - 50022 Greve In Chianti (FI)",
+    "streetAddress": "83, P. Matteotti",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58281,
+        "lon": 11.31695
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8547426"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ALBERGO IL PATINO",
+    "description": "L'Albergo Il Patino a Bientina è un ottimo ed elegante ristorante che fornisce un efficiente e comodo servizio alberghiero.",
+    "address": "V. Vecchia Stazione - 56031 Bientina (PI)",
+    "streetAddress": "V. Vecchia Stazione",
+    "postalCode": "56031",
+    "addressLocality": "Bientina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70579,
+        "lon": 10.608
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 754963",
+        "0587 755547"
+    ],
+    "rating": "4.0"
+}

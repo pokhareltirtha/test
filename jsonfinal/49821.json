@@ -1,0 +1,20 @@
+{
+    "name": "LA TANA DEL DRAGO",
+    "description": "",
+    "address": "270, Via Modenese - 51100 Piazza (PT)",
+    "streetAddress": "270, Via Modenese",
+    "postalCode": "51100",
+    "addressLocality": "Piazza",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9727,
+        "lon": 10.88359
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 41503"
+    ],
+    "rating": ""
+}

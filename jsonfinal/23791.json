@@ -1,0 +1,21 @@
+{
+    "name": "GLI ORZALI S.R.L.",
+    "description": "",
+    "address": "12, Localita' Palasaccio - 50033 Firenzuola (FI)",
+    "streetAddress": "12, Localita' Palasaccio",
+    "postalCode": "50033",
+    "addressLocality": "Firenzuola",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.12051,
+        "lon": 11.38004
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8199222",
+        "055 8109929"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL LAGO DI CERRETO",
+    "description": "",
+    "address": "Via Di Cantagallo-Cerreto - 59100 Prato (PO)",
+    "streetAddress": "Via Di Cantagallo-Cerreto",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.9483,
+        "lon": 11.10124
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 466448"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "ANTICA TAVERNA CASAGRANDE",
+    "description": "",
+    "address": "84, Via Castelguinelli - 50063 Figline Valdarno (FI)",
+    "streetAddress": "84, Via Castelguinelli",
+    "postalCode": "50063",
+    "addressLocality": "Figline Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61585,
+        "lon": 11.47392
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 952403"
+    ],
+    "rating": ""
+}

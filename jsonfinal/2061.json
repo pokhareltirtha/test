@@ -1,0 +1,21 @@
+{
+    "name": "FUEGO",
+    "description": "Disco pub, ristorante e movida cubana a Firenze.",
+    "address": "92, V. Villa Demidoff - 50127 Firenze (FI)",
+    "streetAddress": "92, V. Villa Demidoff",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78956,
+        "lon": 11.22761
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "328 1740270",
+        "055 0881285"
+    ],
+    "rating": ""
+}

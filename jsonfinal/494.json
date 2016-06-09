@@ -1,0 +1,21 @@
+{
+    "name": "ANTICO GIRONE",
+    "description": "",
+    "address": "38, Via Del Girone - 50014 Girone (FI)",
+    "streetAddress": "38, Via Del Girone",
+    "postalCode": "50014",
+    "addressLocality": "Girone",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77001,
+        "lon": 11.33801
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 690830"
+    ],
+    "rating": ""
+}

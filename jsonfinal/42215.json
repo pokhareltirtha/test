@@ -1,0 +1,21 @@
+{
+    "name": "ALCIDE",
+    "description": "",
+    "address": "Viale Guglielmo Marconi 67/A - 53036 Poggibonsi (SI)",
+    "streetAddress": "Viale Guglielmo Marconi 67/A",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.47248,
+        "lon": 11.14667
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 937501",
+        "0577 936196"
+    ],
+    "rating": ""
+}

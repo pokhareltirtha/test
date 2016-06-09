@@ -1,0 +1,22 @@
+{
+    "name": "LE CAMPANE",
+    "description": "",
+    "address": "Borgo La Croce, 85/87r - 50121 Firenze (FI)",
+    "streetAddress": "Borgo La Croce, 85/87r",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77144,
+        "lon": 11.26649
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2341101",
+        "055 2268669"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "CANTINA DEI MATTI S.R.L.",
+    "description": "",
+    "address": "26/R, Via Del Canto Dei Nelli - 50123 Firenze (FI)",
+    "streetAddress": "26/R, Via Del Canto Dei Nelli",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77532,
+        "lon": 11.25331
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 283279",
+        "055 2678659"
+    ],
+    "rating": ""
+}

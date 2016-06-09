@@ -1,0 +1,20 @@
+{
+    "name": "BENI",
+    "description": "",
+    "address": "4, Largo Giovanni Mazzini - 56034 Casciana Terme (PI)",
+    "streetAddress": "4, Largo Giovanni Mazzini",
+    "postalCode": "56034",
+    "addressLocality": "Casciana Terme",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.52726,
+        "lon": 10.61953
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 645307"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "MEGLIO PALAIA",
+    "description": "",
+    "address": "38, Via Di Sant'Agostino - 51100 Pistoia (PT)",
+    "streetAddress": "38, Via Di Sant'Agostino",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93257,
+        "lon": 10.93924
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 1941081",
+        "0573 532544"
+    ],
+    "rating": ""
+}

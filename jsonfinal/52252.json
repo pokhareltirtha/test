@@ -1,0 +1,20 @@
+{
+    "name": "GLI ARTIGIANI DEL PANE",
+    "description": "Il panificio artigianale con prodotti sempre freschi. Gli Artigiani Del Pane si trova a Calci (PI) in 39/a, v. Lungomonte.",
+    "address": "39/A, V. Lungomonte - 56011 Calci (PI)",
+    "streetAddress": "39/A, V. Lungomonte",
+    "postalCode": "56011",
+    "addressLocality": "Calci",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.72271,
+        "lon": 10.49935
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "366 2791864"
+    ],
+    "rating": "5.0"
+}

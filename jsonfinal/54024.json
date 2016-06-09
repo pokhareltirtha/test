@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA GIMMY GIO' snc",
+    "description": "La pizzeria e trattoria Gimmy Giò, di Colle Val d'Elsa, prepara gustose pizze e i tipici piatti della cucina tradizionale toscana.",
+    "address": "16, V. Garibaldi - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "16, V. Garibaldi",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42265,
+        "lon": 11.12486
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "338 7817721",
+        "0577 923523"
+    ],
+    "rating": ""
+}

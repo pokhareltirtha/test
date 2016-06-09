@@ -1,0 +1,20 @@
+{
+    "name": "LINA",
+    "description": "",
+    "address": "Via Mammianese 391 - 51017 Pescia (PT)",
+    "streetAddress": "Via Mammianese 391",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94715,
+        "lon": 10.71924
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 409155"
+    ],
+    "rating": ""
+}

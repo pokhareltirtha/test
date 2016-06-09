@@ -1,0 +1,21 @@
+{
+    "name": "LA SCUDERIA",
+    "description": "",
+    "address": "17, Via Passignano - 50028 Badia A Passignano (FI)",
+    "streetAddress": "17, Via Passignano",
+    "postalCode": "50028",
+    "addressLocality": "Badia A Passignano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.57804,
+        "lon": 11.24747
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8071623",
+        "335 8252669"
+    ],
+    "rating": ""
+}

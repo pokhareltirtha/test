@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA LOCANDA DI PIETRACUPA snc",
+    "description": "Il ristorante a Tavarnelle Val di Pesa (FI) in una graziosa casa borghese dei primi del '900  dove si incontrano eleganza e tradizione.",
+    "address": "",
+    "streetAddress": "",
+    "postalCode": "",
+    "addressLocality": "",
+    "addressRegion": "",
+    "coordinates": {
+        "lat": null,
+        "lon": null
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8072400"
+    ],
+    "rating": ""
+}

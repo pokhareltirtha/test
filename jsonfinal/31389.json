@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ENOTECA NATALINO",
+    "description": "Il ristorante a Firenze è uno splendido locale rustico ed elegante,cordialità e tradizione rendono il locale un punto di riferimento per tutti i suoi clienti.",
+    "address": "22/R, Bg. Albizi - 50122 Firenze (FI)",
+    "streetAddress": "22/R, Bg. Albizi",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77148,
+        "lon": 11.26173
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 289404"
+    ],
+    "rating": "4.4"
+}

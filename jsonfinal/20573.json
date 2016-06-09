@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DELL'OCA SATOLLA",
+    "description": "L'Osteria dell'Oca Satolla a Laterina (AR), propone ai suoi clienti piatti tipici della terra toscana in un'atmosfera familiare per serate piacevoli e di gusto.",
+    "address": "59, Loc. Vitereta - 52020 Laterina (AR)",
+    "streetAddress": "59, Loc. Vitereta",
+    "postalCode": "52020",
+    "addressLocality": "Laterina",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.52354,
+        "lon": 11.68767
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 894650"
+    ],
+    "rating": "3.8"
+}

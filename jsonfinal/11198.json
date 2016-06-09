@@ -1,0 +1,20 @@
+{
+    "name": "BALDO VINO",
+    "description": "",
+    "address": "5, Piazza San Lorenzo - 51100 Pistoia (PT)",
+    "streetAddress": "5, Piazza San Lorenzo",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93559,
+        "lon": 10.92013
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 21591"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "AGNOLETTI",
+    "description": "",
+    "address": "64, Via Forlivese - 50060 San Godenzo (FI)",
+    "streetAddress": "64, Via Forlivese",
+    "postalCode": "50060",
+    "addressLocality": "San Godenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.92571,
+        "lon": 11.61793
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8374016"
+    ],
+    "rating": ""
+}

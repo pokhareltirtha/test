@@ -1,0 +1,21 @@
+{
+    "name": "BAR PIZZERIA I PINI",
+    "description": "",
+    "address": "18, Via Firenze - 48025 Riolo Terme (RA)",
+    "streetAddress": "18, Via Firenze",
+    "postalCode": "48025",
+    "addressLocality": "Riolo Terme",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.27446,
+        "lon": 11.72337
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0546 74263"
+    ],
+    "rating": ""
+}

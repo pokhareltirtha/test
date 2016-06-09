@@ -1,0 +1,20 @@
+{
+    "name": "L'OSTERIA",
+    "description": "",
+    "address": "112, Via Boninsegni - 51015 Monsummano Terme (PT)",
+    "streetAddress": "112, Via Boninsegni",
+    "postalCode": "51015",
+    "addressLocality": "Monsummano Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87057,
+        "lon": 10.81245
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 952878"
+    ],
+    "rating": ""
+}

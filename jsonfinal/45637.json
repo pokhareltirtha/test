@@ -1,0 +1,20 @@
+{
+    "name": "RISTOCAFFETTERIA VORONOI",
+    "description": "",
+    "address": "14, Piazzetta Dell Ortaggio - 51100 Pistoia (PT)",
+    "streetAddress": "14, Piazzetta Dell Ortaggio",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93259,
+        "lon": 10.91683
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 1971214"
+    ],
+    "rating": "4.0"
+}

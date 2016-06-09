@@ -1,0 +1,20 @@
+{
+    "name": "OIBO' RISTORANTE",
+    "description": "L'Obò ti aspetta con le sue specialità a Firenze in bg. Greci 1, vieni a gustarle.",
+    "address": "1, Bg. Greci - 50122 Firenze (FI)",
+    "streetAddress": "1, Bg. Greci",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76902,
+        "lon": 11.26017
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2638611"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "IL BARRINO DI LAZZARINI M.",
+    "description": "",
+    "address": "6, Via F Ruschi - 56011 Calci (PI)",
+    "streetAddress": "6, Via F Ruschi",
+    "postalCode": "56011",
+    "addressLocality": "Calci",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.72641,
+        "lon": 10.51383
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 938060",
+        "366 3916056"
+    ],
+    "rating": ""
+}

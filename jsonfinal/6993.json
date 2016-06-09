@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA RISTORANTE CUCCHIETTA",
+    "description": "",
+    "address": "15/R, Via Firenzuola Agnolo - 50133 Firenze (FI)",
+    "streetAddress": "15/R, Via Firenzuola Agnolo",
+    "postalCode": "50133",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78704,
+        "lon": 11.27103
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 578889"
+    ],
+    "rating": "3.0"
+}

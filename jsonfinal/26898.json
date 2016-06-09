@@ -1,0 +1,21 @@
+{
+    "name": "VILLA LECCHI",
+    "description": "",
+    "address": "9, Localita Lecchi - 53036 Lecchi (SI)",
+    "streetAddress": "9, Localita Lecchi",
+    "postalCode": "53036",
+    "addressLocality": "Lecchi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.43894,
+        "lon": 11.18535
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 930885",
+        "0577 930090"
+    ],
+    "rating": ""
+}

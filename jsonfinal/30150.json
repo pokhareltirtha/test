@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL BORRO",
+    "description": "",
+    "address": "5, Localita' Borro - 52024 Loro Ciuffenna (AR)",
+    "streetAddress": "5, Localita' Borro",
+    "postalCode": "52024",
+    "addressLocality": "Loro Ciuffenna",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.53981,
+        "lon": 11.71578
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9772333"
+    ],
+    "rating": ""
+}

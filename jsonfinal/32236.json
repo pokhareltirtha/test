@@ -1,0 +1,20 @@
+{
+    "name": "FUOR D'ACQUA",
+    "description": "",
+    "address": "37, Via Pisana - 50143 Firenze (FI)",
+    "streetAddress": "37, Via Pisana",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77077,
+        "lon": 11.23873
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 222299"
+    ],
+    "rating": ""
+}

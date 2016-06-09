@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA TAL DEI TALI SNC",
+    "description": "",
+    "address": "25/27, Via Del Giglio - 50053 Empoli (FI)",
+    "streetAddress": "25/27, Via Del Giglio",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72018,
+        "lon": 10.9475
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 78552"
+    ],
+    "rating": ""
+}

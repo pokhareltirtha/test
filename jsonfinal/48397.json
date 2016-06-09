@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA PASSAPAROLA",
+    "description": "",
+    "address": "37, Via Spartaco Lavagnini - 50055 Ponte A Signa (FI)",
+    "streetAddress": "37, Via Spartaco Lavagnini",
+    "postalCode": "50055",
+    "addressLocality": "Ponte A Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77252,
+        "lon": 11.09143
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "331 8549809"
+    ],
+    "rating": ""
+}

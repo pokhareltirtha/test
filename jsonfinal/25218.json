@@ -1,0 +1,21 @@
+{
+    "name": "IL MAIALETTO",
+    "description": "",
+    "address": "372, Via Della Repubblica - 51015 Monsummano Terme (PT)",
+    "streetAddress": "372, Via Della Repubblica",
+    "postalCode": "51015",
+    "addressLocality": "Monsummano Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86382,
+        "lon": 10.81719
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 3263481",
+        "338 5710974"
+    ],
+    "rating": "4.0"
+}

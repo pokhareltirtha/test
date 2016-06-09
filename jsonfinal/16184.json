@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL POZZO DI S. VITO",
+    "description": "Ristorante Il Pozzo Di S. Vito di Sartini Adriano e Rossi Luca svolge la propria attività a Calci.",
+    "address": "12, V. S. Vito - 56011 Calci (PI)",
+    "streetAddress": "12, V. S. Vito",
+    "postalCode": "56011",
+    "addressLocality": "Calci",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.72281,
+        "lon": 10.513
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 936209",
+        "347 1894406"
+    ],
+    "rating": ""
+}

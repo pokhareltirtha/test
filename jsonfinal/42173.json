@@ -1,0 +1,20 @@
+{
+    "name": "MUCCA PAZZA S.R.L.",
+    "description": "",
+    "address": "9/R/C, Lung'Arno Ferrucci Francesco - 50126 Firenze (FI)",
+    "streetAddress": "9/R/C, Lung'Arno Ferrucci Francesco",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76393,
+        "lon": 11.27406
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6587228"
+    ],
+    "rating": "4.0"
+}

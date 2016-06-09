@@ -1,0 +1,20 @@
+{
+    "name": "LA BUCA",
+    "description": "",
+    "address": "24, Piazza Garibaldi - 52011 Soci (AR)",
+    "streetAddress": "24, Piazza Garibaldi",
+    "postalCode": "52011",
+    "addressLocality": "Soci",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.73592,
+        "lon": 11.81278
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 560094"
+    ],
+    "rating": ""
+}

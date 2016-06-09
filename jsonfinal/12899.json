@@ -1,0 +1,20 @@
+{
+    "name": "LA DOLCEVITA",
+    "description": "",
+    "address": "24, Via Caiani Pietro - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "24, Via Caiani Pietro",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.95052,
+        "lon": 11.39513
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8459299"
+    ],
+    "rating": ""
+}

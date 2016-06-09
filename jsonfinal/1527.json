@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA LA TAVERNETTA",
+    "description": "Il ristorante pizzeria La Tavernetta di Pontassieve offre la possibilità di gustare una pizza dal sapore autentico con lievito madre, al 93, v. Ghiberti.",
+    "address": "93, V. Ghiberti - 50065 Pontassieve (FI)",
+    "streetAddress": "93, V. Ghiberti",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77792,
+        "lon": 11.44316
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8323432"
+    ],
+    "rating": ""
+}

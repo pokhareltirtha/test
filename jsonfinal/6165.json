@@ -1,0 +1,20 @@
+{
+    "name": "CASALE DI VALLE",
+    "description": "",
+    "address": "Via Provinciale Di Mercatale, 291 - 50059 Mercatale (FI)",
+    "streetAddress": "Via Provinciale Di Mercatale, 291",
+    "postalCode": "50059",
+    "addressLocality": "Mercatale",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74302,
+        "lon": 10.90145
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "338 5826390"
+    ],
+    "rating": ""
+}

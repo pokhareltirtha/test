@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LA GRIGLIA",
+    "description": "Le migliori fritture di pesce, insieme alle specialità toscane, al ristorante pizzeria La Griglia di Borgo San Lorenzo, in provincia di Firenze.",
+    "address": "91, Vl. IV Novembre - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "91, Vl. IV Novembre",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.9562,
+        "lon": 11.39231
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8458527"
+    ],
+    "rating": "5.0"
+}

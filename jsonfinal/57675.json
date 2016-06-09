@@ -1,0 +1,21 @@
+{
+    "name": "GIRASOLE",
+    "description": "",
+    "address": "91/R, Via Dellʼ Agnolo - 50100 Firenze (FI)",
+    "streetAddress": "91/R, Via Dellʼ Agnolo",
+    "postalCode": "50100",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7747,
+        "lon": 11.25051
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "348 8768071",
+        "055 2477587"
+    ],
+    "rating": "4.0"
+}

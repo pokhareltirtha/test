@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA EDI HOUSE",
+    "description": "",
+    "address": "8, Piazza Fra Girolamo Savonarola - 50132 Firenze (FI)",
+    "streetAddress": "8, Piazza Fra Girolamo Savonarola",
+    "postalCode": "50132",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78224,
+        "lon": 11.2671
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 588886"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE TRATTORIA DA PORDO",
+    "description": "Ristorante Trattoria Da Pordo specializzato al tuo servizio in Via Valigondoli a San Casciano in Val di Pesa.",
+    "address": "50, V. Valigondoli - 50026 Mercatale (FI)",
+    "streetAddress": "50, V. Valigondoli",
+    "postalCode": "50026",
+    "addressLocality": "Mercatale",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.5947,
+        "lon": 11.25537
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "331 5268151",
+        "055 8218339"
+    ],
+    "rating": ""
+}

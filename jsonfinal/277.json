@@ -1,0 +1,22 @@
+{
+    "name": "EUROPEA - S.R.L",
+    "description": "",
+    "address": "43/R., Via Di Ripoli - 50126 Firenze (FI)",
+    "streetAddress": "43/R., Via Di Ripoli",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76012,
+        "lon": 11.28162
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 6801901",
+        "055 6800253"
+    ],
+    "rating": "4.5"
+}

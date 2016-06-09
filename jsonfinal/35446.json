@@ -1,0 +1,20 @@
+{
+    "name": "MALAVOLTI",
+    "description": "",
+    "address": "18, Via Verdi - 50035 Palazzuolo Sul Senio (FI)",
+    "streetAddress": "18, Via Verdi",
+    "postalCode": "50035",
+    "addressLocality": "Palazzuolo Sul Senio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.11388,
+        "lon": 11.54649
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8046029"
+    ],
+    "rating": ""
+}

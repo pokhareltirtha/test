@@ -1,0 +1,20 @@
+{
+    "name": "IL LAGHETTO",
+    "description": "",
+    "address": ", Via Molino - 47010 Portico E San Benedetto (FC)",
+    "streetAddress": ", Via Molino",
+    "postalCode": "47010",
+    "addressLocality": "Portico E San Benedetto",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 43.98066,
+        "lon": 11.68752
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0543 965241"
+    ],
+    "rating": ""
+}

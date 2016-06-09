@@ -1,0 +1,20 @@
+{
+    "name": "CAFFE' MIRO'",
+    "description": "",
+    "address": "75, Via Martiri Del Padule - 51036 Castelmartini (PT)",
+    "streetAddress": "75, Via Martiri Del Padule",
+    "postalCode": "51036",
+    "addressLocality": "Castelmartini",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8225,
+        "lon": 10.84105
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 2837117"
+    ],
+    "rating": ""
+}

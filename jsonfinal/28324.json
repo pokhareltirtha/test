@@ -1,0 +1,20 @@
+{
+    "name": "LA BOTTEGA DEI PORTICI",
+    "description": "",
+    "address": "3, Piazza Garibaldi - 50035 Palazzuolo Sul Senio (FI)",
+    "streetAddress": "3, Piazza Garibaldi",
+    "postalCode": "50035",
+    "addressLocality": "Palazzuolo Sul Senio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.11257,
+        "lon": 11.54865
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8046580"
+    ],
+    "rating": ""
+}

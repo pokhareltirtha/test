@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA IL TERZO CERCHIO",
+    "description": "Il locale situato a Pistoia, ottimo come ristorane e pizzeria, che offre cucina familiare oltre a diversi tipi di pizza cotta nel forno a legna.",
+    "address": "87/91, Vl. Italia - 51100 Pistoia (PT)",
+    "streetAddress": "87/91, Vl. Italia",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94332,
+        "lon": 10.92005
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 33961"
+    ],
+    "rating": "4.8"
+}

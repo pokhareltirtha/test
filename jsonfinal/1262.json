@@ -1,0 +1,22 @@
+{
+    "name": "PIT-STOP RISTORANTE PIZZERIA",
+    "description": "Ristorante–pizzeria, a Firenze, pizze e piatti tipici di stagione da gustare in un ambiente gradevole in compagnia di amici.",
+    "address": "30/R, V. Corridoni - 50134 Firenze (FI)",
+    "streetAddress": "30/R, V. Corridoni",
+    "postalCode": "50134",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7917,
+        "lon": 11.2428
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "348 4676096",
+        "055 4221437"
+    ],
+    "rating": ""
+}

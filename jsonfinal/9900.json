@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE - BRACERIA - PIZZERIA IL NURAGHE",
+    "description": "",
+    "address": "57, Via Piemonte - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "57, Via Piemonte",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42244,
+        "lon": 11.13474
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 929181"
+    ],
+    "rating": ""
+}

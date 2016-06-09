@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA TRATTORIA IL VIRGINIO",
+    "description": "",
+    "address": "500, Via Virginio - 50025 Montespertoli (FI)",
+    "streetAddress": "500, Via Virginio",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.69155,
+        "lon": 11.06989
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "0571 671535"
+    ],
+    "rating": ""
+}

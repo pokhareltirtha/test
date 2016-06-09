@@ -1,0 +1,20 @@
+{
+    "name": "Q8 - STAZIONE DI SERVIZIO",
+    "description": "",
+    "address": "67, Via Cesare Battisti - 50054 Fucecchio (FI)",
+    "streetAddress": "67, Via Cesare Battisti",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72585,
+        "lon": 10.81442
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 299542"
+    ],
+    "rating": ""
+}

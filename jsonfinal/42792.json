@@ -1,0 +1,21 @@
+{
+    "name": "NORKY S.N.C. DI ANA ISABEL CAMASCA GANTO E KAREN SANCHEZ VIDAL",
+    "description": "",
+    "address": "118/A/B/R, Via Ponte Alle Mosse - 50144 Firenze (FI)",
+    "streetAddress": "118/A/B/R, Via Ponte Alle Mosse",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7829,
+        "lon": 11.23393
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "328 6005029",
+        "055 5320771"
+    ],
+    "rating": "5.0"
+}

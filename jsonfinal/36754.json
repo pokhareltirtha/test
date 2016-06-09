@@ -1,0 +1,21 @@
+{
+    "name": "IL GIARDINO DI BAMBU'",
+    "description": "",
+    "address": "57, Piazza Dalmazia - 50141 Firenze (FI)",
+    "streetAddress": "57, Piazza Dalmazia",
+    "postalCode": "50141",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79616,
+        "lon": 11.24041
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4220510",
+        "335 7004268"
+    ],
+    "rating": ""
+}

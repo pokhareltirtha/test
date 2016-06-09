@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE VALENTINI",
+    "description": "Al Valentini Steak House potrete gustare un ricco e vario menu di carne e pesce ed assaporare favolose bistecche, in via Valentini 39 a Prato.",
+    "address": "39, V. Valentini - 59100 Prato (PO)",
+    "streetAddress": "39, V. Valentini",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87145,
+        "lon": 11.09906
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 757383"
+    ],
+    "rating": "5.0"
+}

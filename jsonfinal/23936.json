@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LA PENTOLACCIA",
+    "description": "Ristorante Pizzeria La Pentolaccia a Borgo San Lorenzo ti attende per offrirti squisite prelibatezze.",
+    "address": "20, V. Della Soterna - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "20, V. Della Soterna",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.95889,
+        "lon": 11.36705
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8490717"
+    ],
+    "rating": "4.0"
+}

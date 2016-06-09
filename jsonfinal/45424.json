@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL GATTO BIANCO",
+    "description": "",
+    "address": "18, Via Luigi Galvani - 51016 Montecatini Terme (PT)",
+    "streetAddress": "18, Via Luigi Galvani",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88468,
+        "lon": 10.78168
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 78419"
+    ],
+    "rating": ""
+}

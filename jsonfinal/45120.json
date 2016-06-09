@@ -1,0 +1,21 @@
+{
+    "name": "FATTORIA MONTELLORI DI NIERI ALESSANDRO",
+    "description": "",
+    "address": "5, Via Pistoiese - 50054 Fucecchio (FI)",
+    "streetAddress": "5, Via Pistoiese",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73562,
+        "lon": 10.80869
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 242625",
+        "0571 22280"
+    ],
+    "rating": ""
+}

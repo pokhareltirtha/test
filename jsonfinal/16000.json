@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA PASTA E VINO",
+    "description": "",
+    "address": "22, Via Elio Vagelli - 56021 Cascina (PI)",
+    "streetAddress": "22, Via Elio Vagelli",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.6758,
+        "lon": 10.54995
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 9911145"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "22 NOIR",
+    "description": "",
+    "address": "22, Via Chiantigiana - 50126 Ponte A Ema (FI)",
+    "streetAddress": "22, Via Chiantigiana",
+    "postalCode": "50126",
+    "addressLocality": "Ponte A Ema",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73922,
+        "lon": 11.29756
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 641541"
+    ],
+    "rating": ""
+}

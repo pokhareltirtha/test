@@ -1,0 +1,21 @@
+{
+    "name": "LA TERRAZZA DI CARDA RISTORANTE - PIZZERIA - CAMERE DI CORSETTI ANNAMARIA",
+    "description": "",
+    "address": "Piazza Carda - 52016 Castel Focognano (AR)",
+    "streetAddress": "Piazza Carda",
+    "postalCode": "52016",
+    "addressLocality": "Castel Focognano",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.65343,
+        "lon": 11.78793
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 1788928",
+        "0575 1788929"
+    ],
+    "rating": ""
+}

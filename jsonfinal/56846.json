@@ -1,0 +1,20 @@
+{
+    "name": "LE TRE PORTE",
+    "description": "",
+    "address": "4, Via Trento E Trieste - 53011 Castellina In Chianti (SI)",
+    "streetAddress": "4, Via Trento E Trieste",
+    "postalCode": "53011",
+    "addressLocality": "Castellina In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46998,
+        "lon": 11.28708
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 741163"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "SILVANO",
+    "description": "",
+    "address": "Via Forlivese 69/71 - 50060 San Godenzo (FI)",
+    "streetAddress": "Via Forlivese 69/71",
+    "postalCode": "50060",
+    "addressLocality": "San Godenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.92834,
+        "lon": 11.62104
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        ""
+    ],
+    "rating": ""
+}

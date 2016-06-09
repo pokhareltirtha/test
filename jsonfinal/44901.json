@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA BOTTEGA DI MORELLO",
+    "description": "",
+    "address": "1, Via Di Gualdo - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "1, Via Di Gualdo",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.86284,
+        "lon": 11.22264
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 44894444"
+    ],
+    "rating": ""
+}

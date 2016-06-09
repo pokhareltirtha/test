@@ -1,0 +1,20 @@
+{
+    "name": "C.EMPIRE SRL",
+    "description": "",
+    "address": "360, Via Pistoiese - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "360, Via Pistoiese",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.794,
+        "lon": 11.15418
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8990429"
+    ],
+    "rating": ""
+}

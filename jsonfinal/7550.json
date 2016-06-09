@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL COCHINO",
+    "description": "A Montale un ristorante storico datato 1930.",
+    "address": "15, V. F.Lli Masini - 51037 Montale (PT)",
+    "streetAddress": "15, V. F.Lli Masini",
+    "postalCode": "51037",
+    "addressLocality": "Montale",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93593,
+        "lon": 11.01618
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 557631",
+        "347 7898456"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "ROSTICCERIA CINESE JIAN JIAN",
+    "description": "",
+    "address": "48, Via Ghibellina - 50122 Firenze (FI)",
+    "streetAddress": "48, Via Ghibellina",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76955,
+        "lon": 11.26486
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2478343"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "HOTEL CAVALIERI DEL TAU",
+    "description": "",
+    "address": "56, Via Gavinana - 55011 Altopascio (LU)",
+    "streetAddress": "56, Via Gavinana",
+    "postalCode": "55011",
+    "addressLocality": "Altopascio",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81459,
+        "lon": 10.67784
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 25131",
+        "0583 25263"
+    ],
+    "rating": "3.5"
+}

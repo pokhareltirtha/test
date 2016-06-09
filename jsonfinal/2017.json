@@ -1,0 +1,20 @@
+{
+    "name": "VIENNA",
+    "description": "",
+    "address": "61, Via Purgatorio - 59100 Prato (PO)",
+    "streetAddress": "61, Via Purgatorio",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86762,
+        "lon": 11.07914
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 630763"
+    ],
+    "rating": ""
+}

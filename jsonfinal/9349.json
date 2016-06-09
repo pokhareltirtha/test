@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE BAR SCALO 13",
+    "description": "Il Ristorante Bar Scalo 13 a Pontedera offre molte promozioni aziendali per i clienti e l'organizzazione di serate e eventi mondani, in vl. Africa.",
+    "address": "2,,V. Mattei - 56025 Pontedera (PI)",
+    "streetAddress": "2,  V. Mattei",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.65579,
+        "lon": 10.62164
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 293010",
+        "328 4122343"
+    ],
+    "rating": "5.0"
+}

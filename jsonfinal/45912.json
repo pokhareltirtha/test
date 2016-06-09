@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DEL GHIOTTO",
+    "description": "",
+    "address": "454, Via Dalmazia - 51100 Pistoia (PT)",
+    "streetAddress": "454, Via Dalmazia",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94416,
+        "lon": 10.90709
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 402051"
+    ],
+    "rating": ""
+}

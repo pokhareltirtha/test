@@ -1,0 +1,21 @@
+{
+    "name": "DA MARINO",
+    "description": "",
+    "address": "Via Masseto 21/B - 50068 Masseto (FI)",
+    "streetAddress": "Via Masseto 21/B",
+    "postalCode": "50068",
+    "addressLocality": "Masseto",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80888,
+        "lon": 11.47379
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8397030",
+        "055 8397566"
+    ],
+    "rating": ""
+}

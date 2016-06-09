@@ -1,0 +1,20 @@
+{
+    "name": "PASSATORE",
+    "description": "",
+    "address": "2, Via Senio - 48025 Riolo Terme (RA)",
+    "streetAddress": "2, Via Senio",
+    "postalCode": "48025",
+    "addressLocality": "Riolo Terme",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.27463,
+        "lon": 11.71776
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0546 70945"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LONG FENG",
+    "description": "",
+    "address": "301, Via Roma - 59100 Prato (PO)",
+    "streetAddress": "301, Via Roma",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86487,
+        "lon": 11.08356
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 633808"
+    ],
+    "rating": ""
+}

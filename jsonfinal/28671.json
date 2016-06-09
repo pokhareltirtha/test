@@ -1,0 +1,21 @@
+{
+    "name": "TAVERNETTA DELLA SIGNORIA",
+    "description": "",
+    "address": "56, Via De Neri - 50122 Firenze (FI)",
+    "streetAddress": "56, Via De Neri",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76811,
+        "lon": 11.2581
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 288951",
+        "055 3921275"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE FATTORIA IL PALAGIO",
+    "description": "Siamo a vostra disposizione per per banchetti e cerimonie a Scarperia E San Piero (FI).",
+    "address": "99/101, Vl. Dante Alighieri - 50038 Scarperia E San Piero (FI)",
+    "streetAddress": "99/101, Vl. Dante Alighieri",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia E San Piero",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.00525,
+        "lon": 11.36512
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 846376"
+    ],
+    "rating": ""
+}

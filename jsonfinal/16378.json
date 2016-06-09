@@ -1,0 +1,20 @@
+{
+    "name": "HAPPY TIME",
+    "description": "Happy Time: parco giochi, pizzeria & ristorante. Area gonfiabili, feste a tema, compleanni.",
+    "address": "23, V. Fratina - 55016 Porcari (LU)",
+    "streetAddress": "23, V. Fratina",
+    "postalCode": "55016",
+    "addressLocality": "Porcari",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.85812,
+        "lon": 10.61214
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 297289"
+    ],
+    "rating": "5.0"
+}

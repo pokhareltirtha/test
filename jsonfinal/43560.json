@@ -1,0 +1,21 @@
+{
+    "name": "LA TIGNAMICA",
+    "description": "",
+    "address": "110, Via Val Di Bisenzio - 59021 La Tignamica (PO)",
+    "streetAddress": "110, Via Val Di Bisenzio",
+    "postalCode": "59021",
+    "addressLocality": "La Tignamica",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.94652,
+        "lon": 11.12504
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 986892",
+        "0574 985216"
+    ],
+    "rating": ""
+}

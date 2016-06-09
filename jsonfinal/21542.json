@@ -1,0 +1,20 @@
+{
+    "name": "LA QUERCE",
+    "description": "",
+    "address": "10, Via Aretina - 52025 Levane (AR)",
+    "streetAddress": "10, Via Aretina",
+    "postalCode": "52025",
+    "addressLocality": "Levane",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.49698,
+        "lon": 11.62097
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9788074"
+    ],
+    "rating": ""
+}

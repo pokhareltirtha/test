@@ -1,0 +1,20 @@
+{
+    "name": "GIGLIO NERO",
+    "description": "Glglio Nero risto-bar cucina espressa, gelateria e pasticceria artigianale. Orario continuato 7 giorni su 7",
+    "address": "155/R, V. Senese - 50124 Firenze (FI)",
+    "streetAddress": "155/R, V. Senese",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74972,
+        "lon": 11.23583
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2320768"
+    ],
+    "rating": ""
+}

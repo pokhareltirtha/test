@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA G. ROSSI",
+    "description": "",
+    "address": "191, Via Giulio Braga - 59021 Vaiano (PO)",
+    "streetAddress": "191, Via Giulio Braga",
+    "postalCode": "59021",
+    "addressLocality": "Vaiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.96848,
+        "lon": 11.12457
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0574 988410"
+    ],
+    "rating": ""
+}

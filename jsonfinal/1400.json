@@ -1,0 +1,22 @@
+{
+    "name": "VERA NAPOLI",
+    "description": "",
+    "address": "252, Via Senese - 50124 Galluzzo (FI)",
+    "streetAddress": "252, Via Senese",
+    "postalCode": "50124",
+    "addressLocality": "Galluzzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73588,
+        "lon": 11.22473
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 3921293",
+        "055 2049233"
+    ],
+    "rating": "5.0"
+}

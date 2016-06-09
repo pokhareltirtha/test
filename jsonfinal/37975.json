@@ -1,0 +1,20 @@
+{
+    "name": "PLAZ",
+    "description": "",
+    "address": "Via Pietrapiana, 36 - 50121 Firenze (FI)",
+    "streetAddress": "Via Pietrapiana, 36",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77144,
+        "lon": 11.26442
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 242081"
+    ],
+    "rating": ""
+}

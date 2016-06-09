@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA PALLE  D'ORO DAL 1860",
+    "description": "Trattoria Palle D'oro Dal 1860 a Firenze, dove assaporare le specialità della cucina Toscana e degustare ottimi vini toscani.",
+    "address": "43/45/R, V. S. Antonino - 50123 Firenze (FI)",
+    "streetAddress": "43/45/R, V. S. Antonino",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77599,
+        "lon": 11.25299
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 288383"
+    ],
+    "rating": "4.0"
+}

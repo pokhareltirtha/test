@@ -1,0 +1,20 @@
+{
+    "name": "LE COLONNINE",
+    "description": "",
+    "address": "6, Via Dei Benci - 50122 Firenze (FI)",
+    "streetAddress": "6, Via Dei Benci",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76753,
+        "lon": 11.25931
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2346417"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "GIOCAP S.R.L. UNIPERSONALE",
+    "description": "",
+    "address": "41, Localita' Pietrafitta - 53011 Castellina In Chianti (SI)",
+    "streetAddress": "41, Localita' Pietrafitta",
+    "postalCode": "53011",
+    "addressLocality": "Castellina In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.49428,
+        "lon": 11.30233
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 741123"
+    ],
+    "rating": ""
+}

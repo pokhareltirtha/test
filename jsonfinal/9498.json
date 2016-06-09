@@ -1,0 +1,21 @@
+{
+    "name": "TRATTORIA - PIZZERIA STEFAN",
+    "description": "La Trattoria Pizzeria Stefan, a Porcari in Via Puccini, vi conquisterà con la sua cucina casalinga ed i profumi di squisiti funghi e deliziosi primi.",
+    "address": "1190, V. Puccini - 55016 Porcari (LU)",
+    "streetAddress": "1190, V. Puccini",
+    "postalCode": "55016",
+    "addressLocality": "Porcari",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.83898,
+        "lon": 10.60639
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 297927"
+    ],
+    "rating": ""
+}

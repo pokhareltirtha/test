@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA BIBE",
+    "description": "La trattoria ideale dove gustare ottimi piatti in una casa accogliente con giardino a Firenze, vieni da Bibe.",
+    "address": "1/R, V. Bagnese - 50124 Firenze (FI)",
+    "streetAddress": "1/R, V. Bagnese",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74317,
+        "lon": 11.21602
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2049085"
+    ],
+    "rating": "5.0"
+}

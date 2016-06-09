@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE ALBERGO DA PASQUINO",
+    "description": "Albergo e risotrante di Terricciola, propone sistemazioni in camere confortevoli e specialità della cucina toscana.",
+    "address": "306, V. Sarzanese Valdera - 56030 Terricciola (PI)",
+    "streetAddress": "306, V. Sarzanese Valdera",
+    "postalCode": "56030",
+    "addressLocality": "Terricciola",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.50255,
+        "lon": 10.72038
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 674000"
+    ],
+    "rating": ""
+}

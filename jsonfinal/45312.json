@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA DEL CAPITANO DEL POPOLO DI BUGIANI FRANCESCO",
+    "description": "",
+    "address": "7, Via Di Stracceria - 51100 Pistoia (PT)",
+    "streetAddress": "7, Via Di Stracceria",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93286,
+        "lon": 10.91696
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 24785"
+    ],
+    "rating": ""
+}

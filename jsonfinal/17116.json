@@ -1,0 +1,20 @@
+{
+    "name": "BAR TRATTORIA AL CAMPO SPORTIVO DI GENEROSO EUGENIO",
+    "description": "",
+    "address": "Snc, Localita' S. Marziale - 53034 Gracciano Dell'Elsa (SI)",
+    "streetAddress": "Snc, Localita' S. Marziale",
+    "postalCode": "53034",
+    "addressLocality": "Gracciano Dell'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.4055,
+        "lon": 11.13735
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 929159"
+    ],
+    "rating": ""
+}

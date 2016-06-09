@@ -1,0 +1,21 @@
+{
+    "name": "LOCANDA LE TRE FONTI",
+    "description": "",
+    "address": "48/A, Via Della Bottigliana - 52024 Trappola (AR)",
+    "streetAddress": "48/A, Via Della Bottigliana",
+    "postalCode": "52024",
+    "addressLocality": "Trappola",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.61983,
+        "lon": 11.64965
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9173400",
+        "055 9173223"
+    ],
+    "rating": ""
+}

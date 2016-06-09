@@ -1,0 +1,20 @@
+{
+    "name": "DA GIGI",
+    "description": "",
+    "address": "110, Via R Piaggio - 56025 Pontedera (PI)",
+    "streetAddress": "110, Via R Piaggio",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66163,
+        "lon": 10.62769
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 290683"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "UNIVERSO",
+    "description": "",
+    "address": "Corso Giacomo Matteotti 51 - Angolo Via Delle Saline - 51016 Montecatini Terme (PT)",
+    "streetAddress": "Corso Giacomo Matteotti 51 - Angolo Via Delle Saline",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88157,
+        "lon": 10.77363
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 78784",
+        "0572 78786"
+    ],
+    "rating": ""
+}

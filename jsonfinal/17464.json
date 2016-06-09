@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL PIEVANO",
+    "description": "In un viaggio enogastronomico che vale da solo un soggiorno nel Chianti per gustare le nostre specialità.",
+    "address": "13, Loc. Pieve Di Spaltenna - 53013 Gaiole In Chianti (SI)",
+    "streetAddress": "13, Loc. Pieve Di Spaltenna",
+    "postalCode": "53013",
+    "addressLocality": "Gaiole In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46629,
+        "lon": 11.43017
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 749499"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE VILLA AURORA",
+    "description": "Presso il Ristorante Villa Aurora di Fiesole (FI), potrete gustare la cucina tipica toscana, con un occhio di riguardo per le carni grigliate ed i primi piatti.",
+    "address": "39, P. Mino Da Fiesole - 50014 Fiesole (FI)",
+    "streetAddress": "39, P. Mino Da Fiesole",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80697,
+        "lon": 11.29221
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 597235"
+    ],
+    "rating": ""
+}

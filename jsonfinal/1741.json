@@ -1,0 +1,20 @@
+{
+    "name": "PORANC",
+    "description": "",
+    "address": "Via Poranceto 141 - 40032 Barceda (BO)",
+    "streetAddress": "Via Poranceto 141",
+    "postalCode": "40032",
+    "addressLocality": "Barceda",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.13715,
+        "lon": 11.08756
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "335 5344413"
+    ],
+    "rating": ""
+}

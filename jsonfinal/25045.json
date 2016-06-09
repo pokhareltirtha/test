@@ -1,0 +1,20 @@
+{
+    "name": "AL PACHINO",
+    "description": "",
+    "address": "Via Provinciale Palaiese - 56036 Palaia (PI)",
+    "streetAddress": "Via Provinciale Palaiese",
+    "postalCode": "56036",
+    "addressLocality": "Palaia",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.60565,
+        "lon": 10.76507
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 628040"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "DA GIGI PIZZA A TAGLIO DI PIERACCINI LUIGI",
+    "description": "",
+    "address": "6/R, Piazza Vieusseux Giampietro - 50134 Firenze (FI)",
+    "streetAddress": "6/R, Piazza Vieusseux Giampietro",
+    "postalCode": "50134",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78968,
+        "lon": 11.24841
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 472746"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL PIATTOFORTE",
+    "description": "",
+    "address": "20, Via San Giuseppe - 53031 Casole D'Elsa (SI)",
+    "streetAddress": "20, Via San Giuseppe",
+    "postalCode": "53031",
+    "addressLocality": "Casole D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.33651,
+        "lon": 11.03963
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 963179"
+    ],
+    "rating": ""
+}

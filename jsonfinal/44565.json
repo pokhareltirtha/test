@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE COREANO GANGNAM",
+    "description": "",
+    "address": "94/R, V. Guelfa - 50129 Firenze (FI)",
+    "streetAddress": "94/R, V. Guelfa",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77876,
+        "lon": 11.25187
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "055 3842434"
+    ],
+    "rating": ""
+}

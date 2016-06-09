@@ -1,0 +1,21 @@
+{
+    "name": "VILLA SASSOLINI",
+    "description": "",
+    "address": "83, Via Moncioni - 52025 Montevarchi (AR)",
+    "streetAddress": "83, Via Moncioni",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.4864,
+        "lon": 11.5097
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9702245",
+        "055 9702907"
+    ],
+    "rating": ""
+}

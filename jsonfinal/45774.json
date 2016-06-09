@@ -1,0 +1,21 @@
+{
+    "name": "ALBERGO IL PARCO",
+    "description": "L'Albergo Il Parco è situato in una zona tranquilla della città di Montecatini Terme nelle vicinanze della stazione ferroviaria.",
+    "address": "8, V. Galvani - 51016 Montecatini Terme (PT)",
+    "streetAddress": "8, V. Galvani",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88398,
+        "lon": 10.78105
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 766900",
+        "0572 766081"
+    ],
+    "rating": ""
+}

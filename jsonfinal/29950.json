@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA LA VECCHIA FORNACE",
+    "description": "",
+    "address": "40, Via Di Bucine-Levane - 52021 Bucine (AR)",
+    "streetAddress": "40, Via Di Bucine-Levane",
+    "postalCode": "52021",
+    "addressLocality": "Bucine",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.49768,
+        "lon": 11.61838
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9789000"
+    ],
+    "rating": ""
+}

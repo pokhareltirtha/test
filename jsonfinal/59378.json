@@ -1,0 +1,20 @@
+{
+    "name": "B.B.R.",
+    "description": "Il Bar Milleluci si trova a Serravalle Pistoiese, in provincia di Pistoia e da molti anni è un punto di riferimento per una clientela affezionata e soddisfatta.",
+    "address": "1, V. Cervi - 51034 Serravalle Pistoiese (PT)",
+    "streetAddress": "1, V. Cervi",
+    "postalCode": "51034",
+    "addressLocality": "Serravalle Pistoiese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86991,
+        "lon": 10.91992
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 527157"
+    ],
+    "rating": ""
+}

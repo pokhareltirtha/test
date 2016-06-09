@@ -1,0 +1,20 @@
+{
+    "name": "HARER ERIKA M.",
+    "description": "",
+    "address": "67, Via S. Michele - 56048 Volterra (PI)",
+    "streetAddress": "67, Via S. Michele",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40249,
+        "lon": 10.86126
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 42000"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE FUJIYAMA",
+    "description": "",
+    "address": "199/R, Via Senese - 50124 Firenze (FI)",
+    "streetAddress": "199/R, Via Senese",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74885,
+        "lon": 11.23403
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2322618"
+    ],
+    "rating": ""
+}

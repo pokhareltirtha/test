@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE STRYX",
+    "description": "",
+    "address": "11, Piazza Guglielmo Marconi - 48013 Brisighella (RA)",
+    "streetAddress": "11, Piazza Guglielmo Marconi",
+    "postalCode": "48013",
+    "addressLocality": "Brisighella",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.2237,
+        "lon": 11.77318
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 7514815"
+    ],
+    "rating": ""
+}

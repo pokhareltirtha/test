@@ -1,0 +1,21 @@
+{
+    "name": "LA TRATTORIA",
+    "description": "",
+    "address": "Via Del Pozzetto 14 - 51017 Pescia (PT)",
+    "streetAddress": "Via Del Pozzetto 14",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90426,
+        "lon": 10.68773
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "347 8821087",
+        "0572 1906522"
+    ],
+    "rating": ""
+}

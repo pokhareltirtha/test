@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE L'ANTICA GRIGLIA",
+    "description": "",
+    "address": "5, Localita La Strolla - 53036 Poggibonsi (SI)",
+    "streetAddress": "5, Localita La Strolla",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.45038,
+        "lon": 11.19689
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 939203"
+    ],
+    "rating": ""
+}

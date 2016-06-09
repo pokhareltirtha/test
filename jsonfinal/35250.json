@@ -1,0 +1,20 @@
+{
+    "name": "BOBOLI",
+    "description": "",
+    "address": "45, Via Romana - 50125 Firenze (FI)",
+    "streetAddress": "45, Via Romana",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76353,
+        "lon": 11.24503
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2336401"
+    ],
+    "rating": ""
+}

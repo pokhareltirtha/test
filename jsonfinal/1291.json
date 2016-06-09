@@ -1,0 +1,20 @@
+{
+    "name": "PUNJABI",
+    "description": "",
+    "address": "111, Via Bronzino - 50142 Firenze (FI)",
+    "streetAddress": "111, Via Bronzino",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77311,
+        "lon": 11.22732
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9334359"
+    ],
+    "rating": "5.0"
+}

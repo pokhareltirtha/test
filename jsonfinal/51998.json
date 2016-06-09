@@ -1,0 +1,20 @@
+{
+    "name": "PINK ELEFANT",
+    "description": "",
+    "address": "108, Via Tosco Romagnola - 56012 Fornacette (PI)",
+    "streetAddress": "108, Via Tosco Romagnola",
+    "postalCode": "56012",
+    "addressLocality": "Fornacette",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66957,
+        "lon": 10.58938
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 422786"
+    ],
+    "rating": ""
+}

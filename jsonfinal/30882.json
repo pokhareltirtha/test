@@ -1,0 +1,20 @@
+{
+    "name": "LA CANTINETTA DI BUTINI MARCO",
+    "description": "",
+    "address": "22, Via La Cervia - 52022 Cavriglia (AR)",
+    "streetAddress": "22, Via La Cervia",
+    "postalCode": "52022",
+    "addressLocality": "Cavriglia",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.5205,
+        "lon": 11.48722
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9166680"
+    ],
+    "rating": ""
+}

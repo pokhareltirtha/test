@@ -1,0 +1,21 @@
+{
+    "name": "COSTAGLI ANGELO",
+    "description": "",
+    "address": "24, Borgo S.Bartolomeo - 56036 Palaia (PI)",
+    "streetAddress": "24, Borgo S.Bartolomeo",
+    "postalCode": "56036",
+    "addressLocality": "Palaia",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.61937,
+        "lon": 10.7588
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 622686",
+        "0587 622474"
+    ],
+    "rating": ""
+}

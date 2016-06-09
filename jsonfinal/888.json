@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA ROSTICCERIA GASTRONOMIA L'ANTILOPE snc",
+    "description": "Gastronomia ristorante pizzeria l'antilope dal 1958 tradizione ed innovazione, piatti genuini preparati con ingredienti freschi di giornata.",
+    "address": "248, V. Pistoiese - 59100 Prato (PO)",
+    "streetAddress": "248, V. Pistoiese",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88811,
+        "lon": 11.08074
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 21033"
+    ],
+    "rating": ""
+}

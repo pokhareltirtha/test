@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA I' CANTUCCIO",
+    "description": "Ottima Pizzeria a conduzione famigliare di Ronta, da 10 anni delizia i palati dei propri clienti.",
+    "address": "3, V. Gatti - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "3, V. Gatti",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.00379,
+        "lon": 11.42892
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8495710"
+    ],
+    "rating": "5.0"
+}

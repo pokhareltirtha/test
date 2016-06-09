@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA TRATTORIA LAGO DI ROMENA",
+    "description": "",
+    "address": "Via Pontanico - 50135 Firenze (FI)",
+    "streetAddress": "Via Pontanico",
+    "postalCode": "50135",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79068,
+        "lon": 11.33318
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "331 2593557"
+    ],
+    "rating": ""
+}

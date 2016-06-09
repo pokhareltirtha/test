@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA MASSIMO",
+    "description": "",
+    "address": "24, Via Francoforte Sull Oder - 50018 Scandicci (FI)",
+    "streetAddress": "24, Via Francoforte Sull Oder",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75766,
+        "lon": 11.18237
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 255430"
+    ],
+    "rating": ""
+}

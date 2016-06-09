@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA BONAIUTI",
+    "description": "",
+    "address": "1, Piazza Aldo Moro - 50065 Sieci (FI)",
+    "streetAddress": "1, Piazza Aldo Moro",
+    "postalCode": "50065",
+    "addressLocality": "Sieci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78701,
+        "lon": 11.39845
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8309657"
+    ],
+    "rating": ""
+}

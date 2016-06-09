@@ -1,0 +1,21 @@
+{
+    "name": "CAFE' RISTORANTE BON TON",
+    "description": "",
+    "address": "Via Degli Arcipressi 43 - 50143 Firenze (FI)",
+    "streetAddress": "Via Degli Arcipressi 43",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76719,
+        "lon": 11.20987
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "392 9778142",
+        "055 7390178"
+    ],
+    "rating": ""
+}

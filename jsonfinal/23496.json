@@ -1,0 +1,20 @@
+{
+    "name": "BOCCASCENA",
+    "description": "",
+    "address": "49, Viale Europa - 50126 Firenze (FI)",
+    "streetAddress": "49, Viale Europa",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75702,
+        "lon": 11.29821
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 685996"
+    ],
+    "rating": ""
+}

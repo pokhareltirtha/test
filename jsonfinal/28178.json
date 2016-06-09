@@ -1,0 +1,21 @@
+{
+    "name": "I CENTO TIGLI",
+    "description": "",
+    "address": "7, Via Tredoziese - 47015 Modigliana (FC)",
+    "streetAddress": "7, Via Tredoziese",
+    "postalCode": "47015",
+    "addressLocality": "Modigliana",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.14488,
+        "lon": 11.78208
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 4263566",
+        "0546 942100"
+    ],
+    "rating": ""
+}

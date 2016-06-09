@@ -1,0 +1,21 @@
+{
+    "name": "FORNACE DI MELETO",
+    "description": "",
+    "address": ", Localita Castello Di Meleto - 53013 Gaiole In Chianti (SI)",
+    "streetAddress": ", Localita Castello Di Meleto",
+    "postalCode": "53013",
+    "addressLocality": "Gaiole In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.44979,
+        "lon": 11.42284
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 1893486",
+        "0577 738461"
+    ],
+    "rating": ""
+}

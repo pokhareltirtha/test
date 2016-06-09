@@ -1,0 +1,21 @@
+{
+    "name": "AORISTO'",
+    "description": "",
+    "address": "11, Via Dei Buti - 51100 Pistoia (PT)",
+    "streetAddress": "11, Via Dei Buti",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9322,
+        "lon": 10.91491
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 26506",
+        "0573 307620"
+    ],
+    "rating": "5.0"
+}

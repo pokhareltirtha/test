@@ -1,0 +1,20 @@
+{
+    "name": "AC HOTEL FIRENZE",
+    "description": "",
+    "address": "Via Luciano Bausi 5 - 50144 Firenze (FI)",
+    "streetAddress": "Via Luciano Bausi 5",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78001,
+        "lon": 11.23672
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3120111"
+    ],
+    "rating": ""
+}

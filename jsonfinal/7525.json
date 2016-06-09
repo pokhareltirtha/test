@@ -1,0 +1,20 @@
+{
+    "name": "BROWN SUGAR",
+    "description": "",
+    "address": "5, Piazza Di San Firenze - 50122 Firenze (FI)",
+    "streetAddress": "5, Piazza Di San Firenze",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76975,
+        "lon": 11.25766
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 217031"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "ENOTECA DAL MIZIO",
+    "description": "",
+    "address": "9, Via Dei Macelli - 51100 Pistoia (PT)",
+    "streetAddress": "9, Via Dei Macelli",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93865,
+        "lon": 10.91564
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 23229"
+    ],
+    "rating": ""
+}

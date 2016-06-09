@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA DA ANDREA",
+    "description": "La pizzeria dove gustare vari tipi di pizze, al taglio, al tavolo e da asporto cotte nel forno a legna e assaporare il castagnaccio a Capannori.",
+    "address": "264, V. Bocchi - 55018 Segromigno In Piano (LU)",
+    "streetAddress": "264, V. Bocchi",
+    "postalCode": "55018",
+    "addressLocality": "Segromigno In Piano",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.87085,
+        "lon": 10.59123
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "339 7381101",
+        "0583 920078"
+    ],
+    "rating": ""
+}

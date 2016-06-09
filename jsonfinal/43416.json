@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA DA TITO",
+    "description": "Il Ristorante Pizzeria Da Tito, a Firenze, è specializzato in antipasti di mare e terra, pizze e menù senza glutine.",
+    "address": "149/R, V. Baracca - 50127 Firenze (FI)",
+    "streetAddress": "149/R, V. Baracca",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79278,
+        "lon": 11.21423
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 416726"
+    ],
+    "rating": ""
+}

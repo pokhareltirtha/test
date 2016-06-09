@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA IL VECCHIO OLIVO",
+    "description": "Un ristorante immerso nelle colline di Montecarlo trovi la migliore cucina lucchese",
+    "address": "1, V. S. Piero - 55015 Montecarlo (LU)",
+    "streetAddress": "1, V. S. Piero",
+    "postalCode": "55015",
+    "addressLocality": "Montecarlo",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.85249,
+        "lon": 10.67077
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 228847"
+    ],
+    "rating": ""
+}

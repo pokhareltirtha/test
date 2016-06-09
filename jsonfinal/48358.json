@@ -1,0 +1,20 @@
+{
+    "name": "BIGOTTO ANTONIO",
+    "description": "",
+    "address": "528, Via Antonelli Padre Giovanni - 51100 Pistoia (PT)",
+    "streetAddress": "528, Via Antonelli Padre Giovanni",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.95316,
+        "lon": 10.94114
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 451055"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,22 @@
+{
+    "name": "AMADEUS",
+    "description": "",
+    "address": "13, Via Udine - 59013 Montemurlo (PO)",
+    "streetAddress": "13, Via Udine",
+    "postalCode": "59013",
+    "addressLocality": "Montemurlo",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.92882,
+        "lon": 11.03188
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 798528",
+        "0574 1820560"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,22 @@
+{
+    "name": "LA VECCHIA FORNACE - RISTORANTE PIZZERIA",
+    "description": "La Vecchia Fornace a Santa Croce sull'Arno offre specialità toscane con piatti a base di carne e di pesce.",
+    "address": "1, P. Tazio Nuvolari - 56029 Santa Croce Sull'Arno (PI)",
+    "streetAddress": "1, P. Tazio Nuvolari",
+    "postalCode": "56029",
+    "addressLocality": "Santa Croce Sull'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.71027,
+        "lon": 10.78473
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 33099",
+        "366 3027540"
+    ],
+    "rating": ""
+}

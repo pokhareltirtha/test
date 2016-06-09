@@ -1,0 +1,20 @@
+{
+    "name": "DA QUE' GRULLI",
+    "description": "",
+    "address": "162, Via Confini - 50013 Capalle (FI)",
+    "streetAddress": "162, Via Confini",
+    "postalCode": "50013",
+    "addressLocality": "Capalle",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83898,
+        "lon": 11.12953
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "393 7461913"
+    ],
+    "rating": ""
+}

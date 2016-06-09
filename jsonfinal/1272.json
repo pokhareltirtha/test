@@ -1,0 +1,22 @@
+{
+    "name": "PIZZERIA  BAR SOPHIA",
+    "description": "Il posto ideale dove gustare la vera pizza cotta a forno a legna: Pizzeria Bar Sophia a Borgo San Lorenzo (FI).",
+    "address": "13, V. Casuccia - 50032 Polcanto (FI)",
+    "streetAddress": "13, V. Casuccia",
+    "postalCode": "50032",
+    "addressLocality": "Polcanto",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.89509,
+        "lon": 11.35639
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8409123",
+        "366 2262250"
+    ],
+    "rating": ""
+}

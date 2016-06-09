@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA IL POSTO DELLE FRAGOLE",
+    "description": "La cucina semplice e saporita nasce dalla passione per il buon cibo e dalle ricette tradizionali.",
+    "address": "73, V. Martiri Della Liberta' - 56032 Buti (PI)",
+    "streetAddress": "73, V. Martiri Della Liberta'",
+    "postalCode": "56032",
+    "addressLocality": "Buti",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.72815,
+        "lon": 10.61018
+    },
+    "categories": [
+        "Ristoranti - trattorie ed osterie"
+    ],
+    "telephone": [
+        "0587 724014"
+    ],
+    "rating": ""
+}

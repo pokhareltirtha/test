@@ -1,0 +1,21 @@
+{
+    "name": "PIZZA E ALTRI RIMEDI",
+    "description": "",
+    "address": "248, Via Provinciale Lucchese - 51010 Santa Lucia (PT)",
+    "streetAddress": "248, Via Provinciale Lucchese",
+    "postalCode": "51010",
+    "addressLocality": "Santa Lucia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88187,
+        "lon": 10.70697
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 444085"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "MA.MA SAS",
+    "description": "",
+    "address": "23, Via Senese - 50124 Firenze (FI)",
+    "streetAddress": "23, Via Senese",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75822,
+        "lon": 11.24094
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 220527"
+    ],
+    "rating": ""
+}

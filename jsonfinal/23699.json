@@ -1,0 +1,21 @@
+{
+    "name": "DELICIOUS srl",
+    "description": "Il ristorante Osteria Il Porto offre molte specialità tipiche della cucina toscana.",
+    "address": "224/226, V. Roma - 52014 Poppi (AR)",
+    "streetAddress": "224/226, V. Roma",
+    "postalCode": "52014",
+    "addressLocality": "Poppi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.72633,
+        "lon": 11.77261
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 529233",
+        "339 8960781"
+    ],
+    "rating": ""
+}

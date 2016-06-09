@@ -1,0 +1,20 @@
+{
+    "name": "AMADUES",
+    "description": "",
+    "address": "10, Via Di Novoli - 50127 Firenze (FI)",
+    "streetAddress": "10, Via Di Novoli",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79117,
+        "lon": 11.22559
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 410831"
+    ],
+    "rating": ""
+}

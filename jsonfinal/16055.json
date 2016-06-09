@@ -1,0 +1,20 @@
+{
+    "name": "HOME RESTAURANT DI SERENI LUCA",
+    "description": "",
+    "address": "205, Via Provinciale Vicarese - 56010 Vicopisano (PI)",
+    "streetAddress": "205, Via Provinciale Vicarese",
+    "postalCode": "56010",
+    "addressLocality": "Vicopisano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68482,
+        "lon": 10.57804
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "392 0206632"
+    ],
+    "rating": ""
+}

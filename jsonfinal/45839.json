@@ -1,0 +1,20 @@
+{
+    "name": "TAVERNA DEL VIN VINO",
+    "description": "",
+    "address": "30, Piazza Mercato Bestiame - 51011 Borgo A Buggiano (PT)",
+    "streetAddress": "30, Piazza Mercato Bestiame",
+    "postalCode": "51011",
+    "addressLocality": "Borgo A Buggiano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88013,
+        "lon": 10.72914
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 33340"
+    ],
+    "rating": "5.0"
+}

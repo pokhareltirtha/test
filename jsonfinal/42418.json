@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE SANTA ELISABETTA",
+    "description": "",
+    "address": "Piazza Santa Elisabetta, 3 - 50122 Firenze (FI)",
+    "streetAddress": "Piazza Santa Elisabetta, 3",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77173,
+        "lon": 11.25595
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 27370",
+        "055 27730"
+    ],
+    "rating": "4.5"
+}

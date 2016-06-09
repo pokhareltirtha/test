@@ -1,0 +1,20 @@
+{
+    "name": "AZIENDA AGRICOLA VENATORIA ROVIGNALE",
+    "description": "Agriturismo a Firenzuola immerso in uno dei paesaggi più verdi e autentici della Toscana do ve trascorrere momenti di relax a contatto con la natura.",
+    "address": "490, V. Castro Rovignale - 50033 Castro San Martino (FI)",
+    "streetAddress": "490, V. Castro Rovignale",
+    "postalCode": "50033",
+    "addressLocality": "Castro San Martino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.09726,
+        "lon": 11.31442
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8149297"
+    ],
+    "rating": ""
+}

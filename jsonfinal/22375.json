@@ -1,0 +1,21 @@
+{
+    "name": "SOLDANO",
+    "description": "",
+    "address": "12, Via Della Sirena - 59100 Prato (PO)",
+    "streetAddress": "12, Via Della Sirena",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.8827,
+        "lon": 11.09691
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 830913",
+        "348 6700526"
+    ],
+    "rating": "4.7"
+}

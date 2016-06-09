@@ -1,0 +1,20 @@
+{
+    "name": "NUOVA PIZZA SRL",
+    "description": "",
+    "address": "5/R, Piazza Madonna Degli Aldobrandini - 50123 Firenze (FI)",
+    "streetAddress": "5/R, Piazza Madonna Degli Aldobrandini",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77487,
+        "lon": 11.25265
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 294716"
+    ],
+    "rating": ""
+}

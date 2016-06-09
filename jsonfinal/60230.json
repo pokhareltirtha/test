@@ -1,0 +1,20 @@
+{
+    "name": "XIANG WENHAI",
+    "description": "",
+    "address": "26/Rosso, Via Degli Alfani - 50121 Firenze (FI)",
+    "streetAddress": "26/Rosso, Via Degli Alfani",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77434,
+        "lon": 11.26259
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2639182"
+    ],
+    "rating": ""
+}

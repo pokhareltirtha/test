@@ -1,0 +1,21 @@
+{
+    "name": "LAGO RIOLETTA",
+    "description": "",
+    "address": "7, Via Rioletto - 40048 San Benedetto Val Di Sambro (BO)",
+    "streetAddress": "7, Via Rioletto",
+    "postalCode": "40048",
+    "addressLocality": "San Benedetto Val Di Sambro",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.17247,
+        "lon": 11.26422
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "335 6105642",
+        "0534 99153"
+    ],
+    "rating": ""
+}

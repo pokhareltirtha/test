@@ -1,0 +1,21 @@
+{
+    "name": "LA NUOVA BISBOCCINA",
+    "description": "Il nostro ristorante effettua un preciso ed efficiente servizio di catering per eventi e cerimonie.",
+    "address": "38/B, V. Provinciale - 50037 San Piero A Sieve (FI)",
+    "streetAddress": "38/B, V. Provinciale",
+    "postalCode": "50037",
+    "addressLocality": "San Piero A Sieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.96139,
+        "lon": 11.32404
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8486950"
+    ],
+    "rating": ""
+}

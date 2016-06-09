@@ -1,0 +1,21 @@
+{
+    "name": "BAR RISTORANTE AIAZZI DI PIERAGALLI LUCIANO",
+    "description": "",
+    "address": "86, Via Bandiera Fratelli - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "86, Via Bandiera Fratelli",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.39855,
+        "lon": 11.13292
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 929653",
+        "0577 929677"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LA PORTA DEL CHIANTI",
+    "description": "",
+    "address": "Via Chiantigiana Per IL Ferrone, 11 - 50023 Impruneta (FI)",
+    "streetAddress": "Via Chiantigiana Per IL Ferrone, 11",
+    "postalCode": "50023",
+    "addressLocality": "Impruneta",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.67588,
+        "lon": 11.21502
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2373196"
+    ],
+    "rating": "5.0"
+}

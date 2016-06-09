@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA I RADDI",
+    "description": "",
+    "address": "47, Via D Ardiglione - 50124 Firenze (FI)",
+    "streetAddress": "47, Via D Ardiglione",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76668,
+        "lon": 11.24481
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 211072"
+    ],
+    "rating": ""
+}

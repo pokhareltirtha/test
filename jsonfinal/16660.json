@@ -1,0 +1,21 @@
+{
+    "name": "IL CIGLIERE DEL RUSTICO",
+    "description": "",
+    "address": "24, Via O Di Paolo - 50051 Castelfiorentino (FI)",
+    "streetAddress": "24, Via O Di Paolo",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.66084,
+        "lon": 10.94923
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 582144",
+        "0571 582154"
+    ],
+    "rating": ""
+}

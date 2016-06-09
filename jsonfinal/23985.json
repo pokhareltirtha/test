@@ -1,0 +1,21 @@
+{
+    "name": "ESSEEMME S.R.L.",
+    "description": "",
+    "address": "37/F, Via Maremmana - 50055 Lastra A Signa (FI)",
+    "streetAddress": "37/F, Via Maremmana",
+    "postalCode": "50055",
+    "addressLocality": "Lastra A Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71922,
+        "lon": 11.00855
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 878046",
+        "055 8785910"
+    ],
+    "rating": ""
+}

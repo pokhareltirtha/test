@@ -1,0 +1,21 @@
+{
+    "name": "TRIVELLA ANDREA",
+    "description": "",
+    "address": "232, Via Braga G. - 59021 Vaiano (PO)",
+    "streetAddress": "232, Via Braga G.",
+    "postalCode": "59021",
+    "addressLocality": "Vaiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.96902,
+        "lon": 11.12412
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 946362",
+        "0574 988788"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "O'VESUVIO PIZZERIA NAPOLETANA",
+    "description": "",
+    "address": "19, Via Dei Cimatori - 50122 Firenze (FI)",
+    "streetAddress": "19, Via Dei Cimatori",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77057,
+        "lon": 11.25589
+    },
+    "categories": [
+        "Gastronomie, salumerie e rosticcerie"
+    ],
+    "telephone": [
+        "055 285487"
+    ],
+    "rating": ""
+}

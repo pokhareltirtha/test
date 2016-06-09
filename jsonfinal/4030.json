@@ -1,0 +1,21 @@
+{
+    "name": "H12 SRL",
+    "description": "",
+    "address": "15/R, Via Ponte Alle Mosse - 50144 Firenze (FI)",
+    "streetAddress": "15/R, Via Ponte Alle Mosse",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77844,
+        "lon": 11.23936
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 367172",
+        "055 3246373"
+    ],
+    "rating": ""
+}

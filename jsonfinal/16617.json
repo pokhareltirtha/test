@@ -1,0 +1,20 @@
+{
+    "name": "LISA MARIANO",
+    "description": "",
+    "address": "50, Via Dante Alighieri - 56025 Pontedera (PI)",
+    "streetAddress": "50, Via Dante Alighieri",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66273,
+        "lon": 10.63017
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 213670"
+    ],
+    "rating": "4.3"
+}

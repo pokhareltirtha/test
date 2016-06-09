@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL 44 PARALLELO",
+    "description": "",
+    "address": "13, Via Vecchia Bolognese - 51100 Pistoia (PT)",
+    "streetAddress": "13, Via Vecchia Bolognese",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 44.02792,
+        "lon": 10.93128
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 474006",
+        "0573 474956"
+    ],
+    "rating": ""
+}

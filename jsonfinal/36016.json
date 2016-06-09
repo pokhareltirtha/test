@@ -1,0 +1,20 @@
+{
+    "name": "SUSHIKO",
+    "description": "",
+    "address": "1, Via Enrico Forlanini - 50127 Firenze (FI)",
+    "streetAddress": "1, Via Enrico Forlanini",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79024,
+        "lon": 11.22901
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 410359"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "SCHIACCINOMANIA SNC",
+    "description": "",
+    "address": "1, Via S. Caterina - 59100 Prato (PO)",
+    "streetAddress": "1, Via S. Caterina",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87968,
+        "lon": 11.09369
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 605154"
+    ],
+    "rating": ""
+}

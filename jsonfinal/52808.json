@@ -1,0 +1,21 @@
+{
+    "name": "BIKE & FOOD SAS",
+    "description": "",
+    "address": "73, Via Doni Francesco Anton - 50144 Firenze (FI)",
+    "streetAddress": "73, Via Doni Francesco Anton",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78769,
+        "lon": 11.23439
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 3246730",
+        "055 5392662"
+    ],
+    "rating": ""
+}

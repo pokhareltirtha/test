@@ -1,0 +1,20 @@
+{
+    "name": "FANTASIA",
+    "description": "La Trattoria della Rana di Poggibonsi (SI) è un locale moderno e curato nell'aspetto ma con l'intento di combinare la tipicità e la ricchezza del territorio.",
+    "address": "16, V. Prato - 53036 Poggibonsi (SI)",
+    "streetAddress": "16, V. Prato",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.41945,
+        "lon": 11.18464
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 931944"
+    ],
+    "rating": ""
+}

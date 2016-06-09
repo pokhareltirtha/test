@@ -1,0 +1,20 @@
+{
+    "name": "CAVOLO NERO BISTROT",
+    "description": "",
+    "address": "Via Guelfa, 100 - 50129 Firenze (FI)",
+    "streetAddress": "Via Guelfa, 100",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77848,
+        "lon": 11.25261
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 496433"
+    ],
+    "rating": ""
+}

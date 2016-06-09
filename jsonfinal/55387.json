@@ -1,0 +1,20 @@
+{
+    "name": "NON SOLO PIZZA",
+    "description": "",
+    "address": "154, Via Montanara - 40026 Imola (BO)",
+    "streetAddress": "154, Via Montanara",
+    "postalCode": "40026",
+    "addressLocality": "Imola",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.3226,
+        "lon": 11.65483
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0542 690520"
+    ],
+    "rating": ""
+}

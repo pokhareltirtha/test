@@ -1,0 +1,20 @@
+{
+    "name": "SAN MARCELLINO",
+    "description": "",
+    "address": "28, Via Chiantigiana - 50126 Firenze (FI)",
+    "streetAddress": "28, Via Chiantigiana",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75308,
+        "lon": 11.29707
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3921039"
+    ],
+    "rating": ""
+}

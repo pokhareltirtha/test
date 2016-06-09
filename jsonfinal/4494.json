@@ -1,0 +1,20 @@
+{
+    "name": "TAVERNA GARGANTUA'",
+    "description": "Il ristorante enoteca dove gustare piatti tipici a base di carne e pesce a Pistoia.",
+    "address": "13, P.Tta Ortaggio - 51100 Pistoia (PT)",
+    "streetAddress": "13, P.Tta Ortaggio",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93259,
+        "lon": 10.91683
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 23330"
+    ],
+    "rating": "4.5"
+}

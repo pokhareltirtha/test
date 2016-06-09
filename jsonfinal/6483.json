@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PETTIROSSO PENTAGONO",
+    "description": "",
+    "address": "2/R, Via Degli Arcipressi - 50143 Firenze (FI)",
+    "streetAddress": "2/R, Via Degli Arcipressi",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76653,
+        "lon": 11.21189
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 700201",
+        "055 7390308"
+    ],
+    "rating": ""
+}

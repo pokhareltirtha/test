@@ -1,0 +1,20 @@
+{
+    "name": "IL FIENILE",
+    "description": "",
+    "address": ", Via Martelli - 51037 Montale (PT)",
+    "streetAddress": ", Via Martelli",
+    "postalCode": "51037",
+    "addressLocality": "Montale",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9519,
+        "lon": 11.03499
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 590624"
+    ],
+    "rating": ""
+}

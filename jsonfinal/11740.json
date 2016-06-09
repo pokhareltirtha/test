@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LA ROSA BLU",
+    "description": "Gli esperti nella vendita del vino sfuso, a Quarrata (PT).",
+    "address": "84, V. Europa - 51039 Quarrata (PT)",
+    "streetAddress": "84, V. Europa",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.85463,
+        "lon": 10.97843
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 72087"
+    ],
+    "rating": "5.0"
+}

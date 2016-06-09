@@ -1,0 +1,20 @@
+{
+    "name": "LE CENTO BONTA' SRL",
+    "description": "",
+    "address": "100/R, Via Dei Serragli - 50124 Firenze (FI)",
+    "streetAddress": "100/R, Via Dei Serragli",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.766,
+        "lon": 11.24474
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2337483"
+    ],
+    "rating": ""
+}

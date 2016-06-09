@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE BAR DA IMMA",
+    "description": "",
+    "address": "41, Via Lago - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "41, Via Lago",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.98125,
+        "lon": 11.21528
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8420277",
+        "055 8422683"
+    ],
+    "rating": ""
+}

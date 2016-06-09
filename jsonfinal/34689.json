@@ -1,0 +1,20 @@
+{
+    "name": "DROGHERIA - BAR E GRILL",
+    "description": "",
+    "address": "22, Piazza Pietro Annigoni - 50122 Firenze (FI)",
+    "streetAddress": "22, Piazza Pietro Annigoni",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77037,
+        "lon": 11.26834
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2478869"
+    ],
+    "rating": ""
+}

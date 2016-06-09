@@ -1,0 +1,20 @@
+{
+    "name": "PARAVIA ALBERTO",
+    "description": "",
+    "address": "4/R, Piazza Sauro Nazario - 50124 Firenze (FI)",
+    "streetAddress": "4/R, Piazza Sauro Nazario",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76946,
+        "lon": 11.24676
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6587238"
+    ],
+    "rating": ""
+}

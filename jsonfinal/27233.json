@@ -1,0 +1,20 @@
+{
+    "name": "PAOLO E ANDREA S.R.L.",
+    "description": "",
+    "address": "9, Via S. Appiano - 50021 Barberino Val D'Elsa (FI)",
+    "streetAddress": "9, Via S. Appiano",
+    "postalCode": "50021",
+    "addressLocality": "Barberino Val D'Elsa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.51251,
+        "lon": 11.14628
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8068118"
+    ],
+    "rating": ""
+}

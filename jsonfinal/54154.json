@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LA CASA DEGLI ETRUSCHI BIANCHINI S.",
+    "description": "",
+    "address": "55, Via Antonio Gramsci - 50050 Limite Sull'Arno (FI)",
+    "streetAddress": "55, Via Antonio Gramsci",
+    "postalCode": "50050",
+    "addressLocality": "Limite Sull'Arno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74515,
+        "lon": 10.98546
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 57296"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DA ANTONIO",
+    "description": "",
+    "address": "Strada Statale 67bis-Uscita Sulla Fi-Pi-Li 67bis-Usci - 56021 Cascina (PI)",
+    "streetAddress": "Strada Statale 67bis-Uscita Sulla Fi-Pi-Li 67bis-Usci",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69473,
+        "lon": 10.70008
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 744418"
+    ],
+    "rating": ""
+}

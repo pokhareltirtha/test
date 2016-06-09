@@ -1,0 +1,20 @@
+{
+    "name": "HONG LI",
+    "description": "",
+    "address": "2, Via Primo Settembre - 50145 Firenze (FI)",
+    "streetAddress": "2, Via Primo Settembre",
+    "postalCode": "50145",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79715,
+        "lon": 11.19635
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 310209"
+    ],
+    "rating": ""
+}

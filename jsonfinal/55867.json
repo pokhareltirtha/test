@@ -1,0 +1,20 @@
+{
+    "name": "DE' GIUSTI",
+    "description": "",
+    "address": "2, Piazza Amendola - 50066 Ciliegi (FI)",
+    "streetAddress": "2, Piazza Amendola",
+    "postalCode": "50066",
+    "addressLocality": "Ciliegi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.66559,
+        "lon": 11.45749
+    },
+    "categories": [
+        "Ristoranti - trattorie ed osterie"
+    ],
+    "telephone": [
+        "055 8635754"
+    ],
+    "rating": "5.0"
+}

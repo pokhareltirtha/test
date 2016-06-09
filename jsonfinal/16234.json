@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DA ZIO",
+    "description": "",
+    "address": "10, Via Sismondi - 51017 Pescia (PT)",
+    "streetAddress": "10, Via Sismondi",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89942,
+        "lon": 10.68687
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 490547"
+    ],
+    "rating": ""
+}

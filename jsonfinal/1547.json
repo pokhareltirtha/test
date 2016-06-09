@@ -1,0 +1,21 @@
+{
+    "name": "DIVINA PIZZA",
+    "description": "",
+    "address": "50, Via Borgo Allegri - 50122 Firenze (FI)",
+    "streetAddress": "50, Via Borgo Allegri",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77043,
+        "lon": 11.26472
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2347498"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA OSTERIA IL MOLINO",
+    "description": "",
+    "address": "40, Via Volterrana Nord - 50025 Montespertoli (FI)",
+    "streetAddress": "40, Via Volterrana Nord",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.65664,
+        "lon": 11.08533
+    },
+    "categories": [
+        "Alberghi"
+    ],
+    "telephone": [
+        "0571 671054"
+    ],
+    "rating": ""
+}

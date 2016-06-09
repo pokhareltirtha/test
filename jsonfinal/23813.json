@@ -1,0 +1,20 @@
+{
+    "name": "BORGO",
+    "description": "",
+    "address": "3, Via Giuseppe Garibaldi - 40021 Borgo Tossignano (BO)",
+    "streetAddress": "3, Via Giuseppe Garibaldi",
+    "postalCode": "40021",
+    "addressLocality": "Borgo Tossignano",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.2779,
+        "lon": 11.58853
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0542 91114"
+    ],
+    "rating": ""
+}

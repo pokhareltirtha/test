@@ -1,0 +1,20 @@
+{
+    "name": "IL PIPISTRELLO",
+    "description": "",
+    "address": "160, Via Senese - 50124 Firenze (FI)",
+    "streetAddress": "160, Via Senese",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74968,
+        "lon": 11.23561
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2048549"
+    ],
+    "rating": ""
+}

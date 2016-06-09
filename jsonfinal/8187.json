@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA IL PIANETA",
+    "description": "",
+    "address": "18, Via Virgilio Rovai - 50056 Montelupo Fiorentino (FI)",
+    "streetAddress": "18, Via Virgilio Rovai",
+    "postalCode": "50056",
+    "addressLocality": "Montelupo Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73208,
+        "lon": 11.02079
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "331 7477955",
+        "0571 541511"
+    ],
+    "rating": "3.0"
+}

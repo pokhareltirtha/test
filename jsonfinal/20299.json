@@ -1,0 +1,21 @@
+{
+    "name": "L'ANTICA FONTE",
+    "description": "",
+    "address": "25, Via Valdracca - 50052 Certaldo (FI)",
+    "streetAddress": "25, Via Valdracca",
+    "postalCode": "50052",
+    "addressLocality": "Certaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54877,
+        "lon": 11.04507
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "334 8648259",
+        "0571 652225"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "VALDARNO",
+    "description": "",
+    "address": "740, Via Poggilupi - 52028 Salicino (AR)",
+    "streetAddress": "740, Via Poggilupi",
+    "postalCode": "52028",
+    "addressLocality": "Salicino",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.54933,
+        "lon": 11.56273
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9737439"
+    ],
+    "rating": ""
+}

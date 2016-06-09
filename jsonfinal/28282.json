@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE MOLINO NUOVO",
+    "description": "",
+    "address": "9675, Via Viara - 40024 Castel San Pietro Terme (BO)",
+    "streetAddress": "9675, Via Viara",
+    "postalCode": "40024",
+    "addressLocality": "Castel San Pietro Terme",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.33152,
+        "lon": 11.53025
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "051 6942151",
+        "339 7676094"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA NAPPINO DI LOMBARDI MARCO",
+    "description": "",
+    "address": "1, Via Petrarca Francesco - 50060 Pelago (FI)",
+    "streetAddress": "1, Via Petrarca Francesco",
+    "postalCode": "50060",
+    "addressLocality": "Pelago",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78205,
+        "lon": 11.44904
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 3921540"
+    ],
+    "rating": ""
+}

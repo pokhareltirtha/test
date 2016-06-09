@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE SOTTO LE VOLTE",
+    "description": "Il ristorante dove trovare un menù ricercato che sposa la tradizione chiantigiana a Castellina in Chianti (SI).",
+    "address": "14/16, V. Delle Volte - 53011 Castellina In Chianti (SI)",
+    "streetAddress": "14/16, V. Delle Volte",
+    "postalCode": "53011",
+    "addressLocality": "Castellina In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46859,
+        "lon": 11.28823
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 741299"
+    ],
+    "rating": ""
+}

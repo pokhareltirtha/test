@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE UFFIZI",
+    "description": "Ristorante nel cuore di Firenze dove gustare i tradizionali piatti della cucina toscana accompagnati da ottimi vini.",
+    "address": "Snc, V. Castellani - 50122 Firenze (FI)",
+    "streetAddress": "Snc, V. Castellani",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76806,
+        "lon": 11.25628
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 219520"
+    ],
+    "rating": ""
+}

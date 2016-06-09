@@ -1,0 +1,20 @@
+{
+    "name": "ANTICO RISTORO LE COLOMBAIE",
+    "description": "",
+    "address": ", Via Giuseppe Montanelli - 56028 San Miniato (PI)",
+    "streetAddress": ", Via Giuseppe Montanelli",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69259,
+        "lon": 10.81373
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 484220"
+    ],
+    "rating": ""
+}

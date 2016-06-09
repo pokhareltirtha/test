@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ORIENTALE YANG",
+    "description": "",
+    "address": "Via San Quirico, 165 - Centro Commerciale I Gigli - 50013 Capalle (FI)",
+    "streetAddress": "Via San Quirico, 165 - Centro Commerciale I Gigli",
+    "postalCode": "50013",
+    "addressLocality": "Capalle",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84554,
+        "lon": 11.14372
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8969855"
+    ],
+    "rating": ""
+}

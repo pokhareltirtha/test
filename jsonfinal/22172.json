@@ -1,0 +1,20 @@
+{
+    "name": "LA MENAGERE",
+    "description": "",
+    "address": "4, Via Dei Ginori - 50123 Firenze (FI)",
+    "streetAddress": "4, Via Dei Ginori",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77516,
+        "lon": 11.25517
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 0750600"
+    ],
+    "rating": ""
+}

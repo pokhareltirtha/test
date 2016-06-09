@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DA MAGDA",
+    "description": "",
+    "address": "656, Via Tosco Romagnola - 56021 Cascina (PI)",
+    "streetAddress": "656, Via Tosco Romagnola",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67809,
+        "lon": 10.53519
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "327 7491770"
+    ],
+    "rating": ""
+}

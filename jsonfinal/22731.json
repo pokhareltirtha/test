@@ -1,0 +1,21 @@
+{
+    "name": "VILLA RESORT",
+    "description": "",
+    "address": "298  Vl. Repubblica - Prato (PO)",
+    "streetAddress": "298, Vl. Repubblica",
+    "postalCode": "",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86116,
+        "lon": 11.10805
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 954111",
+        "0572 521484"
+    ],
+    "rating": ""
+}

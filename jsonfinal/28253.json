@@ -1,0 +1,20 @@
+{
+    "name": "LA GROTTA",
+    "description": "",
+    "address": "Via Metelli 1 - 48013 Brisighella (RA)",
+    "streetAddress": "Via Metelli 1",
+    "postalCode": "48013",
+    "addressLocality": "Brisighella",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.22371,
+        "lon": 11.77464
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 87050"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL VECCHIO CIGNO",
+    "description": "",
+    "address": "23, Via Di Varlungo - 50136 Firenze (FI)",
+    "streetAddress": "23, Via Di Varlungo",
+    "postalCode": "50136",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76472,
+        "lon": 11.30133
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6593900"
+    ],
+    "rating": ""
+}

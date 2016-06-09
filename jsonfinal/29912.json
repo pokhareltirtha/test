@@ -1,0 +1,21 @@
+{
+    "name": "LA BUCA DI IPO",
+    "description": "",
+    "address": ", Via Giovanni Pascoli - 52025 Montevarchi (AR)",
+    "streetAddress": ", Via Giovanni Pascoli",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.52595,
+        "lon": 11.56734
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "340 9558668",
+        "055 982233"
+    ],
+    "rating": ""
+}

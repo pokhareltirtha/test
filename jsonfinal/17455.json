@@ -1,0 +1,21 @@
+{
+    "name": "DA GIORGIO...E NON SOLO",
+    "description": "",
+    "address": "1, Via Isonzo - 52025 Montevarchi (AR)",
+    "streetAddress": "1, Via Isonzo",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.52008,
+        "lon": 11.56815
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 901099"
+    ],
+    "rating": ""
+}

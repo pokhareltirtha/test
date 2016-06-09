@@ -1,0 +1,21 @@
+{
+    "name": "BUBE S.R.L.",
+    "description": "",
+    "address": "4, Viale Europa - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "4, Viale Europa",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.54785,
+        "lon": 11.57858
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "338 9891761",
+        "055 9737013"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "I TEMPLARI S.R.L.",
+    "description": "",
+    "address": "13, Via Delle Romite - 53037 San Gimignano (SI)",
+    "streetAddress": "13, Via Delle Romite",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46969,
+        "lon": 11.04274
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "331 7952022"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE SANTA CATERINA S.N.C. DI CHERICI TIMOTEO E C.",
+    "description": "",
+    "address": "113, Localita' Giubbiani - 50066 Reggello (FI)",
+    "streetAddress": "113, Localita' Giubbiani",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.6874,
+        "lon": 11.51628
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 869288"
+    ],
+    "rating": ""
+}

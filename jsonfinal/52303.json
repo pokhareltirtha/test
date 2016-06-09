@@ -1,0 +1,21 @@
+{
+    "name": "BAR PIZZERIA LA PIAZZETTA DI BRIGA LAURA E IRRERA ORAZIO S.N.C.",
+    "description": "",
+    "address": "1, Via Ricavo - 56020 Montopoli In Val D'Arno (PI)",
+    "streetAddress": "1, Via Ricavo",
+    "postalCode": "56020",
+    "addressLocality": "Montopoli In Val D'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66702,
+        "lon": 10.70629
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 447020",
+        "392 9050628"
+    ],
+    "rating": ""
+}

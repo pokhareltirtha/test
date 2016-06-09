@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA CANTINA",
+    "description": "",
+    "address": "32, Via Comunale Colognora - 55012 Colognora (LU)",
+    "streetAddress": "32, Via Comunale Colognora",
+    "postalCode": "55012",
+    "addressLocality": "Colognora",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81869,
+        "lon": 10.57195
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 980130"
+    ],
+    "rating": ""
+}

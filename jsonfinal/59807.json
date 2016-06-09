@@ -1,0 +1,20 @@
+{
+    "name": "IL POMODORINO",
+    "description": "",
+    "address": "144, Viale Montalbano - 51039 Quarrata (PT)",
+    "streetAddress": "144, Viale Montalbano",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86113,
+        "lon": 10.98668
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 738792"
+    ],
+    "rating": ""
+}

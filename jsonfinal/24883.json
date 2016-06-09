@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL TIBURON S.R.L. UNIPERSONALE",
+    "description": "",
+    "address": "302, Via Scarpettini Raffaello - 59013 Montemurlo (PO)",
+    "streetAddress": "302, Via Scarpettini Raffaello",
+    "postalCode": "59013",
+    "addressLocality": "Montemurlo",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.91338,
+        "lon": 11.02817
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 798376"
+    ],
+    "rating": ""
+}

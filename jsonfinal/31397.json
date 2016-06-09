@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA VA' PENSIERO",
+    "description": "",
+    "address": "2, Via Nannini - 52024 Loro Ciuffenna (AR)",
+    "streetAddress": "2, Via Nannini",
+    "postalCode": "52024",
+    "addressLocality": "Loro Ciuffenna",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.5922,
+        "lon": 11.63216
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9172211"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "FAST FOOD L'ANGOLO DI FIORETTI A.",
+    "description": "",
+    "address": "31, Via Cellini Benvenuto - 51100 Pistoia (PT)",
+    "streetAddress": "31, Via Cellini Benvenuto",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93211,
+        "lon": 10.92709
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 533054"
+    ],
+    "rating": "4.0"
+}

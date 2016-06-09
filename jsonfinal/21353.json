@@ -1,0 +1,20 @@
+{
+    "name": "LA PROSCIUTTERIA",
+    "description": "",
+    "address": "54, Via Dei Neri - 50122 Firenze (FI)",
+    "streetAddress": "54, Via Dei Neri",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76809,
+        "lon": 11.25837
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2654472"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA PRONTO PIZZA DI MANGANI SONIA",
+    "description": "",
+    "address": "7, Via Marcucci Giampiero - 52011 Bibbiena (AR)",
+    "streetAddress": "7, Via Marcucci Giampiero",
+    "postalCode": "52011",
+    "addressLocality": "Bibbiena",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.69665,
+        "lon": 11.81631
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0575 594096"
+    ],
+    "rating": ""
+}

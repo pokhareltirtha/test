@@ -1,0 +1,21 @@
+{
+    "name": "CELESTINO",
+    "description": "",
+    "address": "4, Piazza Di Santa Felicita - 50125 Firenze (FI)",
+    "streetAddress": "4, Piazza Di Santa Felicita",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76715,
+        "lon": 11.25233
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 292185",
+        "055 2396574"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LA CUCINA DEL GARGA",
+    "description": "",
+    "address": "33, Via San Zanobi - 50129 Firenze (FI)",
+    "streetAddress": "33, Via San Zanobi",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77899,
+        "lon": 11.25526
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 475286"
+    ],
+    "rating": ""
+}

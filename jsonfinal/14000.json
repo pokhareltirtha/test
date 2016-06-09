@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE BAR POSTA NOVA",
+    "description": "",
+    "address": "113, Via Di Le Prata - 50041 Calenzano (FI)",
+    "streetAddress": "113, Via Di Le Prata",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84702,
+        "lon": 11.15311
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8873132"
+    ],
+    "rating": "5.0"
+}

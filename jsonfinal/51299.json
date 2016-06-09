@@ -1,0 +1,20 @@
+{
+    "name": "BAR, RISTORANTE PIZZERIA BARONE ROSSO SPECIALITA CARNE E PESCE",
+    "description": "",
+    "address": "Via Della Lora 7 - Barberino Di Mugello (FI)",
+    "streetAddress": "Via Della Lora 7",
+    "postalCode": "",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.99236,
+        "lon": 11.23513
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9752504"
+    ],
+    "rating": ""
+}

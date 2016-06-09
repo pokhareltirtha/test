@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL PETTIROSSO",
+    "description": "Il Ristorante Il Pettirosso propone specialità tipiche deliziose preparate con ingredienti freschi e genuini a Palaia.",
+    "address": "15, V. S. Martino - 56036 Palaia (PI)",
+    "streetAddress": "15, V. S. Martino",
+    "postalCode": "56036",
+    "addressLocality": "Palaia",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.60795,
+        "lon": 10.77674
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 622111"
+    ],
+    "rating": ""
+}

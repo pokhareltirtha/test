@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA AL PONTE",
+    "description": "",
+    "address": "25, Via Antonio Casabianca - 53013 Gaiole In Chianti (SI)",
+    "streetAddress": "25, Via Antonio Casabianca",
+    "postalCode": "53013",
+    "addressLocality": "Gaiole In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46555,
+        "lon": 11.43404
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 744007",
+        "328 4021957"
+    ],
+    "rating": ""
+}

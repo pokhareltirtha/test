@@ -1,0 +1,21 @@
+{
+    "name": "PIZZA AL TAGLIO",
+    "description": "",
+    "address": "141, Via Borgioli Augusto - 59100 Prato (PO)",
+    "streetAddress": "141, Via Borgioli Augusto",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.8891,
+        "lon": 11.07167
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "334 176359",
+        "0574 605150"
+    ],
+    "rating": ""
+}

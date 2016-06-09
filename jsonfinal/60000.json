@@ -1,0 +1,20 @@
+{
+    "name": "BAR PIZZERIA 2000",
+    "description": "",
+    "address": "155, Via Dell Arco - 50036 Fontebuona (FI)",
+    "streetAddress": "155, Via Dell Arco",
+    "postalCode": "50036",
+    "addressLocality": "Fontebuona",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.87594,
+        "lon": 11.2915
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 409886"
+    ],
+    "rating": ""
+}

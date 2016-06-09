@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA DA CENCIO",
+    "description": "",
+    "address": "94, Corso Giacomo Matteotti - 56021 Cascina (PI)",
+    "streetAddress": "94, Corso Giacomo Matteotti",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67647,
+        "lon": 10.54829
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 700520",
+        "335 224495"
+    ],
+    "rating": ""
+}

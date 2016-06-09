@@ -1,0 +1,20 @@
+{
+    "name": "C & A GROUP",
+    "description": "",
+    "address": "53/D, Via Di Novoli - 50127 Firenze (FI)",
+    "streetAddress": "53/D, Via Di Novoli",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79717,
+        "lon": 11.21218
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 414852"
+    ],
+    "rating": ""
+}

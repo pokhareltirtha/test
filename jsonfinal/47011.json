@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA PIE",
+    "description": "",
+    "address": "3, Viale XX Settembre - 53017 Radda In Chianti (SI)",
+    "streetAddress": "3, Viale XX Settembre",
+    "postalCode": "53017",
+    "addressLocality": "Radda In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.48637,
+        "lon": 11.37334
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 738758"
+    ],
+    "rating": ""
+}

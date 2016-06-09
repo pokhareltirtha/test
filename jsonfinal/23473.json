@@ -1,0 +1,20 @@
+{
+    "name": "LA FRASCA DI MARIA GRAZIA LARICE E C. SAS",
+    "description": "",
+    "address": "70/R, Via Faentina - 50133 Firenze (FI)",
+    "streetAddress": "70/R, Via Faentina",
+    "postalCode": "50133",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7925,
+        "lon": 11.27117
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 571244"
+    ],
+    "rating": "5.0"
+}

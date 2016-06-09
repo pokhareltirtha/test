@@ -1,0 +1,20 @@
+{
+    "name": "ENERGY & FOOD SRL",
+    "description": "",
+    "address": "207/209, Via Strozzi Filippo - 59100 Prato (PO)",
+    "streetAddress": "207/209, Via Strozzi Filippo",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88996,
+        "lon": 11.08842
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 483010"
+    ],
+    "rating": "4.5"
+}

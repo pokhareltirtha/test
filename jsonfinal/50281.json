@@ -1,0 +1,20 @@
+{
+    "name": "BEST FOOD",
+    "description": "",
+    "address": "28, Via Traiano - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "28, Via Traiano",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.90815,
+        "lon": 11.42738
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8459299"
+    ],
+    "rating": ""
+}

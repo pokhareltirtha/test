@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA DELLE ISOLE",
+    "description": "",
+    "address": "Via Di Cavallico, 3h - 50038 Scarperia (FI)",
+    "streetAddress": "Via Di Cavallico, 3h",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.0472,
+        "lon": 11.35347
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8406119"
+    ],
+    "rating": ""
+}

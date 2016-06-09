@@ -1,0 +1,20 @@
+{
+    "name": "PELLEGRINI'S OSTERIA MODERNA",
+    "description": "",
+    "address": "11, Via Leoncavallo - 51016 Montecatini Terme (PT)",
+    "streetAddress": "11, Via Leoncavallo",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88411,
+        "lon": 10.76727
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 910256"
+    ],
+    "rating": ""
+}

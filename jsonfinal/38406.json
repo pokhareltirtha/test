@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA LIMONAIA",
+    "description": "",
+    "address": "Viale XX Settembre 200 - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "Viale XX Settembre 200",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83422,
+        "lon": 11.21252
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 446121",
+        "055 440016"
+    ],
+    "rating": "4.5"
+}

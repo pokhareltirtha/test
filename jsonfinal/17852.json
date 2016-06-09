@@ -1,0 +1,20 @@
+{
+    "name": "BURGER KING",
+    "description": "",
+    "address": "890, Via Poggilupi - 52028 Salicino (AR)",
+    "streetAddress": "890, Via Poggilupi",
+    "postalCode": "52028",
+    "addressLocality": "Salicino",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.54938,
+        "lon": 11.56259
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9199232"
+    ],
+    "rating": ""
+}

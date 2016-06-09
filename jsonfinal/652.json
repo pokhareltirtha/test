@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE INDUSTRIA - FIRENZE DOWNTOWN",
+    "description": "Industria, ristorante in centro a Firenze. Ambiente elegante con cucina toscana e pasticceria di produzione propria.",
+    "address": "45/R, Bg. Ognissanti - 50123 Firenze (FI)",
+    "streetAddress": "45/R, Bg. Ognissanti",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77342,
+        "lon": 11.24426
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 283714"
+    ],
+    "rating": ""
+}

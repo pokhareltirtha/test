@@ -1,0 +1,20 @@
+{
+    "name": "ORCAGNA RISTORANTE PIZZERIA",
+    "description": "In un ambiente cordiale e tranquillo vi proponiamo i veri sapori della cucina toscana, preparati con cura e competenza.",
+    "address": "1/R, P. Signoria - 50122 Firenze (FI)",
+    "streetAddress": "1/R, P. Signoria",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76945,
+        "lon": 11.2554
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 292188"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LA CANTINETTA",
+    "description": "",
+    "address": "15, Via F Crispi - 51100 Pistoia (PT)",
+    "streetAddress": "15, Via F Crispi",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93179,
+        "lon": 10.91664
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 1781113"
+    ],
+    "rating": ""
+}

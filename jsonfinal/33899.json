@@ -1,0 +1,20 @@
+{
+    "name": "DON CHISCIOTTE",
+    "description": "",
+    "address": "157, Via Barberinese - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "157, Via Barberinese",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.81828,
+        "lon": 11.12168
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8954319"
+    ],
+    "rating": ""
+}

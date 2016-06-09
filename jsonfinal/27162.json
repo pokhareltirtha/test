@@ -1,0 +1,20 @@
+{
+    "name": "KALI SRL",
+    "description": "",
+    "address": "112/R, Via S. Gallo - 50129 Firenze (FI)",
+    "streetAddress": "112/R, Via S. Gallo",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78232,
+        "lon": 11.26064
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 472475"
+    ],
+    "rating": ""
+}

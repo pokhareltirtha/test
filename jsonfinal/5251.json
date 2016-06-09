@@ -1,0 +1,20 @@
+{
+    "name": "TOUCH FLORENCE",
+    "description": "",
+    "address": "18, Via Fiesolana - 50121 Firenze (FI)",
+    "streetAddress": "18, Via Fiesolana",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77245,
+        "lon": 11.26312
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2466150"
+    ],
+    "rating": ""
+}

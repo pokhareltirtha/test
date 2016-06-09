@@ -1,0 +1,21 @@
+{
+    "name": "LAS VEGAS",
+    "description": "",
+    "address": "3, Lungarno Fratelli Cervi - 52027 San Giovanni Valdarno (AR)",
+    "streetAddress": "3, Lungarno Fratelli Cervi",
+    "postalCode": "52027",
+    "addressLocality": "San Giovanni Valdarno",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.56848,
+        "lon": 11.53547
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9122072",
+        "055 9121318"
+    ],
+    "rating": "4.0"
+}

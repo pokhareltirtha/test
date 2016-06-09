@@ -1,0 +1,20 @@
+{
+    "name": "MANGIARE BENE SRL",
+    "description": "",
+    "address": "34, Viale Buozzi Bruno - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "34, Viale Buozzi Bruno",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82063,
+        "lon": 11.14016
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8951898"
+    ],
+    "rating": ""
+}

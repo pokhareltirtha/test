@@ -1,0 +1,20 @@
+{
+    "name": "VIA NOVA",
+    "description": "",
+    "address": ", Viale G Mazzini - 56037 Peccioli (PI)",
+    "streetAddress": ", Viale G Mazzini",
+    "postalCode": "56037",
+    "addressLocality": "Peccioli",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.54837,
+        "lon": 10.71927
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 635723"
+    ],
+    "rating": ""
+}

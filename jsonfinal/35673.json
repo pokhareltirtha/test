@@ -1,0 +1,21 @@
+{
+    "name": "RIFUGIO LA RIOLETTA",
+    "description": "",
+    "address": "12, Via Rioletta - 40048 San Benedetto Val Di Sambro (BO)",
+    "streetAddress": "12, Via Rioletta",
+    "postalCode": "40048",
+    "addressLocality": "San Benedetto Val Di Sambro",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.17247,
+        "lon": 11.26422
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "377 9868132",
+        "0534 99066"
+    ],
+    "rating": ""
+}

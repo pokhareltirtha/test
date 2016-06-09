@@ -1,0 +1,20 @@
+{
+    "name": "PIOMBINI ROSANNA",
+    "description": "",
+    "address": "32, Via Leonardo Da Vinci - 50055 Lastra A Signa (FI)",
+    "streetAddress": "32, Via Leonardo Da Vinci",
+    "postalCode": "50055",
+    "addressLocality": "Lastra A Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76012,
+        "lon": 11.11111
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8721028"
+    ],
+    "rating": ""
+}

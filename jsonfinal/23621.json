@@ -1,0 +1,21 @@
+{
+    "name": "LA GRIGLIA SRL",
+    "description": "",
+    "address": "71, Via Villamaona - 50012 Bagno A Ripoli (FI)",
+    "streetAddress": "71, Via Villamaona",
+    "postalCode": "50012",
+    "addressLocality": "Bagno A Ripoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76286,
+        "lon": 11.33676
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 632815",
+        "055 6511358"
+    ],
+    "rating": ""
+}

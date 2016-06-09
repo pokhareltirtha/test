@@ -1,0 +1,21 @@
+{
+    "name": "LA POLVERIERA",
+    "description": "",
+    "address": "54, Via Frateli Marconcini - 56025 Pontedera (PI)",
+    "streetAddress": "54, Via Frateli Marconcini",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66325,
+        "lon": 10.63779
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "328 9625643",
+        "0587 54765"
+    ],
+    "rating": ""
+}

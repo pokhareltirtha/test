@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA PADELLACCIA",
+    "description": "",
+    "address": "19, Via Sant'Antonino - 50123 Firenze (FI)",
+    "streetAddress": "19, Via Sant'Antonino",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77626,
+        "lon": 11.25353
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 288158"
+    ],
+    "rating": ""
+}

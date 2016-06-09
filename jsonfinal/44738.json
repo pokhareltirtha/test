@@ -1,0 +1,21 @@
+{
+    "name": "HARRY'S BAR",
+    "description": "",
+    "address": "22/R., Lung'Arno Vespucci Amerigo - 50123 Firenze (FI)",
+    "streetAddress": "22/R., Lung'Arno Vespucci Amerigo",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77136,
+        "lon": 11.24653
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2396700",
+        "055 213100"
+    ],
+    "rating": ""
+}

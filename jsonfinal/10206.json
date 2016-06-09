@@ -1,0 +1,20 @@
+{
+    "name": "AGRITURISMO IL ROSETO",
+    "description": "L’Agriturismo Il Roseto, a Volterra in Via Villamagna, è la location migliore per i vostri weekend e soggiorni turistici nelle terre toscane.",
+    "address": "10,,Villamagna - 56048 Villamagna (PI)",
+    "streetAddress": "10,  Villamagna",
+    "postalCode": "56048",
+    "addressLocality": "Villamagna",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.48113,
+        "lon": 10.83458
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 33050"
+    ],
+    "rating": ""
+}

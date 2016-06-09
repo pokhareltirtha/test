@@ -1,0 +1,21 @@
+{
+    "name": "DA ENRICO",
+    "description": "",
+    "address": "6, Piazza Della Stazione - 50058 Signa (FI)",
+    "streetAddress": "6, Piazza Della Stazione",
+    "postalCode": "50058",
+    "addressLocality": "Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77625,
+        "lon": 11.09557
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 876163"
+    ],
+    "rating": ""
+}

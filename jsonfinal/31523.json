@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE FILLEO SAS DI WANG XIAOJIAN & C.",
+    "description": "",
+    "address": "19, Via Della Casaccia - 50136 Firenze (FI)",
+    "streetAddress": "19, Via Della Casaccia",
+    "postalCode": "50136",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76765,
+        "lon": 11.29717
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6504812"
+    ],
+    "rating": ""
+}

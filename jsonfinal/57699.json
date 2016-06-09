@@ -1,0 +1,20 @@
+{
+    "name": "I DUE MARMOCCHI",
+    "description": "",
+    "address": "2, Via Martiri Della Liberta - 59013 Montemurlo (PO)",
+    "streetAddress": "2, Via Martiri Della Liberta",
+    "postalCode": "59013",
+    "addressLocality": "Montemurlo",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.92781,
+        "lon": 11.03694
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 683701"
+    ],
+    "rating": "5.0"
+}

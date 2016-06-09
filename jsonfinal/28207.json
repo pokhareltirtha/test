@@ -1,0 +1,20 @@
+{
+    "name": "IL PRATO DEI FIORENTINI",
+    "description": "",
+    "address": "34, Via Senio - 48032 Casola Valsenio (RA)",
+    "streetAddress": "34, Via Senio",
+    "postalCode": "48032",
+    "addressLocality": "Casola Valsenio",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.24316,
+        "lon": 11.65074
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 74071"
+    ],
+    "rating": ""
+}

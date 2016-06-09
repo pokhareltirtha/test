@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CARMAGNINI DEL 500 srl",
+    "description": "Il Ristorante Carmagni del 500 srl, a Calenzano in Via Barberino, delizia i suoi ospiti con i piatti della cucina toscana e le migliori prelibatezze fiorentine.",
+    "address": "242, V. Barberino - 50041 Calenzano (FI)",
+    "streetAddress": "242, V. Barberino",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.92192,
+        "lon": 11.20458
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8819930"
+    ],
+    "rating": "5.0"
+}

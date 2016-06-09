@@ -1,0 +1,21 @@
+{
+    "name": "LA GROTTA DI CICCIO DI IAMI ANNA",
+    "description": "",
+    "address": "3, Via Del Lavoro - 52025 Montevarchi (AR)",
+    "streetAddress": "3, Via Del Lavoro",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.51369,
+        "lon": 11.59477
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 4301618",
+        "055 980882"
+    ],
+    "rating": ""
+}

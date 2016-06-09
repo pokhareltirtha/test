@@ -1,0 +1,20 @@
+{
+    "name": "NON SOLO PIZZA SAS",
+    "description": "",
+    "address": "45, Viale Buozzi Bruno - 50054 Fucecchio (FI)",
+    "streetAddress": "45, Viale Buozzi Bruno",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72907,
+        "lon": 10.80574
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 22458"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "TACCETTI ARRIGO",
+    "description": "",
+    "address": "5, Via Fermi Enrico - 50055 Lastra A Signa (FI)",
+    "streetAddress": "5, Via Fermi Enrico",
+    "postalCode": "50055",
+    "addressLocality": "Lastra A Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7663,
+        "lon": 11.11447
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8722891"
+    ],
+    "rating": ""
+}

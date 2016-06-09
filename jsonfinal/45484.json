@@ -1,0 +1,21 @@
+{
+    "name": "LA LIMONAIA - HOTEL ALEXANDRA",
+    "description": "",
+    "address": "22, Via Puccini - 50059 Vinci (FI)",
+    "streetAddress": "22, Via Puccini",
+    "postalCode": "50059",
+    "addressLocality": "Vinci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78174,
+        "lon": 10.9226
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 56227",
+        "0571 56224"
+    ],
+    "rating": ""
+}

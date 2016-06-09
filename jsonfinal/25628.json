@@ -1,0 +1,20 @@
+{
+    "name": "DA NERBONE",
+    "description": "",
+    "address": "47, Piazza Mercato Centrale Di San Lorenzo - 50123 Firenze (FI)",
+    "streetAddress": "47, Piazza Mercato Centrale Di San Lorenzo",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77623,
+        "lon": 11.25411
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6480251"
+    ],
+    "rating": ""
+}

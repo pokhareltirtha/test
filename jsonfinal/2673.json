@@ -1,0 +1,22 @@
+{
+    "name": "CALANDRINO",
+    "description": "",
+    "address": ", Localita Casanova - 53031 Casole D'Elsa (SI)",
+    "streetAddress": ", Localita Casanova",
+    "postalCode": "53031",
+    "addressLocality": "Casole D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.37188,
+        "lon": 11.0549
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 958925",
+        "331 1899508"
+    ],
+    "rating": ""
+}

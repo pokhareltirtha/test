@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PERUCÀ RISTORANTE SAN MARTINO 26",
+    "description": "",
+    "address": "16, Via Capassi - 53037 San Gimignano (SI)",
+    "streetAddress": "16, Via Capassi",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46997,
+        "lon": 11.04202
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 940483",
+        "0577 943136"
+    ],
+    "rating": ""
+}

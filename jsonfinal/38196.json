@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA TIPICA",
+    "description": "",
+    "address": "90/R, Via Guelfa - 50129 Firenze (FI)",
+    "streetAddress": "90/R, Via Guelfa",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77809,
+        "lon": 11.25366
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "380 7555700"
+    ],
+    "rating": ""
+}

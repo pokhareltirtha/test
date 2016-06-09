@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA DA BENITO",
+    "description": "A Castelfranco di Sotto, in provincia di Pisa, la trattoria dove gustare specialità tipiche della cucina toscana e una vasta scelta di pizze.",
+    "address": "2, V. Mart. Liberta' - 56022 Orentano (PI)",
+    "streetAddress": "2, V. Mart. Liberta'",
+    "postalCode": "56022",
+    "addressLocality": "Orentano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.77916,
+        "lon": 10.66122
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 23155"
+    ],
+    "rating": ""
+}

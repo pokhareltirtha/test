@@ -1,0 +1,20 @@
+{
+    "name": "DA GIOCONDO",
+    "description": "",
+    "address": "64, Via Le Ceraie - 52014 Poppi (AR)",
+    "streetAddress": "64, Via Le Ceraie",
+    "postalCode": "52014",
+    "addressLocality": "Poppi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.72213,
+        "lon": 11.76448
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "368 469499"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PANE E ROSE",
+    "description": "",
+    "address": "143, Via Del Tiglio - 56012 Calcinaia (PI)",
+    "streetAddress": "143, Via Del Tiglio",
+    "postalCode": "56012",
+    "addressLocality": "Calcinaia",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69936,
+        "lon": 10.62089
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 755823"
+    ],
+    "rating": ""
+}

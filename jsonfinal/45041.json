@@ -1,0 +1,21 @@
+{
+    "name": "IL RISTORANTINO DI PERNA CONCETTA & C. S.A.S.",
+    "description": "",
+    "address": "9, Via S. Felice E Piteccio - 51100 Pistoia (PT)",
+    "streetAddress": "9, Via S. Felice E Piteccio",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.97988,
+        "lon": 10.88774
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "334 7255664",
+        "347 2335214"
+    ],
+    "rating": ""
+}

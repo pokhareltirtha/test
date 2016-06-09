@@ -1,0 +1,20 @@
+{
+    "name": "CAFFÈ FUORI SCHEMA",
+    "description": "",
+    "address": "Via Gemignani, 4/8 - 50127 Firenze (FI)",
+    "streetAddress": "Via Gemignani, 4/8",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79789,
+        "lon": 11.20721
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "329 1113459"
+    ],
+    "rating": ""
+}

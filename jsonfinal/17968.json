@@ -1,0 +1,20 @@
+{
+    "name": "CASALTA",
+    "description": "",
+    "address": "22, Via XVII Marzo - 53035 Castellina Scalo Abate (SI)",
+    "streetAddress": "22, Via XVII Marzo",
+    "postalCode": "53035",
+    "addressLocality": "Castellina Scalo Abate",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.40555,
+        "lon": 11.20625
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 301002"
+    ],
+    "rating": ""
+}

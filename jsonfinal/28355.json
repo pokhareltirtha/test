@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA CASA DI CRISTIAN",
+    "description": "Di fronte al casolare, un vasto parco con tavoli, altalene, amache, dondoli e lettini, vi accoglie per trascorrere il vostro relax.",
+    "address": "2, V. Sconcola - 40020 Casalfiumanese (BO)",
+    "streetAddress": "2, V. Sconcola",
+    "postalCode": "40020",
+    "addressLocality": "Casalfiumanese",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.301,
+        "lon": 11.55489
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 2331339"
+    ],
+    "rating": ""
+}

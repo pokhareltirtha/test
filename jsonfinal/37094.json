@@ -1,0 +1,20 @@
+{
+    "name": "I RAGAZZI DI SIPARIO",
+    "description": "",
+    "address": "104, Via Dei Serragli - 50124 Firenze (FI)",
+    "streetAddress": "104, Via Dei Serragli",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76575,
+        "lon": 11.24459
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2280924"
+    ],
+    "rating": ""
+}

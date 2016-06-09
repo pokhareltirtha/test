@@ -1,0 +1,22 @@
+{
+    "name": "IL GALLO NERO",
+    "description": "",
+    "address": "9, Via Cesare Battisti - 50022 Greve In Chianti (FI)",
+    "streetAddress": "9, Via Cesare Battisti",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58293,
+        "lon": 11.31761
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8544802",
+        "055 853734"
+    ],
+    "rating": ""
+}

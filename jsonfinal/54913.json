@@ -1,0 +1,20 @@
+{
+    "name": "RICCAPIZZA",
+    "description": "La freschezza dei prodotti utilizzati e l'esperienza pluriennale, fanno di Riccapizza un punto di riferimento per tutti coloro che vogliono degustare le sue specialità. La cucina, da sempre attenta ai...",
+    "address": "94, V. San Giovanni - 53037 San Gimignano (SI)",
+    "streetAddress": "94, V. San Giovanni",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46542,
+        "lon": 11.04262
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 941817"
+    ],
+    "rating": ""
+}

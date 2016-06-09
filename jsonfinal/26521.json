@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA ASTERIX DI PARADISI E BUSINI",
+    "description": "",
+    "address": "16, Via Mazzini - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "16, Via Mazzini",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42323,
+        "lon": 11.12587
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 043486"
+    ],
+    "rating": ""
+}

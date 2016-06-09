@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA \"LA CAPANNINA\"",
+    "description": "",
+    "address": "626, Via Fiorentina - 51100 Bottegone (PT)",
+    "streetAddress": "626, Via Fiorentina",
+    "postalCode": "51100",
+    "addressLocality": "Bottegone",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8939,
+        "lon": 10.95754
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0573 544001",
+        "349 4071362"
+    ],
+    "rating": ""
+}

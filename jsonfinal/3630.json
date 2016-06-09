@@ -1,0 +1,21 @@
+{
+    "name": "LUPIN BISTROT",
+    "description": "",
+    "address": "36, Via Circondaria - 50127 Firenze (FI)",
+    "streetAddress": "36, Via Circondaria",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78932,
+        "lon": 11.23956
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3217922",
+        "055 3247046"
+    ],
+    "rating": "3.0"
+}

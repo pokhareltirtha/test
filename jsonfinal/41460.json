@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE BAR PIZZERIA IL MONTE srl",
+    "description": "La tipica cucina toscana, fatta di succulenti carni alla griglia ed alimenti sani e genuini, in un accogliente ed ospitale ristorante di San Gimignano.",
+    "address": "68, Loc. IL Monte - 53037 Castel San Gimignano (SI)",
+    "streetAddress": "68, Loc. IL Monte",
+    "postalCode": "53037",
+    "addressLocality": "Castel San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.4056,
+        "lon": 11.02008
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 953012"
+    ],
+    "rating": ""
+}

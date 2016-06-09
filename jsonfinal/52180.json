@@ -1,0 +1,20 @@
+{
+    "name": "LA LOCANDA DELLE STREGHE SRL",
+    "description": "",
+    "address": "477, Via Volterrana - 56030 Terricciola (PI)",
+    "streetAddress": "477, Via Volterrana",
+    "postalCode": "56030",
+    "addressLocality": "Terricciola",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.52839,
+        "lon": 10.70222
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 635732"
+    ],
+    "rating": ""
+}

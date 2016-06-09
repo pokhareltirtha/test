@@ -1,0 +1,21 @@
+{
+    "name": "QUINTO QUARTO",
+    "description": "",
+    "address": "56, Via Di Calenzano - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "56, Via Di Calenzano",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84161,
+        "lon": 11.19101
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4251032"
+    ],
+    "rating": ""
+}

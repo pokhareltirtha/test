@@ -1,0 +1,21 @@
+{
+    "name": "IL SIMPOSIO",
+    "description": "",
+    "address": "11, Via Bisenzio - 59013 Montemurlo (PO)",
+    "streetAddress": "11, Via Bisenzio",
+    "postalCode": "59013",
+    "addressLocality": "Montemurlo",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.90594,
+        "lon": 11.05019
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 655133"
+    ],
+    "rating": ""
+}

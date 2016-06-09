@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA A COLONNATA DI ROBERTO BORDIERI S.A.S.",
+    "description": "",
+    "address": "6/B, Viale Togliatti Palmiro - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "6/B, Viale Togliatti Palmiro",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83474,
+        "lon": 11.1864
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4421227"
+    ],
+    "rating": ""
+}

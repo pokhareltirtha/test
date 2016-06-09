@@ -1,0 +1,21 @@
+{
+    "name": "100 POSTI",
+    "description": "",
+    "address": "Borgo San Lorenzo, 7 - 50123 Firenze (FI)",
+    "streetAddress": "Borgo San Lorenzo, 7",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77388,
+        "lon": 11.25465
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 210410",
+        "340 7705427"
+    ],
+    "rating": ""
+}

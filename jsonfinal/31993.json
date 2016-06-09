@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA LA CASELLINA",
+    "description": "",
+    "address": "Via Colognolese 28 - 50065 Pontassieve (FI)",
+    "streetAddress": "Via Colognolese 28",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.81838,
+        "lon": 11.47641
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8397580",
+        "334 5963741"
+    ],
+    "rating": ""
+}

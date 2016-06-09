@@ -1,0 +1,20 @@
+{
+    "name": "ROLU SERVIZI SRL",
+    "description": "",
+    "address": "3/A, Via Storta - 51100 Pistoia (PT)",
+    "streetAddress": "3/A, Via Storta",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94611,
+        "lon": 10.90532
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 402051"
+    ],
+    "rating": ""
+}

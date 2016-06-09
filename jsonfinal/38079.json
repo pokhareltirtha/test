@@ -1,0 +1,20 @@
+{
+    "name": "CHALET FONTANA",
+    "description": "",
+    "address": "8, Via Di S Leonardo - 50125 Firenze (FI)",
+    "streetAddress": "8, Via Di S Leonardo",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76116,
+        "lon": 11.25477
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 225805"
+    ],
+    "rating": ""
+}

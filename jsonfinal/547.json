@@ -1,0 +1,20 @@
+{
+    "name": "LA TAVERNA SRL",
+    "description": "",
+    "address": "115, Viale Talenti Francesco - 50142 Firenze (FI)",
+    "streetAddress": "115, Viale Talenti Francesco",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77338,
+        "lon": 11.21593
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 218590"
+    ],
+    "rating": ""
+}

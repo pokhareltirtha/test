@@ -1,0 +1,20 @@
+{
+    "name": "MDLC COMPANY SAS DI LIBERO DANIELA & C.",
+    "description": "",
+    "address": "18/R, Via Chiantigiana - 50126 Firenze (FI)",
+    "streetAddress": "18/R, Via Chiantigiana",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75438,
+        "lon": 11.29828
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 641183"
+    ],
+    "rating": ""
+}

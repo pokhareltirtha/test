@@ -1,0 +1,21 @@
+{
+    "name": "CENTRO TURISTICO BELVEDERE VILLA VEZZANI",
+    "description": "",
+    "address": "Via Collecchio 10 - 51017 Pescia (PT)",
+    "streetAddress": "Via Collecchio 10",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89509,
+        "lon": 10.67987
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 47004",
+        "0572 47005"
+    ],
+    "rating": ""
+}

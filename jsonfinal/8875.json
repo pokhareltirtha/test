@@ -1,0 +1,21 @@
+{
+    "name": "LA PACE",
+    "description": "",
+    "address": "Via Belfiore 4 - 56025 Pontedera (PI)",
+    "streetAddress": "Via Belfiore 4",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66286,
+        "lon": 10.63308
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 52339"
+    ],
+    "rating": ""
+}

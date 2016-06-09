@@ -1,0 +1,20 @@
+{
+    "name": "LA CAVERNA",
+    "description": "",
+    "address": "1, Viale Italia - 51100 Pistoia (PT)",
+    "streetAddress": "1, Viale Italia",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9389,
+        "lon": 10.92036
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 22206"
+    ],
+    "rating": "4.0"
+}

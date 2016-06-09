@@ -1,0 +1,20 @@
+{
+    "name": "KILOMETRO 25",
+    "description": "",
+    "address": "23, Via Del Padule - 50012 Bagno A Ripoli (FI)",
+    "streetAddress": "23, Via Del Padule",
+    "postalCode": "50012",
+    "addressLocality": "Bagno A Ripoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7556,
+        "lon": 11.32501
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9335337"
+    ],
+    "rating": ""
+}

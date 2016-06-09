@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA AMALFITANA",
+    "description": "",
+    "address": "51/R, Via Della Mattonaia - 50121 Firenze (FI)",
+    "streetAddress": "51/R, Via Della Mattonaia",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77424,
+        "lon": 11.2698
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2342401"
+    ],
+    "rating": ""
+}

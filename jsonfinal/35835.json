@@ -1,0 +1,20 @@
+{
+    "name": "IL PALLAIO",
+    "description": "",
+    "address": "3, Via Damiano Chiesa - 50137 Firenze (FI)",
+    "streetAddress": "3, Via Damiano Chiesa",
+    "postalCode": "50137",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77454,
+        "lon": 11.28416
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 679304"
+    ],
+    "rating": "4.2"
+}

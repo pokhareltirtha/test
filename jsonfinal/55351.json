@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA RISTORANTE SETTIMO CIELO",
+    "description": "La Pizzeria Ristorante Settimo Cielo di Firenze propone piatti tipici della tradizione calabrese. Si effettuano consegne a domicilio.",
+    "address": "18/R, V. Bronzino - 50142 Firenze (FI)",
+    "streetAddress": "18/R, V. Bronzino",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77331,
+        "lon": 11.22942
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 700451",
+        "389 6627758"
+    ],
+    "rating": "4.0"
+}

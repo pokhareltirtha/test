@@ -1,0 +1,21 @@
+{
+    "name": "ANGELS",
+    "description": "",
+    "address": "29, Via Del Proconsolo - 50122 Firenze (FI)",
+    "streetAddress": "29, Via Del Proconsolo",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.771,
+        "lon": 11.25787
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 215521",
+        "055 2398762"
+    ],
+    "rating": ""
+}

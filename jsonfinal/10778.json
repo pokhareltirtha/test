@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA MASO'",
+    "description": "Non solo pizza: da noi puoi trovare anche una vasta scelta di ricette e specialità ispirate alla migliore cucina italiana e mediterranea.",
+    "address": "10/R, V. Finiguerra - 50123 Firenze (FI)",
+    "streetAddress": "10/R, V. Finiguerra",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77353,
+        "lon": 11.2447
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 212106"
+    ],
+    "rating": "5.0"
+}

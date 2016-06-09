@@ -1,0 +1,20 @@
+{
+    "name": "VITTORIA",
+    "description": "",
+    "address": "52, Via Della Fonderia - 50142 Firenze (FI)",
+    "streetAddress": "52, Via Della Fonderia",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77358,
+        "lon": 11.23451
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 225657"
+    ],
+    "rating": ""
+}

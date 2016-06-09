@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA CHICCHIRICHI DI HOXHA AFRIM",
+    "description": "",
+    "address": "187, Via Nazario Sauro - 56021 Cascina (PI)",
+    "streetAddress": "187, Via Nazario Sauro",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66503,
+        "lon": 10.54162
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 720612"
+    ],
+    "rating": ""
+}

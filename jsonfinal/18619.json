@@ -1,0 +1,21 @@
+{
+    "name": "ANTICA TABACCAIA RESORT",
+    "description": "Il Resort Antica Tabaccaia, a Terranuova Bracciolini (AR), immersa nel verde delle colline del Chianti Aretino per il tuo soggiorno all'insegna del relax.",
+    "address": "143, V. Ascione - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "143, V. Ascione",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.54879,
+        "lon": 11.61557
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "329 1717051",
+        "055 9194033"
+    ],
+    "rating": ""
+}

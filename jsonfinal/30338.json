@@ -1,0 +1,21 @@
+{
+    "name": "IL FRANCESCANO",
+    "description": "",
+    "address": "16, Largo Piero Bargellini - 50122 Firenze (FI)",
+    "streetAddress": "16, Largo Piero Bargellini",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76862,
+        "lon": 11.26331
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2268340",
+        "055 241605"
+    ],
+    "rating": ""
+}

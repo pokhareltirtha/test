@@ -1,0 +1,20 @@
+{
+    "name": "BELLAVISTA",
+    "description": "",
+    "address": "21, Via Livornese - 51011 Buggiano (PT)",
+    "streetAddress": "21, Via Livornese",
+    "postalCode": "51011",
+    "addressLocality": "Buggiano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87136,
+        "lon": 10.73109
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 33053"
+    ],
+    "rating": ""
+}

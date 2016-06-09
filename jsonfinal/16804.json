@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CASTELLARE DI TONDA",
+    "description": "",
+    "address": "161, Via Piaggia - 50050 Montaione (FI)",
+    "streetAddress": "161, Via Piaggia",
+    "postalCode": "50050",
+    "addressLocality": "Montaione",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.56107,
+        "lon": 10.87999
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 69111"
+    ],
+    "rating": ""
+}

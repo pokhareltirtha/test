@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE MIBAR",
+    "description": "",
+    "address": "144, Via I Maggio - 51010 Margine Coperta (PT)",
+    "streetAddress": "144, Via I Maggio",
+    "postalCode": "51010",
+    "addressLocality": "Margine Coperta",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88469,
+        "lon": 10.75101
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 772534"
+    ],
+    "rating": ""
+}

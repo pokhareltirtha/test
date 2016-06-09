@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE GIAPPONESE",
+    "description": "Ristorante giapponese a Firenze (FI) in 16/r, vl. Giannotti sushi in zona firenze sud. All you can eat e take away.",
+    "address": "16/R, Vl. Giannotti - 50126 Firenze (FI)",
+    "streetAddress": "16/R, Vl. Giannotti",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76138,
+        "lon": 11.28372
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 0502473"
+    ],
+    "rating": "5.0"
+}

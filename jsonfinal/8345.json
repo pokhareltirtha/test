@@ -1,0 +1,21 @@
+{
+    "name": "LA ROTONDA",
+    "description": "",
+    "address": "30, Via Tosco Romagnola Ovest - 56020 San Romano (PI)",
+    "streetAddress": "30, Via Tosco Romagnola Ovest",
+    "postalCode": "56020",
+    "addressLocality": "San Romano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68687,
+        "lon": 10.76271
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 467209",
+        "0571 467688"
+    ],
+    "rating": ""
+}

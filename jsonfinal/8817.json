@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA SPAGHETTERIA RISTORANTE IL RAGNO D'ORO DI NELLI ILIANO",
+    "description": "",
+    "address": "11, Via Mammianese Sud - 55011 Marginone (LU)",
+    "streetAddress": "11, Via Mammianese Sud",
+    "postalCode": "55011",
+    "addressLocality": "Marginone",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81883,
+        "lon": 10.72643
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 286211"
+    ],
+    "rating": ""
+}

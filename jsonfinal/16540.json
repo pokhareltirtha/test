@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA L'ORCINO",
+    "description": "",
+    "address": "52, V. Cerbaie - 55011 Altopascio (LU)",
+    "streetAddress": "52, V. Cerbaie",
+    "postalCode": "55011",
+    "addressLocality": "Altopascio",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81745,
+        "lon": 10.68352
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 264288"
+    ],
+    "rating": ""
+}

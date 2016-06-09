@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DI PASSIGNANO",
+    "description": "",
+    "address": "33, Via Passignano - 50028 Badia A Passignano (FI)",
+    "streetAddress": "33, Via Passignano",
+    "postalCode": "50028",
+    "addressLocality": "Badia A Passignano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.5776,
+        "lon": 11.24679
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8071278"
+    ],
+    "rating": ""
+}

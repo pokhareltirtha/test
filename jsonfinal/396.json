@@ -1,0 +1,21 @@
+{
+    "name": "IL QUADRIFOGLIO",
+    "description": "",
+    "address": "3, Via Mastrigalla - 59016 Poggetto (PO)",
+    "streetAddress": "3, Via Mastrigalla",
+    "postalCode": "59016",
+    "addressLocality": "Poggetto",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.82772,
+        "lon": 11.03933
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8705224"
+    ],
+    "rating": ""
+}

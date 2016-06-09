@@ -1,0 +1,20 @@
+{
+    "name": "IL GIRARROSTO",
+    "description": "",
+    "address": "Via Roma 41 - 53017 Radda In Chianti (SI)",
+    "streetAddress": "Via Roma 41",
+    "postalCode": "53017",
+    "addressLocality": "Radda In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.48695,
+        "lon": 11.37505
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 738010"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LA LOCANDA DI GREVE - ALBERGO RISTORANTE DA VERRAZZANO S.R.L.",
+    "description": "",
+    "address": "28, Piazza Matteotti Giacomo - 50022 Greve In Chianti (FI)",
+    "streetAddress": "28, Piazza Matteotti Giacomo",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58277,
+        "lon": 11.31682
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 853189"
+    ],
+    "rating": ""
+}

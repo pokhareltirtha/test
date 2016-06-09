@@ -1,0 +1,21 @@
+{
+    "name": "LA GALLERIA",
+    "description": "",
+    "address": "48, Via Dei Guicciardini - 50125 Firenze (FI)",
+    "streetAddress": "48, Via Dei Guicciardini",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76741,
+        "lon": 11.25163
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2645988",
+        "055 2648826"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE INDIAN AND KEBAB",
+    "description": "",
+    "address": "9, Via Giovanni Da Empoli - 50053 Empoli (FI)",
+    "streetAddress": "9, Via Giovanni Da Empoli",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71789,
+        "lon": 10.9494
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 3285941"
+    ],
+    "rating": ""
+}

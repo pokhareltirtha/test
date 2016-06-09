@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA DA BEPPINO",
+    "description": "",
+    "address": "Via Di Ripoli, 13 R - 50126 Firenze (FI)",
+    "streetAddress": "Via Di Ripoli, 13 R",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76267,
+        "lon": 11.27875
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6810505"
+    ],
+    "rating": ""
+}

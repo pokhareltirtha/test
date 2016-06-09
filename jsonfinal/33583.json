@@ -1,0 +1,20 @@
+{
+    "name": "VILLA LA MASSA",
+    "description": "Lasciatevi emozionare dalla campagna fiorentina nel nostro hotel a Bagno A Ripoli.",
+    "address": "24, V. Della Massa - 50012 Bagno A Ripoli (FI)",
+    "streetAddress": "24, V. Della Massa",
+    "postalCode": "50012",
+    "addressLocality": "Bagno A Ripoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76458,
+        "lon": 11.33321
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 62611"
+    ],
+    "rating": "4.3"
+}

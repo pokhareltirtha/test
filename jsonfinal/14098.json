@@ -1,0 +1,20 @@
+{
+    "name": "BISTROT LA FARINA",
+    "description": "",
+    "address": "29, Via Giuseppe La Farina - 50132 Firenze (FI)",
+    "streetAddress": "29, Via Giuseppe La Farina",
+    "postalCode": "50132",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77865,
+        "lon": 11.27248
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 576763"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA ZIMBO DI VEZZOSI MORENO & C. S.N.C.",
+    "description": "",
+    "address": "Via Masini Giulio - 50051 Castelfiorentino (FI)",
+    "streetAddress": "Via Masini Giulio",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.60933,
+        "lon": 10.96678
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 64705"
+    ],
+    "rating": "3.0"
+}

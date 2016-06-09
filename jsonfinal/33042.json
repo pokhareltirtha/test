@@ -1,0 +1,21 @@
+{
+    "name": "ACQUA AL 2",
+    "description": "",
+    "address": "40, Via Della Vigna Vecchia - 50122 Firenze (FI)",
+    "streetAddress": "40, Via Della Vigna Vecchia",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77022,
+        "lon": 11.25783
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 284170",
+        "055 290748"
+    ],
+    "rating": "4.5"
+}

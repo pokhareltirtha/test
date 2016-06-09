@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL CAVATAPPI WINE AND FOOD",
+    "description": "Ristorante \"Il Cavatappi\", l'arte della tavola a Calcinaia (PI) in v. Del Tiglio 49.",
+    "address": "49, V. Del Tiglio - 56012 Calcinaia (PI)",
+    "streetAddress": "49, V. Del Tiglio",
+    "postalCode": "56012",
+    "addressLocality": "Calcinaia",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67929,
+        "lon": 10.63604
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 56440"
+    ],
+    "rating": ""
+}

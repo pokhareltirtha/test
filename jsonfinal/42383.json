@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA RISTORANTE MARONI",
+    "description": "Pizzeria ristorante Maroni, a Certaldo (FI), buona pizza e specialità toscane per soddisfare i palati più esigenti.",
+    "address": "154, Vl. Case - 50052 Certaldo (FI)",
+    "streetAddress": "154, Vl. Case",
+    "postalCode": "50052",
+    "addressLocality": "Certaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54754,
+        "lon": 11.07616
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 668648",
+        "338 5341586"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE OSTERIA 30",
+    "description": "Il Ristorante Osteria 30 è un must assoluto di Empoli (FI) per assaporare i migliori piatti della tradizione toscana. Venite a trovarci in v. Gelsomino!",
+    "address": "30, V. Gelsomino - 50053 Empoli (FI)",
+    "streetAddress": "30, V. Gelsomino",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7201,
+        "lon": 10.94741
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 73989"
+    ],
+    "rating": "4.0"
+}

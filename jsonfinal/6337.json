@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CINESE LA CUCINA DEL RE",
+    "description": "Il ristorante cinese La Cucina del Re, cucina realizzata con prodotti freschi e di prima scelta nel centro di Firenze.",
+    "address": "51/R, V. Guelfa - 50129 Firenze (FI)",
+    "streetAddress": "51/R, V. Guelfa",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77804,
+        "lon": 11.25377
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 264114"
+    ],
+    "rating": "5.0"
+}

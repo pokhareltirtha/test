@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LE CAPANNINE",
+    "description": "A Barberino in v. Don Minzoni 88, il Ristorante Le Capannine propone specialità tipiche toscane, pollo arrosto e bistecca fiorentina.",
+    "address": "88, V. Don Minzoni - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "88, V. Don Minzoni",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.98491,
+        "lon": 11.23325
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8420777"
+    ],
+    "rating": ""
+}

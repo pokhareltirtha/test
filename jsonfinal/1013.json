@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ARROSTO GIRATO",
+    "description": "",
+    "address": "178, Via Aretina - 50065 Pontassieve (FI)",
+    "streetAddress": "178, Via Aretina",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79359,
+        "lon": 11.38386
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8309138"
+    ],
+    "rating": ""
+}

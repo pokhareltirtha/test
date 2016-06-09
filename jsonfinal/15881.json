@@ -1,0 +1,20 @@
+{
+    "name": "TARABARALLA",
+    "description": "",
+    "address": "Via Circonvallazione 150 - 51011 Borgo A Buggiano (PT)",
+    "streetAddress": "Via Circonvallazione 150",
+    "postalCode": "51011",
+    "addressLocality": "Borgo A Buggiano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8775,
+        "lon": 10.73253
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 30599"
+    ],
+    "rating": ""
+}

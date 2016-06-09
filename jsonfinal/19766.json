@@ -1,0 +1,20 @@
+{
+    "name": "LA CUCINA DI SERE",
+    "description": "",
+    "address": "525, Via Roma - 59100 Prato (PO)",
+    "streetAddress": "525, Via Roma",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.84299,
+        "lon": 11.07196
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "335 1455343"
+    ],
+    "rating": ""
+}

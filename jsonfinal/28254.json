@@ -1,0 +1,20 @@
+{
+    "name": "LA BECCONA",
+    "description": "",
+    "address": "1, Piazza Del Popolo - 47010 Bocconi (FC)",
+    "streetAddress": "1, Piazza Del Popolo",
+    "postalCode": "47010",
+    "addressLocality": "Bocconi",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.00822,
+        "lon": 11.74371
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0543 967475"
+    ],
+    "rating": ""
+}

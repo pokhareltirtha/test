@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ORA D'ARIA",
+    "description": "Il Ristorante Ora d’Aria srl a Firenze in Via Georgofili è la piacevole occasione conviviale fiorentina dai profumi e sapori rinascimentali e toscani.",
+    "address": "11/R, V. Georgofili - 50122 Firenze (FI)",
+    "streetAddress": "11/R, V. Georgofili",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76844,
+        "lon": 11.25484
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2001699"
+    ],
+    "rating": ""
+}

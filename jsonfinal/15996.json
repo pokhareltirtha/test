@@ -1,0 +1,20 @@
+{
+    "name": "SALOON",
+    "description": "",
+    "address": "99, Via Pesciatina - 55010 Capannori (LU)",
+    "streetAddress": "99, Via Pesciatina",
+    "postalCode": "55010",
+    "addressLocality": "Capannori",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.86045,
+        "lon": 10.61692
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 936526"
+    ],
+    "rating": ""
+}

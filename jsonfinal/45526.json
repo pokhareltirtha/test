@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA TRATTORIA DI BRUNELLI SEBASTIANA",
+    "description": "",
+    "address": "41, Via Oberdan Guglielmo - 51017 Pescia (PT)",
+    "streetAddress": "41, Via Oberdan Guglielmo",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90544,
+        "lon": 10.68811
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 490692",
+        "0572 284410"
+    ],
+    "rating": ""
+}

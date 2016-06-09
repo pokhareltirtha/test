@@ -1,0 +1,20 @@
+{
+    "name": "HOSTARIA BIBENDUM",
+    "description": "",
+    "address": "8, Via Dei Pescioni - 50123 Firenze (FI)",
+    "streetAddress": "8, Via Dei Pescioni",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77217,
+        "lon": 11.25218
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2665620"
+    ],
+    "rating": ""
+}

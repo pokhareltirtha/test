@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA MANDRAGOLA SNC",
+    "description": "",
+    "address": "7, Via Diacceto - 53037 San Gimignano (SI)",
+    "streetAddress": "7, Via Diacceto",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46883,
+        "lon": 11.04185
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 940454",
+        "0577 940377"
+    ],
+    "rating": ""
+}

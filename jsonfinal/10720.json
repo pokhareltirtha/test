@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE YAMA STAR",
+    "description": "Per assaporare un ottimo sushi ed i migliori piatti della cucina giapponese, vieni al Ristorante Yama Star di v. Tosco Romagnola Sud a Montelupo Fiorentino.",
+    "address": "",
+    "streetAddress": "",
+    "postalCode": "",
+    "addressLocality": "",
+    "addressRegion": "",
+    "coordinates": {
+        "lat": null,
+        "lon": null
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 542814"
+    ],
+    "rating": ""
+}

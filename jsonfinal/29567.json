@@ -1,0 +1,21 @@
+{
+    "name": "SCOPETI",
+    "description": "",
+    "address": "183, Via Cassia - 50029 Impruneta (FI)",
+    "streetAddress": "183, Via Cassia",
+    "postalCode": "50029",
+    "addressLocality": "Impruneta",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.70957,
+        "lon": 11.21534
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2022008",
+        "055 2373015"
+    ],
+    "rating": "4.7"
+}

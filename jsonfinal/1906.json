@@ -1,0 +1,20 @@
+{
+    "name": "LA GUSTERIA STRIGO",
+    "description": "La Gusteria Strigo è un'osteria che propone una cucina tipica emiliana, con primi piatti di pasta fatta in casa e secondi piatti a base di carne alla griglia e tagliata di carne.",
+    "address": "3/2, V. Pracchia (Ponte Della Venturina) - 40045 Granaglione (BO)",
+    "streetAddress": "3/2, V. Pracchia (Ponte Della Venturina)",
+    "postalCode": "40045",
+    "addressLocality": "Granaglione",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.12921,
+        "lon": 10.99136
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0534 60577"
+    ],
+    "rating": "5.0"
+}

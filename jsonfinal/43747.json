@@ -1,0 +1,21 @@
+{
+    "name": "CANTINA SABROSA",
+    "description": "",
+    "address": "91/R, Via Dell' Agnolo - 50122 Firenze (FI)",
+    "streetAddress": "91/R, Via Dell' Agnolo",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77049,
+        "lon": 11.26313
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 242646",
+        "055 242645"
+    ],
+    "rating": ""
+}

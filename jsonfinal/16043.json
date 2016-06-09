@@ -1,0 +1,20 @@
+{
+    "name": "DEL GUASTA MARCO",
+    "description": "",
+    "address": "228, Via Provinciale Le Vicarese - 56010 Vicopisano (PI)",
+    "streetAddress": "228, Via Provinciale Le Vicarese",
+    "postalCode": "56010",
+    "addressLocality": "Vicopisano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68512,
+        "lon": 10.5996
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 798789"
+    ],
+    "rating": ""
+}

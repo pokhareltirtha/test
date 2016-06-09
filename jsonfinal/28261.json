@@ -1,0 +1,20 @@
+{
+    "name": "MULINO SAN MICHELE",
+    "description": "",
+    "address": "6, Via Faustino Perisauli - 47019 Tredozio (FC)",
+    "streetAddress": "6, Via Faustino Perisauli",
+    "postalCode": "47019",
+    "addressLocality": "Tredozio",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.07649,
+        "lon": 11.74075
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 943677"
+    ],
+    "rating": ""
+}

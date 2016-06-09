@@ -1,0 +1,20 @@
+{
+    "name": "LA RESIDENZA DEL GRANDUCA",
+    "description": "",
+    "address": "Via Cesare Battisti 1297 - 51015 Monsummano Terme (PT)",
+    "streetAddress": "Via Cesare Battisti 1297",
+    "postalCode": "51015",
+    "addressLocality": "Monsummano Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.85879,
+        "lon": 10.80586
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 950057"
+    ],
+    "rating": "5.0"
+}

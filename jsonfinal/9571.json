@@ -1,0 +1,21 @@
+{
+    "name": "ENOSCARTECA BAR DI LAZZERINI OSCAR",
+    "description": "",
+    "address": "13, Via Forini - 51016 Montecatini Terme (PT)",
+    "streetAddress": "13, Via Forini",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8848,
+        "lon": 10.7604
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "349 1260073",
+        "0572 75839"
+    ],
+    "rating": ""
+}

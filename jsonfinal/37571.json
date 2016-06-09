@@ -1,0 +1,20 @@
+{
+    "name": "CUCINERIA LA MATTONAIA",
+    "description": "",
+    "address": "Via Della Mattonaia 19 - 50121 Firenze (FI)",
+    "streetAddress": "Via Della Mattonaia 19",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77242,
+        "lon": 11.26843
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3860564"
+    ],
+    "rating": ""
+}

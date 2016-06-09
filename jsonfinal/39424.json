@@ -1,0 +1,20 @@
+{
+    "name": "LA BOTTEGA DELL'ARTE",
+    "description": "",
+    "address": "4, Piazzetta Dell Ortaggio - 51100 Pistoia (PT)",
+    "streetAddress": "4, Piazzetta Dell Ortaggio",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93248,
+        "lon": 10.91689
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 359044"
+    ],
+    "rating": ""
+}

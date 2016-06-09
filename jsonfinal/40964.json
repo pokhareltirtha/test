@@ -1,0 +1,20 @@
+{
+    "name": "LA BEPPA FIORAIA",
+    "description": "",
+    "address": "6, Via Dell Erta Canina - 50125 Firenze (FI)",
+    "streetAddress": "6, Via Dell Erta Canina",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76264,
+        "lon": 11.26089
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2347681"
+    ],
+    "rating": "3.7"
+}

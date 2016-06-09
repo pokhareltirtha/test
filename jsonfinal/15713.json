@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA DI BARBAROLO",
+    "description": "",
+    "address": "Via Barbarolo, 8 (Frazione Di Barbarolo) - 40050 Loiano (BO)",
+    "streetAddress": "Via Barbarolo, 8 (Frazione Di Barbarolo)",
+    "postalCode": "40050",
+    "addressLocality": "Loiano",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.29789,
+        "lon": 11.34239
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "051 801690"
+    ],
+    "rating": ""
+}

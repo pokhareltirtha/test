@@ -1,0 +1,21 @@
+{
+    "name": "TULLIO",
+    "description": "",
+    "address": "48, Via Ontignano - 50014 Fiesole (FI)",
+    "streetAddress": "48, Via Ontignano",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79699,
+        "lon": 11.33378
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 697354",
+        "055 697799"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "CI RITORNO",
+    "description": "",
+    "address": "12, Viale Quattro Novembre - 56025 Pontedera (PI)",
+    "streetAddress": "12, Viale Quattro Novembre",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.6604,
+        "lon": 10.63704
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "348 5954854",
+        "0587 294177"
+    ],
+    "rating": ""
+}

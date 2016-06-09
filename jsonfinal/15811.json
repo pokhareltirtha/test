@@ -1,0 +1,20 @@
+{
+    "name": "MONTE A PESCIA DA PALMIRA",
+    "description": "",
+    "address": "1, Via Del Monte Ovest - 51017 Monte A Pescia (PT)",
+    "streetAddress": "1, Via Del Monte Ovest",
+    "postalCode": "51017",
+    "addressLocality": "Monte A Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.91041,
+        "lon": 10.67814
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 490000"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA VILLA GOLINI",
+    "description": "Una villa situata in una fantastica zona collinare, per cerimonie, feste e banchetti, a Riolo Terme (RA).",
+    "address": "78, V. Bologna - 48025 Riolo Terme (RA)",
+    "streetAddress": "78, V. Bologna",
+    "postalCode": "48025",
+    "addressLocality": "Riolo Terme",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.27652,
+        "lon": 11.74812
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 71867"
+    ],
+    "rating": ""
+}

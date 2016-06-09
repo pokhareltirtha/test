@@ -1,0 +1,20 @@
+{
+    "name": "IL RIFUGIO DEI GOLOSI",
+    "description": "",
+    "address": "2, Via Raggio - 48025 Riolo Terme (RA)",
+    "streetAddress": "2, Via Raggio",
+    "postalCode": "48025",
+    "addressLocality": "Riolo Terme",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.31035,
+        "lon": 11.67107
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 74352"
+    ],
+    "rating": ""
+}

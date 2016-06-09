@@ -1,0 +1,20 @@
+{
+    "name": "GO PIZZA S.N.C.",
+    "description": "",
+    "address": "45/Ab, Via Del Palazzo Dei Diavoli - 50142 Firenze (FI)",
+    "streetAddress": "45/Ab, Via Del Palazzo Dei Diavoli",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77449,
+        "lon": 11.22026
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 717170"
+    ],
+    "rating": ""
+}

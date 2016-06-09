@@ -1,0 +1,20 @@
+{
+    "name": "CINQUE DI VINO",
+    "description": "",
+    "address": "32, Viale San Francesco D'Assisi - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": "32, Viale San Francesco D'Assisi",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.65798,
+        "lon": 11.18255
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8228116"
+    ],
+    "rating": "5.0"
+}

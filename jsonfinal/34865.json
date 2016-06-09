@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA 4 LEONI srl",
+    "description": "Ristorante 4 Leoni, tipica trattoria toscana a Firenze in v. Vellutini (p. della Passera), dov'è possibile gustare i piatti tipici della cucina toscana.",
+    "address": "1/R, V. Vellutini (P. Della Passera) - 50125 Firenze (FI)",
+    "streetAddress": "1/R, V. Vellutini (P. Della Passera)",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76723,
+        "lon": 11.25007
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 218562"
+    ],
+    "rating": "4.2"
+}

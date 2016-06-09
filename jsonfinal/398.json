@@ -1,0 +1,21 @@
+{
+    "name": "C'ERA UNA VOLTA",
+    "description": "",
+    "address": "11, Via Certaldese - 50025 Lucardo (FI)",
+    "streetAddress": "11, Via Certaldese",
+    "postalCode": "50025",
+    "addressLocality": "Lucardo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.59762,
+        "lon": 11.11586
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 669578",
+        "0571 669364"
+    ],
+    "rating": ""
+}

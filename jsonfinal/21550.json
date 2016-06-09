@@ -1,0 +1,21 @@
+{
+    "name": "IL GUSCIO",
+    "description": "",
+    "address": "49, Via Dell Orto - 50124 Firenze (FI)",
+    "streetAddress": "49, Via Dell Orto",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7691,
+        "lon": 11.24049
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 224421",
+        "055 223220"
+    ],
+    "rating": "4.0"
+}

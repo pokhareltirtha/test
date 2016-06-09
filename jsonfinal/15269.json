@@ -1,0 +1,20 @@
+{
+    "name": "IL PAIOLO",
+    "description": "",
+    "address": "42  Via Del Corso - Firenze (FI)",
+    "streetAddress": "42, Via Del Corso",
+    "postalCode": "",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7715,
+        "lon": 11.2556
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 215019"
+    ],
+    "rating": "5.0"
+}

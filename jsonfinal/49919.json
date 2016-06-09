@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA RISTORANTE YURI",
+    "description": "",
+    "address": "730, Via Comunale Tiglio - 55012 Capannori (LU)",
+    "streetAddress": "730, Via Comunale Tiglio",
+    "postalCode": "55012",
+    "addressLocality": "Capannori",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.77569,
+        "lon": 10.60014
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 979261"
+    ],
+    "rating": ""
+}

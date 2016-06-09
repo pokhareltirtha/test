@@ -1,0 +1,22 @@
+{
+    "name": "LA STRADA",
+    "description": "",
+    "address": "109, Via Vittorio Emanuele - 50041 Calenzano (FI)",
+    "streetAddress": "109, Via Vittorio Emanuele",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84575,
+        "lon": 11.17834
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8826120",
+        "055 8826166"
+    ],
+    "rating": ""
+}

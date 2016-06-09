@@ -1,0 +1,20 @@
+{
+    "name": "IL GIOGO",
+    "description": "",
+    "address": "47, Localita Cerliano - 50038 Scarperia E San Piero (FI)",
+    "streetAddress": "47, Localita Cerliano",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia E San Piero",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.01826,
+        "lon": 11.36404
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8468320"
+    ],
+    "rating": ""
+}

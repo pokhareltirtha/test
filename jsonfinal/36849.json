@@ -1,0 +1,20 @@
+{
+    "name": "NARDINI",
+    "description": "",
+    "address": "6, Via Nardini - 51035 Nardini (PT)",
+    "streetAddress": "6, Via Nardini",
+    "postalCode": "51035",
+    "addressLocality": "Nardini",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.84253,
+        "lon": 10.91174
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 88366"
+    ],
+    "rating": ""
+}

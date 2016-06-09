@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE FORASSIEPI",
+    "description": "Ristorante Forassiepi, ristorante di Qualità a Montecarlo, in grado di offrire la buona cucina in un'ambiente accogliente ed elegante.",
+    "address": "1, V. Della Contea - 55015 Montecarlo (LU)",
+    "streetAddress": "1, V. Della Contea",
+    "postalCode": "55015",
+    "addressLocality": "Montecarlo",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.85127,
+        "lon": 10.66874
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 229475"
+    ],
+    "rating": ""
+}

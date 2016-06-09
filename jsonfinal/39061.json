@@ -1,0 +1,21 @@
+{
+    "name": "IL RUSTICO",
+    "description": "",
+    "address": "2, Piazza Giuseppe Garibaldi - 50038 Scarperia (FI)",
+    "streetAddress": "2, Piazza Giuseppe Garibaldi",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.99446,
+        "lon": 11.35401
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8430864",
+        "055 8469992"
+    ],
+    "rating": ""
+}

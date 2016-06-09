@@ -1,0 +1,20 @@
+{
+    "name": "PIZZ'ARTE LUCA'NA DI LUCA DIGIOIA",
+    "description": "",
+    "address": "11/R, Via Del Prete Carlo - 50127 Firenze (FI)",
+    "streetAddress": "11/R, Via Del Prete Carlo",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79489,
+        "lon": 11.23307
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 410316"
+    ],
+    "rating": ""
+}

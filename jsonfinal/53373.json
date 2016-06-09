@@ -1,0 +1,20 @@
+{
+    "name": "CRAZY PIZZA",
+    "description": "",
+    "address": "6, Via Santa Trinita - 59100 Prato (PO)",
+    "streetAddress": "6, Via Santa Trinita",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.8787,
+        "lon": 11.09549
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 29679"
+    ],
+    "rating": "4.7"
+}

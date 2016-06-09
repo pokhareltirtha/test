@@ -1,0 +1,21 @@
+{
+    "name": "PIN GUSTO FIRENZE SRL",
+    "description": "",
+    "address": "11, Piazza Annigoni Pietro - 50122 Firenze (FI)",
+    "streetAddress": "11, Piazza Annigoni Pietro",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77037,
+        "lon": 11.26834
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2344397",
+        "055 2638131"
+    ],
+    "rating": "4.7"
+}

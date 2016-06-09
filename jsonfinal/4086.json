@@ -1,0 +1,20 @@
+{
+    "name": "HELLO SAJID DONER KEBAB snc",
+    "description": "Da Hello Sajid Doner Kebab Snc, P.zza Batoni 10 a Firenze, trovi il miglior kebab per farcire i panini, la piadina oppure altre specialità indiane.",
+    "address": "10, P. Batoni - 50142 Firenze (FI)",
+    "streetAddress": "10, P. Batoni",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77389,
+        "lon": 11.22123
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "320 1519447"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "ROCCIARELLI",
+    "description": "",
+    "address": "16, Piazza Del Popolo - 51016 Montecatini Terme (PT)",
+    "streetAddress": "16, Piazza Del Popolo",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88299,
+        "lon": 10.77098
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 773008"
+    ],
+    "rating": ""
+}

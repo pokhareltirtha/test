@@ -1,0 +1,21 @@
+{
+    "name": "GANDHI FLORENCE",
+    "description": "",
+    "address": "Via IL Prato, 38r - 50123 Firenze (FI)",
+    "streetAddress": "Via IL Prato, 38r",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77545,
+        "lon": 11.2427
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2647519",
+        "055 2654474"
+    ],
+    "rating": ""
+}

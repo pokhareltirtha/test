@@ -1,0 +1,20 @@
+{
+    "name": "IL TERZO CERCHIO",
+    "description": "",
+    "address": "77, Via Della Casella - 50142 Firenze (FI)",
+    "streetAddress": "77, Via Della Casella",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77259,
+        "lon": 11.19164
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 783330"
+    ],
+    "rating": "4.4"
+}

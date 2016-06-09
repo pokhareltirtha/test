@@ -1,0 +1,20 @@
+{
+    "name": "MR PIZZA",
+    "description": "",
+    "address": "82, Via Pietrapiana - 50121 Firenze (FI)",
+    "streetAddress": "82, Via Pietrapiana",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77144,
+        "lon": 11.26289
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 3860311"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA TRATTORIA VESUVIO",
+    "description": "",
+    "address": "91, Viale Antonio Pacinotti - 51100 Pistoia (PT)",
+    "streetAddress": "91, Viale Antonio Pacinotti",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92968,
+        "lon": 10.90758
+    },
+    "categories": [
+        "Ristoranti - trattorie ed osterie"
+    ],
+    "telephone": [
+        "0573 1941611"
+    ],
+    "rating": ""
+}

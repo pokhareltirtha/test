@@ -1,0 +1,21 @@
+{
+    "name": "FIRENA FIRENZE",
+    "description": "",
+    "address": "76/R, Via Dei Neri - 50122 Firenze (FI)",
+    "streetAddress": "76/R, Via Dei Neri",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76853,
+        "lon": 11.25723
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "320 5304115",
+        "055 9063912"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA TINAIA DI FISCHIETTI PASQUALE",
+    "description": "",
+    "address": "9, Via S. Filippo - 50058 Signa (FI)",
+    "streetAddress": "9, Via S. Filippo",
+    "postalCode": "50058",
+    "addressLocality": "Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80025,
+        "lon": 11.07299
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 875746"
+    ],
+    "rating": ""
+}

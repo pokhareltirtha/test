@@ -1,0 +1,20 @@
+{
+    "name": "BAR PIZZERIA LE ROCCE",
+    "description": "",
+    "address": "365, Via Bisenzio - 59024 Mercatale (PO)",
+    "streetAddress": "365, Via Bisenzio",
+    "postalCode": "59024",
+    "addressLocality": "Mercatale",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 44.04722,
+        "lon": 11.15279
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 938142"
+    ],
+    "rating": ""
+}

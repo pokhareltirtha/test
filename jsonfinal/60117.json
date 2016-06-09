@@ -1,0 +1,20 @@
+{
+    "name": "MITHIKO",
+    "description": "",
+    "address": "26/R, Piazza Gaddi Taddeo - 50142 Firenze (FI)",
+    "streetAddress": "26/R, Piazza Gaddi Taddeo",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77363,
+        "lon": 11.23319
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 714697"
+    ],
+    "rating": ""
+}

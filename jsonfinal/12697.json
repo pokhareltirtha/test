@@ -1,0 +1,20 @@
+{
+    "name": "CASTELLO DI VILLANOVA",
+    "description": "Il castello di Barberino di Mugello è la location perfetta per l'organizzazione di esclusivi ricevimenti.",
+    "address": "Loc. Le Maschere - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "Loc. Le Maschere",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.00666,
+        "lon": 11.23791
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8420051"
+    ],
+    "rating": ""
+}

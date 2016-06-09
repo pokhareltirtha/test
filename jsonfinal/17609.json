@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA LE CAVE DI MAIANO",
+    "description": "La Trattoria Le Cave Di Maiano di Fiesole (FI) 16, v. Cave Di Maiano. Propone la cucina come da migliore tradizione toscana.",
+    "address": "16, V. Cave Di Maiano - 50014 Fiesole (FI)",
+    "streetAddress": "16, V. Cave Di Maiano",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79636,
+        "lon": 11.30732
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 59133"
+    ],
+    "rating": ""
+}

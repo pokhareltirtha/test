@@ -1,0 +1,22 @@
+{
+    "name": "L'ANTICA BADIA RISTORANTE PIZZERIA",
+    "description": "L'Antica Badia è un ristorante pizzeria di Firenze che offre ai propri ospiti gustosi piatti preparati con ingredienti genuini.",
+    "address": "342/A, V. Faentina - 50133 Firenze (FI)",
+    "streetAddress": "342/A, V. Faentina",
+    "postalCode": "50133",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79917,
+        "lon": 11.2755
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "327 7741591",
+        "055 5002153"
+    ],
+    "rating": "4.0"
+}

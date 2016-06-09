@@ -1,0 +1,20 @@
+{
+    "name": "KOKUSAI SUSHI & GRILL RISTORANTE GIAPPONESE",
+    "description": "",
+    "address": "90, Via Lucchese - 50019 Osmannoro (FI)",
+    "streetAddress": "90, Via Lucchese",
+    "postalCode": "50019",
+    "addressLocality": "Osmannoro",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80601,
+        "lon": 11.17994
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 308113"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL FERIOLO",
+    "description": "",
+    "address": "Via Faentina, 32 Loc. Mulinaccio - Olmo - 50014 Olmo (FI)",
+    "streetAddress": "Via Faentina, 32 Loc. Mulinaccio - Olmo",
+    "postalCode": "50014",
+    "addressLocality": "Olmo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85813,
+        "lon": 11.33658
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8409928"
+    ],
+    "rating": ""
+}

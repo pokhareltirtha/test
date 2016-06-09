@@ -1,0 +1,21 @@
+{
+    "name": "IL SANTINO",
+    "description": "",
+    "address": "60, Via Santo Spirito - 50125 Firenze (FI)",
+    "streetAddress": "60, Via Santo Spirito",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76901,
+        "lon": 11.2468
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2302820",
+        "055 2655764"
+    ],
+    "rating": ""
+}

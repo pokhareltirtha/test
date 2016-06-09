@@ -1,0 +1,21 @@
+{
+    "name": "LA SVOLTA srl A SOCIO UNICO",
+    "description": "Il Ristorante Nello, nello storico locale di San Casciano Val di Pesa, offre tutte le specialità per accontentare tutti i palati.",
+    "address": "66, V. IV Novembre - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": "66, V. IV Novembre",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.65744,
+        "lon": 11.18667
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 820163",
+        "339 7397535"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LA BENDIGA",
+    "description": "",
+    "address": "1, Via Firenze - 40048 San Benedetto Val Di Sambro (BO)",
+    "streetAddress": "1, Via Firenze",
+    "postalCode": "40048",
+    "addressLocality": "San Benedetto Val Di Sambro",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.20036,
+        "lon": 11.26015
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0534 677332"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA BAITA",
+    "description": "",
+    "address": "Via Marlianese 72 - 51010 Massa E Cozzile (PT)",
+    "streetAddress": "Via Marlianese 72",
+    "postalCode": "51010",
+    "addressLocality": "Massa E Cozzile",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.91933,
+        "lon": 10.7695
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 698010",
+        "348 3324909"
+    ],
+    "rating": ""
+}

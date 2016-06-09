@@ -1,0 +1,20 @@
+{
+    "name": "I GEMELLI",
+    "description": "",
+    "address": "15, Via Ugo Foscolo - 51016 Montecatini Terme (PT)",
+    "streetAddress": "15, Via Ugo Foscolo",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87847,
+        "lon": 10.7746
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 71229"
+    ],
+    "rating": ""
+}

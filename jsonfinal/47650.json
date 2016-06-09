@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA IL SIGNORE DEI DRAGHI",
+    "description": "",
+    "address": "23, Via La Pira Giorgio - 51100 Pistoia (PT)",
+    "streetAddress": "23, Via La Pira Giorgio",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94196,
+        "lon": 10.92982
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "334 2731242"
+    ],
+    "rating": "5.0"
+}

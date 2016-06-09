@@ -1,0 +1,20 @@
+{
+    "name": "LA PECORA NERA",
+    "description": "",
+    "address": "Via Tosco Romagnola Est - 56028 San Miniato (PI)",
+    "streetAddress": "Via Tosco Romagnola Est",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69139,
+        "lon": 10.83441
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 43899"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA E COMPANATICO DI PACI PAOLO",
+    "description": "",
+    "address": "8, Piazza Don Armido Pollai - 50058 Signa (FI)",
+    "streetAddress": "8, Piazza Don Armido Pollai",
+    "postalCode": "50058",
+    "addressLocality": "Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79726,
+        "lon": 11.12618
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8739685"
+    ],
+    "rating": ""
+}

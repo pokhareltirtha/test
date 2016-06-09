@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE GIAPPONESE ITACHO SUSHI",
+    "description": "Il Ristorante Giapponese Itacho Sushi, a Firenze in Via Ponte Mosse, offre un menu delizioso di gustose pietanze giapponesi e thailandesi.",
+    "address": "9/R, V. Ponte Mosse - 50144 Firenze (FI)",
+    "streetAddress": "9/R, V. Ponte Mosse",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77833,
+        "lon": 11.23947
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 355061"
+    ],
+    "rating": "4.1"
+}

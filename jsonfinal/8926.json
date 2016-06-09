@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA DELL STELLINI",
+    "description": "",
+    "address": "3, Piazza Giacomo Matteotti - 55011 Marginone (LU)",
+    "streetAddress": "3, Piazza Giacomo Matteotti",
+    "postalCode": "55011",
+    "addressLocality": "Marginone",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.8376,
+        "lon": 10.69116
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 286005"
+    ],
+    "rating": ""
+}

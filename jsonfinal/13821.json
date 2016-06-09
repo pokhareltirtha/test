@@ -1,0 +1,20 @@
+{
+    "name": "LA TRATTORIA DEL PESCE",
+    "description": "",
+    "address": "124, Via Cassa Per Siena - 50026 Bargino (FI)",
+    "streetAddress": "124, Via Cassa Per Siena",
+    "postalCode": "50026",
+    "addressLocality": "Bargino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61523,
+        "lon": 11.19047
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8249045"
+    ],
+    "rating": ""
+}

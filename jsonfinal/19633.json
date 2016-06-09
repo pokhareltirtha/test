@@ -1,0 +1,20 @@
+{
+    "name": "GIORDAN SRL",
+    "description": "",
+    "address": "15, Via Delle Oche - 50122 Firenze (FI)",
+    "streetAddress": "15, Via Delle Oche",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7722,
+        "lon": 11.25626
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 210698"
+    ],
+    "rating": ""
+}

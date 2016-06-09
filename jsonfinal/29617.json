@@ -1,0 +1,20 @@
+{
+    "name": "SOLE ROSSO",
+    "description": "",
+    "address": "24, Localita Ferrantina - 52011 Bibbiena (AR)",
+    "streetAddress": "24, Localita Ferrantina",
+    "postalCode": "52011",
+    "addressLocality": "Bibbiena",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.69329,
+        "lon": 11.8108
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 536326"
+    ],
+    "rating": ""
+}

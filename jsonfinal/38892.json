@@ -1,0 +1,20 @@
+{
+    "name": "LA FONTE DI NALIA",
+    "description": "",
+    "address": "219, Via Di Barberino - 50041 Pontenuovo (FI)",
+    "streetAddress": "219, Via Di Barberino",
+    "postalCode": "50041",
+    "addressLocality": "Pontenuovo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.9239,
+        "lon": 11.21044
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8876893"
+    ],
+    "rating": ""
+}

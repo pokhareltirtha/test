@@ -1,0 +1,20 @@
+{
+    "name": "BAR TRATTORIA PIZZERIA QUERCETO",
+    "description": "",
+    "address": "337, Via Idice - 40050 Monterenzio (BO)",
+    "streetAddress": "337, Via Idice",
+    "postalCode": "40050",
+    "addressLocality": "Monterenzio",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.25839,
+        "lon": 11.37971
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "051 920028"
+    ],
+    "rating": ""
+}

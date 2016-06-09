@@ -1,0 +1,21 @@
+{
+    "name": "ALESSANDRO",
+    "description": "",
+    "address": "9, Via Montalese - 51100 Pistoia (PT)",
+    "streetAddress": "9, Via Montalese",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94195,
+        "lon": 10.97971
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 479715",
+        "377 2890477"
+    ],
+    "rating": ""
+}

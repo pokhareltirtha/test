@@ -1,0 +1,22 @@
+{
+    "name": "LA TAVERNETTA",
+    "description": "",
+    "address": "139, Via Tosco Romagnola - 56012 Fornacette (PI)",
+    "streetAddress": "139, Via Tosco Romagnola",
+    "postalCode": "56012",
+    "addressLocality": "Fornacette",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.6703,
+        "lon": 10.58355
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 420290",
+        "347 2986488"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "NELLO",
+    "description": "",
+    "address": "64, Via 4 Novembre - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": "64, Via 4 Novembre",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.65743,
+        "lon": 11.18664
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 820163"
+    ],
+    "rating": ""
+}

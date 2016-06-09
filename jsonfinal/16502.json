@@ -1,0 +1,20 @@
+{
+    "name": "ALBERGO TRATTORIA LOCANDA DA RINO'",
+    "description": "L'Albergo Trattoria Ristorante da Rino accoglie la propria clientela in un ambiente familiare e confortevole a Porcari (LU).",
+    "address": "23, V. Pacini - 55016 Porcari (LU)",
+    "streetAddress": "23, V. Pacini",
+    "postalCode": "55016",
+    "addressLocality": "Porcari",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.84074,
+        "lon": 10.61479
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 299377"
+    ],
+    "rating": ""
+}

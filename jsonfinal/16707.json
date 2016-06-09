@@ -1,0 +1,22 @@
+{
+    "name": "D'ANTONIO",
+    "description": "",
+    "address": "161, Via Provinciale Vicarese - 56035 Casciana Terme Lari (PI)",
+    "streetAddress": "161, Via Provinciale Vicarese",
+    "postalCode": "56035",
+    "addressLocality": "Casciana Terme Lari",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.56549,
+        "lon": 10.59331
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 710430",
+        "050 702001"
+    ],
+    "rating": "5.0"
+}

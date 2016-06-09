@@ -1,0 +1,20 @@
+{
+    "name": "PIZZINO CAFFÈ - CASUAL FOOD",
+    "description": "Colazione, toast gourmet, casual food, dinner, breakfast, lunch, caffè and pizza to go a firenze, nei pressi di santo spirito.",
+    "address": "2/R, V. Maggio - 50125 Firenze (FI)",
+    "streetAddress": "2/R, V. Maggio",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7681,
+        "lon": 11.24971
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 286651"
+    ],
+    "rating": "4.0"
+}

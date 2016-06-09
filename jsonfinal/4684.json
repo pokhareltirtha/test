@@ -1,0 +1,21 @@
+{
+    "name": "HOTEL HERMITAGE srl",
+    "description": "A Poggio a Caiano l’hotel Hermitage fuori città a due passi delle più famose mete turistiche toscane, ottimo ristorante, piscina e bar a vostra disposizione.",
+    "address": "112, V. Ginepraia - 59016 Poggio A Caiano (PO)",
+    "streetAddress": "112, V. Ginepraia",
+    "postalCode": "59016",
+    "addressLocality": "Poggio A Caiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.81717,
+        "lon": 11.04363
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 877244",
+        "055 877040"
+    ],
+    "rating": "4.5"
+}

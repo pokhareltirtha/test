@@ -1,0 +1,20 @@
+{
+    "name": "VILLA MAYA",
+    "description": "Per organizzare eventi e ricorrenze, Hotel Villa Maya offre una splendida location a Cascina (PI) con una villa del Novecento completamente ristrutturata.",
+    "address": "14, V. Piccina - 56021 Latignano (PI)",
+    "streetAddress": "14, V. Piccina",
+    "postalCode": "56021",
+    "addressLocality": "Latignano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.65024,
+        "lon": 10.55519
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 780463"
+    ],
+    "rating": "5.0"
+}

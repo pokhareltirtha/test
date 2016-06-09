@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA A COLONNATA",
+    "description": "",
+    "address": "10, Via Ginori - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "10, Via Ginori",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83921,
+        "lon": 11.20898
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4421227"
+    ],
+    "rating": ""
+}

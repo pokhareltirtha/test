@@ -1,0 +1,20 @@
+{
+    "name": "SERVICE TOUR & FOOD S.R.L.",
+    "description": "",
+    "address": "58, Via Berignano - 53037 San Gimignano (SI)",
+    "streetAddress": "58, Via Berignano",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.4654,
+        "lon": 11.04217
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 941307"
+    ],
+    "rating": ""
+}

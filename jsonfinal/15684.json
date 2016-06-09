@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA I MULINI",
+    "description": "",
+    "address": "14, Via Dei Mulini - 40050 Loiano (BO)",
+    "streetAddress": "14, Via Dei Mulini",
+    "postalCode": "40050",
+    "addressLocality": "Loiano",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.29724,
+        "lon": 11.29033
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "051 6550309"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LO SCOGLIO",
+    "description": "A Prato, il ristorante pizzeria Lo Scoglio ti delizia con fantastiche pizze e specialità a base di pesce freschissimo.",
+    "address": "45, V. Verdi - 59100 Prato (PO)",
+    "streetAddress": "45, V. Verdi",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88003,
+        "lon": 11.09983
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 22760"
+    ],
+    "rating": ""
+}

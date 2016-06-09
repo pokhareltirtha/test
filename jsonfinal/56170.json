@@ -1,0 +1,20 @@
+{
+    "name": "FIOR DI PIZZA DI MARTINI MICHELE & C SAS",
+    "description": "",
+    "address": "9/A, Via Rignano - 52011 Bibbiena (AR)",
+    "streetAddress": "9/A, Via Rignano",
+    "postalCode": "52011",
+    "addressLocality": "Bibbiena",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.70012,
+        "lon": 11.80533
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0575 536636"
+    ],
+    "rating": ""
+}

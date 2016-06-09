@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA CICALA 2",
+    "description": "",
+    "address": "54/56, Via Mazzei - 55011 Spianate (LU)",
+    "streetAddress": "54/56, Via Mazzei",
+    "postalCode": "55011",
+    "addressLocality": "Spianate",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.80947,
+        "lon": 10.71476
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 20844"
+    ],
+    "rating": ""
+}

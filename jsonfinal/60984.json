@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LA ROTONDA",
+    "description": "",
+    "address": "64, Via Antonio Gramsci - 51037 Montale (PT)",
+    "streetAddress": "64, Via Antonio Gramsci",
+    "postalCode": "51037",
+    "addressLocality": "Montale",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93612,
+        "lon": 11.02468
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "342 1796953"
+    ],
+    "rating": ""
+}

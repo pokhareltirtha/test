@@ -1,0 +1,20 @@
+{
+    "name": "HONG KONG",
+    "description": "",
+    "address": "47, Via Fabio Filzi - 59100 Prato (PO)",
+    "streetAddress": "47, Via Fabio Filzi",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88704,
+        "lon": 11.08521
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 611180"
+    ],
+    "rating": ""
+}

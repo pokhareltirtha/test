@@ -1,0 +1,20 @@
+{
+    "name": "FUNICULI'",
+    "description": "",
+    "address": "52, Piazza IV Novembre - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "52, Piazza IV Novembre",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8331,
+        "lon": 11.19875
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 440106"
+    ],
+    "rating": ""
+}

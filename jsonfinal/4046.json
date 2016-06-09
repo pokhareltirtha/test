@@ -1,0 +1,20 @@
+{
+    "name": "BAR RISTORANTE PIZZERIA SAN GIORGIO ALICE LUCCHESI",
+    "description": "",
+    "address": "13, Via San Giorgio - 59100 Prato (PO)",
+    "streetAddress": "13, Via San Giorgio",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.8829,
+        "lon": 11.09895
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 541498"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL PORCELLINO",
+    "description": "",
+    "address": "136, Viale Dei Mille - 50131 Firenze (FI)",
+    "streetAddress": "136, Viale Dei Mille",
+    "postalCode": "50131",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78392,
+        "lon": 11.27331
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 573919"
+    ],
+    "rating": ""
+}

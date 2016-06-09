@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE EDY PIU'",
+    "description": "Il Ristorante Edy Più coniuga alla perfezione gli eleganti ambienti quattrocenteschi ad una cucina raffinata e genuina, a Lastra a Signa (FI).",
+    "address": "94, V. Calcinaia - 50055 Lastra A Signa (FI)",
+    "streetAddress": "94, V. Calcinaia",
+    "postalCode": "50055",
+    "addressLocality": "Lastra A Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75974,
+        "lon": 11.10482
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8724562"
+    ],
+    "rating": "5.0"
+}

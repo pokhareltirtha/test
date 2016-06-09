@@ -1,0 +1,22 @@
+{
+    "name": "DA GRAZIANO",
+    "description": "",
+    "address": "39, Via Giacomo Matteott - 53037 San Gimignano (SI)",
+    "streetAddress": "39, Via Giacomo Matteott",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46209,
+        "lon": 11.03691
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 940655",
+        "0577 940101"
+    ],
+    "rating": ""
+}

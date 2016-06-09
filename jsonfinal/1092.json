@@ -1,0 +1,22 @@
+{
+    "name": "RISTORANTE PIZZERIA CHIANTI VILLAGE",
+    "description": "Ristorante e Resort a Tavarnelle Val di Pesa (FI) per gustare la cucina tipica toscana in un contesto naturale mozzafiato.",
+    "address": "V. Morrocco - 50028 Tavarnelle Val Di Pesa (FI)",
+    "streetAddress": "V. Morrocco",
+    "postalCode": "50028",
+    "addressLocality": "Tavarnelle Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.56022,
+        "lon": 11.20653
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "347 6130914",
+        "333 2187174"
+    ],
+    "rating": ""
+}

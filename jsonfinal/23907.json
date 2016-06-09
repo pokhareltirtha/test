@@ -1,0 +1,20 @@
+{
+    "name": "AL VECCHIO CONVENTO",
+    "description": "",
+    "address": "7, Via Roma - 47010 Portico Di Romagna (FC)",
+    "streetAddress": "7, Via Roma",
+    "postalCode": "47010",
+    "addressLocality": "Portico Di Romagna",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.02542,
+        "lon": 11.78223
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0543 967053"
+    ],
+    "rating": ""
+}

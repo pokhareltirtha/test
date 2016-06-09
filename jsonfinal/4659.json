@@ -1,0 +1,20 @@
+{
+    "name": "L'OFFICINA DEL GUSTO",
+    "description": "",
+    "address": "2, Via Sanesi Armido - 50055 Ponte A Signa (FI)",
+    "streetAddress": "2, Via Sanesi Armido",
+    "postalCode": "50055",
+    "addressLocality": "Ponte A Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77166,
+        "lon": 11.10163
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8720362"
+    ],
+    "rating": ""
+}

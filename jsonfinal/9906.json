@@ -1,0 +1,20 @@
+{
+    "name": "EUDANIA",
+    "description": "",
+    "address": "5, Borgo San Lazzero - 56048 Volterra (PI)",
+    "streetAddress": "5, Borgo San Lazzero",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.39922,
+        "lon": 10.86693
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 85132"
+    ],
+    "rating": ""
+}

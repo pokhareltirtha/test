@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA NINA DEI FRATELLI LAZZARESCHI & C. S.N.C.",
+    "description": "",
+    "address": "24, Via S. Martino - 55015 Montecarlo (LU)",
+    "streetAddress": "24, Via S. Martino",
+    "postalCode": "55015",
+    "addressLocality": "Montecarlo",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.85526,
+        "lon": 10.66454
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 22018"
+    ],
+    "rating": ""
+}

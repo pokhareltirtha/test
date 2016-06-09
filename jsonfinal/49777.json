@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA PIZZERIA LE QUATTROTORRI",
+    "description": "",
+    "address": "40, Via Polo Marco - 56031 Bientina (PI)",
+    "streetAddress": "40, Via Polo Marco",
+    "postalCode": "56031",
+    "addressLocality": "Bientina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70647,
+        "lon": 10.6184
+    },
+    "categories": [
+        "Ristoranti - trattorie ed osterie"
+    ],
+    "telephone": [
+        "0587 756162"
+    ],
+    "rating": ""
+}

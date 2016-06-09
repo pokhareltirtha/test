@@ -1,0 +1,21 @@
+{
+    "name": "MICHELANGELO",
+    "description": "",
+    "address": "11, Viale Fedeli - 51016 Montecatini Terme (PT)",
+    "streetAddress": "11, Viale Fedeli",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89248,
+        "lon": 10.77745
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 911700",
+        "0572 290089"
+    ],
+    "rating": ""
+}

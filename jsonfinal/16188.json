@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA IL FORNARETTO",
+    "description": "Se siete amanti della pizza in tutte le salse e in tutte le stagioni, Il Fornaretto è la tappa fissa di Ponsacco che fa per voi.",
+    "address": "12, P. Valli - 56038 Ponsacco (PI)",
+    "streetAddress": "12, P. Valli",
+    "postalCode": "56038",
+    "addressLocality": "Ponsacco",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.62306,
+        "lon": 10.62983
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 732012"
+    ],
+    "rating": "5.0"
+}

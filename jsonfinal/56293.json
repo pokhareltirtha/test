@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA PIZZERIA I'GRULLO",
+    "description": "A Firenze il ristorante pizzeria I'Grullo che vi delizierà con specialità ed antiche ricette della cucina toscana in 51/r, v. Servi - 50122 Firenze (FI).",
+    "address": "51/R, V. Servi - 50122 Firenze (FI)",
+    "streetAddress": "51/R, V. Servi",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77539,
+        "lon": 11.25933
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 280802"
+    ],
+    "rating": ""
+}

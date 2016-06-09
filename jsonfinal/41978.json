@@ -1,0 +1,21 @@
+{
+    "name": "AGRITURISMO CORTE DI VALLE",
+    "description": "A Greve in Chianti, in provincia di Firenze, si trova l'agriturismo che offre soggiorni a contatto con la natura e all'insegna del relax.",
+    "address": "28, V. Vicchiomaggio (Loc. Le Bolle) - 50022 Greve In Chianti (FI)",
+    "streetAddress": "28, V. Vicchiomaggio (Loc. Le Bolle)",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61299,
+        "lon": 11.29811
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 853939",
+        "335 332883"
+    ],
+    "rating": "5.0"
+}

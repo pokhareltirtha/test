@@ -1,0 +1,21 @@
+{
+    "name": "E CHE PIZZA",
+    "description": "",
+    "address": "8, Via Castelfidardo - 50137 Firenze (FI)",
+    "streetAddress": "8, Via Castelfidardo",
+    "postalCode": "50137",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78105,
+        "lon": 11.28812
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 6120934",
+        "055 602791"
+    ],
+    "rating": "1.0"
+}

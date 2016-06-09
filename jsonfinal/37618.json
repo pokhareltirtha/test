@@ -1,0 +1,20 @@
+{
+    "name": "MASTROBULLETTA",
+    "description": "",
+    "address": "27, Via Cento Stelle - 50137 Firenze (FI)",
+    "streetAddress": "27, Via Cento Stelle",
+    "postalCode": "50137",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78295,
+        "lon": 11.28579
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 571275"
+    ],
+    "rating": "4.5"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PACCHIETTI ANTONELLA",
+    "description": "",
+    "address": "19, Via Marconi Guglielmo - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "19, Via Marconi Guglielmo",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.95538,
+        "lon": 11.38452
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8459335"
+    ],
+    "rating": ""
+}

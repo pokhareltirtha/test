@@ -1,0 +1,20 @@
+{
+    "name": "LA TORRE",
+    "description": "",
+    "address": "8, Piazza Giusti - 51016 Montecatini Alto (PT)",
+    "streetAddress": "8, Piazza Giusti",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Alto",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89661,
+        "lon": 10.78941
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 70650"
+    ],
+    "rating": ""
+}

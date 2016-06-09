@@ -1,0 +1,20 @@
+{
+    "name": "JIN CHUNCHU",
+    "description": "",
+    "address": "63/65, Via Righi Augusto - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "63/65, Via Righi Augusto",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80634,
+        "lon": 11.18285
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 317147"
+    ],
+    "rating": ""
+}

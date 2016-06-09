@@ -1,0 +1,20 @@
+{
+    "name": "PRONTO PIZZA - PIZZA A CASA PIZZA DA ASPORTO E DOMICILIO",
+    "description": "",
+    "address": "Via Filippo Degli Ugoni 1/R - 50126 Firenze (FI)",
+    "streetAddress": "Via Filippo Degli Ugoni 1/R",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76154,
+        "lon": 11.2884
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 6800009"
+    ],
+    "rating": ""
+}

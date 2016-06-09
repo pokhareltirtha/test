@@ -1,0 +1,20 @@
+{
+    "name": "L'OSTE SRL",
+    "description": "",
+    "address": "Via Di Capalle - 50041 Calenzano (FI)",
+    "streetAddress": "Via Di Capalle",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85388,
+        "lon": 11.1494
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 882352"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "LA MANGIATOIA SNC",
+    "description": "",
+    "address": "8/9/R, Piazza S. Felice - 50125 Firenze (FI)",
+    "streetAddress": "8/9/R, Piazza S. Felice",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76499,
+        "lon": 11.24784
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 224060",
+        "055 2335695"
+    ],
+    "rating": ""
+}

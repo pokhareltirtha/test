@@ -1,0 +1,20 @@
+{
+    "name": "LA CAPANNA",
+    "description": "",
+    "address": "112, Via Camillo Benso Conte Di Cavour - 50129 Firenze (FI)",
+    "streetAddress": "112, Via Camillo Benso Conte Di Cavour",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77755,
+        "lon": 11.25791
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 210095"
+    ],
+    "rating": ""
+}

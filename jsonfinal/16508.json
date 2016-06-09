@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA DEA PARTENOPE",
+    "description": "Alta qualità nei cibi proposti nel ristorante a Cascina (PI). Qui potrete ordinare piatti a base di carne o di pesce.",
+    "address": "131, V. Nazario Sauro - 56021 Cascina (PI)",
+    "streetAddress": "131, V. Nazario Sauro",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66536,
+        "lon": 10.54155
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "393 5655422"
+    ],
+    "rating": ""
+}

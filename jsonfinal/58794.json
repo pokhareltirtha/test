@@ -1,0 +1,21 @@
+{
+    "name": "ALBERGO PIZZERIA OSTERIA BELLAVISTA srl",
+    "description": "L'albergo offre un ambiente caldo e confortevole, elegante e tranquillo. A Lamporecchio (PT).",
+    "address": "61, V. Provinciale Montalbano - 51035 Lamporecchio (PT)",
+    "streetAddress": "61, V. Provinciale Montalbano",
+    "postalCode": "51035",
+    "addressLocality": "Lamporecchio",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83503,
+        "lon": 10.9197
+    },
+    "categories": [
+        "Alberghi"
+    ],
+    "telephone": [
+        "0573 88014",
+        "327 6831980"
+    ],
+    "rating": ""
+}

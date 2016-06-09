@@ -1,0 +1,21 @@
+{
+    "name": "HARD ROCK CAFE",
+    "description": "",
+    "address": "1, Via Brunelleschi - 50123 Firenze (FI)",
+    "streetAddress": "1, Via Brunelleschi",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77199,
+        "lon": 11.25358
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 277841",
+        "055 211186"
+    ],
+    "rating": "4.3"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE I SOLITI IGNOTI",
+    "description": "",
+    "address": "17, Via Roma - 50063 (FI)",
+    "streetAddress": "17, Via Roma",
+    "postalCode": "50063",
+    "addressLocality": "",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.62159,
+        "lon": 11.47114
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 958132"
+    ],
+    "rating": "4.3"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL DECANTER",
+    "description": "",
+    "address": "23, Via Ferdinando Carlesi - 59100 Prato (PO)",
+    "streetAddress": "23, Via Ferdinando Carlesi",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.90721,
+        "lon": 11.11548
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 475476"
+    ],
+    "rating": ""
+}

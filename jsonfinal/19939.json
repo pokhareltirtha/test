@@ -1,0 +1,20 @@
+{
+    "name": "ENOTRIA SNC",
+    "description": "",
+    "address": "50, Via Delle Porte Nuove - 50144 Firenze (FI)",
+    "streetAddress": "50, Via Delle Porte Nuove",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78157,
+        "lon": 11.23785
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 354350"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA LA BOTTEGA di PENNI GIANCARLO",
+    "description": "Ristorante Pizzeria La Bottega Di Penni, a Borgo San Lorenzo (FI) in via Grezzano 25, propone piatti locali, tortelli ripieni e cacciagione per veri buongustai.",
+    "address": "25, V. Grezzano - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "25, V. Grezzano",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.01288,
+        "lon": 11.40683
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8492526"
+    ],
+    "rating": ""
+}

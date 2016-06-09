@@ -1,0 +1,21 @@
+{
+    "name": "MISTER PIZZA DI SORRENTINO MICHELE",
+    "description": "",
+    "address": "49, Via Pisana - 53036 Poggibonsi (SI)",
+    "streetAddress": "49, Via Pisana",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.4728,
+        "lon": 11.1411
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 1601132",
+        "0577 981551"
+    ],
+    "rating": ""
+}

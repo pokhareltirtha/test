@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL MASSIMO",
+    "description": "",
+    "address": "60, Via Nazionale Corsalone - 52010 Chiusi Della Verna (AR)",
+    "streetAddress": "60, Via Nazionale Corsalone",
+    "postalCode": "52010",
+    "addressLocality": "Chiusi Della Verna",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.67699,
+        "lon": 11.83098
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 511049",
+        "0575 511330"
+    ],
+    "rating": ""
+}

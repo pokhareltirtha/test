@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA IL PALLAIO",
+    "description": "",
+    "address": "Via Pier Fortunato Calvi N° 2/R - 50137 Firenze (FI)",
+    "streetAddress": "Via Pier Fortunato Calvi N° 2/R",
+    "postalCode": "50137",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77441,
+        "lon": 11.28389
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 679304"
+    ],
+    "rating": "3.7"
+}

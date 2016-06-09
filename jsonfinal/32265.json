@@ -1,0 +1,20 @@
+{
+    "name": "FILETTO",
+    "description": "",
+    "address": "28, Piazza Tanucci - 52017 Stia (AR)",
+    "streetAddress": "28, Piazza Tanucci",
+    "postalCode": "52017",
+    "addressLocality": "Stia",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.80152,
+        "lon": 11.70675
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 583631"
+    ],
+    "rating": ""
+}

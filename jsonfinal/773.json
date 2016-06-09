@@ -1,0 +1,21 @@
+{
+    "name": "TRATTORIA DA GARIBARDI",
+    "description": "",
+    "address": "38, Piazza Del Mercato Centrale - 50123 Firenze (FI)",
+    "streetAddress": "38, Piazza Del Mercato Centrale",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77615,
+        "lon": 11.25429
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 212267"
+    ],
+    "rating": "4.0"
+}

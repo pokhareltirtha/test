@@ -1,0 +1,20 @@
+{
+    "name": "PRIMO PIANO",
+    "description": "",
+    "address": "49, Via Santa Maria Maddalena - 50063 Figline E Incisa Valdarno (FI)",
+    "streetAddress": "49, Via Santa Maria Maddalena",
+    "postalCode": "50063",
+    "addressLocality": "Figline E Incisa Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.69112,
+        "lon": 11.45188
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8330033"
+    ],
+    "rating": ""
+}

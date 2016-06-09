@@ -1,0 +1,22 @@
+{
+    "name": "ZOCCHI",
+    "description": "",
+    "address": "428, Via Fiorentina - 50036 Pratolino (FI)",
+    "streetAddress": "428, Via Fiorentina",
+    "postalCode": "50036",
+    "addressLocality": "Pratolino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.86118,
+        "lon": 11.29879
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4080970",
+        "055 409511"
+    ],
+    "rating": "4.2"
+}

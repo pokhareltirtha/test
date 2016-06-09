@@ -1,0 +1,20 @@
+{
+    "name": "PINI",
+    "description": "",
+    "address": "10, Via Della Madonna - 47018 Corniolo (FC)",
+    "streetAddress": "10, Via Della Madonna",
+    "postalCode": "47018",
+    "addressLocality": "Corniolo",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 43.90796,
+        "lon": 11.79402
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0543 980250"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA HAPPY DAYS DI CELLI PIETRO",
+    "description": "",
+    "address": "996, Via Pesciatina - 55012 Lappato (LU)",
+    "streetAddress": "996, Via Pesciatina",
+    "postalCode": "55012",
+    "addressLocality": "Lappato",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.88392,
+        "lon": 10.64812
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "340 9338526"
+    ],
+    "rating": ""
+}

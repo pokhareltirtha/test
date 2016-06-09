@@ -1,0 +1,20 @@
+{
+    "name": "CAPPONCINA S.R.L.",
+    "description": "",
+    "address": "Via Di S. Romano - 50135 Firenze (FI)",
+    "streetAddress": "Via Di S. Romano",
+    "postalCode": "50135",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78342,
+        "lon": 11.32268
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 697037"
+    ],
+    "rating": ""
+}

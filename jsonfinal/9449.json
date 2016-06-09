@@ -1,0 +1,20 @@
+{
+    "name": "MAAT CAVOUR",
+    "description": "Il Maat Cavour è un bar-caffetteria che offre ai clienti un’atmosfera fresca e gioviale in un locale accogliente, aperto a Pistoia sia a pranzo che a cena.",
+    "address": "41, V. Cavour - 51100 Pistoia (PT)",
+    "streetAddress": "41, V. Cavour",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93218,
+        "lon": 10.91715
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 21220"
+    ],
+    "rating": ""
+}

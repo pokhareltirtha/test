@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA DA SANDRINO SAS DI SANDRO NENCETTI & C.",
+    "description": "",
+    "address": "9/C, Via Di Rosano - 50065 Pontassieve (FI)",
+    "streetAddress": "9/C, Via Di Rosano",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77252,
+        "lon": 11.43319
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3921231"
+    ],
+    "rating": ""
+}

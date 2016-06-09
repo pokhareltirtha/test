@@ -1,0 +1,22 @@
+{
+    "name": "IL FONDACCIO",
+    "description": "",
+    "address": "Via Ferruccio, 27 - 53011 Castellina In Chianti (SI)",
+    "streetAddress": "Via Ferruccio, 27",
+    "postalCode": "53011",
+    "addressLocality": "Castellina In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46893,
+        "lon": 11.28743
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 742911",
+        "0577 741084"
+    ],
+    "rating": ""
+}

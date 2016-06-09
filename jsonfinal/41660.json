@@ -1,0 +1,20 @@
+{
+    "name": "ZIA EMILIA",
+    "description": "",
+    "address": "3, Via Del Crocino - 50063 Figline E Incisa Valdarno (FI)",
+    "streetAddress": "3, Via Del Crocino",
+    "postalCode": "50063",
+    "addressLocality": "Figline E Incisa Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.65336,
+        "lon": 11.39354
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8337829"
+    ],
+    "rating": ""
+}

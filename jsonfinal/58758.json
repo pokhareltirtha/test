@@ -1,0 +1,20 @@
+{
+    "name": "BENVENUTI AL SUD",
+    "description": "",
+    "address": "83, Viale Alessandro Guidoni - 50127 Firenze (FI)",
+    "streetAddress": "83, Viale Alessandro Guidoni",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79734,
+        "lon": 11.22127
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4476461"
+    ],
+    "rating": ""
+}

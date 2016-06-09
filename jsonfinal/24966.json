@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DEI GOLOSI",
+    "description": "",
+    "address": "105, Via Ponte Alle Mosse - 50144 Firenze (FI)",
+    "streetAddress": "105, Via Ponte Alle Mosse",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78176,
+        "lon": 11.23589
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 353339"
+    ],
+    "rating": "4.0"
+}

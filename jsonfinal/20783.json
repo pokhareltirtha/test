@@ -1,0 +1,21 @@
+{
+    "name": "PARCO DELLE STELLE SRL",
+    "description": "",
+    "address": "100, Localita' Borro Alle Cave - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "100, Localita' Borro Alle Cave",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.57045,
+        "lon": 11.59714
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "335 6279745",
+        "055 9705244"
+    ],
+    "rating": "5.0"
+}

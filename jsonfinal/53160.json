@@ -1,0 +1,20 @@
+{
+    "name": "IL  PIZZOTTO",
+    "description": "",
+    "address": "148, Via Burzagli Ammiraglio - 52025 Montevarchi (AR)",
+    "streetAddress": "148, Via Burzagli Ammiraglio",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.52977,
+        "lon": 11.56145
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9850353"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DORANDO'",
+    "description": "",
+    "address": "2, Via Dell' Oro - 53037 San Gimignano (SI)",
+    "streetAddress": "2, Via Dell' Oro",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46774,
+        "lon": 11.04386
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 941862"
+    ],
+    "rating": ""
+}

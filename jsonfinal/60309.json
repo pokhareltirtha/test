@@ -1,0 +1,20 @@
+{
+    "name": "CRISTALLO PATRIZIA",
+    "description": "",
+    "address": "40/R, Via Dei Neri - 50122 Firenze (FI)",
+    "streetAddress": "40/R, Via Dei Neri",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76809,
+        "lon": 11.25823
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 217718"
+    ],
+    "rating": ""
+}

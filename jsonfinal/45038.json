@@ -1,0 +1,20 @@
+{
+    "name": "PIAZZA GRANDE",
+    "description": "",
+    "address": "21, Via Del Castellare - 51017 Pescia (PT)",
+    "streetAddress": "21, Via Del Castellare",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88589,
+        "lon": 10.68002
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 4670"
+    ],
+    "rating": ""
+}

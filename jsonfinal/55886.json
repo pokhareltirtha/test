@@ -1,0 +1,20 @@
+{
+    "name": "EMMEGIERRE SRL",
+    "description": "",
+    "address": "5, Via Cini Luca - 50022 Greve In Chianti (FI)",
+    "streetAddress": "5, Via Cini Luca",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58277,
+        "lon": 11.31944
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8544617"
+    ],
+    "rating": "5.0"
+}

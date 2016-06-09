@@ -1,0 +1,20 @@
+{
+    "name": "LA MACELLERIA",
+    "description": "",
+    "address": "35, Via Matteo Palmieri - 50122 Firenze (FI)",
+    "streetAddress": "35, Via Matteo Palmieri",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77084,
+        "lon": 11.26095
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 245430"
+    ],
+    "rating": ""
+}

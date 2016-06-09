@@ -1,0 +1,21 @@
+{
+    "name": "FRANCESCAIOLI",
+    "description": "",
+    "address": "8, Piazza San Francesco D'Assisi - 59100 Prato (PO)",
+    "streetAddress": "8, Piazza San Francesco D'Assisi",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86961,
+        "lon": 11.09686
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 607499"
+    ],
+    "rating": ""
+}

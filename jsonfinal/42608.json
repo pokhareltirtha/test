@@ -1,0 +1,20 @@
+{
+    "name": "IL TORRACCHIONE",
+    "description": "",
+    "address": "Via Antonio Meucci - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "Via Antonio Meucci",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.98541,
+        "lon": 11.21855
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8422200"
+    ],
+    "rating": ""
+}

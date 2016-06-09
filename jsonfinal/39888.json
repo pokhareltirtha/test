@@ -1,0 +1,20 @@
+{
+    "name": "MC HOTEL & RESTAURANT SRL",
+    "description": "",
+    "address": "7, Piazza Del Duomo - 51100 Pistoia (PT)",
+    "streetAddress": "7, Piazza Del Duomo",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93374,
+        "lon": 10.9175
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 976381"
+    ],
+    "rating": ""
+}

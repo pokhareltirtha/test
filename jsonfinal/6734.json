@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA MAMMA COZZA",
+    "description": "",
+    "address": "Via Dei Confini 95/97 - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "Via Dei Confini 95/97",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83879,
+        "lon": 11.11238
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "347 6755241",
+        "055 8970286"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA DA ASPORTO LA BODEGUITA",
+    "description": "",
+    "address": "32, Via Soffici Ardengo - 59100 Prato (PO)",
+    "streetAddress": "32, Via Soffici Ardengo",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.84978,
+        "lon": 11.07842
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 634503"
+    ],
+    "rating": ""
+}

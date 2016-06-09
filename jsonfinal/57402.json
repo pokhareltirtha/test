@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA LA CASACIA",
+    "description": "",
+    "address": "5, Via Lottini Giovanni - 59100 Prato (PO)",
+    "streetAddress": "5, Via Lottini Giovanni",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86271,
+        "lon": 11.04611
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "347 6289909",
+        "0574 072812"
+    ],
+    "rating": ""
+}

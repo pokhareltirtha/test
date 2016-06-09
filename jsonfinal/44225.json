@@ -1,0 +1,20 @@
+{
+    "name": "FUOCO MATTO",
+    "description": "",
+    "address": "16, Via XXVII Aprile - 50129 Firenze (FI)",
+    "streetAddress": "16, Via XXVII Aprile",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77932,
+        "lon": 11.25531
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 495140"
+    ],
+    "rating": ""
+}

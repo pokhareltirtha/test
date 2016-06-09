@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ENOTECA I'MULINO CUCINA TIPICA TOSCANA",
+    "description": "",
+    "address": "29, Via Cancellieri - 59016 Poggio A Caiano (PO)",
+    "streetAddress": "29, Via Cancellieri",
+    "postalCode": "59016",
+    "addressLocality": "Poggio A Caiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.81605,
+        "lon": 11.05652
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8779541"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LA BOTTEGA DEL PIZZAIOLO",
+    "description": "",
+    "address": "46, Via Franceschi Ferrucci Caterina - 50135 Firenze (FI)",
+    "streetAddress": "46, Via Franceschi Ferrucci Caterina",
+    "postalCode": "50135",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77525,
+        "lon": 11.29426
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 609696"
+    ],
+    "rating": ""
+}

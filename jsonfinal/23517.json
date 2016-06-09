@@ -1,0 +1,20 @@
+{
+    "name": "RESIDENCE IL BURCHIO SRL",
+    "description": "",
+    "address": "4, Localita' Poggio Al Burchio - 50064 Incisa In Val D'Arno (FI)",
+    "streetAddress": "4, Localita' Poggio Al Burchio",
+    "postalCode": "50064",
+    "addressLocality": "Incisa In Val D'Arno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.67789,
+        "lon": 11.44413
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8330124"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA DA ANNITA DI BENDINELLI BRUNO & C. S.N.C.",
+    "description": "",
+    "address": "18, Via Umberto I - 51013 Chiesina Uzzanese (PT)",
+    "streetAddress": "18, Via Umberto I",
+    "postalCode": "51013",
+    "addressLocality": "Chiesina Uzzanese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88719,
+        "lon": 10.73067
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 48209"
+    ],
+    "rating": ""
+}

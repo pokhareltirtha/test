@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE MIO SAS",
+    "description": "",
+    "address": "37, Via Puccini Giacomo - 59100 Prato (PO)",
+    "streetAddress": "37, Via Puccini Giacomo",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88267,
+        "lon": 11.08795
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 442647"
+    ],
+    "rating": ""
+}

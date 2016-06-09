@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA DA ROSA  DI PUGGIONI ROSA",
+    "description": "",
+    "address": "9, Via Dei Pianacci - 52020 Pian Di Scò (AR)",
+    "streetAddress": "9, Via Dei Pianacci",
+    "postalCode": "52020",
+    "addressLocality": "Pian Di Scò",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.63219,
+        "lon": 11.54482
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 960429"
+    ],
+    "rating": ""
+}

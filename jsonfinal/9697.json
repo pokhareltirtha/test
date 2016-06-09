@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PERUCA' srl",
+    "description": "A San Gimignano in 16, v. Capassi, il Ristorante Perucà dall'atmosfera calda e romantica ama preparare piatti tradizionali con ingredienti freschi.",
+    "address": "16, V. Capassi - 53037 San Gimignano (SI)",
+    "streetAddress": "16, V. Capassi",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46907,
+        "lon": 11.04225
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 941213",
+        "0577 943136"
+    ],
+    "rating": ""
+}

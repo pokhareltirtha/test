@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE SOTTO I' CAMPANILE SANTA TRINITA",
+    "description": "",
+    "address": "2, Via Roma - 59100 Prato (PO)",
+    "streetAddress": "2, Via Roma",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87643,
+        "lon": 11.09347
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 621326"
+    ],
+    "rating": ""
+}

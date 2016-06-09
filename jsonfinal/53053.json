@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA A TUTTA PIZZA",
+    "description": "",
+    "address": "93, C. Italia - 52027 San Giovanni Valdarno (AR)",
+    "streetAddress": "93, C. Italia",
+    "postalCode": "52027",
+    "addressLocality": "San Giovanni Valdarno",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.56416,
+        "lon": 11.5309
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 942780"
+    ],
+    "rating": ""
+}

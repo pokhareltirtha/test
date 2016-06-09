@@ -1,0 +1,21 @@
+{
+    "name": "LALOCANDA DI ORTIMINO",
+    "description": "",
+    "address": "115, Via Volterrana Sud - 50025 Montespertoli (FI)",
+    "streetAddress": "115, Via Volterrana Sud",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.63765,
+        "lon": 11.02545
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 674282",
+        "0571 1933739"
+    ],
+    "rating": ""
+}

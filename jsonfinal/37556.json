@@ -1,0 +1,20 @@
+{
+    "name": "LE BARRIQUE",
+    "description": "",
+    "address": "19, Via Giuseppe Mazzoni - 59100 Prato (PO)",
+    "streetAddress": "19, Via Giuseppe Mazzoni",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88128,
+        "lon": 11.09748
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 30151"
+    ],
+    "rating": ""
+}

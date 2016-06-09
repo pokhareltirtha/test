@@ -1,0 +1,20 @@
+{
+    "name": "PIZZICOTTO DI BONSI SIMONA",
+    "description": "",
+    "address": "2, Via Leopardi G. - 56033 Capannoli (PI)",
+    "streetAddress": "2, Via Leopardi G.",
+    "postalCode": "56033",
+    "addressLocality": "Capannoli",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.59071,
+        "lon": 10.67066
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "340 1090101"
+    ],
+    "rating": ""
+}

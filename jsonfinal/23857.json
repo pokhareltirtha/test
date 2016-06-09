@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DEL POGGIALE SNC",
+    "description": "",
+    "address": "Via Poggiale, 4 - 48013 Castellina (RA)",
+    "streetAddress": "Via Poggiale, 4",
+    "postalCode": "48013",
+    "addressLocality": "Castellina",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.19679,
+        "lon": 11.71737
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "3318046273"
+    ],
+    "rating": ""
+}

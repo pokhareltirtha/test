@@ -1,0 +1,20 @@
+{
+    "name": "STUZZICHERIA VESUVIO",
+    "description": "",
+    "address": "Via Valentini 8f-8g - 59100 Prato (PO)",
+    "streetAddress": "Via Valentini 8f-8g",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87451,
+        "lon": 11.1018
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 052729"
+    ],
+    "rating": ""
+}

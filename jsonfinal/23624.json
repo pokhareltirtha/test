@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE ALBERGO CASENTINO srl",
+    "description": "Il Ristorante Albergo Casentino di Poppi (AR), propone un'atmosfera familiare ed i migliori piatti della cucina tosco-casentinese.",
+    "address": "6, P. Della Repubblica - 52014 Poppi (AR)",
+    "streetAddress": "6, P. Della Repubblica",
+    "postalCode": "52014",
+    "addressLocality": "Poppi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.72273,
+        "lon": 11.76679
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 529090",
+        "0575 529197"
+    ],
+    "rating": ""
+}

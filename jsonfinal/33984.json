@@ -1,0 +1,20 @@
+{
+    "name": "MISO DI RISO",
+    "description": "",
+    "address": "54, Borgo Albizi - 50122 Firenze (FI)",
+    "streetAddress": "54, Borgo Albizi",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77152,
+        "lon": 11.26037
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2654094"
+    ],
+    "rating": ""
+}

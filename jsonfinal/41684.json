@@ -1,0 +1,20 @@
+{
+    "name": "FATTORIA SAN MICHELE A TORRI srl",
+    "description": "Ristorante San Michele all’Arco di cucina tipica toscana e azienda agricola artigianale e biologica in Via Oriuolo a Firenze.",
+    "address": "1, V. Oriuolo - 50122 Firenze (FI)",
+    "streetAddress": "1, V. Oriuolo",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77182,
+        "lon": 11.26165
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 245626"
+    ],
+    "rating": "5.0"
+}

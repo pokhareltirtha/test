@@ -1,0 +1,20 @@
+{
+    "name": "BISTROT TRATTORIA PIZZERIA TOSCANA",
+    "description": "",
+    "address": "1, Via Provinciale Mammianese - 51017 Pescia (PT)",
+    "streetAddress": "1, Via Provinciale Mammianese",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90985,
+        "lon": 10.69014
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 387016"
+    ],
+    "rating": ""
+}

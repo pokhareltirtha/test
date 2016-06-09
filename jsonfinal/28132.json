@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA LA GRAMOLA",
+    "description": "",
+    "address": "1, Via Delle Fonti - 50028 Tavarnelle Val Di Pesa (FI)",
+    "streetAddress": "1, Via Delle Fonti",
+    "postalCode": "50028",
+    "addressLocality": "Tavarnelle Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.56189,
+        "lon": 11.17406
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "338 6039356",
+        "055 8050321"
+    ],
+    "rating": "4.0"
+}

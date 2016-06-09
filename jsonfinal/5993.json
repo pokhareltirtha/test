@@ -1,0 +1,20 @@
+{
+    "name": "ATMAN A VILLA ROSPIGLIOSI",
+    "description": "",
+    "address": "1, Via Borghetto - 51035 Spicchio (PT)",
+    "streetAddress": "1, Via Borghetto",
+    "postalCode": "51035",
+    "addressLocality": "Spicchio",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8227,
+        "lon": 10.90689
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 1603051"
+    ],
+    "rating": ""
+}

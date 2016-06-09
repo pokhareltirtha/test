@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE TRE ARCHI",
+    "description": "",
+    "address": "35/B, Localita' Castel S. Gimignano - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "35/B, Localita' Castel S. Gimignano",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.40437,
+        "lon": 11.01812
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 953099"
+    ],
+    "rating": ""
+}

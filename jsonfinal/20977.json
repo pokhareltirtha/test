@@ -1,0 +1,20 @@
+{
+    "name": "BOTTEGA DEL MORO",
+    "description": "",
+    "address": "14, Piazza Trieste - 50022 Greve In Chianti (FI)",
+    "streetAddress": "14, Piazza Trieste",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58132,
+        "lon": 11.31836
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 853753"
+    ],
+    "rating": ""
+}

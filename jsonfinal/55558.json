@@ -1,0 +1,20 @@
+{
+    "name": "PARC HOTEL",
+    "description": "",
+    "address": "214, Via Roma - 52014 Ponte A Poppi (AR)",
+    "streetAddress": "214, Via Roma",
+    "postalCode": "52014",
+    "addressLocality": "Ponte A Poppi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.72711,
+        "lon": 11.77168
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0575 529994"
+    ],
+    "rating": ""
+}

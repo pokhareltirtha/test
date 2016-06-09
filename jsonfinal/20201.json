@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL TEATRO DI VLAD ELENA MIRELA",
+    "description": "",
+    "address": "128/R, Via Ghibellina - 50122 Firenze (FI)",
+    "streetAddress": "128/R, Via Ghibellina",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77035,
+        "lon": 11.26102
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2466954"
+    ],
+    "rating": "4.8"
+}

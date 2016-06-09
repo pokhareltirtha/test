@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA AL TAGLIO DI COPPI C.",
+    "description": "",
+    "address": "124, Via Garibaldi Giuseppe - 51017 Pescia (PT)",
+    "streetAddress": "124, Via Garibaldi Giuseppe",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89226,
+        "lon": 10.68969
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 490660"
+    ],
+    "rating": ""
+}

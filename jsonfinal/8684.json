@@ -1,0 +1,20 @@
+{
+    "name": "VILLA DI PERTICAIA",
+    "description": "Villa Perticaia è una residenza d'epoca di Serravalle Pistoiese che accoglie i suoi ospiti in un contesto meraviglioso ed irripetibile.",
+    "address": "29, V. Perticaia - 51034 Serravalle Pistoiese (PT)",
+    "streetAddress": "29, V. Perticaia",
+    "postalCode": "51034",
+    "addressLocality": "Serravalle Pistoiese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89922,
+        "lon": 10.82657
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "329 5449774"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "TRE SOLDI",
+    "description": "",
+    "address": "4, Via Gabriele D Annunzio - 50135 Firenze (FI)",
+    "streetAddress": "4, Via Gabriele D Annunzio",
+    "postalCode": "50135",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77466,
+        "lon": 11.28739
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 679366"
+    ],
+    "rating": ""
+}

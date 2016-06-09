@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA DA SALVO",
+    "description": "",
+    "address": "Via San Michele 12 - 51031 Berlicche (PT)",
+    "streetAddress": "Via San Michele 12",
+    "postalCode": "51031",
+    "addressLocality": "Berlicche",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8962,
+        "lon": 11.00887
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 1693725",
+        "333 4086985"
+    ],
+    "rating": ""
+}

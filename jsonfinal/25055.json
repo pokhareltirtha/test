@@ -1,0 +1,20 @@
+{
+    "name": "ANGELA E CO. DI SIGNORELLI ANGELA",
+    "description": "",
+    "address": "52, Via Del Fornacione - 51100 Pistoia (PT)",
+    "streetAddress": "52, Via Del Fornacione",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94434,
+        "lon": 10.92957
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 31926"
+    ],
+    "rating": "5.0"
+}

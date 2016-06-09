@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA ANZIVINO",
+    "description": "",
+    "address": "61, Via Vittorio Emanuele - 52016 Castel Focognano (AR)",
+    "streetAddress": "61, Via Vittorio Emanuele",
+    "postalCode": "52016",
+    "addressLocality": "Castel Focognano",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.6528,
+        "lon": 11.83736
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "334 1674124",
+        "0575 1787740"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA DI CINTOIA DI SINATTI VALERIO E C. S.A.S.",
+    "description": "",
+    "address": "61, Via Antella - 50012 Bagno A Ripoli (FI)",
+    "streetAddress": "61, Via Antella",
+    "postalCode": "50012",
+    "addressLocality": "Bagno A Ripoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72826,
+        "lon": 11.31986
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 621860"
+    ],
+    "rating": ""
+}

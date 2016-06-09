@@ -1,0 +1,21 @@
+{
+    "name": "LA GROTTA",
+    "description": "",
+    "address": "13, Via Turazza G. - 56048 Volterra (PI)",
+    "streetAddress": "13, Via Turazza G.",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40165,
+        "lon": 10.8592
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 1900120",
+        "0588 85336"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "NEDO L'OFFICINA DEI GOLOSI",
+    "description": "",
+    "address": "12, Piazza Paolo Uccello - 50142 Firenze (FI)",
+    "streetAddress": "12, Piazza Paolo Uccello",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77492,
+        "lon": 11.22866
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 715246"
+    ],
+    "rating": ""
+}

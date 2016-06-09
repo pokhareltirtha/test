@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CINESE L'ANGOLO",
+    "description": "Ristorante cinese in centro a Firenze. Take away, cibo cinese da asporto. Pub in centro, mercato di San Lorenzo.",
+    "address": "18/R, V. Dell'Ariento - 50123 Firenze (FI)",
+    "streetAddress": "18/R, V. Dell'Ariento",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77702,
+        "lon": 11.25215
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2645797"
+    ],
+    "rating": "5.0"
+}

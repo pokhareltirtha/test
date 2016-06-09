@@ -1,0 +1,21 @@
+{
+    "name": "ANTICA OSTERIA AL CASTELLO",
+    "description": "",
+    "address": "9  Piazza Giacomo Matteotti - Lari (PI)",
+    "streetAddress": "9, Piazza Giacomo Matteotti",
+    "postalCode": "",
+    "addressLocality": "Lari",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.56593,
+        "lon": 10.59251
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 687151",
+        "0587 684034"
+    ],
+    "rating": ""
+}

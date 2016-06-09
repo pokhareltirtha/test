@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA SABATINO DAL 1956",
+    "description": "Sabatino, trattoria storica fiorentina dal 1956 propone specialità gastronomiche con prodotti di stagione, a Firenze.",
+    "address": "2/R, V. Pisana - 50143 Firenze (FI)",
+    "streetAddress": "2/R, V. Pisana",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77067,
+        "lon": 11.24021
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 225955"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "L'ARTEVINO",
+    "description": "",
+    "address": "28, Via Sidney Sonnino - 50025 Montespertoli (FI)",
+    "streetAddress": "28, Via Sidney Sonnino",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.64415,
+        "lon": 11.07669
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "347 3360571",
+        "0571 608488"
+    ],
+    "rating": ""
+}

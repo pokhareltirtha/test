@@ -1,0 +1,21 @@
+{
+    "name": "LA CASALINGA",
+    "description": "",
+    "address": "9, Via Dei Michelozzi - 50125 Firenze (FI)",
+    "streetAddress": "9, Via Dei Michelozzi",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76678,
+        "lon": 11.24826
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2654332",
+        "055 218624"
+    ],
+    "rating": "5.0"
+}

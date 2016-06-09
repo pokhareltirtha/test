@@ -1,0 +1,20 @@
+{
+    "name": "O' VESUVIO",
+    "description": "",
+    "address": "4/A, Via XX Settembre - 50051 Castelfiorentino (FI)",
+    "streetAddress": "4/A, Via XX Settembre",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.60589,
+        "lon": 10.97054
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 629344"
+    ],
+    "rating": ""
+}

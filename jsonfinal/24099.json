@@ -1,0 +1,20 @@
+{
+    "name": "SAPORI D'ORIENTE",
+    "description": "",
+    "address": "22  Piazza Garibaldi - Casciana Terme (PI)",
+    "streetAddress": "22, Piazza Garibaldi",
+    "postalCode": "",
+    "addressLocality": "Casciana Terme",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.52778,
+        "lon": 10.61761
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 644019"
+    ],
+    "rating": "5.0"
+}

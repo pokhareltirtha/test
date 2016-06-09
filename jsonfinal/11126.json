@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE ALBERGO MEUCCI",
+    "description": "Il Ristorante Albergo Meucci, si trova a Ponte Buggianese in provincia di Pistoia e vi aspetta per offrire a tutti i propri ospiti un ambiente elegante dove trascorrere una semplice serata al ristoran...",
+    "address": "79, Via Matteotti Giacomo - 51019 Ponte Buggianese (PT)",
+    "streetAddress": "79, Via Matteotti Giacomo",
+    "postalCode": "51019",
+    "addressLocality": "Ponte Buggianese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.84222,
+        "lon": 10.74798
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 635017",
+        "0572 634504"
+    ],
+    "rating": "4.0"
+}

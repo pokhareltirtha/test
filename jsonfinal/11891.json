@@ -1,0 +1,20 @@
+{
+    "name": "AGRITURISMO CAMPO FIORITO",
+    "description": "L'Agriturismo Campo Fiorito è lieto di accompagnarvi in un viaggio dove odori, sapori e colori si fondono insieme creando per voi uno stato di relax.",
+    "address": "190, Loc. Rocchi - 51015 Monsummano Terme (PT)",
+    "streetAddress": "190, Loc. Rocchi",
+    "postalCode": "51015",
+    "addressLocality": "Monsummano Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86719,
+        "lon": 10.80752
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 640082"
+    ],
+    "rating": ""
+}

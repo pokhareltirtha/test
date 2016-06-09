@@ -1,0 +1,21 @@
+{
+    "name": "LA LUNA SUL TREBBIO",
+    "description": "",
+    "address": "Via San Savino 44 - 47015 Modigliana (FC)",
+    "streetAddress": "Via San Savino 44",
+    "postalCode": "47015",
+    "addressLocality": "Modigliana",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.16332,
+        "lon": 11.85824
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 3151551",
+        "0546 015153"
+    ],
+    "rating": ""
+}

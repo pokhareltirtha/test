@@ -1,0 +1,20 @@
+{
+    "name": "HAKKEI RISTORANTE GIAPPONESE",
+    "description": "Mangiare sushi tutte le sere? Da Hakkei si può! Il ristorante di Scandicci propone tutti i giorni a pranzo e cena tante specialità giapponesi anche da asporto.",
+    "address": "2, V. Giotto - 50018 Scandicci (FI)",
+    "streetAddress": "2, V. Giotto",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75065,
+        "lon": 11.18258
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 250537"
+    ],
+    "rating": ""
+}

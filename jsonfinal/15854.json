@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA IL GIRASOLE",
+    "description": "Il ristorante ad Altopascio (LU) ubicato in un antico casolare; adatto per organizzare una festa di compleanno, una serata con amici, un matrimonio,",
+    "address": "24, Loc. Carrari - 55011 Altopascio (LU)",
+    "streetAddress": "24, Loc. Carrari",
+    "postalCode": "55011",
+    "addressLocality": "Altopascio",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.82667,
+        "lon": 10.67457
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 276995",
+        "339 3400740"
+    ],
+    "rating": ""
+}

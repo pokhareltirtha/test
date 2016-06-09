@@ -1,0 +1,21 @@
+{
+    "name": "ZENZERO",
+    "description": "",
+    "address": "8, Via Luigi Paladini - 50053 Empoli (FI)",
+    "streetAddress": "8, Via Luigi Paladini",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71917,
+        "lon": 10.94837
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 534902",
+        "334 7561900"
+    ],
+    "rating": "4.5"
+}

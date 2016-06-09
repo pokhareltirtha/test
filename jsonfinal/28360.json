@@ -1,0 +1,20 @@
+{
+    "name": "BIVIO BORDONA",
+    "description": "",
+    "address": "2, Via Sillaro - 40022 Sassoleone (BO)",
+    "streetAddress": "2, Via Sillaro",
+    "postalCode": "40022",
+    "addressLocality": "Sassoleone",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.25917,
+        "lon": 11.48442
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0542 97863"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA L'ANGOLO NASCOSTO",
+    "description": "",
+    "address": "253, Via Karl Marx - 51015 Monsummano Terme (PT)",
+    "streetAddress": "253, Via Karl Marx",
+    "postalCode": "51015",
+    "addressLocality": "Monsummano Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86531,
+        "lon": 10.81451
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 525297"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ANTICA FARMACIA",
+    "description": "",
+    "address": "51, Via Del Popolo - 56036 Palaia (PI)",
+    "streetAddress": "51, Via Del Popolo",
+    "postalCode": "56036",
+    "addressLocality": "Palaia",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.60495,
+        "lon": 10.77264
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 622149",
+        "0587 622534"
+    ],
+    "rating": ""
+}

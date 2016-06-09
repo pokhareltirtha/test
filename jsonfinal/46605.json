@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA PARAMATTA DI STERI SONIA",
+    "description": "",
+    "address": "110, Via Roma - 50038 Scarperia E San Piero (FI)",
+    "streetAddress": "110, Via Roma",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia E San Piero",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.99679,
+        "lon": 11.35527
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8468141"
+    ],
+    "rating": ""
+}

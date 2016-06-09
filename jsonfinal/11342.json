@@ -1,0 +1,20 @@
+{
+    "name": "CACIODIVINO",
+    "description": "",
+    "address": "13, Via Del Lastrone - 51100 Pistoia (PT)",
+    "streetAddress": "13, Via Del Lastrone",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93308,
+        "lon": 10.91654
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 1941058"
+    ],
+    "rating": "4.5"
+}

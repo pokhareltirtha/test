@@ -1,0 +1,20 @@
+{
+    "name": "LA FONTE",
+    "description": "",
+    "address": "15, Via Lucignano - 50025 Lucignano (FI)",
+    "streetAddress": "15, Via Lucignano",
+    "postalCode": "50025",
+    "addressLocality": "Lucignano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.63313,
+        "lon": 11.12269
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 609514"
+    ],
+    "rating": ""
+}

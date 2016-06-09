@@ -1,0 +1,21 @@
+{
+    "name": "CASA DELLA PIZZA",
+    "description": "",
+    "address": "24/A, Via Passavanti - 50133 Firenze (FI)",
+    "streetAddress": "24/A, Via Passavanti",
+    "postalCode": "50133",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78712,
+        "lon": 11.27183
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "338 8041450",
+        "055 571458"
+    ],
+    "rating": ""
+}

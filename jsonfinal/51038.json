@@ -1,0 +1,20 @@
+{
+    "name": "MARA MEO S.R.L.",
+    "description": "",
+    "address": "638, Via Di Mugnano - 50038 Via (FI)",
+    "streetAddress": "638, Via Di Mugnano",
+    "postalCode": "50038",
+    "addressLocality": "Via",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.99537,
+        "lon": 11.35611
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 758982"
+    ],
+    "rating": ""
+}

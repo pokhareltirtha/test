@@ -1,0 +1,20 @@
+{
+    "name": "VECCHIA BANANA",
+    "description": "",
+    "address": "1, Via Fiorentina - 56025 Pontedera (PI)",
+    "streetAddress": "1, Via Fiorentina",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66566,
+        "lon": 10.64228
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 55388"
+    ],
+    "rating": "3.0"
+}

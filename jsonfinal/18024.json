@@ -1,0 +1,21 @@
+{
+    "name": "PANE E OLIO",
+    "description": "",
+    "address": "2, Via Faentina - 50133 Firenze (FI)",
+    "streetAddress": "2, Via Faentina",
+    "postalCode": "50133",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78642,
+        "lon": 11.26264
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "331 1823816",
+        "055 9060625"
+    ],
+    "rating": ""
+}

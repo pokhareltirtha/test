@@ -1,0 +1,20 @@
+{
+    "name": "IL PRINCIPE DEL SUSHI",
+    "description": "",
+    "address": "27, Via Masini - 50053 Empoli (FI)",
+    "streetAddress": "27, Via Masini",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72185,
+        "lon": 10.95264
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 527082"
+    ],
+    "rating": ""
+}

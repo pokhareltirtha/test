@@ -1,0 +1,21 @@
+{
+    "name": "LAMOLE",
+    "description": "",
+    "address": "6, Localita Lamole - 50022 Greve In Chianti (FI)",
+    "streetAddress": "6, Localita Lamole",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54932,
+        "lon": 11.35576
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8547050",
+        "339 5662211"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "PATERNO",
+    "description": "",
+    "address": "Via Paterno 3 - 50036 Paterno (FI)",
+    "streetAddress": "Via Paterno 3",
+    "postalCode": "50036",
+    "addressLocality": "Paterno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.88516,
+        "lon": 11.26689
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 407930"
+    ],
+    "rating": ""
+}

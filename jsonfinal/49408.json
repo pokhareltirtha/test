@@ -1,0 +1,20 @@
+{
+    "name": "PIZZALVOLO",
+    "description": "",
+    "address": "161, Via Tosco Romagnola Est - 56020 San Romano (PI)",
+    "streetAddress": "161, Via Tosco Romagnola Est",
+    "postalCode": "56020",
+    "addressLocality": "San Romano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68528,
+        "lon": 10.7524
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 450244"
+    ],
+    "rating": ""
+}

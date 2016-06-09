@@ -1,0 +1,20 @@
+{
+    "name": "CIRCOLO M.C.L. - IL CIRCOLINO",
+    "description": "",
+    "address": "6, Via Gramsci - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": "6, Via Gramsci",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.63438,
+        "lon": 11.23433
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 821586"
+    ],
+    "rating": ""
+}

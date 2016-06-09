@@ -1,0 +1,20 @@
+{
+    "name": "POGGETTO",
+    "description": "",
+    "address": "1489/C, Via Stradella - 51036 Larciano (PT)",
+    "streetAddress": "1489/C, Via Stradella",
+    "postalCode": "51036",
+    "addressLocality": "Larciano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83359,
+        "lon": 10.88026
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "0573 803306"
+    ],
+    "rating": ""
+}

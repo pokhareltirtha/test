@@ -1,0 +1,21 @@
+{
+    "name": "100% PIZZA",
+    "description": "",
+    "address": "Via Cavour 26/28 R - 50129 Firenze (FI)",
+    "streetAddress": "Via Cavour 26/28 R",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77806,
+        "lon": 11.25832
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 210572",
+        "055 2382761"
+    ],
+    "rating": ""
+}

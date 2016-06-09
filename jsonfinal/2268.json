@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE TORRE AL SASSO S.A.S. DI CAVINI G. & C.",
+    "description": "",
+    "address": "54, Via Montetrini - 50065 Pontassieve (FI)",
+    "streetAddress": "54, Via Montetrini",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82742,
+        "lon": 11.38324
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8300086"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CINESE E ASIATICO LA FORTUNA",
+    "description": "Il ristorante di Empoli si occupa di preparare piatti tipici della cucina cinese e della cucina asiatica, proponendo vantaggiose promozioni.",
+    "address": "40, P. Guerra - 50053 Empoli (FI)",
+    "streetAddress": "40, P. Guerra",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7231,
+        "lon": 10.94834
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 700377"
+    ],
+    "rating": "3.8"
+}

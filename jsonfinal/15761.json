@@ -1,0 +1,20 @@
+{
+    "name": "AL COVO",
+    "description": "",
+    "address": "761, Via Pesciatina - 55010 Lappato (LU)",
+    "streetAddress": "761, Via Pesciatina",
+    "postalCode": "55010",
+    "addressLocality": "Lappato",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.8761,
+        "lon": 10.64201
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 975853"
+    ],
+    "rating": ""
+}

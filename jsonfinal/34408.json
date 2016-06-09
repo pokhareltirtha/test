@@ -1,0 +1,21 @@
+{
+    "name": "TENUTA SAN VITO IN FIOR DI SELVA DI ROBERTO DRIGHI",
+    "description": "",
+    "address": "59, Via S. Vito - 50056 Montelupo Fiorentino (FI)",
+    "streetAddress": "59, Via S. Vito",
+    "postalCode": "50056",
+    "addressLocality": "Montelupo Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75503,
+        "lon": 11.04377
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 51405",
+        "0571 51411"
+    ],
+    "rating": ""
+}

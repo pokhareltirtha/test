@@ -1,0 +1,20 @@
+{
+    "name": "SCIUSCIA'",
+    "description": "",
+    "address": ", Via Galcianese - 59100 Prato (PO)",
+    "streetAddress": ", Via Galcianese",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87931,
+        "lon": 11.0757
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 28058"
+    ],
+    "rating": "4.0"
+}

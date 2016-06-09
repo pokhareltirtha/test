@@ -1,0 +1,21 @@
+{
+    "name": "LA VIA DELL'ORTO",
+    "description": "Il ristorante pizzeria La Via dell'Orto propone una cucina d'elevatissima qualità alla portata di tutti, mantenendo però un occhio di riguardo al contenimento del prezzo. Portate di carne, pizze legge...",
+    "address": "559, V. Modenese - 51100 Cireglio (PT)",
+    "streetAddress": "559, V. Modenese",
+    "postalCode": "51100",
+    "addressLocality": "Cireglio",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.99265,
+        "lon": 10.85414
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "320 1882369",
+        "0573 39084"
+    ],
+    "rating": ""
+}

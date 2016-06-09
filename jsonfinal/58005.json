@@ -1,0 +1,20 @@
+{
+    "name": "SLAMA S.R.L.",
+    "description": "",
+    "address": "12, Via IV Novembre - 50018 Scandicci (FI)",
+    "streetAddress": "12, Via IV Novembre",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75306,
+        "lon": 11.18849
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "347 8181282"
+    ],
+    "rating": ""
+}

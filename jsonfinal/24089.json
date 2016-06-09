@@ -1,0 +1,20 @@
+{
+    "name": "IL MERLO",
+    "description": "",
+    "address": "5, Piazza C Minati - 56034 Casciana Terme (PI)",
+    "streetAddress": "5, Piazza C Minati",
+    "postalCode": "56034",
+    "addressLocality": "Casciana Terme",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.52749,
+        "lon": 10.61915
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 644040"
+    ],
+    "rating": ""
+}

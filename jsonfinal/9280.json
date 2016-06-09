@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA BISTROT",
+    "description": "",
+    "address": "3, Via G.Matteotti - 51017 Pescia (PT)",
+    "streetAddress": "3, Via G.Matteotti",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90035,
+        "lon": 10.68788
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 409159"
+    ],
+    "rating": ""
+}

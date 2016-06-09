@@ -1,0 +1,20 @@
+{
+    "name": "TEXAS EXPRESS STEAK & COFFEE SRL",
+    "description": "",
+    "address": "18, Via Di Mezzo - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "18, Via Di Mezzo",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.81731,
+        "lon": 11.12995
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 892624"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA PINKO DI BOLINO DEBORA",
+    "description": "",
+    "address": "175, Via Statale - 51039 Quarrata (PT)",
+    "streetAddress": "175, Via Statale",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8768,
+        "lon": 10.97848
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 718230"
+    ],
+    "rating": "4.5"
+}

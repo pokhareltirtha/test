@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE VILLA FRANCESCA DI MARI GIOVANNI S.A.S.",
+    "description": "",
+    "address": "12, Strada Di Monastero - 50021 Barberino Val D'Elsa (FI)",
+    "streetAddress": "12, Strada Di Monastero",
+    "postalCode": "50021",
+    "addressLocality": "Barberino Val D'Elsa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.52854,
+        "lon": 11.23322
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8072694"
+    ],
+    "rating": ""
+}

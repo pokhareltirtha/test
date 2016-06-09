@@ -1,0 +1,21 @@
+{
+    "name": "BOCCONE DI VINO DI MANCINI STEFANO E C SAS",
+    "description": "",
+    "address": "1, Via Tasso Torquato - 56029 Santa Croce Sull'Arno (PI)",
+    "streetAddress": "1, Via Tasso Torquato",
+    "postalCode": "56029",
+    "addressLocality": "Santa Croce Sull'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70353,
+        "lon": 10.76592
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 386708",
+        "0571 33099"
+    ],
+    "rating": ""
+}

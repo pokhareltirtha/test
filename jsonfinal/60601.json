@@ -1,0 +1,20 @@
+{
+    "name": "S.T.G. SRL",
+    "description": "",
+    "address": "1/C, Via Baracca Francesco - 50127 Firenze (FI)",
+    "streetAddress": "1/C, Via Baracca Francesco",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.787,
+        "lon": 11.22635
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 324441"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "CARATELLO",
+    "description": "",
+    "address": "21, Via Grevigiana - 50026 Calcinaia (FI)",
+    "streetAddress": "21, Via Grevigiana",
+    "postalCode": "50026",
+    "addressLocality": "Calcinaia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.64811,
+        "lon": 11.20483
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 820682"
+    ],
+    "rating": ""
+}

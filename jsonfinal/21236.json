@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA PETRARCA",
+    "description": "Il ristorante per gustare ottime pizze, specialità di carne e primi piatti a base di pesce si trova a Pelago, in provincia di Firenze.",
+    "address": "76, V. Petrarca - 50060 Pelago (FI)",
+    "streetAddress": "76, V. Petrarca",
+    "postalCode": "50060",
+    "addressLocality": "Pelago",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78318,
+        "lon": 11.44975
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8392853"
+    ],
+    "rating": "5.0"
+}

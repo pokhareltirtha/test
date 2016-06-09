@@ -1,0 +1,20 @@
+{
+    "name": "SARGU SVETLANA",
+    "description": "",
+    "address": "29, Via Bini Smaghi Lorenzo - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": "29, Via Bini Smaghi Lorenzo",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.68487,
+        "lon": 11.13053
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8259453"
+    ],
+    "rating": ""
+}

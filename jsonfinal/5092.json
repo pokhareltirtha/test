@@ -1,0 +1,20 @@
+{
+    "name": "GALANTI",
+    "description": "",
+    "address": "31, Piazza Della Liberta - 50129 Firenze (FI)",
+    "streetAddress": "31, Piazza Della Liberta",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78419,
+        "lon": 11.26284
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 490359"
+    ],
+    "rating": "4.0"
+}

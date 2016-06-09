@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA L'ANTICA QUERCIA",
+    "description": "",
+    "address": "33, Strada Di Sant'Appiano - 50021 Sant'Appiano (FI)",
+    "streetAddress": "33, Strada Di Sant'Appiano",
+    "postalCode": "50021",
+    "addressLocality": "Sant'Appiano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.51493,
+        "lon": 11.14861
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "338 7295446",
+        "055 8075281"
+    ],
+    "rating": ""
+}

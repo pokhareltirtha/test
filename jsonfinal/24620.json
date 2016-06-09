@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA MAGABONTA'",
+    "description": "",
+    "address": "15, Via Saccenti Dino - 59100 Prato (PO)",
+    "streetAddress": "15, Via Saccenti Dino",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.89888,
+        "lon": 11.07575
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 651934",
+        "392 8064968"
+    ],
+    "rating": ""
+}

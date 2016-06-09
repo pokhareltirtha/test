@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA AMORE E FANTASIA",
+    "description": "",
+    "address": "111, Via Leona-Levane - 52025 Montevarchi (AR)",
+    "streetAddress": "111, Via Leona-Levane",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.52944,
+        "lon": 11.56478
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9789488"
+    ],
+    "rating": ""
+}

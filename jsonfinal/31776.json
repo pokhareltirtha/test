@@ -1,0 +1,20 @@
+{
+    "name": "CONTE MASCETTI SRL",
+    "description": "",
+    "address": "35, Corso Italia - 50123 Firenze (FI)",
+    "streetAddress": "35, Corso Italia",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77554,
+        "lon": 11.23709
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 288771"
+    ],
+    "rating": ""
+}

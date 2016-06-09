@@ -1,0 +1,20 @@
+{
+    "name": "SUSANNE & MASSIMO RISTORANTE B & B",
+    "description": "",
+    "address": "49, Via Roma - 56030 Terricciola (PI)",
+    "streetAddress": "49, Via Roma",
+    "postalCode": "56030",
+    "addressLocality": "Terricciola",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.52508,
+        "lon": 10.67611
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 658491"
+    ],
+    "rating": ""
+}

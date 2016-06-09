@@ -1,0 +1,20 @@
+{
+    "name": "CIRCOLO PONTE A BARGI",
+    "description": "",
+    "address": "1, Via Di Bargi - 51100 Pistoia (PT)",
+    "streetAddress": "1, Via Di Bargi",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92387,
+        "lon": 10.89111
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 570249"
+    ],
+    "rating": ""
+}

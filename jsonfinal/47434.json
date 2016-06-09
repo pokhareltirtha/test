@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA DA SILVANO",
+    "description": "",
+    "address": "83, Via Borgo Di Casale - 59100 Prato (PO)",
+    "streetAddress": "83, Via Borgo Di Casale",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87553,
+        "lon": 11.04225
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "334 2527994",
+        "0574 669284"
+    ],
+    "rating": ""
+}

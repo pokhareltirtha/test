@@ -1,0 +1,20 @@
+{
+    "name": "WOKPARK",
+    "description": "",
+    "address": "22, Via Di Sant'Agostino - 51100 Pistoia (PT)",
+    "streetAddress": "22, Via Di Sant'Agostino",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93465,
+        "lon": 10.93108
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 1972703"
+    ],
+    "rating": ""
+}

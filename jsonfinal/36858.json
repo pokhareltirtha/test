@@ -1,0 +1,21 @@
+{
+    "name": "CAFFE' GIACOSA",
+    "description": "",
+    "address": "10, Via Della Spada - 50123 Firenze (FI)",
+    "streetAddress": "10, Via Della Spada",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77175,
+        "lon": 11.25057
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2645524",
+        "055 2776328"
+    ],
+    "rating": "5.0"
+}

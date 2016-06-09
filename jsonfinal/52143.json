@@ -1,0 +1,20 @@
+{
+    "name": "AL TROVE",
+    "description": "",
+    "address": "59, Piazza Della Resistenza - 51100 Pistoia (PT)",
+    "streetAddress": "59, Piazza Della Resistenza",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9301,
+        "lon": 10.91943
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 308607"
+    ],
+    "rating": ""
+}

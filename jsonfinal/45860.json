@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA IL PAPERO DI GACCIONE LEANDRO",
+    "description": "",
+    "address": "1, Piazza I Maggio - 56028 San Miniato (PI)",
+    "streetAddress": "1, Piazza I Maggio",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.63228,
+        "lon": 10.83475
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "338 4302267"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "BISTROT SRL",
+    "description": "",
+    "address": "26, Viale Piave - 59100 Prato (PO)",
+    "streetAddress": "26, Viale Piave",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87816,
+        "lon": 11.09983
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 606928"
+    ],
+    "rating": ""
+}

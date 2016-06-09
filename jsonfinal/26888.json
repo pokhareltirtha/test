@@ -1,0 +1,20 @@
+{
+    "name": "IL GOURMET",
+    "description": "",
+    "address": "68  Via IL Prato - Firenze (FI)",
+    "streetAddress": "68, Via IL Prato",
+    "postalCode": "",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7771,
+        "lon": 11.24066
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 294766"
+    ],
+    "rating": ""
+}

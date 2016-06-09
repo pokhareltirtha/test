@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE YAMA STAR DI PAN LEMIN",
+    "description": "",
+    "address": "27/29, Via Tosco Romagnola - 50056 Montelupo Fiorentino (FI)",
+    "streetAddress": "27/29, Via Tosco Romagnola",
+    "postalCode": "50056",
+    "addressLocality": "Montelupo Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74057,
+        "lon": 11.03107
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 542814"
+    ],
+    "rating": ""
+}

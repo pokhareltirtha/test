@@ -1,0 +1,21 @@
+{
+    "name": "BOSCOTONDO",
+    "description": "",
+    "address": "19, Via Volterrana - 50050 Gambassi Terme (FI)",
+    "streetAddress": "19, Via Volterrana",
+    "postalCode": "50050",
+    "addressLocality": "Gambassi Terme",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.53931,
+        "lon": 10.95426
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 678006"
+    ],
+    "rating": "3.0"
+}

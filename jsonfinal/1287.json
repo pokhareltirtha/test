@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE YUQUAN DI YU LIFEN & C. SAS",
+    "description": "",
+    "address": "Via Gora Del Pero - 59100 Prato (PO)",
+    "streetAddress": "Via Gora Del Pero",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.85594,
+        "lon": 11.05706
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 624742"
+    ],
+    "rating": ""
+}

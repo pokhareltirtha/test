@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LE TRE ROSE",
+    "description": "",
+    "address": "27, Via Roma - 50051 Castelfiorentino (FI)",
+    "streetAddress": "27, Via Roma",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.63463,
+        "lon": 10.93869
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 673024"
+    ],
+    "rating": ""
+}

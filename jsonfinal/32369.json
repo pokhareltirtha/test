@@ -1,0 +1,20 @@
+{
+    "name": "SAPORI TOSCANI SNC",
+    "description": "",
+    "address": "1, Viale Del Visarno - 50144 Firenze (FI)",
+    "streetAddress": "1, Viale Del Visarno",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77828,
+        "lon": 11.23249
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 330972"
+    ],
+    "rating": ""
+}

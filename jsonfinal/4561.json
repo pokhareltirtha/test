@@ -1,0 +1,21 @@
+{
+    "name": "LA COLLINA VERDE",
+    "description": "",
+    "address": "228, Via Antonio Gramsci - 51037 Montale (PT)",
+    "streetAddress": "228, Via Antonio Gramsci",
+    "postalCode": "51037",
+    "addressLocality": "Montale",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.96088,
+        "lon": 11.04326
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 596265"
+    ],
+    "rating": ""
+}

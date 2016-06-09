@@ -1,0 +1,20 @@
+{
+    "name": "LA FERRUZZA",
+    "description": "",
+    "address": "2, Viale Cristoforo Colombo - 50054 Ponte A Cappiano (FI)",
+    "streetAddress": "2, Viale Cristoforo Colombo",
+    "postalCode": "50054",
+    "addressLocality": "Ponte A Cappiano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7444,
+        "lon": 10.76974
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 261133"
+    ],
+    "rating": ""
+}

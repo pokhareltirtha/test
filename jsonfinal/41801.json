@@ -1,0 +1,21 @@
+{
+    "name": "TRATTORIA DINO",
+    "description": "",
+    "address": "78, Via San Colombano - 50018 San Colombano (FI)",
+    "streetAddress": "78, Via San Colombano",
+    "postalCode": "50018",
+    "addressLocality": "San Colombano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77765,
+        "lon": 11.13581
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "393 8720219",
+        "055 790005"
+    ],
+    "rating": ""
+}

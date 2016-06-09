@@ -1,0 +1,20 @@
+{
+    "name": "EREDI DI SORINI GINO",
+    "description": "",
+    "address": "66, Via Firenze - 55011 Altopascio (LU)",
+    "streetAddress": "66, Via Firenze",
+    "postalCode": "55011",
+    "addressLocality": "Altopascio",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81244,
+        "lon": 10.68275
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 241101"
+    ],
+    "rating": ""
+}

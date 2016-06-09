@@ -1,0 +1,20 @@
+{
+    "name": "ALEX PIZZA DI PIERI ALESSANDRO WILLIAM",
+    "description": "",
+    "address": "13, Via Caravaggio - 56029 Santa Croce Sull'Arno (PI)",
+    "streetAddress": "13, Via Caravaggio",
+    "postalCode": "56029",
+    "addressLocality": "Santa Croce Sull'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.71197,
+        "lon": 10.77722
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 32767"
+    ],
+    "rating": ""
+}

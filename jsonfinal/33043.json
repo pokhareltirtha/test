@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA PASTECECI DA SONIA",
+    "description": "",
+    "address": "Croce Fiorentina N 34 - 53011 Croce Fiorentina (SI)",
+    "streetAddress": "Croce Fiorentina N 34",
+    "postalCode": "53011",
+    "addressLocality": "Croce Fiorentina",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.45567,
+        "lon": 11.29165
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 3428571",
+        "0577 741482"
+    ],
+    "rating": "3.0"
+}

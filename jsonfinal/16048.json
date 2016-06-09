@@ -1,0 +1,20 @@
+{
+    "name": "WOW",
+    "description": "",
+    "address": "2, Via Fratelli Guermani - 51016 Montecatini Alto (PT)",
+    "streetAddress": "2, Via Fratelli Guermani",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Alto",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89794,
+        "lon": 10.78925
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 911381"
+    ],
+    "rating": ""
+}

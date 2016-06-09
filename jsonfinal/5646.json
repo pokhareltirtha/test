@@ -1,0 +1,20 @@
+{
+    "name": "FATTORIA CASTELLO DEL TREBBIO",
+    "description": "",
+    "address": "Via Montetrini 10 - 50065 Molino Del Piano (FI)",
+    "streetAddress": "Via Montetrini 10",
+    "postalCode": "50065",
+    "addressLocality": "Molino Del Piano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.81227,
+        "lon": 11.39964
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8317292"
+    ],
+    "rating": ""
+}

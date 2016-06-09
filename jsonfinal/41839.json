@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE MEDITERRANEO - FINSTERRAE",
+    "description": "",
+    "address": "3/R, Via Dei Pepi - 50122 Firenze (FI)",
+    "streetAddress": "3/R, Via Dei Pepi",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7692,
+        "lon": 11.2623
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2349000",
+        "055 2638675"
+    ],
+    "rating": ""
+}

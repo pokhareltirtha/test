@@ -1,0 +1,20 @@
+{
+    "name": "DEL FAGIOLI",
+    "description": "",
+    "address": "47, Corso Dei Tintori - 50122 Firenze (FI)",
+    "streetAddress": "47, Corso Dei Tintori",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76763,
+        "lon": 11.25957
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 244285"
+    ],
+    "rating": ""
+}

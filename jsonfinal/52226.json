@@ -1,0 +1,21 @@
+{
+    "name": "STEFY 3",
+    "description": "",
+    "address": "59, Via Del Centenario - 55016 Porcari (LU)",
+    "streetAddress": "59, Via Del Centenario",
+    "postalCode": "55016",
+    "addressLocality": "Porcari",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.84171,
+        "lon": 10.61277
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 210662",
+        "0583 1913399"
+    ],
+    "rating": ""
+}

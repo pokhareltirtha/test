@@ -1,0 +1,20 @@
+{
+    "name": "FAST PIZZA",
+    "description": "",
+    "address": "Via Cava 102 - 59100 Prato (PO)",
+    "streetAddress": "Via Cava 102",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86341,
+        "lon": 11.06861
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "338 7697230"
+    ],
+    "rating": ""
+}

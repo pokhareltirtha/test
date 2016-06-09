@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA SAVERIO",
+    "description": "Pizzeria Ristorante da Saverio è lieta di accogliervi in un ambiente moderno e familiare per offrirvi gustose pizze, preparate con ingredienti freschi e cotte nel forno a legna, primi piatti e secondi...",
+    "address": "86, Vl. Togliatti - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "86, Vl. Togliatti",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83514,
+        "lon": 11.1855
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4212277"
+    ],
+    "rating": ""
+}

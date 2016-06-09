@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE BABETTE",
+    "description": "",
+    "address": "Via Irlanda 2/H - 53036 Poggibonsi (SI)",
+    "streetAddress": "Via Irlanda 2/H",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.44152,
+        "lon": 11.16168
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 979533",
+        "392 9580069"
+    ],
+    "rating": "1.0"
+}

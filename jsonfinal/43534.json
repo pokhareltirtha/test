@@ -1,0 +1,21 @@
+{
+    "name": "BIAGIO PIGNATTA",
+    "description": "",
+    "address": "1, Viale Papa Giovanni XXIII - 59015 Carmignano (PO)",
+    "streetAddress": "1, Viale Papa Giovanni XXIII",
+    "postalCode": "59015",
+    "addressLocality": "Carmignano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.78249,
+        "lon": 11.0428
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8751406",
+        "055 875141"
+    ],
+    "rating": "4.0"
+}

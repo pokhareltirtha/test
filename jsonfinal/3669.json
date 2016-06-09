@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA MAN-DOCTOR PIZZA",
+    "description": "",
+    "address": "191, Via Sansovino - 50142 Firenze (FI)",
+    "streetAddress": "191, Via Sansovino",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77434,
+        "lon": 11.22308
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 712738"
+    ],
+    "rating": "5.0"
+}

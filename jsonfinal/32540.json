@@ -1,0 +1,20 @@
+{
+    "name": "LONGARNO BISTROT",
+    "description": "Il Lungarno Bistrot non solo ristorante ma anche punto di riferimento della nightlife fiorentina in piazza Scarlatti 1/r a Firenze.",
+    "address": "1/R, P. Scarlatti - 50125 Firenze (FI)",
+    "streetAddress": "1/R, P. Scarlatti",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76918,
+        "lon": 11.24796
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2717849"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA OSTERIA BORGOBASSO",
+    "description": "",
+    "address": "20, Borgata Giuseppe Garibaldi - 50052 Certaldo (FI)",
+    "streetAddress": "20, Borgata Giuseppe Garibaldi",
+    "postalCode": "50052",
+    "addressLocality": "Certaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54733,
+        "lon": 11.042
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 664711"
+    ],
+    "rating": ""
+}

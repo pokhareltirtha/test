@@ -1,0 +1,20 @@
+{
+    "name": "ALBERGO HOTEL LA CISTERNA - RISTORANTE LE TERRAZZE",
+    "description": "Questo hotel aggiunge magia grazie alla sua posizione, nel cuore, anzi anima della città di San Gimignano.",
+    "address": "24, P. Cisterna - 53037 San Gimignano (SI)",
+    "streetAddress": "24, P. Cisterna",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46745,
+        "lon": 11.044
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 940328"
+    ],
+    "rating": "4.0"
+}

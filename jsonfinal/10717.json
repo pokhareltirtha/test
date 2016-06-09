@@ -1,0 +1,20 @@
+{
+    "name": "AMI S.R.L.",
+    "description": "",
+    "address": "209, Via Della Piovola - 50053 Empoli (FI)",
+    "streetAddress": "209, Via Della Piovola",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7052,
+        "lon": 10.99236
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "335 6746560"
+    ],
+    "rating": ""
+}

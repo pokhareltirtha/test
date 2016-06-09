@@ -1,0 +1,20 @@
+{
+    "name": "LA PIAZZETTA DEL BORGO",
+    "description": "",
+    "address": "Snc, Via Iano - 50050 Montaione (FI)",
+    "streetAddress": "Snc, Via Iano",
+    "postalCode": "50050",
+    "addressLocality": "Montaione",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.51655,
+        "lon": 10.876
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 697943"
+    ],
+    "rating": "4.0"
+}

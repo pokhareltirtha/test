@@ -1,0 +1,21 @@
+{
+    "name": "PIZZA EXPRESS",
+    "description": "La pizzeria da asporto che prepara anche kebab, focacce, insalate, primi e secondi piatti, a Firenze",
+    "address": "",
+    "streetAddress": "",
+    "postalCode": "",
+    "addressLocality": "",
+    "addressRegion": "",
+    "coordinates": {
+        "lat": null,
+        "lon": null
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 323070",
+        "800 706706"
+    ],
+    "rating": ""
+}

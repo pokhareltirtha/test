@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DOC DI PALMERI MATTEO",
+    "description": "",
+    "address": "65, Via Olmi - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "65, Via Olmi",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83788,
+        "lon": 11.17253
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4201364"
+    ],
+    "rating": ""
+}

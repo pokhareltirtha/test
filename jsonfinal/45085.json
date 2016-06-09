@@ -1,0 +1,20 @@
+{
+    "name": "COLLEGIGLIATO",
+    "description": "",
+    "address": "45, Via Collegilgliato - 51100 Pistoia (PT)",
+    "streetAddress": "45, Via Collegilgliato",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.95775,
+        "lon": 10.91305
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 450297"
+    ],
+    "rating": ""
+}

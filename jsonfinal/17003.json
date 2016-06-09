@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LE GROTTE D'ARNO",
+    "description": "Il ristorante dove gustare piatti di mare e tradizionali a Cerreto Guidi in provincia di Firenze.",
+    "address": "87, V. Soldaini - 50050 Cerreto Guidi (FI)",
+    "streetAddress": "87, V. Soldaini",
+    "postalCode": "50050",
+    "addressLocality": "Cerreto Guidi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72807,
+        "lon": 10.88742
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 580427"
+    ],
+    "rating": ""
+}

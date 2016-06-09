@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA DILIGENZA DI MEONI GARY",
+    "description": "",
+    "address": "306, Viale Adua - 51100 Pistoia (PT)",
+    "streetAddress": "306, Viale Adua",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94583,
+        "lon": 10.90078
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 400454"
+    ],
+    "rating": ""
+}

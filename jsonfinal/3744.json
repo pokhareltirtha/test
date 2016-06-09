@@ -1,0 +1,21 @@
+{
+    "name": "PEPER DI FELICE BASILE E C. S.A.S.",
+    "description": "",
+    "address": "13, Via Magellano Ferdinando - 50127 Firenze (FI)",
+    "streetAddress": "13, Via Magellano Ferdinando",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79887,
+        "lon": 11.23238
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4221179",
+        "333 9494208"
+    ],
+    "rating": "4.3"
+}

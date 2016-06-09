@@ -1,0 +1,20 @@
+{
+    "name": "TARÌ RISTORANTE PIZZERIA",
+    "description": "",
+    "address": "Via Borgo Marturi, 19 - 53036 Poggibonsi (SI)",
+    "streetAddress": "Via Borgo Marturi, 19",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46942,
+        "lon": 11.14531
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 936687"
+    ],
+    "rating": ""
+}

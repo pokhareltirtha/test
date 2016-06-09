@@ -1,0 +1,20 @@
+{
+    "name": "CIRCOLO RICREATIVO R. GRASSI",
+    "description": "",
+    "address": "502, Via Pistoiese - 59100 Prato (PO)",
+    "streetAddress": "502, Via Pistoiese",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.89423,
+        "lon": 11.06763
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 811694"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE VECCHIA VENERI",
+    "description": "",
+    "address": "1, Via Della Chiesa - 51017 Pescia (PT)",
+    "streetAddress": "1, Via Della Chiesa",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87912,
+        "lon": 10.66569
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "347 2644249"
+    ],
+    "rating": ""
+}

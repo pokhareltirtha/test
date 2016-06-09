@@ -1,0 +1,20 @@
+{
+    "name": "NIRVANA FUSION CAFE'",
+    "description": "",
+    "address": "100, Strada Provinciale Di Monte Marciano - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "100, Strada Provinciale Di Monte Marciano",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.55055,
+        "lon": 11.58833
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9705244"
+    ],
+    "rating": ""
+}

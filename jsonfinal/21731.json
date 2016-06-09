@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DE' CIOMPI DI PAPPALARDO VINCENZO",
+    "description": "",
+    "address": "68/R, Borgo Allegri - 50122 Firenze (FI)",
+    "streetAddress": "68/R, Borgo Allegri",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77053,
+        "lon": 11.26477
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "328 7408972"
+    ],
+    "rating": ""
+}

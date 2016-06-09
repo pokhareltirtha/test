@@ -1,0 +1,20 @@
+{
+    "name": "IL POGGETTO RISTORANTE PIZZERIA",
+    "description": "A Firenze, il ristorante pizzeria del Poggetto dove gusterete squisiti salumi tipici artigianali, fritture, bistecche ed ottime pizze; ampia scelta di vini.",
+    "address": "24/B, V. Mercati - 50139 Rifredi (FI)",
+    "streetAddress": "24/B, V. Mercati",
+    "postalCode": "50139",
+    "addressLocality": "Rifredi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79489,
+        "lon": 11.24773
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "345 4078696"
+    ],
+    "rating": "4.5"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "BAR STRANOBAR PRANZI VELOCI E PIZZA DA ASPORTO",
+    "description": "",
+    "address": "7, Via Val Gardena - 50053 Empoli (FI)",
+    "streetAddress": "7, Via Val Gardena",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71814,
+        "lon": 10.93597
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "0571 83444"
+    ],
+    "rating": ""
+}

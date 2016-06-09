@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA - PUB ALASKA PUB DI MARCO MILANESCHI",
+    "description": "",
+    "address": "4, V. Don Milani Lorenzo Soci - 52011 Bibbiena (AR)",
+    "streetAddress": "4, V. Don Milani Lorenzo Soci",
+    "postalCode": "52011",
+    "addressLocality": "Bibbiena",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.72528,
+        "lon": 11.80886
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "366 1433754",
+        "0575 564069"
+    ],
+    "rating": ""
+}

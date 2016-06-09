@@ -1,0 +1,20 @@
+{
+    "name": "SOTTOFIESOLE",
+    "description": "",
+    "address": "8, Piazza Tommaso Alva Edison - 50133 Firenze (FI)",
+    "streetAddress": "8, Piazza Tommaso Alva Edison",
+    "postalCode": "50133",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78702,
+        "lon": 11.2835
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3840890"
+    ],
+    "rating": ""
+}

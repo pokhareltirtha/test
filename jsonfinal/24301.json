@@ -1,0 +1,20 @@
+{
+    "name": "PANORAMIC CLUB",
+    "description": "",
+    "address": "144, Via Salaiola - 50053 Empoli (FI)",
+    "streetAddress": "144, Via Salaiola",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.68444,
+        "lon": 10.9464
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 589553"
+    ],
+    "rating": ""
+}

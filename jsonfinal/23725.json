@@ -1,0 +1,20 @@
+{
+    "name": "PAGANINI RISTORANTE D'AUTORE",
+    "description": "",
+    "address": "229, Via Casentinese - 50060 Pelago (FI)",
+    "streetAddress": "229, Via Casentinese",
+    "postalCode": "50060",
+    "addressLocality": "Pelago",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79527,
+        "lon": 11.54071
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8321628"
+    ],
+    "rating": ""
+}

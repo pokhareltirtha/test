@@ -1,0 +1,20 @@
+{
+    "name": "CROCE DANIELE",
+    "description": "",
+    "address": "43, Via Monteromano - 48013 Brisighella (RA)",
+    "streetAddress": "43, Via Monteromano",
+    "postalCode": "48013",
+    "addressLocality": "Brisighella",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.14375,
+        "lon": 11.6354
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 87019"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "AZIENDA AGRITURISTICA",
+    "description": "",
+    "address": "22, Via Quercia - 40043 Marzabotto (BO)",
+    "streetAddress": "22, Via Quercia",
+    "postalCode": "40043",
+    "addressLocality": "Marzabotto",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.30281,
+        "lon": 11.2035
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "051 6775397"
+    ],
+    "rating": ""
+}

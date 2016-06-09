@@ -1,0 +1,21 @@
+{
+    "name": "LO SPIGO",
+    "description": "",
+    "address": "139, Via Di Pulica - 50056 Montelupo Fiorentino (FI)",
+    "streetAddress": "139, Via Di Pulica",
+    "postalCode": "50056",
+    "addressLocality": "Montelupo Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.70128,
+        "lon": 11.05061
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 929111"
+    ],
+    "rating": ""
+}

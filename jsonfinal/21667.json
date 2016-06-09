@@ -1,0 +1,20 @@
+{
+    "name": "ALBORADA",
+    "description": "",
+    "address": "21/R, Via Vitt. Eman. II - 50134 Firenze (FI)",
+    "streetAddress": "21/R, Via Vitt. Eman. II",
+    "postalCode": "50134",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78679,
+        "lon": 11.26009
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 474191"
+    ],
+    "rating": ""
+}

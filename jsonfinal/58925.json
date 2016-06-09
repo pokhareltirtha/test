@@ -1,0 +1,20 @@
+{
+    "name": "BAR PIZZERIA AI CENTO CAMPI",
+    "description": "",
+    "address": "841, Via Guglielmo Marconi - 51036 Larciano (PT)",
+    "streetAddress": "841, Via Guglielmo Marconi",
+    "postalCode": "51036",
+    "addressLocality": "Larciano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8178,
+        "lon": 10.88485
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "0573 803306"
+    ],
+    "rating": ""
+}

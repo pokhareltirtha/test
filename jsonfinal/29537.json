@@ -1,0 +1,20 @@
+{
+    "name": "L'OASI DI SAMIRA",
+    "description": "",
+    "address": "3  Via Antonio Minucci - Pratovecchio (AR)",
+    "streetAddress": "3, Via Antonio Minucci",
+    "postalCode": "",
+    "addressLocality": "Pratovecchio",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.78938,
+        "lon": 11.72182
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 504615"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA DI FUORIPORTA",
+    "description": "",
+    "address": "78, Via Giacomo Matteotti - 51034 Casalguidi (PT)",
+    "streetAddress": "78, Via Giacomo Matteotti",
+    "postalCode": "51034",
+    "addressLocality": "Casalguidi",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8684,
+        "lon": 10.91373
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 929233",
+        "0573 929223"
+    ],
+    "rating": ""
+}

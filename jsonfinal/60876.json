@@ -1,0 +1,20 @@
+{
+    "name": "DA DOLFO",
+    "description": "",
+    "address": "3, Piazza Vittorio Emanuele II - 51013 Chiesina Uzzanese (PT)",
+    "streetAddress": "3, Piazza Vittorio Emanuele II",
+    "postalCode": "51013",
+    "addressLocality": "Chiesina Uzzanese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83903,
+        "lon": 10.71913
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 411025"
+    ],
+    "rating": ""
+}

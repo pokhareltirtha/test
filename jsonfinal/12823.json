@@ -1,0 +1,21 @@
+{
+    "name": "SESTO SENSO RISTORANTE",
+    "description": "",
+    "address": "5, Piazza Mercato - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "5, Piazza Mercato",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83127,
+        "lon": 11.20001
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "331 6209327",
+        "334 9470526"
+    ],
+    "rating": ""
+}

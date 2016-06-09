@@ -1,0 +1,20 @@
+{
+    "name": "LA COSTA",
+    "description": "",
+    "address": "14, Via Verdi - 51010 Uzzano (PT)",
+    "streetAddress": "14, Via Verdi",
+    "postalCode": "51010",
+    "addressLocality": "Uzzano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89057,
+        "lon": 10.71321
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 490158"
+    ],
+    "rating": ""
+}

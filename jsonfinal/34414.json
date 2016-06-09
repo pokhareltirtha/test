@@ -1,0 +1,20 @@
+{
+    "name": "LAGARDERE FOOD SERVICES S.R.L.",
+    "description": "",
+    "address": "Via Limite - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "Via Limite",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.838,
+        "lon": 11.16392
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4215613"
+    ],
+    "rating": ""
+}

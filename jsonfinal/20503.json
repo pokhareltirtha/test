@@ -1,0 +1,21 @@
+{
+    "name": "IL BELLO IL BUONO E IL CATTIVO",
+    "description": "Il ristorante pizzeria Il bello il buono e il cattivo vi aspetta tutte le sere in Via Fausto Coppi - 52024 Loro Ciuffenna (AR).",
+    "address": "3/A, V. Fausto Coppi - 52024 San Giustino Valdarno (AR)",
+    "streetAddress": "3/A, V. Fausto Coppi",
+    "postalCode": "52024",
+    "addressLocality": "San Giustino Valdarno",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.55317,
+        "lon": 11.70957
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "335 441622"
+    ],
+    "rating": ""
+}

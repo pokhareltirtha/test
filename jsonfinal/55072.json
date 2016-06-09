@@ -1,0 +1,21 @@
+{
+    "name": "IL LUPO",
+    "description": "",
+    "address": "165, Via San Quirico - 50013 Capalle (FI)",
+    "streetAddress": "165, Via San Quirico",
+    "postalCode": "50013",
+    "addressLocality": "Capalle",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84554,
+        "lon": 11.14372
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8974856",
+        "055 8969604"
+    ],
+    "rating": ""
+}

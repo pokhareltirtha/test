@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE CASTELVECCHIO",
+    "description": "",
+    "address": "11, Via Castelvecchio - 56028 San Miniato (PI)",
+    "streetAddress": "11, Via Castelvecchio",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68545,
+        "lon": 10.81386
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 482878",
+        "0571 482881"
+    ],
+    "rating": "5.0"
+}

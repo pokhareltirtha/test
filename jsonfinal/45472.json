@@ -1,0 +1,20 @@
+{
+    "name": "DA PELLEGRINO",
+    "description": "",
+    "address": "6, Localita Renaggio - 51016 Montecatini Terme (PT)",
+    "streetAddress": "6, Localita Renaggio",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.91975,
+        "lon": 10.78478
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 67158"
+    ],
+    "rating": ""
+}

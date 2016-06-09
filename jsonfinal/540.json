@@ -1,0 +1,21 @@
+{
+    "name": "LA FRUGOLA S.R.L .",
+    "description": "",
+    "address": "33, Viale Moro Aldo - 59016 Poggio A Caiano (PO)",
+    "streetAddress": "33, Viale Moro Aldo",
+    "postalCode": "59016",
+    "addressLocality": "Poggio A Caiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.81439,
+        "lon": 11.05167
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8778143"
+    ],
+    "rating": "4.0"
+}

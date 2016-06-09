@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA ARMANDO",
+    "description": "",
+    "address": "140, Borgo Ognissanti - 50123 Firenze (FI)",
+    "streetAddress": "140, Borgo Ognissanti",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77422,
+        "lon": 11.24311
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 217263"
+    ],
+    "rating": ""
+}

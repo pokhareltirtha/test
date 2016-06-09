@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA COMBRICCOLA",
+    "description": "",
+    "address": "Km. 6.100, Localita' Belvedere - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "Km. 6.100, Localita' Belvedere",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.41075,
+        "lon": 11.16178
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 924488"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL GROTTINO",
+    "description": "",
+    "address": "23, Via Roma - 40050 Loiano (BO)",
+    "streetAddress": "23, Via Roma",
+    "postalCode": "40050",
+    "addressLocality": "Loiano",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.26939,
+        "lon": 11.32249
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "051 6544901"
+    ],
+    "rating": ""
+}

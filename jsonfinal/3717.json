@@ -1,0 +1,20 @@
+{
+    "name": "BRUNCH ONE SIGEP snc",
+    "description": "Brunch One pizzeria a Prato in via Ferrucci 43/a, con un'ampia scelta di panini e pizze, senza tralasciare antipasti, primi, secondi e insalatone.",
+    "address": "43/A, V. Ferrucci - 59100 Prato (PO)",
+    "streetAddress": "43/A, V. Ferrucci",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87532,
+        "lon": 11.10314
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 595732"
+    ],
+    "rating": "4.7"
+}

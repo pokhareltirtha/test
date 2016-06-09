@@ -1,0 +1,21 @@
+{
+    "name": "AUTOGRILL S.P.A.",
+    "description": "",
+    "address": "Via Di Terranuova - 52025 Montevarchi (AR)",
+    "streetAddress": "Via Di Terranuova",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.53709,
+        "lon": 11.56047
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 983523",
+        "055 9851685"
+    ],
+    "rating": ""
+}

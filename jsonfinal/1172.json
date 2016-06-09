@@ -1,0 +1,22 @@
+{
+    "name": "RENDEZ VOUS",
+    "description": "",
+    "address": "58, Via Molina - 50013 San Donnino (FI)",
+    "streetAddress": "58, Via Molina",
+    "postalCode": "50013",
+    "addressLocality": "San Donnino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79166,
+        "lon": 11.13512
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 0763164",
+        "055 8999347"
+    ],
+    "rating": ""
+}

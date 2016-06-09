@@ -1,0 +1,22 @@
+{
+    "name": "FIRENZE SUD SPORTING CLUB",
+    "description": "A Firenze il ristorante dove organizzare cene di lavoro, feste private, cerimonie e non solo!",
+    "address": "41/A, V. Villamagna - 50126 Firenze (FI)",
+    "streetAddress": "41/A, V. Villamagna",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76232,
+        "lon": 11.30145
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 6530281",
+        "393 1720729"
+    ],
+    "rating": "3.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE HOTEL DINO",
+    "description": "Il Ristorante Hotel Dino con vista panoramica sulle colline, a Fiesole, in provincia di Firenze in 329, v. Faentina.",
+    "address": "329, V. Faentina - 50014 Olmo (FI)",
+    "streetAddress": "329, V. Faentina",
+    "postalCode": "50014",
+    "addressLocality": "Olmo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85834,
+        "lon": 11.33793
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 548932"
+    ],
+    "rating": ""
+}

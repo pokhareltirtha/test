@@ -1,0 +1,20 @@
+{
+    "name": "E & A FACTORY SRL",
+    "description": "",
+    "address": "10/R, Via Ginori - 50123 Firenze (FI)",
+    "streetAddress": "10/R, Via Ginori",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77534,
+        "lon": 11.25524
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 280227"
+    ],
+    "rating": ""
+}

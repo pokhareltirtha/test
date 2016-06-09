@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ENOTECA BORGO ALLEGRO S.N.C. DI SCALI FABIO E SAVATTERI SAMUELE",
+    "description": "",
+    "address": "12, Via Fucini Renato - 50059 Vinci (FI)",
+    "streetAddress": "12, Via Fucini Renato",
+    "postalCode": "50059",
+    "addressLocality": "Vinci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78609,
+        "lon": 10.92674
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 567866"
+    ],
+    "rating": ""
+}

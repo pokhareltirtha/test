@@ -1,0 +1,21 @@
+{
+    "name": "LA CASA MATTA",
+    "description": "",
+    "address": "79, Viale Beato Angelico - 50039 Vicchio (FI)",
+    "streetAddress": "79, Viale Beato Angelico",
+    "postalCode": "50039",
+    "addressLocality": "Vicchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.93378,
+        "lon": 11.4584
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8497104"
+    ],
+    "rating": ""
+}

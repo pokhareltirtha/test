@@ -1,0 +1,21 @@
+{
+    "name": "LE CARAVELLE",
+    "description": "",
+    "address": "22, Lungarno Colombo - 50136 Firenze (FI)",
+    "streetAddress": "22, Lungarno Colombo",
+    "postalCode": "50136",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76612,
+        "lon": 11.28469
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 671892",
+        "055 6235313"
+    ],
+    "rating": ""
+}

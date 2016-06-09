@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA LA GARGOTTA SRL",
+    "description": "",
+    "address": "19, Via Vicchio E Paterno - 50012 Bagno A Ripoli (FI)",
+    "streetAddress": "19, Via Vicchio E Paterno",
+    "postalCode": "50012",
+    "addressLocality": "Bagno A Ripoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75661,
+        "lon": 11.34404
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 631444"
+    ],
+    "rating": ""
+}

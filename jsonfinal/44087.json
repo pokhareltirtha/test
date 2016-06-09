@@ -1,0 +1,20 @@
+{
+    "name": "TAIWAN SRL",
+    "description": "",
+    "address": "7/8, Largo Bargellini Piero - 50122 Firenze (FI)",
+    "streetAddress": "7/8, Largo Bargellini Piero",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76873,
+        "lon": 11.26299
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2346123"
+    ],
+    "rating": ""
+}

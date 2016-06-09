@@ -1,0 +1,21 @@
+{
+    "name": "BAR PIZZERIA LA ROSSA",
+    "description": "",
+    "address": ", Viale Provinciale Francesca - 50054 Fucecchio (FI)",
+    "streetAddress": ", Viale Provinciale Francesca",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74163,
+        "lon": 10.81635
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 297088"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA SCAPECIA DI SCELZI FRANCESCO",
+    "description": "",
+    "address": "538, Via Antonelli Padre Giovanni - 51100 Candeglia (PT)",
+    "streetAddress": "538, Via Antonelli Padre Giovanni",
+    "postalCode": "51100",
+    "addressLocality": "Candeglia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.95417,
+        "lon": 10.94208
+    },
+    "categories": [
+        "Gastronomie, salumerie e rosticcerie"
+    ],
+    "telephone": [
+        "0573 964682"
+    ],
+    "rating": ""
+}

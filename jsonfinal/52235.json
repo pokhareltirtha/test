@@ -1,0 +1,20 @@
+{
+    "name": "FLASH",
+    "description": "",
+    "address": "49, Via Cardinale Pacini - 55012 Capannori (LU)",
+    "streetAddress": "49, Via Cardinale Pacini",
+    "postalCode": "55012",
+    "addressLocality": "Capannori",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.84512,
+        "lon": 10.57361
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 429200"
+    ],
+    "rating": ""
+}

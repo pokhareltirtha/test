@@ -1,0 +1,21 @@
+{
+    "name": "M.E.G.E' S.R.L.",
+    "description": "",
+    "address": "2/B, Via Bovio Giovanni - 59100 Prato (PO)",
+    "streetAddress": "2/B, Via Bovio Giovanni",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87537,
+        "lon": 11.09987
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 604429",
+        "0574 21334"
+    ],
+    "rating": ""
+}

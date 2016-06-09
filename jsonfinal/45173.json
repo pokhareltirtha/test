@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL FORNELLO DI GIULIANI GABRIELE",
+    "description": "",
+    "address": "13, Via Vespucci Amerigo - 51017 Pescia (PT)",
+    "streetAddress": "13, Via Vespucci Amerigo",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89063,
+        "lon": 10.6648
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 429582"
+    ],
+    "rating": ""
+}

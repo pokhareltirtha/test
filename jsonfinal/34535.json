@@ -1,0 +1,20 @@
+{
+    "name": "ANTICA TRATTORIA DA TITO",
+    "description": "",
+    "address": "114, Via San Gallo - 50129 Firenze (FI)",
+    "streetAddress": "114, Via San Gallo",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78254,
+        "lon": 11.26082
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 472475"
+    ],
+    "rating": "5.0"
+}

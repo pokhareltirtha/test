@@ -1,0 +1,20 @@
+{
+    "name": "LA BUSSOLA DA GINO",
+    "description": "",
+    "address": "66, Via Statale - 51039 Quarrata (PT)",
+    "streetAddress": "66, Via Statale",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88117,
+        "lon": 10.97311
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 743128"
+    ],
+    "rating": ""
+}

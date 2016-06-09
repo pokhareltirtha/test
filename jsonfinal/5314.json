@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ENOTECA GUSTAVINO",
+    "description": "Il ristorante enoteca a Firenze che offre un angolo dove gustare le ricette più tradizionali della cucina fiorentina accompagnati da vini di qualità.",
+    "address": "37/R, V. Condotta - 50122 Firenze (FI)",
+    "streetAddress": "37/R, V. Condotta",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77021,
+        "lon": 11.25625
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2399806"
+    ],
+    "rating": ""
+}

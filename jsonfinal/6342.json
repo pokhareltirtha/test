@@ -1,0 +1,20 @@
+{
+    "name": "FUJIAMA",
+    "description": "",
+    "address": "5, Via Valentini - 59100 Prato (PO)",
+    "streetAddress": "5, Via Valentini",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87428,
+        "lon": 11.10158
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 623857"
+    ],
+    "rating": ""
+}

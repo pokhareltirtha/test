@@ -1,0 +1,21 @@
+{
+    "name": "ESPERANZA S.R.L.",
+    "description": "",
+    "address": "360, Via Aretina - 50136 Firenze (FI)",
+    "streetAddress": "360, Via Aretina",
+    "postalCode": "50136",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76852,
+        "lon": 11.32176
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6557982",
+        "055 6505186"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ECCOCI",
+    "description": "",
+    "address": "5/R, Piazza Ghiberti Lorenzo - 50122 Firenze (FI)",
+    "streetAddress": "5/R, Piazza Ghiberti Lorenzo",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77015,
+        "lon": 11.26677
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2638223",
+        "055 2269332"
+    ],
+    "rating": ""
+}

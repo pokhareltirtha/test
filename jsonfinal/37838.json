@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA DEL CORSO",
+    "description": "",
+    "address": "Corso Del Popolo, 22/A - 50039 Vicchio (FI)",
+    "streetAddress": "Corso Del Popolo, 22/A",
+    "postalCode": "50039",
+    "addressLocality": "Vicchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.93306,
+        "lon": 11.46563
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 0118673",
+        "340 8672980"
+    ],
+    "rating": "3.0"
+}

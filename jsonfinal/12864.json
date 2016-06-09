@@ -1,0 +1,20 @@
+{
+    "name": "ALBERGACCIO DEL MACHIAVELLI",
+    "description": "",
+    "address": "175, Via Scopeti - 50026 Sant'Andrea In Percussina (FI)",
+    "streetAddress": "175, Via Scopeti",
+    "postalCode": "50026",
+    "addressLocality": "Sant'Andrea In Percussina",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.68334,
+        "lon": 11.19781
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 828471"
+    ],
+    "rating": "5.0"
+}

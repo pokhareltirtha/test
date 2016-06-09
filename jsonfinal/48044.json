@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA LIVORNESE",
+    "description": "",
+    "address": "2, Viale Umberto I - 50056 Montelupo Fiorentino (FI)",
+    "streetAddress": "2, Viale Umberto I",
+    "postalCode": "50056",
+    "addressLocality": "Montelupo Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73253,
+        "lon": 11.02042
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 542611"
+    ],
+    "rating": "4.0"
+}

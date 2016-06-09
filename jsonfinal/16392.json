@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA SUGERO",
+    "description": "",
+    "address": "35, Via Del Casalino - 55012 Tassignano (LU)",
+    "streetAddress": "35, Via Del Casalino",
+    "postalCode": "55012",
+    "addressLocality": "Tassignano",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.83514,
+        "lon": 10.5689
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 933170"
+    ],
+    "rating": ""
+}

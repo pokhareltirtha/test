@@ -1,0 +1,20 @@
+{
+    "name": "100 PALMI",
+    "description": "",
+    "address": "16,,Frazione Le Corti - 50067 Le Corti (FI)",
+    "streetAddress": "16,  Frazione Le Corti",
+    "postalCode": "50067",
+    "addressLocality": "Le Corti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72888,
+        "lon": 11.41487
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8305369"
+    ],
+    "rating": ""
+}

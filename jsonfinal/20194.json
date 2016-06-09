@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA E CARBONE ACASAMIA DI FOSSATI MARIA CRISTINA",
+    "description": "",
+    "address": "165/R, Via Pisana - 50143 Firenze (FI)",
+    "streetAddress": "165/R, Via Pisana",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77071,
+        "lon": 11.22066
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 7390449"
+    ],
+    "rating": "4.3"
+}

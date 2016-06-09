@@ -1,0 +1,20 @@
+{
+    "name": "INFINITO",
+    "description": "",
+    "address": "10, Via Del Trebbio - 48013 Brisighella (RA)",
+    "streetAddress": "10, Via Del Trebbio",
+    "postalCode": "48013",
+    "addressLocality": "Brisighella",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.22404,
+        "lon": 11.77244
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 80437"
+    ],
+    "rating": ""
+}

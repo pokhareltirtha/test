@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA FORTUNA DA SABRINA",
+    "description": "",
+    "address": "40, Piazza G. Guerra - 50053 Empoli (FI)",
+    "streetAddress": "40, Piazza G. Guerra",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7231,
+        "lon": 10.94834
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 700377",
+        "335 6755524"
+    ],
+    "rating": ""
+}

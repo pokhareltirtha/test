@@ -1,0 +1,21 @@
+{
+    "name": "CONSORZIO AGRARIO DI SIENA",
+    "description": "",
+    "address": "Snc, Via Borgaccio - 53036 Poggibonsi (SI)",
+    "streetAddress": "Snc, Via Borgaccio",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.47408,
+        "lon": 11.15015
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 230531",
+        "0577 230598"
+    ],
+    "rating": ""
+}

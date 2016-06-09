@@ -1,0 +1,21 @@
+{
+    "name": "BOUTIQUE DELLA PIZZA DI MARCO MARCUCCI S.A.S.",
+    "description": "",
+    "address": "122, Via Leccio - 55016 Porcari (LU)",
+    "streetAddress": "122, Via Leccio",
+    "postalCode": "55016",
+    "addressLocality": "Porcari",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81344,
+        "lon": 10.62366
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 211063",
+        "347 8547863"
+    ],
+    "rating": ""
+}

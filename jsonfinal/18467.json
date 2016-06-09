@@ -1,0 +1,20 @@
+{
+    "name": "CACIO VINO TRALLALLA'",
+    "description": "",
+    "address": "29, Borgo Santi Apostoli - 50123 Firenze (FI)",
+    "streetAddress": "29, Borgo Santi Apostoli",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76978,
+        "lon": 11.25141
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 215558"
+    ],
+    "rating": ""
+}

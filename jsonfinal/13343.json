@@ -1,0 +1,20 @@
+{
+    "name": "MYCHEF AEROPORTO FIRENZE A. VESPUCCI",
+    "description": "",
+    "address": ", Via Del Termine - 50127 Firenze (FI)",
+    "streetAddress": ", Via Del Termine",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80619,
+        "lon": 11.20312
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3427495"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA DA NAPPINO",
+    "description": "Ristorante pizzeria Nappino, buon pesce, porzioni abbondanti, prezzi bassi a Pontassieve.",
+    "address": "1, V. Chiari - 50065 Pontassieve (FI)",
+    "streetAddress": "1, V. Chiari",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85205,
+        "lon": 11.39701
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8300439"
+    ],
+    "rating": ""
+}

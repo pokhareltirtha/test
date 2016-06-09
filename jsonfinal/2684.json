@@ -1,0 +1,21 @@
+{
+    "name": "IL TRIBUTO DI VILLA BARBERINO",
+    "description": "",
+    "address": "Viale Barberino, 19 - 52022 Meleto (AR)",
+    "streetAddress": "Viale Barberino, 19",
+    "postalCode": "52022",
+    "addressLocality": "Meleto",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.57035,
+        "lon": 11.46597
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 961321",
+        "055 961813"
+    ],
+    "rating": ""
+}

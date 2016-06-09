@@ -1,0 +1,20 @@
+{
+    "name": "CHEF-UISP S.R.L.",
+    "description": "",
+    "address": "15, Via La Torre - 50038 Scarperia (FI)",
+    "streetAddress": "15, Via La Torre",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.96062,
+        "lon": 11.34411
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "366 3012385"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DA MELO",
+    "description": "",
+    "address": "198, Via Di Rosano - 50012 Bagno A Ripoli (FI)",
+    "streetAddress": "198, Via Di Rosano",
+    "postalCode": "50012",
+    "addressLocality": "Bagno A Ripoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77321,
+        "lon": 11.41308
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6519000"
+    ],
+    "rating": "4.5"
+}

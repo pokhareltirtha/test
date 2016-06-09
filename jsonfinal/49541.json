@@ -1,0 +1,20 @@
+{
+    "name": "ARTEPIZZA",
+    "description": "",
+    "address": "34, Via Firenze - 56025 Pontedera (PI)",
+    "streetAddress": "34, Via Firenze",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66778,
+        "lon": 10.64052
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 52291"
+    ],
+    "rating": ""
+}

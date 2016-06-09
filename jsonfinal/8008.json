@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE ETRURIA",
+    "description": "",
+    "address": "6, Piazza Dei Priori - 56048 Volterra (PI)",
+    "streetAddress": "6, Piazza Dei Priori",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.4023,
+        "lon": 10.85927
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 86064",
+        "0588 886064"
+    ],
+    "rating": ""
+}

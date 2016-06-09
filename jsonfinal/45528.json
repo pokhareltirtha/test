@@ -1,0 +1,20 @@
+{
+    "name": "SABATINI MAURIZIO",
+    "description": "",
+    "address": "587, Via Modenese - 51100 Pistoia (PT)",
+    "streetAddress": "587, Via Modenese",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9947,
+        "lon": 10.85267
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 39241"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA BOMBA DI ALFONSO MELISI E MASSIMO MORREALE SNC",
+    "description": "",
+    "address": "21, Viale Petrocchi Policarpo - 51100 Pistoia (PT)",
+    "streetAddress": "21, Viale Petrocchi Policarpo",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93059,
+        "lon": 10.9071
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 20689"
+    ],
+    "rating": ""
+}

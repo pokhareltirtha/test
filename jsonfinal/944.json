@@ -1,0 +1,21 @@
+{
+    "name": "CENTO CANTI",
+    "description": "",
+    "address": "32, Via Vincenzo Gioberti - 50121 Firenze (FI)",
+    "streetAddress": "32, Via Vincenzo Gioberti",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76997,
+        "lon": 11.2778
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 664176"
+    ],
+    "rating": "5.0"
+}

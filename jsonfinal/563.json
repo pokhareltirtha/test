@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE TRATTORIA DA BURDE",
+    "description": "Ristorante Trattoria Osteria Gastronomia Bar e Tabacchi Da Burde a Firenze dal 1901.",
+    "address": "154, V. Pistoiese - 50145 Firenze (FI)",
+    "streetAddress": "154, V. Pistoiese",
+    "postalCode": "50145",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79399,
+        "lon": 11.18626
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 311329"
+    ],
+    "rating": "4.0"
+}

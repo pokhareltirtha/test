@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA GROTTA DELLA RANA",
+    "description": "Una trattaria dai sapori e dagli odori tipici delle antiche tradizioni toscane, a Gaiole in Chianti (SI)",
+    "address": "33, Via Padre Cristoforo Chiantini-San Sano - 53013 Gaiole In Chianti (SI)",
+    "streetAddress": "33, Via Padre Cristoforo Chiantini-San Sano",
+    "postalCode": "53013",
+    "addressLocality": "Gaiole In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42254,
+        "lon": 11.38898
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 746925",
+        "339 1896625"
+    ],
+    "rating": ""
+}

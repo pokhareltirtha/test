@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA WINDY",
+    "description": "",
+    "address": "110, Via Vittorio Emanuele II - 40063 Monghidoro (BO)",
+    "streetAddress": "110, Via Vittorio Emanuele II",
+    "postalCode": "40063",
+    "addressLocality": "Monghidoro",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.21814,
+        "lon": 11.32024
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "051 6555010"
+    ],
+    "rating": ""
+}

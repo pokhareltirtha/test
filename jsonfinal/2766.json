@@ -1,0 +1,20 @@
+{
+    "name": "REF SRL",
+    "description": "",
+    "address": "84, Via Volterrana Nord - 50025 Montespertoli (FI)",
+    "streetAddress": "84, Via Volterrana Nord",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.66457,
+        "lon": 11.0845
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 671073"
+    ],
+    "rating": ""
+}

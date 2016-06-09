@@ -1,0 +1,21 @@
+{
+    "name": "SEMOLINA",
+    "description": "",
+    "address": "87, Piazza Lorenzo Ghiberti - 50122 Firenze (FI)",
+    "streetAddress": "87, Piazza Lorenzo Ghiberti",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77073,
+        "lon": 11.26745
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2347584"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "CRUDO",
+    "description": "",
+    "address": "30, Viale Giacomo Matteotti - 50132 Firenze (FI)",
+    "streetAddress": "30, Viale Giacomo Matteotti",
+    "postalCode": "50132",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78067,
+        "lon": 11.265
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 571890"
+    ],
+    "rating": "4.0"
+}

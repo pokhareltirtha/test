@@ -1,0 +1,21 @@
+{
+    "name": "LA VECCHIA LIRA",
+    "description": "",
+    "address": "19, Via Matteotti - 56048 Volterra (PI)",
+    "streetAddress": "19, Via Matteotti",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40168,
+        "lon": 10.86025
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "349 6047668",
+        "0588 86180"
+    ],
+    "rating": ""
+}

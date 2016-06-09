@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA OMERO",
+    "description": "",
+    "address": "4, Piazza Della Pace - 56028 San Miniato Basso (PI)",
+    "streetAddress": "4, Piazza Della Pace",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato Basso",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69365,
+        "lon": 10.84076
+    },
+    "categories": [
+        "Ristoranti - trattorie ed osterie"
+    ],
+    "telephone": [
+        "0571 400520"
+    ],
+    "rating": ""
+}

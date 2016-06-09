@@ -1,0 +1,20 @@
+{
+    "name": "IL MENESTRELLO",
+    "description": "",
+    "address": "361, Viale Europa - 51039 Santonuovo (PT)",
+    "streetAddress": "361, Viale Europa",
+    "postalCode": "51039",
+    "addressLocality": "Santonuovo",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86293,
+        "lon": 10.94284
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 735938"
+    ],
+    "rating": "3.0"
+}

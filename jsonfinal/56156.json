@@ -1,0 +1,21 @@
+{
+    "name": "LA PRIMULA",
+    "description": "",
+    "address": "51, Localita Pontenano - 52010 Pontenano (AR)",
+    "streetAddress": "51, Localita Pontenano",
+    "postalCode": "52010",
+    "addressLocality": "Pontenano",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.5927,
+        "lon": 11.74374
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "338 3984926",
+        "0575 539133"
+    ],
+    "rating": ""
+}

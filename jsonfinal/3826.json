@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PRIMAVERA SAS",
+    "description": "",
+    "address": "315, Via Pistoiese - 50145 Firenze (FI)",
+    "streetAddress": "315, Via Pistoiese",
+    "postalCode": "50145",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79331,
+        "lon": 11.17574
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 5274943"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZEUS DI MEONI CATIUSCIA",
+    "description": "",
+    "address": "27/A, Via Lavagnini Spartaco - 52027 San Giovanni Valdarno (AR)",
+    "streetAddress": "27/A, Via Lavagnini Spartaco",
+    "postalCode": "52027",
+    "addressLocality": "San Giovanni Valdarno",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.56149,
+        "lon": 11.53327
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "320 0531615"
+    ],
+    "rating": ""
+}

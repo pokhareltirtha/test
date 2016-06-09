@@ -1,0 +1,21 @@
+{
+    "name": "BELLAVISTA IMPRUNETA",
+    "description": "",
+    "address": "Via Della Croce 2 - 50023 Impruneta (FI)",
+    "streetAddress": "Via Della Croce 2",
+    "postalCode": "50023",
+    "addressLocality": "Impruneta",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.68495,
+        "lon": 11.25418
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "329 1260165",
+        "055 2011083"
+    ],
+    "rating": ""
+}

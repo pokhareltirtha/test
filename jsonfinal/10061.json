@@ -1,0 +1,21 @@
+{
+    "name": "NAZIONALE",
+    "description": "",
+    "address": "Via Dei Marchesi 11 - 56048 Volterra (PI)",
+    "streetAddress": "Via Dei Marchesi 11",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40134,
+        "lon": 10.86002
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 86284",
+        "0588 84097"
+    ],
+    "rating": ""
+}

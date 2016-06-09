@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA LA TERRAZZA",
+    "description": "",
+    "address": "Piazza Francesco Carrara 9 A - 55015 Montecarlo (LU)",
+    "streetAddress": "Piazza Francesco Carrara 9 A",
+    "postalCode": "55015",
+    "addressLocality": "Montecarlo",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.85102,
+        "lon": 10.66748
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "334 7794262",
+        "0583 228859"
+    ],
+    "rating": ""
+}

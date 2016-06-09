@@ -1,0 +1,21 @@
+{
+    "name": "DA MESSER BOCCACCIO",
+    "description": "",
+    "address": "35, Via Boccaccio - 50052 Certaldo (FI)",
+    "streetAddress": "35, Via Boccaccio",
+    "postalCode": "50052",
+    "addressLocality": "Certaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54897,
+        "lon": 11.04425
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "349 3219668",
+        "0571 665122"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "TETTUCCIO",
+    "description": "",
+    "address": "74, Viale Giuseppe Verdi - 51016 Montecatini Terme (PT)",
+    "streetAddress": "74, Viale Giuseppe Verdi",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88522,
+        "lon": 10.77394
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 78051",
+        "0572 75711"
+    ],
+    "rating": ""
+}

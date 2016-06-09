@@ -1,0 +1,21 @@
+{
+    "name": "EMMELLEGI S.R.L.",
+    "description": "",
+    "address": "74/R, Via Di Parione - 50123 Firenze (FI)",
+    "streetAddress": "74/R, Via Di Parione",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77089,
+        "lon": 11.24867
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 268988",
+        "055 214005"
+    ],
+    "rating": ""
+}

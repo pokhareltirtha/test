@@ -1,0 +1,20 @@
+{
+    "name": "HOTEL I DUE ANGELI",
+    "description": "In una magnifica posizione di Montecatini Terme (PT), un hotel per tutti coloro che vogliono soggiornare all'insegna del riposo, della salute e dello svago.",
+    "address": "9, V. Manzoni - 51016 Montecatini Terme (PT)",
+    "streetAddress": "9, V. Manzoni",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88454,
+        "lon": 10.77453
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 773237"
+    ],
+    "rating": ""
+}

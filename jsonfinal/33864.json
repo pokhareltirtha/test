@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA ALLE QUATTRO STRADE SOCIETA' A RESPONSABILITA ' LIMITATA SEMPLIFICATA",
+    "description": "",
+    "address": "40, Via Sonnino Sydney - 50025 Montespertoli (FI)",
+    "streetAddress": "40, Via Sonnino Sydney",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.64409,
+        "lon": 11.07648
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 608021"
+    ],
+    "rating": ""
+}

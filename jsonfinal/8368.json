@@ -1,0 +1,21 @@
+{
+    "name": "DUMBO",
+    "description": "",
+    "address": "30, Via Cavour - 56020 San Romano (PI)",
+    "streetAddress": "30, Via Cavour",
+    "postalCode": "56020",
+    "addressLocality": "San Romano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69018,
+        "lon": 10.75987
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 450999"
+    ],
+    "rating": ""
+}

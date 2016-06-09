@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA DA I DOLIO S.R.L.",
+    "description": "",
+    "address": "40/42, Via Arpioni Pino - 50022 Greve In Chianti (FI)",
+    "streetAddress": "40/42, Via Arpioni Pino",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.65799,
+        "lon": 11.30009
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8586057"
+    ],
+    "rating": "5.0"
+}

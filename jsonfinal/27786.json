@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE 4 ASSI",
+    "description": "",
+    "address": "37, Via Provinciale Francesca - 50050 Stabbia (FI)",
+    "streetAddress": "37, Via Provinciale Francesca",
+    "postalCode": "50050",
+    "addressLocality": "Stabbia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78101,
+        "lon": 10.83357
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 956106"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DI CASA CHIANTI",
+    "description": "",
+    "address": "77, Via Case Nuove - 50052 Certaldo (FI)",
+    "streetAddress": "77, Via Case Nuove",
+    "postalCode": "50052",
+    "addressLocality": "Certaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.56024,
+        "lon": 11.10136
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 669688"
+    ],
+    "rating": ""
+}

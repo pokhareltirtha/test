@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA CASA D'AFRICA",
+    "description": "La pizzeria ristorante dove assaporare gustose pizze e piatti rustici a Cerreto Guidi in provincia di Firenze.",
+    "address": "10, V. Della Buca - 50050 Stabbia (FI)",
+    "streetAddress": "10, V. Della Buca",
+    "postalCode": "50050",
+    "addressLocality": "Stabbia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78971,
+        "lon": 10.82832
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 586704"
+    ],
+    "rating": ""
+}

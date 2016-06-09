@@ -1,0 +1,20 @@
+{
+    "name": "AL FORNELLO DELLA SANDRA",
+    "description": "",
+    "address": "57, Via Fratelli Cervi - 50065 Pontassieve (FI)",
+    "streetAddress": "57, Via Fratelli Cervi",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77222,
+        "lon": 11.43573
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8323539"
+    ],
+    "rating": ""
+}

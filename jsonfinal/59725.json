@@ -1,0 +1,21 @@
+{
+    "name": "GASTRONOMIA ROSTICCERIA BAGNI",
+    "description": "La gastronomia rosticceria Bagni Mauro Leandro e C. è una splendida occasione per gustare deliziose gastronomie calde e fredde, da asporto o con consegna a domicilio. Presso la gastronomia pizze, foca...",
+    "address": "58/A/B, V. Bellini - 50053 Empoli (FI)",
+    "streetAddress": "58/A/B, V. Bellini",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71768,
+        "lon": 10.95728
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 74213",
+        "0571 73453"
+    ],
+    "rating": "5.0"
+}

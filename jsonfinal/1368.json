@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE RUBACONTE",
+    "description": "Nel centro di Firenze trovate il ristorante il Rubaconte che offre i migliori piatti della cucina moderna e pizzeria con forno a legna.",
+    "address": "178/R, V. Ghibellina - 50122 Firenze (FI)",
+    "streetAddress": "178/R, V. Ghibellina",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77056,
+        "lon": 11.25882
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2645411"
+    ],
+    "rating": ""
+}

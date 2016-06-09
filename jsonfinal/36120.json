@@ -1,0 +1,21 @@
+{
+    "name": "NAGOYA",
+    "description": "",
+    "address": "Via Avignone, 11 - 59100 Prato (PO)",
+    "streetAddress": "Via Avignone, 11",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87923,
+        "lon": 11.07366
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 400183",
+        "0574 444286"
+    ],
+    "rating": ""
+}

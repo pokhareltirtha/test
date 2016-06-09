@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE L'ACQUACHETA",
+    "description": "",
+    "address": "59, Via Di Rosano - 50012 Bagno A Ripoli (FI)",
+    "streetAddress": "59, Via Di Rosano",
+    "postalCode": "50012",
+    "addressLocality": "Bagno A Ripoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78239,
+        "lon": 11.36608
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 696054"
+    ],
+    "rating": ""
+}

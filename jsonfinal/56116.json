@@ -1,0 +1,20 @@
+{
+    "name": "YELLOW BAR PIZZERIA",
+    "description": "",
+    "address": "39, Via Del Proconsolo - 50122 Firenze (FI)",
+    "streetAddress": "39, Via Del Proconsolo",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77135,
+        "lon": 11.25792
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 211766"
+    ],
+    "rating": ""
+}

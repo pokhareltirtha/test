@@ -1,0 +1,20 @@
+{
+    "name": "FLORENS FOOD COMPANY SRL",
+    "description": "",
+    "address": "40/R, Via S. Gallo - 50129 Firenze (FI)",
+    "streetAddress": "40/R, Via S. Gallo",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77908,
+        "lon": 11.2576
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 494604"
+    ],
+    "rating": "4.0"
+}

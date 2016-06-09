@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA IL GRILLO",
+    "description": "",
+    "address": "284, Via Montalbano - 51034 Serravalle Pistoiese (PT)",
+    "streetAddress": "284, Via Montalbano",
+    "postalCode": "51034",
+    "addressLocality": "Serravalle Pistoiese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86915,
+        "lon": 10.91915
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 528806"
+    ],
+    "rating": ""
+}

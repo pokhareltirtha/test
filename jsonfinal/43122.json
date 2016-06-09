@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA ANTICO PORTALE MILO DI LONARDO E MILANI & C. S.A.S.",
+    "description": "",
+    "address": "2, Via Niccolo' Copernico - 59100 Prato (PO)",
+    "streetAddress": "2, Via Niccolo' Copernico",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86416,
+        "lon": 11.09437
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 582550"
+    ],
+    "rating": ""
+}

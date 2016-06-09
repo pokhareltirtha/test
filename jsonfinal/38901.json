@@ -1,0 +1,20 @@
+{
+    "name": "L'ALTRA CALAFURIA",
+    "description": "",
+    "address": "9, Piazza Lippi - 59100 Prato (PO)",
+    "streetAddress": "9, Piazza Lippi",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.8824,
+        "lon": 11.09837
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 26697"
+    ],
+    "rating": ""
+}

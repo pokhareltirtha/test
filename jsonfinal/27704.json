@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA RISTORANTE E DISCO BAR GIRASOL",
+    "description": "A Firenze, il locale amato dai giovani per la possibilità di scelta fra aperitivi, pizza, piatti tipici della cucina locale e birreria fino a tarda notte.",
+    "address": "1/G/R, V. Romito - 50134 Firenze (FI)",
+    "streetAddress": "1/G/R, V. Romito",
+    "postalCode": "50134",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78676,
+        "lon": 11.24587
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 474948"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "CARAVANSERRAGLIO",
+    "description": "",
+    "address": "1, Piazzale Leonardo Da Vinci - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "1, Piazzale Leonardo Da Vinci",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84248,
+        "lon": 11.24736
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4489949"
+    ],
+    "rating": ""
+}

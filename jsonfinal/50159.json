@@ -1,0 +1,21 @@
+{
+    "name": "IL POSTO GIUSTO",
+    "description": "A Poggibonsi, in provincia di Siena, la pizzeria che propone tantissime pizze di qualità, consegnandole a domicilio ancora calde e fragranti.",
+    "address": "48, V. Romana - 53036 Poggibonsi (SI)",
+    "streetAddress": "48, V. Romana",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42332,
+        "lon": 11.18228
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 930370",
+        "334 8163605"
+    ],
+    "rating": ""
+}

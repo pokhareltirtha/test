@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE RAFANELLI",
+    "description": "Ristorante Rafanelli vi aspetta per farvi gustare le specialità della cucina toscana, a Pistoia, in via S. Agostino.",
+    "address": "47, V. S. Agostino - 51100 Sant'Agostino (PT)",
+    "streetAddress": "47, V. S. Agostino",
+    "postalCode": "51100",
+    "addressLocality": "Sant'Agostino",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93281,
+        "lon": 10.93816
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 23046",
+        "0573 532046"
+    ],
+    "rating": "4.8"
+}

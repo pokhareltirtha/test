@@ -1,0 +1,20 @@
+{
+    "name": "LA PORTA VERDE",
+    "description": "Il posto ideale dove gustare primi piatti tradizionali, ad altri che uniscono ai gusti mediterranei i profumi di menta e curry a Firenze.",
+    "address": "7/R, V. D'Orso - 50135 Firenze (FI)",
+    "streetAddress": "7/R, V. D'Orso",
+    "postalCode": "50135",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77779,
+        "lon": 11.29695
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 606345"
+    ],
+    "rating": ""
+}

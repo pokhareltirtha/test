@@ -1,0 +1,20 @@
+{
+    "name": "RUGGERO",
+    "description": "",
+    "address": "89, Via Senese - 50124 Firenze (FI)",
+    "streetAddress": "89, Via Senese",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75375,
+        "lon": 11.23935
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 220542"
+    ],
+    "rating": ""
+}

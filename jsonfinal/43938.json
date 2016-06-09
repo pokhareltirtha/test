@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE I 4 VENTI",
+    "description": "Ristorante I 4 Venti posto ideale dove gustare la cucina tipica toscana a Campi Bisenzio provincia di Firenze.",
+    "address": "203/205, V. S. Quirico - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "203/205, V. S. Quirico",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85159,
+        "lon": 11.14841
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 891607"
+    ],
+    "rating": ""
+}

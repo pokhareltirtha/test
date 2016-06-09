@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA BAR 2 +",
+    "description": "",
+    "address": "24, Via Della Resistenza - 50064 Figline Valdarno (FI)",
+    "streetAddress": "24, Via Della Resistenza",
+    "postalCode": "50064",
+    "addressLocality": "Figline Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.6148,
+        "lon": 11.47742
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "055 951408"
+    ],
+    "rating": ""
+}

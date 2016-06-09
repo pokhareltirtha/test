@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE AEROSCALO",
+    "description": "A Pontedera, in provincia di Pisa, si trova il ristorante che offre ottimi piatti toscani a base di pesce, carne e carne di cacciagione.",
+    "address": "8, V. Roma - 56025 Pontedera (PI)",
+    "streetAddress": "8, V. Roma",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66364,
+        "lon": 10.63457
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 52024"
+    ],
+    "rating": ""
+}

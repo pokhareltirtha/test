@@ -1,0 +1,20 @@
+{
+    "name": "NON SOLO PIZZA",
+    "description": "",
+    "address": "15, Via Dei Mille - 56038 Ponsacco (PI)",
+    "streetAddress": "15, Via Dei Mille",
+    "postalCode": "56038",
+    "addressLocality": "Ponsacco",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.61959,
+        "lon": 10.63159
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 350993"
+    ],
+    "rating": ""
+}

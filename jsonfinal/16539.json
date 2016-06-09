@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE VIA PISANA 62",
+    "description": "Il Ristorante Via Pisana 62 è specializzato in bistecche alla fiorentina. È aperto da poco ma ha già saputo conquistare il palato dei suoi commensali. Ottimi anche gli antipasti ed i primi.",
+    "address": "62, V. Pisana - 56025 Pontedera (PI)",
+    "streetAddress": "62, V. Pisana",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66488,
+        "lon": 10.62633
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 091903"
+    ],
+    "rating": "4.0"
+}

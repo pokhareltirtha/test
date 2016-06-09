@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA DEGLI ARTISTI",
+    "description": "",
+    "address": "18, Via Costa Don Giovanni - 48025 Riolo Terme (RA)",
+    "streetAddress": "18, Via Costa Don Giovanni",
+    "postalCode": "48025",
+    "addressLocality": "Riolo Terme",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.27586,
+        "lon": 11.72253
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 608932",
+        "0546 71296"
+    ],
+    "rating": ""
+}

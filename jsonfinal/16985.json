@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA CARABACCIA",
+    "description": "Il Ristorante La Carabaccia di Volterra (PI) offre il meglio dei sapori tipici toscani.",
+    "address": "4/5, P. XX Settembre - 56048 Volterra (PI)",
+    "streetAddress": "4/5, P. XX Settembre",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.4013,
+        "lon": 10.86314
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 86239"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA, PANE E COMPANATICO",
+    "description": "Una pizzeria che vi offre pizza al taglio, al piatto, da scegliere fra tanti gusti e schiacciate sfiziose, a Cascina (PI)",
+    "address": "1182, V. Tosco Romagnola - 56021 San Frediano A Settimo (PI)",
+    "streetAddress": "1182, V. Tosco Romagnola",
+    "postalCode": "56021",
+    "addressLocality": "San Frediano A Settimo",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68244,
+        "lon": 10.51567
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 744215"
+    ],
+    "rating": ""
+}

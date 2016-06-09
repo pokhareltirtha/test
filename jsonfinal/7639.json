@@ -1,0 +1,20 @@
+{
+    "name": "MONTEBUONI",
+    "description": "",
+    "address": "179/A, Via Cassia - 50023 Impruneta (FI)",
+    "streetAddress": "179/A, Via Cassia",
+    "postalCode": "50023",
+    "addressLocality": "Impruneta",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.70957,
+        "lon": 11.21534
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2379634"
+    ],
+    "rating": ""
+}

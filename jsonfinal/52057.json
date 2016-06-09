@@ -1,0 +1,20 @@
+{
+    "name": "IL RAGNO D'ORO",
+    "description": "",
+    "address": "4, Piazza Matteotti - 56022 Orentano (PI)",
+    "streetAddress": "4, Piazza Matteotti",
+    "postalCode": "56022",
+    "addressLocality": "Orentano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.77943,
+        "lon": 10.65982
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 23790"
+    ],
+    "rating": "5.0"
+}

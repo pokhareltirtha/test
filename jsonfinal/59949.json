@@ -1,0 +1,20 @@
+{
+    "name": "GORI FRANCESCA",
+    "description": "",
+    "address": "19, Piazza Gramsci Antonio - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "19, Piazza Gramsci Antonio",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82328,
+        "lon": 11.13311
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 890715"
+    ],
+    "rating": ""
+}

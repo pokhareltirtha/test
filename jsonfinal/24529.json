@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA DEL SOLE",
+    "description": "",
+    "address": "117, Via Volterrana - 56033 Capannoli (PI)",
+    "streetAddress": "117, Via Volterrana",
+    "postalCode": "56033",
+    "addressLocality": "Capannoli",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.58921,
+        "lon": 10.6724
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 609457",
+        "0587 609257"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "SAN BARNABA",
+    "description": "",
+    "address": "15, Via Jf- Kennedy - 50038 Scarperia E San Piero (FI)",
+    "streetAddress": "15, Via Jf- Kennedy",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia E San Piero",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.98211,
+        "lon": 11.3395
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8431125"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "L'ORTO DEL CIGNO",
+    "description": "",
+    "address": "27, Via Di Varlungo - 50136 Firenze (FI)",
+    "streetAddress": "27, Via Di Varlungo",
+    "postalCode": "50136",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76542,
+        "lon": 11.30203
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 690221"
+    ],
+    "rating": "3.9"
+}

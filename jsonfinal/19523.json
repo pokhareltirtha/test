@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE DA PADELLINA",
+    "description": "",
+    "address": "54, Corso Del Popolo - 50022 Greve In Chianti (FI)",
+    "streetAddress": "54, Corso Del Popolo",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.6606,
+        "lon": 11.29542
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 858388",
+        "327 1782249"
+    ],
+    "rating": ""
+}

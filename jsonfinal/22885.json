@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA ENOTECA SU PE'I'CANTO SNC",
+    "description": "",
+    "address": "25, Piazza Matteotti - 59015 Carmignano (PO)",
+    "streetAddress": "25, Piazza Matteotti",
+    "postalCode": "59015",
+    "addressLocality": "Carmignano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.81375,
+        "lon": 11.01805
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8712490"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "NON SOLO PIZZA",
+    "description": "",
+    "address": "24, Piazza Vittorio Veneto - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "24, Piazza Vittorio Veneto",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83137,
+        "lon": 11.19952
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 440036"
+    ],
+    "rating": ""
+}

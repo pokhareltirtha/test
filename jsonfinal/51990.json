@@ -1,0 +1,20 @@
+{
+    "name": "IL PINO OSTERIA PIZZERIA",
+    "description": "",
+    "address": "Via Don P.J. Botti - 56022 Castelfranco Di Sotto (PI)",
+    "streetAddress": "Via Don P.J. Botti",
+    "postalCode": "56022",
+    "addressLocality": "Castelfranco Di Sotto",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70025,
+        "lon": 10.74693
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 486021"
+    ],
+    "rating": ""
+}

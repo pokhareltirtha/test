@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA AL TAGLIO DA GULLO",
+    "description": "",
+    "address": "235, Via Montalese - 59100 Prato (PO)",
+    "streetAddress": "235, Via Montalese",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.90006,
+        "lon": 11.07795
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 655197"
+    ],
+    "rating": ""
+}

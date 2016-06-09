@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL TENNIS",
+    "description": "",
+    "address": "1, Via Liguria - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "1, Via Liguria",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42128,
+        "lon": 11.13871
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 921051"
+    ],
+    "rating": "4.0"
+}

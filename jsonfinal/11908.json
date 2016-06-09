@@ -1,0 +1,21 @@
+{
+    "name": "LA BUSSOLA",
+    "description": "",
+    "address": "Via Vecchia Fiorentina 328 - 51039 Quarrata (PT)",
+    "streetAddress": "Via Vecchia Fiorentina 328",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87524,
+        "lon": 10.95484
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 740018",
+        "0573 743128"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE H24",
+    "description": "Ad Altopascio il ristorante, bar, aperto tutti i giorni 24h su 24 per gustare ottima cucina e divertirsi nella sala da ballo.",
+    "address": "34/A, V. Bientina - 55011 Altopascio (LU)",
+    "streetAddress": "34/A, V. Bientina",
+    "postalCode": "55011",
+    "addressLocality": "Altopascio",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81254,
+        "lon": 10.66772
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 264032",
+        "347 1888636"
+    ],
+    "rating": ""
+}

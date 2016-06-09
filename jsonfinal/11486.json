@@ -1,0 +1,20 @@
+{
+    "name": "I GRANDUCHI",
+    "description": "",
+    "address": "2, Viale IV Novembre - 51016 Montecatini Terme (PT)",
+    "streetAddress": "2, Viale IV Novembre",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88429,
+        "lon": 10.76994
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 71041"
+    ],
+    "rating": ""
+}

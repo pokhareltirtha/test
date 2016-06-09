@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE BADIA MOSCHETA DI TOMBARELLI R E C SNC",
+    "description": "",
+    "address": "8, Localita' Moscheta - 50033 Firenzuola (FI)",
+    "streetAddress": "8, Localita' Moscheta",
+    "postalCode": "50033",
+    "addressLocality": "Firenzuola",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.07492,
+        "lon": 11.42259
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8144305"
+    ],
+    "rating": "5.0"
+}

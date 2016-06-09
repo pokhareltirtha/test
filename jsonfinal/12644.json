@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA CAFFE' DOGALI",
+    "description": "",
+    "address": "5, Viale Malta - 50137 Firenze (FI)",
+    "streetAddress": "5, Viale Malta",
+    "postalCode": "50137",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77518,
+        "lon": 11.28333
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 679556"
+    ],
+    "rating": "4.5"
+}

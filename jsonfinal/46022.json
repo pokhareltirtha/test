@@ -1,0 +1,20 @@
+{
+    "name": "BOWLING SAMARCANDA",
+    "description": "",
+    "address": "7, Via Mendel Johann G. - 50051 Castelfiorentino (FI)",
+    "streetAddress": "7, Via Mendel Johann G.",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58893,
+        "lon": 10.993
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 629482"
+    ],
+    "rating": ""
+}

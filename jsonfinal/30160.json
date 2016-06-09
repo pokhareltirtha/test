@@ -1,0 +1,20 @@
+{
+    "name": "ENOTECA SIMON BOCCANEGRA",
+    "description": "",
+    "address": "27, Via Giuseppe Verdi - 50122 Firenze (FI)",
+    "streetAddress": "27, Via Giuseppe Verdi",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77049,
+        "lon": 11.26174
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2001098"
+    ],
+    "rating": ""
+}

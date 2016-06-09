@@ -1,0 +1,20 @@
+{
+    "name": "ALBERGO RISTORANTE AFRICA",
+    "description": "",
+    "address": "10, Borgo Lisci - 56048 Saline Di Volterra (PI)",
+    "streetAddress": "10, Borgo Lisci",
+    "postalCode": "56048",
+    "addressLocality": "Saline Di Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.36223,
+        "lon": 10.81262
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 44193"
+    ],
+    "rating": "5.0"
+}

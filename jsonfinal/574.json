@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA IL GALLO",
+    "description": "",
+    "address": "Via Lando Conti 16/18 - 50022 Greve In Chianti (FI)",
+    "streetAddress": "Via Lando Conti 16/18",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.63836,
+        "lon": 11.31391
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8572266"
+    ],
+    "rating": ""
+}

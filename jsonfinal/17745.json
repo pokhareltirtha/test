@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA VENEZIA",
+    "description": "Il Ristorante Pizzeria La Venezia, sempre disponibile con la sua cucina casereccia e pizza anche a pranzo a Colle di Val d’Elsa (SI) in v. Oberdan.",
+    "address": "5, V. Oberdan - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "5, V. Oberdan",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42204,
+        "lon": 11.12592
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 921260"
+    ],
+    "rating": ""
+}

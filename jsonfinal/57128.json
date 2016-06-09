@@ -1,0 +1,20 @@
+{
+    "name": "CASCINA DE' FAGIOLARI",
+    "description": "",
+    "address": "15, Via Bracciatica - 50055 Lastra A Signa (FI)",
+    "streetAddress": "15, Via Bracciatica",
+    "postalCode": "50055",
+    "addressLocality": "Lastra A Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73826,
+        "lon": 11.0758
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 878379"
+    ],
+    "rating": ""
+}

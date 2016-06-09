@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA LONDA DA ROBERTA",
+    "description": "Alla Pizzeria Ristorante dove troverai delle buonissime pizze artigianali a Londa (FI).",
+    "address": "5, P. Repubblica - 50060 Londa (FI)",
+    "streetAddress": "5, P. Repubblica",
+    "postalCode": "50060",
+    "addressLocality": "Londa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.86106,
+        "lon": 11.56771
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8351720"
+    ],
+    "rating": ""
+}

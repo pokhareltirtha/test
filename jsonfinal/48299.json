@@ -1,0 +1,20 @@
+{
+    "name": "LA MAMMA SAS",
+    "description": "",
+    "address": "207, Via Braga G. - 59021 Vaiano (PO)",
+    "streetAddress": "207, Via Braga G.",
+    "postalCode": "59021",
+    "addressLocality": "Vaiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.96895,
+        "lon": 11.12417
+    },
+    "categories": [
+        "Ristoranti - trattorie ed osterie"
+    ],
+    "telephone": [
+        "0574 988616"
+    ],
+    "rating": ""
+}

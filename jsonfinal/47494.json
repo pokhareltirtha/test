@@ -1,0 +1,21 @@
+{
+    "name": "BOUNTY",
+    "description": "",
+    "address": "139, Via Aretina - 50136 Firenze (FI)",
+    "streetAddress": "139, Via Aretina",
+    "postalCode": "50136",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76888,
+        "lon": 11.2882
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 6504320",
+        "338 5824865"
+    ],
+    "rating": "4.1"
+}

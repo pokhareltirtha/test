@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA LOCANDA IL CANTO DEL MAGGIO",
+    "description": "Nel ristorante di Terranuova Bracciolini in provincia di Arezzo, potrai assaporare la cucina tipica toscana.",
+    "address": "30/D, Loc. Penna Alta - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "30/D, Loc. Penna Alta",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.57096,
+        "lon": 11.6155
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9705147"
+    ],
+    "rating": ""
+}

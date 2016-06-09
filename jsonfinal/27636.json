@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DA FILIPPO",
+    "description": "",
+    "address": "16, Via Della Chiesa - 50058 San Mauro A Signa (FI)",
+    "streetAddress": "16, Via Della Chiesa",
+    "postalCode": "50058",
+    "addressLocality": "San Mauro A Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79526,
+        "lon": 11.12764
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8739821"
+    ],
+    "rating": ""
+}

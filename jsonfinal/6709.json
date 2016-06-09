@@ -1,0 +1,20 @@
+{
+    "name": "INVEST 2007 S.R.L.",
+    "description": "",
+    "address": "11, Via Crispi Francesco - 50129 Firenze (FI)",
+    "streetAddress": "11, Via Crispi Francesco",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78564,
+        "lon": 11.25364
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 1824193"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL SOLIERI",
+    "description": "",
+    "address": "32, Via Giuseppe Garibaldi - 47015 Modigliana (FC)",
+    "streetAddress": "32, Via Giuseppe Garibaldi",
+    "postalCode": "47015",
+    "addressLocality": "Modigliana",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.15635,
+        "lon": 11.79252
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0546 942493"
+    ],
+    "rating": ""
+}

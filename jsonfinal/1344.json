@@ -1,0 +1,22 @@
+{
+    "name": "RISTORANTE PIZZERIA OSTE SNC",
+    "description": "",
+    "address": "86, Via Oste - 59100 Prato (PO)",
+    "streetAddress": "86, Via Oste",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.84215,
+        "lon": 11.07323
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 992071",
+        "0574 799020"
+    ],
+    "rating": ""
+}

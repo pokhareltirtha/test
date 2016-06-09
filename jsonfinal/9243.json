@@ -1,0 +1,20 @@
+{
+    "name": "HOTEL TRENDY",
+    "description": "L'Hotel Trendy offre alla sua clientela un ambiente accogliente in stile moderno, con 24 camere ampie e dotate di ogni comfort a Prato (PO), in v. Pistoiese.",
+    "address": "833, V. Pistoiese - 59100 Prato (PO)",
+    "streetAddress": "833, V. Pistoiese",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.90162,
+        "lon": 11.03094
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 798422"
+    ],
+    "rating": "5.0"
+}

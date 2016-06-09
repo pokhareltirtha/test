@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE OSTERIA LA LIMONAIA",
+    "description": "",
+    "address": "9, Via Di Gello - 51100 Pistoia (PT)",
+    "streetAddress": "9, Via Di Gello",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.95857,
+        "lon": 10.89274
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 401035",
+        "0573 400453"
+    ],
+    "rating": "5.0"
+}

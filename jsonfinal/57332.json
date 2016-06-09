@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA LA RUPE",
+    "description": "Ristorante, pizzeria e cucina tipica a Galeata. Un luogo accogliente e famigliare dove sarte allietati da un ricco menù di bontà.",
+    "address": "1, P. Gramsci - 47010 Galeata (FC)",
+    "streetAddress": "1, P. Gramsci",
+    "postalCode": "47010",
+    "addressLocality": "Galeata",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 43.99664,
+        "lon": 11.91129
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0543 981774",
+        "338 7788587"
+    ],
+    "rating": ""
+}

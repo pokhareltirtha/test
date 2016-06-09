@@ -1,0 +1,20 @@
+{
+    "name": "LA TORRE",
+    "description": "",
+    "address": "81, Via Montalese - 59013 Montemurlo (PO)",
+    "streetAddress": "81, Via Montalese",
+    "postalCode": "59013",
+    "addressLocality": "Montemurlo",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.92361,
+        "lon": 11.04928
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 652350"
+    ],
+    "rating": ""
+}

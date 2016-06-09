@@ -1,0 +1,21 @@
+{
+    "name": "CASSANDRA S.R.L.",
+    "description": "",
+    "address": "168, Via Martiri Del Padule - 51035 Lamporecchio (PT)",
+    "streetAddress": "168, Via Martiri Del Padule",
+    "postalCode": "51035",
+    "addressLocality": "Lamporecchio",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.81177,
+        "lon": 10.89132
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 803873",
+        "0573 803873"
+    ],
+    "rating": ""
+}

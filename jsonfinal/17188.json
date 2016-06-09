@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE ALBERGO LA MINIERA",
+    "description": "Ristorante Albergo La Miniera a Montecatini Val Di Cecina (PI) in 12, loc. La Miniera, per un soggiorno all'insegna del relax e della buona cucina.",
+    "address": "12, Loc. La Miniera - 56040 Montecatini Val Di Cecina (PI)",
+    "streetAddress": "12, Loc. La Miniera",
+    "postalCode": "56040",
+    "addressLocality": "Montecatini Val Di Cecina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.39092,
+        "lon": 10.73621
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 31849",
+        "328 463681"
+    ],
+    "rating": ""
+}

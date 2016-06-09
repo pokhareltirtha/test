@@ -1,0 +1,21 @@
+{
+    "name": "ADRE",
+    "description": "",
+    "address": "33, Via S. Reparata - 50129 Firenze (FI)",
+    "streetAddress": "33, Via S. Reparata",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77849,
+        "lon": 11.25625
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 282718",
+        "055 5277568"
+    ],
+    "rating": ""
+}

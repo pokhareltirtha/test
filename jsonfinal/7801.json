@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA DA CARLO",
+    "description": "Il ristorante pizzeria a Terricciola (PI) punto di riferimento per la buona cucina a base di specialità alla brace e per l'ottima pizza.",
+    "address": "5, V. Volterrana - 56030 Selvatelle (PI)",
+    "streetAddress": "5, V. Volterrana",
+    "postalCode": "56030",
+    "addressLocality": "Selvatelle",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.56864,
+        "lon": 10.68811
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 653140"
+    ],
+    "rating": "4.7"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "HOSTER FOOD SRL",
+    "description": "",
+    "address": "14, Via Danubio - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "14, Via Danubio",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8104,
+        "lon": 11.17016
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3025104",
+        "055 317730"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "CASALTA",
+    "description": "",
+    "address": "14, Via Certaldese - 50026 Ponterotto (FI)",
+    "streetAddress": "14, Via Certaldese",
+    "postalCode": "50026",
+    "addressLocality": "Ponterotto",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.64499,
+        "lon": 11.16611
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8248254"
+    ],
+    "rating": ""
+}

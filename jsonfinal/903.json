@@ -1,0 +1,22 @@
+{
+    "name": "LA GROTTA DI LEO",
+    "description": "",
+    "address": "41, Via Della Scala - 50123 Firenze (FI)",
+    "streetAddress": "41, Via Della Scala",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77459,
+        "lon": 11.24691
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2728515",
+        "055 219265"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA SALA",
+    "description": "",
+    "address": "4, Via S. Anastasio - 51100 Pistoia (PT)",
+    "streetAddress": "4, Via S. Anastasio",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93275,
+        "lon": 10.91617
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 24108"
+    ],
+    "rating": ""
+}

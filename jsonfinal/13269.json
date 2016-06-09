@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE TRATTORIA DI SOR PAOLO",
+    "description": "",
+    "address": "40, Via Cassia Per Firenze - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": "40, Via Cassia Per Firenze",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.66054,
+        "lon": 11.19038
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 828402",
+        "335 5795454"
+    ],
+    "rating": ""
+}

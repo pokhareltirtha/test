@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE TAVERNA MACHIAVELLI",
+    "description": "",
+    "address": "18, Viale Machiavelli - 50125 Firenze (FI)",
+    "streetAddress": "18, Viale Machiavelli",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75673,
+        "lon": 11.24799
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2298451"
+    ],
+    "rating": ""
+}

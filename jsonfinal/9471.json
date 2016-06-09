@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA LA NUOVA FORTEZZA",
+    "description": "",
+    "address": ", Piazza Garibaldi - 55015 Montecarlo (LU)",
+    "streetAddress": ", Piazza Garibaldi",
+    "postalCode": "55015",
+    "addressLocality": "Montecarlo",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.85186,
+        "lon": 10.66737
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 229118"
+    ],
+    "rating": ""
+}

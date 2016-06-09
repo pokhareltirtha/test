@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DEL VENTO",
+    "description": "",
+    "address": "1, Piazza Carrara - 55015 Montecarlo (LU)",
+    "streetAddress": "1, Piazza Carrara",
+    "postalCode": "55015",
+    "addressLocality": "Montecarlo",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.8511,
+        "lon": 10.66763
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 229600"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "MAZZIVENTURA S.R.L.",
+    "description": "",
+    "address": "17, Via Guinizelli Guido - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "17, Via Guinizelli Guido",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82453,
+        "lon": 11.12526
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8944619",
+        "055 8944620"
+    ],
+    "rating": ""
+}

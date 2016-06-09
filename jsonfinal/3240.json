@@ -1,0 +1,20 @@
+{
+    "name": "HOTEL VILLA VILLORESI",
+    "description": "Per un soggiorno di assoluto relax a Sesto Fiorentino, l'Hotel Villa Villoresi, una magnifica villa con appartamenti prestigiosi ed un ristorante tipico toscano",
+    "address": "2, V. Ciampi - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "2, V. Ciampi",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84058,
+        "lon": 11.20644
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 443212"
+    ],
+    "rating": ""
+}

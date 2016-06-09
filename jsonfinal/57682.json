@@ -1,0 +1,20 @@
+{
+    "name": "IL CINGHIALE BIANCO",
+    "description": "",
+    "address": "5, Via Prato Dei Berti - 50035 Palazzuolo Sul Senio (FI)",
+    "streetAddress": "5, Via Prato Dei Berti",
+    "postalCode": "50035",
+    "addressLocality": "Palazzuolo Sul Senio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.11276,
+        "lon": 11.5456
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8046308"
+    ],
+    "rating": ""
+}

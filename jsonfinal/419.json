@@ -1,0 +1,22 @@
+{
+    "name": "IL VECCHIO E IL MARE",
+    "description": "",
+    "address": "61, Via Gioberti - 50121 Firenze (FI)",
+    "streetAddress": "61, Via Gioberti",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77017,
+        "lon": 11.27588
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 669575",
+        "055 3830067"
+    ],
+    "rating": ""
+}

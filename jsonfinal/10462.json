@@ -1,0 +1,20 @@
+{
+    "name": "BOTTEGA DI SGHIO",
+    "description": "",
+    "address": "14, Piazza Giotto - 50039 Vicchio (FI)",
+    "streetAddress": "14, Piazza Giotto",
+    "postalCode": "50039",
+    "addressLocality": "Vicchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.93327,
+        "lon": 11.46515
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8497006"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "AGRITURISMO LOCANDA CASARICCIO",
+    "description": "L'agriturismo in provincia di Arezzo che offre ai propri ospiti piatti genuini preparati con ingredienti di produzione propria o a Km zero.",
+    "address": "3, V. Casariccio - 52021 Bucine (AR)",
+    "streetAddress": "3, V. Casariccio",
+    "postalCode": "52021",
+    "addressLocality": "Bucine",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.47755,
+        "lon": 11.62047
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 992980"
+    ],
+    "rating": ""
+}

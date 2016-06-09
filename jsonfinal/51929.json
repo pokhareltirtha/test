@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA GIROPIZZA TAKE AWAY, CONSEGNA A DOMICILIO",
+    "description": "La Pizzeria Giropizza, a Ponsacco, offre ogni tipo di pizza farcita come più piace al cliente.",
+    "address": "11, V. Vanni - 56038 Ponsacco (PI)",
+    "streetAddress": "11, V. Vanni",
+    "postalCode": "56038",
+    "addressLocality": "Ponsacco",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.62175,
+        "lon": 10.62998
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "389 9417965"
+    ],
+    "rating": ""
+}

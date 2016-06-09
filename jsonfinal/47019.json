@@ -1,0 +1,20 @@
+{
+    "name": "FAR WEST",
+    "description": "",
+    "address": "10, Via Aretina - 50065 Pontassieve (FI)",
+    "streetAddress": "10, Via Aretina",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77477,
+        "lon": 11.43705
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8369091"
+    ],
+    "rating": ""
+}

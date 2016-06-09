@@ -1,0 +1,20 @@
+{
+    "name": "O' PER BACCO",
+    "description": "",
+    "address": "41, Corso Del Popolo - 50039 Vicchio (FI)",
+    "streetAddress": "41, Corso Del Popolo",
+    "postalCode": "50039",
+    "addressLocality": "Vicchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.93311,
+        "lon": 11.46527
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8448698"
+    ],
+    "rating": ""
+}

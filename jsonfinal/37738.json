@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL CAMINETTO",
+    "description": "Il Ristorante Il Caminetto di Via Studio a Firenze propone succulenti e intriganti piatti in cui si sposano qualità, tradizione e innovazione.",
+    "address": "34/R, V. Studio - 50122 Firenze (FI)",
+    "streetAddress": "34/R, V. Studio",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77238,
+        "lon": 11.25679
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2396274"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA ALFREDO",
+    "description": "Ristorante pizzeria a Firenze; un luogo accogliente, dove lo staff cortese e professionale saprà allietarvi con ogni tipo di prelibatezza.",
+    "address": "3/R, Vl. Don Minzoni - 50129 Firenze (FI)",
+    "streetAddress": "3/R, Vl. Don Minzoni",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78431,
+        "lon": 11.26388
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 578291"
+    ],
+    "rating": ""
+}

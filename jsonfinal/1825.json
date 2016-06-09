@@ -1,0 +1,20 @@
+{
+    "name": "MISTRAL PIZZERIA RISTORANTE DI LORENZELLI EMMA",
+    "description": "",
+    "address": "20, Via Lungo Lago - 40030 Castel Di Casio (BO)",
+    "streetAddress": "20, Via Lungo Lago",
+    "postalCode": "40030",
+    "addressLocality": "Castel Di Casio",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.13096,
+        "lon": 11.03489
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0534 42778"
+    ],
+    "rating": ""
+}

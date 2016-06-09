@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA VIACCI DI MENICHINI",
+    "description": "",
+    "address": "9, Via Del Presto - 51100 Pistoia (PT)",
+    "streetAddress": "9, Via Del Presto",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93439,
+        "lon": 10.91647
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 32310"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA MARGHERITA",
+    "description": "",
+    "address": "1, Localita' Renaggio - 51016 Nievole (PT)",
+    "streetAddress": "1, Localita' Renaggio",
+    "postalCode": "51016",
+    "addressLocality": "Nievole",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.91975,
+        "lon": 10.78478
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 67155"
+    ],
+    "rating": ""
+}

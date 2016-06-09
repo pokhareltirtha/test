@@ -1,0 +1,20 @@
+{
+    "name": "ANTICA TRATTORIA DI' TRAMWAY",
+    "description": "Ristorante a Campi Bisenzio (FI) in cui la specialità principale è senz'altro la cucina tipica della zona e i menù di carne e pesce.",
+    "address": "362, V. S. Angelo - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "362, V. S. Angelo",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7702,
+        "lon": 11.21589
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8778203"
+    ],
+    "rating": ""
+}

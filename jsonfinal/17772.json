@@ -1,0 +1,20 @@
+{
+    "name": "BIRRERIA HB STEAK HOUSE",
+    "description": "Birreria Hb Steak House si trova in 123, v. Lungarno a Terranuova Bracciolini (AR), troverai un ricco self service a prezzo fisso di euro 8,50.",
+    "address": "123, V. Lungarno - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "123, V. Lungarno",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.53358,
+        "lon": 11.58451
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 980574"
+    ],
+    "rating": ""
+}

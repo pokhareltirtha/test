@@ -1,0 +1,20 @@
+{
+    "name": "IL PAGURO",
+    "description": "",
+    "address": "7, Piazza Sandro Pertini - 52021 Bucine (AR)",
+    "streetAddress": "7, Piazza Sandro Pertini",
+    "postalCode": "52021",
+    "addressLocality": "Bucine",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.47828,
+        "lon": 11.62085
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 992936"
+    ],
+    "rating": ""
+}

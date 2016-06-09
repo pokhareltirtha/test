@@ -1,0 +1,20 @@
+{
+    "name": "GENNARO",
+    "description": "",
+    "address": "23, Viale Di Barberino - 50041 Calenzano (FI)",
+    "streetAddress": "23, Viale Di Barberino",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.94866,
+        "lon": 11.21061
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8819931"
+    ],
+    "rating": ""
+}

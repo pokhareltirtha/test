@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LA TANA DEL CONIGLIO",
+    "description": "",
+    "address": "1, Via Verrazzano Giovanni - 51100 Pistoia (PT)",
+    "streetAddress": "1, Via Verrazzano Giovanni",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89169,
+        "lon": 10.96035
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 946142"
+    ],
+    "rating": "4.3"
+}

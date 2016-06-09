@@ -1,0 +1,21 @@
+{
+    "name": "TRATTORIA DORY",
+    "description": "Trattoria tipica toscana con cucina casalinga a Pontassieve (FI).",
+    "address": "5/A, V. Battisti - 50065 Pontassieve (FI)",
+    "streetAddress": "5/A, V. Battisti",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82951,
+        "lon": 11.48744
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8399524"
+    ],
+    "rating": ""
+}

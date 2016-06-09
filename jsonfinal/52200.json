@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA CERTOSA",
+    "description": "",
+    "address": ", Via Provinciale Lungomonte Pisano - 56011 Calci (PI)",
+    "streetAddress": ", Via Provinciale Lungomonte Pisano",
+    "postalCode": "56011",
+    "addressLocality": "Calci",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.72032,
+        "lon": 10.50541
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 936092"
+    ],
+    "rating": "4.0"
+}

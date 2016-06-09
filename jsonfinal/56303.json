@@ -1,0 +1,20 @@
+{
+    "name": "CAFFÈ DI BACCO",
+    "description": "",
+    "address": "16/R, Via Di Rusciano - 50126 Firenze (FI)",
+    "streetAddress": "16/R, Via Di Rusciano",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76263,
+        "lon": 11.27694
+    },
+    "categories": [
+        "Ristoranti - trattorie ed osterie"
+    ],
+    "telephone": [
+        "055 6810109"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "AZ DI ZISSU ADRIENNE",
+    "description": "",
+    "address": "2, Via Tosco Romagnola Sud - 50056 Montelupo Fiorentino (FI)",
+    "streetAddress": "2, Via Tosco Romagnola Sud",
+    "postalCode": "50056",
+    "addressLocality": "Montelupo Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72632,
+        "lon": 11.01265
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 518931",
+        "0571 914834"
+    ],
+    "rating": ""
+}

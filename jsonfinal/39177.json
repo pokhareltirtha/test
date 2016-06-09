@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PONTE ALLE TRECCHE DI MONTICELLI TOMMASO E C. S.N.C.",
+    "description": "",
+    "address": "17, Via Marx Karl - 51037 Fognano (PT)",
+    "streetAddress": "17, Via Marx Karl",
+    "postalCode": "51037",
+    "addressLocality": "Fognano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.95218,
+        "lon": 11.03536
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "329 1755711"
+    ],
+    "rating": ""
+}

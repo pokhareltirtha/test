@@ -1,0 +1,20 @@
+{
+    "name": "MASACCIO",
+    "description": "",
+    "address": "13, Piazza San Pietro - 50066 Cascia (FI)",
+    "streetAddress": "13, Piazza San Pietro",
+    "postalCode": "50066",
+    "addressLocality": "Cascia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.67541,
+        "lon": 11.52954
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8667407"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ANTICA PIEVE",
+    "description": "Menu stagionali con piatti tipici toscani e pizze a Pieve A Nievole.",
+    "address": "19/21, V. Roma - 51018 Pieve A Nievole (PT)",
+    "streetAddress": "19/21, V. Roma",
+    "postalCode": "51018",
+    "addressLocality": "Pieve A Nievole",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87822,
+        "lon": 10.79454
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 82132"
+    ],
+    "rating": "1.0"
+}

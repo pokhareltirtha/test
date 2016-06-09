@@ -1,0 +1,20 @@
+{
+    "name": "LE VECCHIE MURA",
+    "description": "",
+    "address": "15, Via Piandornella - 53037 San Gimignano (SI)",
+    "streetAddress": "15, Via Piandornella",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.4671,
+        "lon": 11.04528
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 940270"
+    ],
+    "rating": "5.0"
+}

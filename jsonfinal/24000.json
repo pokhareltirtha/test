@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA VICO FURBO",
+    "description": "A Barberino Val d’Elsa, l’ottima cucina toscana e la squisita pizza a lievitazione naturale cotta nel forno a legna, per ogni piacevole occasione.",
+    "address": "5, P. Torrigiani - 50021 Vico D'Elsa (FI)",
+    "streetAddress": "5, P. Torrigiani",
+    "postalCode": "50021",
+    "addressLocality": "Vico D'Elsa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.5133,
+        "lon": 11.09653
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8073281"
+    ],
+    "rating": "3.7"
+}

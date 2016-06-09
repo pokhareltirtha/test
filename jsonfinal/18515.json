@@ -1,0 +1,20 @@
+{
+    "name": "RUTH'S",
+    "description": "",
+    "address": "2, Via Luigi Carlo Farini - 50121 Firenze (FI)",
+    "streetAddress": "2, Via Luigi Carlo Farini",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7727,
+        "lon": 11.26517
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2480888"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CHIRIBIRI TRATTORIA",
+    "description": "",
+    "address": "1, Via Della Madonna - 53037 San Gimignano (SI)",
+    "streetAddress": "1, Via Della Madonna",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46469,
+        "lon": 11.04245
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 941948"
+    ],
+    "rating": ""
+}

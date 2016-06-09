@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA AL TAGLIO DANIELA",
+    "description": "",
+    "address": "159, Via Cava - 59100 Prato (PO)",
+    "streetAddress": "159, Via Cava",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86477,
+        "lon": 11.06575
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 632858"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DA BEPPE NEL CORSO",
+    "description": "Venite ad assaporare la nostra cucina tipica toscana a Santa Croce sull’Arno.",
+    "address": "46, C. Mazzini - 56029 Santa Croce Sull'Arno (PI)",
+    "streetAddress": "46, C. Mazzini",
+    "postalCode": "56029",
+    "addressLocality": "Santa Croce Sull'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.71028,
+        "lon": 10.78229
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 366294"
+    ],
+    "rating": "5.0"
+}

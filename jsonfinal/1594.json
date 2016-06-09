@@ -1,0 +1,22 @@
+{
+    "name": "SARZOLO",
+    "description": "",
+    "address": "54, Viale Pratese - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "54, Viale Pratese",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8398,
+        "lon": 11.18982
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4211706",
+        "055 4201352"
+    ],
+    "rating": ""
+}

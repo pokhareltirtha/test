@@ -1,0 +1,20 @@
+{
+    "name": "SAFA' GA SRL",
+    "description": "",
+    "address": "59, Via Mascagni Pietro - 59100 Prato (PO)",
+    "streetAddress": "59, Via Mascagni Pietro",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88916,
+        "lon": 11.0711
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 22957"
+    ],
+    "rating": "5.0"
+}

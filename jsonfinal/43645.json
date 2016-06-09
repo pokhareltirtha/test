@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA OSTE SNC DI CASTELLANI PAOLA E C.",
+    "description": "",
+    "address": "86, Via Oste - 59013 Montemurlo (PO)",
+    "streetAddress": "86, Via Oste",
+    "postalCode": "59013",
+    "addressLocality": "Montemurlo",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.90444,
+        "lon": 11.03036
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 799020",
+        "0574 689160"
+    ],
+    "rating": ""
+}

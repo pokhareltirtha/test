@@ -1,0 +1,20 @@
+{
+    "name": "THE WINTER GARDEN BY CAINO",
+    "description": "",
+    "address": "1, Piazza Ognissanti - 50123 Firenze (FI)",
+    "streetAddress": "1, Piazza Ognissanti",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77214,
+        "lon": 11.2451
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 27163767"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "FATTORIA DI PETROGNANO DEI CONTI GAMBARO S.A.S.",
+    "description": "",
+    "address": "13, Via Comunale Petrognano - 55012 Capannori (LU)",
+    "streetAddress": "13, Via Comunale Petrognano",
+    "postalCode": "55012",
+    "addressLocality": "Capannori",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.9032,
+        "lon": 10.63037
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 978985",
+        "338 1255359"
+    ],
+    "rating": "4.5"
+}

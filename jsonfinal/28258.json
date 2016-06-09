@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA IL FARRO",
+    "description": "La Pizzeria Il Farro propone un'ampia varietà di pizze, realizzate secondo la ricetta tradizionale italiana a Casola Valsenio (RA).",
+    "address": "76/A, V. Roma - 48032 Casola Valsenio (RA)",
+    "streetAddress": "76/A, V. Roma",
+    "postalCode": "48032",
+    "addressLocality": "Casola Valsenio",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.22281,
+        "lon": 11.62229
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0546 76007",
+        "339 6659444"
+    ],
+    "rating": ""
+}

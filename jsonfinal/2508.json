@@ -1,0 +1,20 @@
+{
+    "name": "IL RISTORO DI AMA",
+    "description": "",
+    "address": ", Localita Ama - 53013 Casanova D'Ama (SI)",
+    "streetAddress": ", Localita Ama",
+    "postalCode": "53013",
+    "addressLocality": "Casanova D'Ama",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.44606,
+        "lon": 11.38953
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 746191"
+    ],
+    "rating": ""
+}

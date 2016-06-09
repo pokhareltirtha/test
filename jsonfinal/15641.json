@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE BAR PIZZERIA AL PORTICO",
+    "description": "",
+    "address": "58, Via Val Di Setta-Rioveggio - 40036 Monzuno (BO)",
+    "streetAddress": "58, Via Val Di Setta-Rioveggio",
+    "postalCode": "40036",
+    "addressLocality": "Monzuno",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.27045,
+        "lon": 11.19647
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "051 6777771",
+        "334 6966322"
+    ],
+    "rating": "2.0"
+}

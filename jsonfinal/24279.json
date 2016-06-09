@@ -1,0 +1,21 @@
+{
+    "name": "BEPPINO",
+    "description": "",
+    "address": "13, Via Delle Prigioni - 56048 Volterra (PI)",
+    "streetAddress": "13, Via Delle Prigioni",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40218,
+        "lon": 10.86026
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 720001",
+        "0588 86051"
+    ],
+    "rating": ""
+}

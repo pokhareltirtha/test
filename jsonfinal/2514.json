@@ -1,0 +1,21 @@
+{
+    "name": "IL TROVATORE",
+    "description": "La Pizzeria Ristorante Il Trovatore si trova nel cuore della Toscana, offre ai propri clienti serate speciali accompagnate da uno spettacolo lirico con musica classica. E' inoltre possibile cenare sul...",
+    "address": "17, V. Dei Fossi - 53037 San Gimignano (SI)",
+    "streetAddress": "17, V. Dei Fossi",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46656,
+        "lon": 11.04382
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 942240"
+    ],
+    "rating": "3.5"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "LA GROTTA",
+    "description": "",
+    "address": "128, Corso G Matteotti - 56021 Cascina (PI)",
+    "streetAddress": "128, Corso G Matteotti",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67656,
+        "lon": 10.54754
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 702661",
+        "050 711716"
+    ],
+    "rating": "5.0"
+}

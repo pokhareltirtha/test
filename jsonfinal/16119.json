@@ -1,0 +1,21 @@
+{
+    "name": "GAMBERO ROSSO",
+    "description": "",
+    "address": "Via San Gennaro, 1 - 51012 Collodi (PT)",
+    "streetAddress": "Via San Gennaro, 1",
+    "postalCode": "51012",
+    "addressLocality": "Collodi",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90009,
+        "lon": 10.65218
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 427329",
+        "0572 426280"
+    ],
+    "rating": ""
+}

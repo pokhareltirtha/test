@@ -1,0 +1,21 @@
+{
+    "name": "AQABA S.R.L.",
+    "description": "",
+    "address": "221, Viale XX Settembre - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "221, Viale XX Settembre",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83491,
+        "lon": 11.2132
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4421287"
+    ],
+    "rating": ""
+}

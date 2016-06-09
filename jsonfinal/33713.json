@@ -1,0 +1,21 @@
+{
+    "name": "LA CARRETTA SAS",
+    "description": "",
+    "address": "52, Via Delle Panche - 50141 Firenze (FI)",
+    "streetAddress": "52, Via Delle Panche",
+    "postalCode": "50141",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80521,
+        "lon": 11.24107
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4223490",
+        "055 433425"
+    ],
+    "rating": "3.0"
+}

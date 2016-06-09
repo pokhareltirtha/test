@@ -1,0 +1,20 @@
+{
+    "name": "TIJUANA",
+    "description": "",
+    "address": "156, Via Ghibellina - 50122 Firenze (FI)",
+    "streetAddress": "156, Via Ghibellina",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77059,
+        "lon": 11.2583
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2341330"
+    ],
+    "rating": "4.8"
+}

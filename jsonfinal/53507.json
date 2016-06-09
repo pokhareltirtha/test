@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA RISTORANTE IL CANNICCIO",
+    "description": "Il Canniccio è l'ideale per assaporare la cucina tipica toscana e le pizze cotte in forno a legna, a Lamporecchio (PT) in via Costituzione 1.",
+    "address": "1, V. Costituzione - 51035 Lamporecchio (PT)",
+    "streetAddress": "1, V. Costituzione",
+    "postalCode": "51035",
+    "addressLocality": "Lamporecchio",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.81648,
+        "lon": 10.89619
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 82192"
+    ],
+    "rating": ""
+}

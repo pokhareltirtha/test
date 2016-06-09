@@ -1,0 +1,21 @@
+{
+    "name": "LA TORRE",
+    "description": "",
+    "address": "7, Strada Spicciano - 50028 Tavarnelle Val Di Pesa (FI)",
+    "streetAddress": "7, Strada Spicciano",
+    "postalCode": "50028",
+    "addressLocality": "Tavarnelle Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.55149,
+        "lon": 11.18752
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 806470"
+    ],
+    "rating": ""
+}

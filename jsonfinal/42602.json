@@ -1,0 +1,20 @@
+{
+    "name": "PESCHERIA SAN PIETRO RISTORANTE DI PESCE",
+    "description": "Il ristorante pescheria a Firenze, oasi di cucina marinara dove gustare piatti di pesce sempre freschissimo e piatti della cucina vegetariana.",
+    "address": "7/R, V. Alamanni - 50123 Firenze (FI)",
+    "streetAddress": "7/R, V. Alamanni",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77606,
+        "lon": 11.24692
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2382749"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL CHIASSO",
+    "description": "",
+    "address": "11/R, Via Chiasso Dei Baroncelli - 50122 Firenze (FI)",
+    "streetAddress": "11/R, Via Chiasso Dei Baroncelli",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76928,
+        "lon": 11.25513
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 286146"
+    ],
+    "rating": ""
+}

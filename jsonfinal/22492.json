@@ -1,0 +1,20 @@
+{
+    "name": "IL SOMBRERO ANDREA",
+    "description": "",
+    "address": "10, Via Giuseppina Pizzigoni - 56028 San Miniato Basso (PI)",
+    "streetAddress": "10, Via Giuseppina Pizzigoni",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato Basso",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69389,
+        "lon": 10.83626
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 43258"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL MOLINO",
+    "description": "",
+    "address": "Via Biserno Molino 55 - 47018 Santa Sofia (FC)",
+    "streetAddress": "Via Biserno Molino 55",
+    "postalCode": "47018",
+    "addressLocality": "Santa Sofia",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 43.90482,
+        "lon": 11.84028
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        ""
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE GIAPPONESE KOME BARBEQUE RESTAURANT KAITEN SUSHI",
+    "description": "Tre ambienti in un format unico: al piano terra il Kaiten Sushi, dove sul nastro scorrono varietà di sashimi, tempure, sushi, roll e altre specialità preparate da cuochi nipponici; il piano superiore ...",
+    "address": "41/R, V. Benci - 50122 Firenze (FI)",
+    "streetAddress": "41/R, V. Benci",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76877,
+        "lon": 11.26031
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2008009"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LAVOLTABONA",
+    "description": "",
+    "address": "12, Via Sant'Andrea - 56020 Montopoli In Val D'Arno (PI)",
+    "streetAddress": "12, Via Sant'Andrea",
+    "postalCode": "56020",
+    "addressLocality": "Montopoli In Val D'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67156,
+        "lon": 10.76057
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "392 5752647"
+    ],
+    "rating": ""
+}

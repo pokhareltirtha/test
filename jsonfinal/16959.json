@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE DA NELLO",
+    "description": "Ristorante con rivendita alimentari annesso, che propone piatti e specialità tipiche toscane, a Lajatico.",
+    "address": "9, P. Vittorio Veneto - 56030 Laiatico (PI)",
+    "streetAddress": "9, P. Vittorio Veneto",
+    "postalCode": "56030",
+    "addressLocality": "Laiatico",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.47537,
+        "lon": 10.7282
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 9085182",
+        "0587 642006"
+    ],
+    "rating": ""
+}

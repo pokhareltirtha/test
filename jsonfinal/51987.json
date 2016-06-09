@@ -1,0 +1,21 @@
+{
+    "name": "PONY PIZZA DI MANGANELLO MICHELE",
+    "description": "",
+    "address": "16, Viale Comaschi - 56021 Cascina (PI)",
+    "streetAddress": "16, Viale Comaschi",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67571,
+        "lon": 10.54706
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 712712",
+        "050 712171"
+    ],
+    "rating": ""
+}

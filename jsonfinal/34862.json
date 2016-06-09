@@ -1,0 +1,20 @@
+{
+    "name": "THE CRAZY TRAIN",
+    "description": "",
+    "address": "Piazza Mazzini, 1 - 50061 Compiobbi (FI)",
+    "streetAddress": "Piazza Mazzini, 1",
+    "postalCode": "50061",
+    "addressLocality": "Compiobbi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78452,
+        "lon": 11.36073
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6593640"
+    ],
+    "rating": ""
+}

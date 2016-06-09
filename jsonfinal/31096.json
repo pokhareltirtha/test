@@ -1,0 +1,20 @@
+{
+    "name": "BARGINO",
+    "description": "",
+    "address": "Via Cassia Per Siena 122 - 50026 Bargino (FI)",
+    "streetAddress": "Via Cassia Per Siena 122",
+    "postalCode": "50026",
+    "addressLocality": "Bargino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61523,
+        "lon": 11.19047
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8249055"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA GIOVANNI DI RACHKOVA KSENIYA",
+    "description": "",
+    "address": "38, Via S. Agostino - 50125 Firenze (FI)",
+    "streetAddress": "38, Via S. Agostino",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76756,
+        "lon": 11.24585
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "328 0728028"
+    ],
+    "rating": ""
+}

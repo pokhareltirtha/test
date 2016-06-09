@@ -1,0 +1,20 @@
+{
+    "name": "TOTI ENRICO",
+    "description": "",
+    "address": "20, Via Comunale Carrara - 55012 Gragnano (LU)",
+    "streetAddress": "20, Via Comunale Carrara",
+    "postalCode": "55012",
+    "addressLocality": "Gragnano",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.87139,
+        "lon": 10.64311
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 975711"
+    ],
+    "rating": ""
+}

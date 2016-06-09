@@ -1,0 +1,21 @@
+{
+    "name": "O' SARRACINO",
+    "description": "",
+    "address": "4, Via Masini - 50051 Castelfiorentino (FI)",
+    "streetAddress": "4, Via Masini",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.60668,
+        "lon": 10.96793
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 629344"
+    ],
+    "rating": ""
+}

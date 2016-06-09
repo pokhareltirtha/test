@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE SANT'ANDREA",
+    "description": "",
+    "address": "7, V. Di Norcenni - 50063 Figline E Incisa Valdarno (FI)",
+    "streetAddress": "7, V. Di Norcenni",
+    "postalCode": "50063",
+    "addressLocality": "Figline E Incisa Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61152,
+        "lon": 11.4453
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 959202",
+        "055 959655"
+    ],
+    "rating": ""
+}

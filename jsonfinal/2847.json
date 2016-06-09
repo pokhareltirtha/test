@@ -1,0 +1,20 @@
+{
+    "name": "LE FORCHETTE",
+    "description": "",
+    "address": "5, Viale Giacomo Matteotti - 53017 Radda In Chianti (SI)",
+    "streetAddress": "5, Viale Giacomo Matteotti",
+    "postalCode": "53017",
+    "addressLocality": "Radda In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.48655,
+        "lon": 11.37315
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 738923"
+    ],
+    "rating": ""
+}

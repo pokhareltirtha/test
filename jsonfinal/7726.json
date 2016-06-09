@@ -1,0 +1,20 @@
+{
+    "name": "KOKO RESTAURANT",
+    "description": "",
+    "address": "4, Piazza Francesco Ferrucci - 50126 Firenze (FI)",
+    "streetAddress": "4, Piazza Francesco Ferrucci",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76349,
+        "lon": 11.27127
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6587428"
+    ],
+    "rating": ""
+}

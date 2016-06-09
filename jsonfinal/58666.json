@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA IL GATTO E LA VOLPE DI DIANI MARIA PIA E DIANI GRAZIA SNC",
+    "description": "",
+    "address": "7/C, Via Del Lavoro - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "7/C, Via Del Lavoro",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.99934,
+        "lon": 11.24302
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8418322"
+    ],
+    "rating": ""
+}

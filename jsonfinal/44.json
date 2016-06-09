@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA F.LLI GIUSTI",
+    "description": "Il Ristorante Pizzeria F.lli Giusti è a Reggello (FI) in v. Prulli, 100. Ristorante di alta qualità dove poter gustare le specialità della cucina toscana.",
+    "address": "100, V. Prulli - 50066 Reggello (FI)",
+    "streetAddress": "100, V. Prulli",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.6497,
+        "lon": 11.46638
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 863255"
+    ],
+    "rating": ""
+}

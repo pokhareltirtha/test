@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE OLTRE IL GIARDINO",
+    "description": "Il ristorante di Greve in Chianti che prepara per i propri clienti piatti semplici, di origine contadina.",
+    "address": "42, P. Bucciarelli - 50022 Greve In Chianti (FI)",
+    "streetAddress": "42, P. Bucciarelli",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54503,
+        "lon": 11.31584
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 852828",
+        "339 8351943"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "PIZZA E BOLLICINE",
+    "description": "",
+    "address": "3, Via Quirico Baldinucci - 59100 Prato (PO)",
+    "streetAddress": "3, Via Quirico Baldinucci",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87657,
+        "lon": 11.10153
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 1825821"
+    ],
+    "rating": ""
+}

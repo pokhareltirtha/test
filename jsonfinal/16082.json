@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA DEL BOCCIO",
+    "description": "",
+    "address": "9, Borgo Venezia - 56031 Bientina (PI)",
+    "streetAddress": "9, Borgo Venezia",
+    "postalCode": "56031",
+    "addressLocality": "Bientina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.71001,
+        "lon": 10.62076
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 935783"
+    ],
+    "rating": ""
+}

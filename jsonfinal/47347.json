@@ -1,0 +1,20 @@
+{
+    "name": "BENCIROX SRL",
+    "description": "",
+    "address": "75/B, Viale Adua - 51100 Pistoia (PT)",
+    "streetAddress": "75/B, Viale Adua",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9321,
+        "lon": 10.90045
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 308314"
+    ],
+    "rating": ""
+}

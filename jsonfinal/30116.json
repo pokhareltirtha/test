@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE VECCHIA",
+    "description": "",
+    "address": "18, Piazza Gaetano Salvemini - 50122 Firenze (FI)",
+    "streetAddress": "18, Piazza Gaetano Salvemini",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77168,
+        "lon": 11.26217
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2340362"
+    ],
+    "rating": ""
+}

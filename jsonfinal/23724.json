@@ -1,0 +1,20 @@
+{
+    "name": "BOTTEGA DI GIORGIONE",
+    "description": "",
+    "address": "7, Localita Belvedere - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "7, Localita Belvedere",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.02017,
+        "lon": 11.40078
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8490199"
+    ],
+    "rating": ""
+}

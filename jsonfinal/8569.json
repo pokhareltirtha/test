@@ -1,0 +1,20 @@
+{
+    "name": "SERENDEPICO",
+    "description": "",
+    "address": "36, Via Chiesa - 55012 Capannori (LU)",
+    "streetAddress": "36, Via Chiesa",
+    "postalCode": "55012",
+    "addressLocality": "Capannori",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.77995,
+        "lon": 10.57523
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 975026"
+    ],
+    "rating": ""
+}

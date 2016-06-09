@@ -1,0 +1,20 @@
+{
+    "name": "SIMONCINI MAURIZIO",
+    "description": "",
+    "address": "4, Via S. Maria A Macerata - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": "4, Via S. Maria A Macerata",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61098,
+        "lon": 11.21389
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8244392"
+    ],
+    "rating": "5.0"
+}

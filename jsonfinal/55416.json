@@ -1,0 +1,21 @@
+{
+    "name": "ALL'ANTICA CORONA",
+    "description": "",
+    "address": "Via Roma 38 - 48032 Casola Valsenio (RA)",
+    "streetAddress": "Via Roma 38",
+    "postalCode": "48032",
+    "addressLocality": "Casola Valsenio",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.22418,
+        "lon": 11.62479
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0546 76284",
+        "0546 73847"
+    ],
+    "rating": ""
+}

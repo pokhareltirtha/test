@@ -1,0 +1,20 @@
+{
+    "name": "LE TRE FONTI S.R.L.",
+    "description": "",
+    "address": "13, Via Del Giglio - 50123 Firenze (FI)",
+    "streetAddress": "13, Via Del Giglio",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77378,
+        "lon": 11.251
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9173400"
+    ],
+    "rating": ""
+}

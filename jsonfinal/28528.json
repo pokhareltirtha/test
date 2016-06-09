@@ -1,0 +1,20 @@
+{
+    "name": "RISTORAMTE OSTERIA DI",
+    "description": "",
+    "address": "6, Via Fronzola - 52014 Poppi (AR)",
+    "streetAddress": "6, Via Fronzola",
+    "postalCode": "52014",
+    "addressLocality": "Poppi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.7067,
+        "lon": 11.76151
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "327 2325244"
+    ],
+    "rating": ""
+}

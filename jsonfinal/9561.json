@@ -1,0 +1,20 @@
+{
+    "name": "L'ANGOLO",
+    "description": "",
+    "address": "43, Viale Franklyn Delano Roosvelt - 50051 Castelfiorentino (FI)",
+    "streetAddress": "43, Viale Franklyn Delano Roosvelt",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.60293,
+        "lon": 10.96445
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 635044"
+    ],
+    "rating": ""
+}

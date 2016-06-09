@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA DELL'ORTO",
+    "description": "",
+    "address": "35, Via Dell Orto - 50124 Firenze (FI)",
+    "streetAddress": "35, Via Dell Orto",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.769,
+        "lon": 11.24093
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 224148"
+    ],
+    "rating": "4.0"
+}

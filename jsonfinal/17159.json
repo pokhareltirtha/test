@@ -1,0 +1,20 @@
+{
+    "name": "HOTEL RISTORANTE ALCIDE",
+    "description": "Eccellente ospitalità, ottimi servizi e buona cucina fanno dell’Hotel Ristorante Alcide di Poggibonsi il luogo ideale per un soggiorno, un convegno o una cena.",
+    "address": "67/A, Vl. Marconi - 53036 Poggibonsi (SI)",
+    "streetAddress": "67/A, Vl. Marconi",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.47248,
+        "lon": 11.14667
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 937501"
+    ],
+    "rating": "3.2"
+}

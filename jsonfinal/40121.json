@@ -1,0 +1,20 @@
+{
+    "name": "PASTICCERIA GIORGIO - RISTORANTE",
+    "description": "Ristorante raffinato, specialità di pesce, pasticceria sopraffina… tutto questo è la Pasticceria Giorgio – Ristorante, Via D. di Buoninsegna 36 a Firenze.",
+    "address": "36, V. D. Di Buoninsegna - 50143 Firenze (FI)",
+    "streetAddress": "36, V. D. Di Buoninsegna",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76696,
+        "lon": 11.21782
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 710849"
+    ],
+    "rating": "4.6"
+}

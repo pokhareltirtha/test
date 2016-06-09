@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL CANNICCIO srl",
+    "description": "Ristorante, trattoria Il Canniccio, a Reggello; una cornice unica e suggestiva dove lo staff qualificato saprà allietarvi con un tripudio di prelibatezze.",
+    "address": "68, Loc. Torre Del Castellano - 50066 Reggello (FI)",
+    "streetAddress": "68, Loc. Torre Del Castellano",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.67333,
+        "lon": 11.45801
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 6460761",
+        "055 863274"
+    ],
+    "rating": ""
+}

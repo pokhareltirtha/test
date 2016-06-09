@@ -1,0 +1,21 @@
+{
+    "name": "LA GIOSTRA",
+    "description": "",
+    "address": "12, Borgo Pinti - 50121 Firenze (FI)",
+    "streetAddress": "12, Borgo Pinti",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77204,
+        "lon": 11.26199
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 241341",
+        "055 2342362"
+    ],
+    "rating": "4.0"
+}

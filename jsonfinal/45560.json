@@ -1,0 +1,20 @@
+{
+    "name": "DA CARLO",
+    "description": "",
+    "address": "20, Piazza John Fitzgerald Kennedy - 50051 Castelfiorentino (FI)",
+    "streetAddress": "20, Piazza John Fitzgerald Kennedy",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.60419,
+        "lon": 10.97026
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 64127"
+    ],
+    "rating": ""
+}

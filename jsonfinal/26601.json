@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA LA BIANCHINA",
+    "description": "Accoglienza e qualità ad Impruneta, dove gustare le specialità della cucina sarda e toscana.",
+    "address": "36/38, V. Cassia - 50023 Bottai (FI)",
+    "streetAddress": "36/38, V. Cassia",
+    "postalCode": "50023",
+    "addressLocality": "Bottai",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72737,
+        "lon": 11.22421
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "329 2617716",
+        "055 2022163"
+    ],
+    "rating": ""
+}

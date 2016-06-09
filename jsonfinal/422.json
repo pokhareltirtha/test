@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA JIMMY",
+    "description": "La Pizzeria Jimmy, a Bagno a Ripoli (FI), vi aspetta per proporvi deliziose pizze a lievitazione naturale e specialità della cucina Fiorentina.",
+    "address": "19, V. Costa Al Rosso - 50012 Grassina (FI)",
+    "streetAddress": "19, V. Costa Al Rosso",
+    "postalCode": "50012",
+    "addressLocality": "Grassina",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72359,
+        "lon": 11.29302
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 642613"
+    ],
+    "rating": ""
+}

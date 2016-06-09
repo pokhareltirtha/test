@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE SESTO GIRONE",
+    "description": "",
+    "address": "77, Via Villamagna - 50126 Firenze (FI)",
+    "streetAddress": "77, Via Villamagna",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76165,
+        "lon": 11.30958
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 7768069"
+    ],
+    "rating": ""
+}

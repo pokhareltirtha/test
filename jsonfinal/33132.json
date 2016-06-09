@@ -1,0 +1,20 @@
+{
+    "name": "ISTANBUL TASTE",
+    "description": "",
+    "address": "20, Pellicceria - 50123 Firenze (FI)",
+    "streetAddress": "20, Pellicceria",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77074,
+        "lon": 11.25354
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "389 0140319"
+    ],
+    "rating": ""
+}

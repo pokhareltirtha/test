@@ -1,0 +1,22 @@
+{
+    "name": "RISTORANTE PULCINELLA",
+    "description": "Siamo aperti tutto l'anno per farvi gustare le migliori specialità della cucina italiana, in un ambiente climatizzato e accogliente, a Calenzano (FI)",
+    "address": "5, V. Ciolli - 50041 Calenzano (FI)",
+    "streetAddress": "5, V. Ciolli",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85187,
+        "lon": 11.16508
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8876194",
+        "055 88724"
+    ],
+    "rating": ""
+}

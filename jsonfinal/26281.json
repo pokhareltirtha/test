@@ -1,0 +1,20 @@
+{
+    "name": "PUZZLE S.R.L.",
+    "description": "",
+    "address": "8, Via Ser Ridolfo - 56028 San Miniato (PI)",
+    "streetAddress": "8, Via Ser Ridolfo",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67972,
+        "lon": 10.84888
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 419195"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA AL PALAZZACCIO DI DIANI DANIELA",
+    "description": "",
+    "address": "4, Piazza Della Repubblica - 40022 Castel Del Rio (BO)",
+    "streetAddress": "4, Piazza Della Repubblica",
+    "postalCode": "40022",
+    "addressLocality": "Castel Del Rio",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.21279,
+        "lon": 11.50471
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0542 95028"
+    ],
+    "rating": "3.0"
+}

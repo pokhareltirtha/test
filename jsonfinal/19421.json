@@ -1,0 +1,20 @@
+{
+    "name": "HAVELI",
+    "description": "",
+    "address": "31, Viale Fratelli Rosselli - 50144 Firenze (FI)",
+    "streetAddress": "31, Viale Fratelli Rosselli",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7788,
+        "lon": 11.24196
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 355695"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LUCA PIZZCAFÈ",
+    "description": "",
+    "address": "5  V. G. Da S. Giovanni - San Giovanni Valdarno (AR)",
+    "streetAddress": "5, V. G. Da S. Giovanni",
+    "postalCode": "",
+    "addressLocality": "San Giovanni Valdarno",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.56335,
+        "lon": 11.53239
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9123732"
+    ],
+    "rating": ""
+}

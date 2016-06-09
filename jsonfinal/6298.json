@@ -1,0 +1,20 @@
+{
+    "name": "CAFFE' DELL'ORO",
+    "description": "",
+    "address": "2, Lungarno Degli Acciaiuoli - 50123 Firenze (FI)",
+    "streetAddress": "2, Lungarno Degli Acciaiuoli",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7686,
+        "lon": 11.25309
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 27268912"
+    ],
+    "rating": ""
+}

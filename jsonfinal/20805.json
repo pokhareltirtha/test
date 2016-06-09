@@ -1,0 +1,21 @@
+{
+    "name": "CAVOLO NERO",
+    "description": "",
+    "address": "22, Via D'Ardiglione - 50124 Firenze (FI)",
+    "streetAddress": "22, Via D'Ardiglione",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76714,
+        "lon": 11.24471
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 294744",
+        "055 294743"
+    ],
+    "rating": ""
+}

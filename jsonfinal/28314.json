@@ -1,0 +1,21 @@
+{
+    "name": "AGRITURISMO VIGNOLI E NANETTI",
+    "description": "A Riolo Terme (RA), l'agriturismo propone piatti locali abbinati ad ottimi vini.",
+    "address": "34/A, V. Caduti Di Toranello - 48025 Riolo Terme (RA)",
+    "streetAddress": "34/A, V. Caduti Di Toranello",
+    "postalCode": "48025",
+    "addressLocality": "Riolo Terme",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.29829,
+        "lon": 11.6797
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 71907",
+        "347 7282912"
+    ],
+    "rating": ""
+}

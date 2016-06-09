@@ -1,0 +1,20 @@
+{
+    "name": "CLANCY'S IRISH PUB",
+    "description": "",
+    "address": "22, Localita Cocoioni - 52025 Montevarchi (AR)",
+    "streetAddress": "22, Localita Cocoioni",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.4934,
+        "lon": 11.54087
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9707387"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE L'ARCHIBUGIO snc",
+    "description": "Al Ristorante L¿Archibugio cuciniamo ottimi piatti e pizze gustose. Venite a trovarci a Barberino Val d¿Elsa (FI) in 48, v. Vittorio Veneto.",
+    "address": "48, V. Vittorio Veneto - 50021 Barberino Val D'Elsa (FI)",
+    "streetAddress": "48, V. Vittorio Veneto",
+    "postalCode": "50021",
+    "addressLocality": "Barberino Val D'Elsa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54302,
+        "lon": 11.1721
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8075209"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "COZZERIA PLUMA",
+    "description": "",
+    "address": "18, Via De Rossi - 51100 Pistoia (PT)",
+    "streetAddress": "18, Via De Rossi",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93465,
+        "lon": 10.91571
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 33157"
+    ],
+    "rating": ""
+}

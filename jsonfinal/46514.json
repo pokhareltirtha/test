@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA AL TAGLIO SNC DI MASSIMO E DELL' AGLI",
+    "description": "",
+    "address": "4, Via Luigi Pampaloni - 50142 Firenze (FI)",
+    "streetAddress": "4, Via Luigi Pampaloni",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77505,
+        "lon": 11.21018
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 7874043"
+    ],
+    "rating": ""
+}

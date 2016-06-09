@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA GASTRONOMIA DA DIEGO",
+    "description": "",
+    "address": "7, Via Salvatorelli Luigi - 59100 Prato (PO)",
+    "streetAddress": "7, Via Salvatorelli Luigi",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86782,
+        "lon": 11.04583
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0574 625361"
+    ],
+    "rating": ""
+}

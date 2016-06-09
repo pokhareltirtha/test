@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DOLCE VITA",
+    "description": "Ristorante Dolce Vita a Capannori (LU) trattoria con cucina espressa.",
+    "address": "8, V. Rossi - 55012 Lunata (LU)",
+    "streetAddress": "8, V. Rossi",
+    "postalCode": "55012",
+    "addressLocality": "Lunata",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.85192,
+        "lon": 10.58938
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 429489"
+    ],
+    "rating": ""
+}

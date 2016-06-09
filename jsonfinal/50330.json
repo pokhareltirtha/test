@@ -1,0 +1,20 @@
+{
+    "name": "SUPERPIZZA",
+    "description": "",
+    "address": "41, Via Vannucci Atto - 51100 Pistoia (PT)",
+    "streetAddress": "41, Via Vannucci Atto",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93,
+        "lon": 10.91493
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 364571"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "I' PRUGNOLO SRL",
+    "description": "",
+    "address": "253, Via Baccheretana - 59015 Carmignano (PO)",
+    "streetAddress": "253, Via Baccheretana",
+    "postalCode": "59015",
+    "addressLocality": "Carmignano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.82864,
+        "lon": 11.01748
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8706933"
+    ],
+    "rating": ""
+}

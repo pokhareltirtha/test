@@ -1,0 +1,20 @@
+{
+    "name": "ALLE MURATE",
+    "description": "",
+    "address": "",
+    "streetAddress": "",
+    "postalCode": "",
+    "addressLocality": "",
+    "addressRegion": "",
+    "coordinates": {
+        "lat": null,
+        "lon": null
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        ""
+    ],
+    "rating": "4.0"
+}

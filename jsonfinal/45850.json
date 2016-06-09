@@ -1,0 +1,20 @@
+{
+    "name": "GS.PA SRL",
+    "description": "",
+    "address": "148/R/H, Via Giuliani Reginaldo - 50141 Firenze (FI)",
+    "streetAddress": "148/R/H, Via Giuliani Reginaldo",
+    "postalCode": "50141",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80712,
+        "lon": 11.23382
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 450146"
+    ],
+    "rating": ""
+}

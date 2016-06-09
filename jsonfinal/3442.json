@@ -1,0 +1,21 @@
+{
+    "name": "DA PAKO RISTORANTE \"DA PAKO\"",
+    "description": "",
+    "address": "Via Provinciale 761 - 50033 Firenzuola (FI)",
+    "streetAddress": "Via Provinciale 761",
+    "postalCode": "50033",
+    "addressLocality": "Firenzuola",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.12051,
+        "lon": 11.38004
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 818177",
+        "392 5656903"
+    ],
+    "rating": ""
+}

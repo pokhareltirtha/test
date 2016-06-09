@@ -1,0 +1,20 @@
+{
+    "name": "PUNTO PIZZA SNC DI GIUSEPPE E GIOVANNI AIELLO",
+    "description": "",
+    "address": "2, Via Gabriele Rossetti - 59100 Prato (PO)",
+    "streetAddress": "2, Via Gabriele Rossetti",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86235,
+        "lon": 11.09212
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 564974"
+    ],
+    "rating": ""
+}

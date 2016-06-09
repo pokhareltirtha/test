@@ -1,0 +1,21 @@
+{
+    "name": "DA TITO I SETTE PECCATI",
+    "description": "A Firenze i ristoranti Peccati Di Gola e l'altro I Sette Peccati, pizzeria cucina senza glutine.",
+    "address": "87/R, V. Alderotti - 50139 Firenze (FI)",
+    "streetAddress": "87/R, V. Alderotti",
+    "postalCode": "50139",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79897,
+        "lon": 11.24592
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4360470"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA A METRO LA STAZIONE",
+    "description": "",
+    "address": "6, Via Cavour - 56020 San Romano (PI)",
+    "streetAddress": "6, Via Cavour",
+    "postalCode": "56020",
+    "addressLocality": "San Romano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69018,
+        "lon": 10.75987
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "0571 459019"
+    ],
+    "rating": ""
+}

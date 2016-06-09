@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DELL'OLIO",
+    "description": "",
+    "address": "10, Piazza Dell'Olio - 50123 Firenze (FI)",
+    "streetAddress": "10, Piazza Dell'Olio",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77297,
+        "lon": 11.25395
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 211466"
+    ],
+    "rating": "5.0"
+}

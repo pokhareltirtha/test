@@ -1,0 +1,20 @@
+{
+    "name": "BORGO DEI LUNARDI",
+    "description": "",
+    "address": "46, Via Torribina - 50050 Cerreto Guidi (FI)",
+    "streetAddress": "46, Via Torribina",
+    "postalCode": "50050",
+    "addressLocality": "Cerreto Guidi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75858,
+        "lon": 10.85922
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 559577"
+    ],
+    "rating": ""
+}

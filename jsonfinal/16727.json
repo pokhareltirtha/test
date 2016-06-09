@@ -1,0 +1,20 @@
+{
+    "name": "RAGADA SRL",
+    "description": "",
+    "address": "16, Via Dei Frosini - 51100 Pistoia (PT)",
+    "streetAddress": "16, Via Dei Frosini",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92211,
+        "lon": 10.92764
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 33157"
+    ],
+    "rating": ""
+}

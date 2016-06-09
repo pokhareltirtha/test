@@ -1,0 +1,20 @@
+{
+    "name": "GALLETTA STEFANIA",
+    "description": "",
+    "address": "70, Via Castel Guinelli - 50063 Figline Valdarno (FI)",
+    "streetAddress": "70, Via Castel Guinelli",
+    "postalCode": "50063",
+    "addressLocality": "Figline Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61651,
+        "lon": 11.47276
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 959341"
+    ],
+    "rating": ""
+}

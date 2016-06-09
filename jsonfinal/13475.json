@@ -1,0 +1,21 @@
+{
+    "name": "OLIO & CONVIVIUM",
+    "description": "",
+    "address": "4, Via Di Santo Spirito - 50125 Firenze (FI)",
+    "streetAddress": "4, Via Di Santo Spirito",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76825,
+        "lon": 11.2493
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2658198",
+        "055 2657639"
+    ],
+    "rating": ""
+}

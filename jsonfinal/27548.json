@@ -1,0 +1,20 @@
+{
+    "name": "TORRICELLE ZUCCHI",
+    "description": "",
+    "address": "Via Benvenuto Cellini 32 - 50028 Sambuca (FI)",
+    "streetAddress": "Via Benvenuto Cellini 32",
+    "postalCode": "50028",
+    "addressLocality": "Sambuca",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.57459,
+        "lon": 11.21252
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8071780"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "SORSI E MORSI",
+    "description": "",
+    "address": "5/6, Piazza Tronchetti - 56032 Cascine (PI)",
+    "streetAddress": "5/6, Piazza Tronchetti",
+    "postalCode": "56032",
+    "addressLocality": "Cascine",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.72265,
+        "lon": 10.61645
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 724384",
+        "333 3873910"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "BAR RISTORANTE GIUNTINI",
+    "description": "",
+    "address": "22, Localita Secchieta - 52010 Montemignaio (AR)",
+    "streetAddress": "22, Localita Secchieta",
+    "postalCode": "52010",
+    "addressLocality": "Montemignaio",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.72774,
+        "lon": 11.57546
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 862042"
+    ],
+    "rating": ""
+}

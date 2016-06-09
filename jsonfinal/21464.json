@@ -1,0 +1,20 @@
+{
+    "name": "IL CELLIERE A CASTAGNOLI",
+    "description": "",
+    "address": "Via Del Castello, 2 - 53013 Castagnoli (SI)",
+    "streetAddress": "Via Del Castello, 2",
+    "postalCode": "53013",
+    "addressLocality": "Castagnoli",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.44315,
+        "lon": 11.45182
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 731921"
+    ],
+    "rating": ""
+}

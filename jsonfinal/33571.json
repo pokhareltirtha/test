@@ -1,0 +1,21 @@
+{
+    "name": "UNDICI LEONI",
+    "description": "",
+    "address": "3/R/D, Viale Fanti Manfredo - 50137 Firenze (FI)",
+    "streetAddress": "3/R/D, Viale Fanti Manfredo",
+    "postalCode": "50137",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78073,
+        "lon": 11.28122
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 553536",
+        "055 5535360"
+    ],
+    "rating": ""
+}

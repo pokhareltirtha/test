@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA MONNALISA",
+    "description": "",
+    "address": "5, Via Giovanni XXIII Papa - 50059 Vinci (FI)",
+    "streetAddress": "5, Via Giovanni XXIII Papa",
+    "postalCode": "50059",
+    "addressLocality": "Vinci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78506,
+        "lon": 10.92513
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 56050"
+    ],
+    "rating": ""
+}

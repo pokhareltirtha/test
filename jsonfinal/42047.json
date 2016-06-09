@@ -1,0 +1,20 @@
+{
+    "name": "LA META",
+    "description": "",
+    "address": "131, Via Pietro Toselli - 50144 Firenze (FI)",
+    "streetAddress": "131, Via Pietro Toselli",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78627,
+        "lon": 11.22947
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 360448"
+    ],
+    "rating": ""
+}

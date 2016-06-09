@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE SAN FRANCISCO",
+    "description": "",
+    "address": "112, Corso Roma - 51016 Montecatini Terme (PT)",
+    "streetAddress": "112, Corso Roma",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88549,
+        "lon": 10.7647
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 902615",
+        "0572 79632"
+    ],
+    "rating": "4.0"
+}

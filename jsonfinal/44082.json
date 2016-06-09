@@ -1,0 +1,20 @@
+{
+    "name": "CONSIGLI",
+    "description": "",
+    "address": "7, Piazzale Di Ceppeto - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "7, Piazzale Di Ceppeto",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85881,
+        "lon": 11.26277
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 402121"
+    ],
+    "rating": ""
+}

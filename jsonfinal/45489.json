@@ -1,0 +1,21 @@
+{
+    "name": "CINZIA RISTORANTE PIZZERIA",
+    "description": "A Firenze Il Ristorante Pizzeria Cinzia offre cucina tipica calabrese, antipasti di salumi, pizze cotte nel forno a legna e calzoni per tutti i gusti.",
+    "address": "65/A, V. Argin Grosso - 50142 Firenze (FI)",
+    "streetAddress": "65/A, V. Argin Grosso",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78158,
+        "lon": 11.20641
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 780270",
+        "333 9156659"
+    ],
+    "rating": ""
+}

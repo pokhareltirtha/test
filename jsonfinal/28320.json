@@ -1,0 +1,20 @@
+{
+    "name": "AL POGGIO",
+    "description": "",
+    "address": "134, Via Panoramica - 50033 Piancaldoli (FI)",
+    "streetAddress": "134, Via Panoramica",
+    "postalCode": "50033",
+    "addressLocality": "Piancaldoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.20917,
+        "lon": 11.42906
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 817204"
+    ],
+    "rating": ""
+}

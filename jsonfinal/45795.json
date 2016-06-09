@@ -1,0 +1,20 @@
+{
+    "name": "L'ANGOLO DELLA PIZZA DI MINICOZZI MICHELE",
+    "description": "",
+    "address": "23, Via Mazzei - 55011 Spianate (LU)",
+    "streetAddress": "23, Via Mazzei",
+    "postalCode": "55011",
+    "addressLocality": "Spianate",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.80962,
+        "lon": 10.71412
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 20449"
+    ],
+    "rating": ""
+}

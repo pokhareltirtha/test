@@ -1,0 +1,21 @@
+{
+    "name": "FASHION GROOVE",
+    "description": "Un angolo di shopping dove trovare le migliori marche di abbigliamento, calzature, accessori per la casa e profumerie a Figline E Incisa Valdarno (FI).",
+    "address": "50, V. Santa Maria Maddalena - 50064 Incisa Valdarno (FI)",
+    "streetAddress": "50, V. Santa Maria Maddalena",
+    "postalCode": "50064",
+    "addressLocality": "Incisa Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.69132,
+        "lon": 11.45192
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8657722",
+        "055 8330800"
+    ],
+    "rating": ""
+}

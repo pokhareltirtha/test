@@ -1,0 +1,20 @@
+{
+    "name": "I' MANGIARINO",
+    "description": "",
+    "address": "3, Via Dello Studio - 50122 Firenze (FI)",
+    "streetAddress": "3, Via Dello Studio",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77219,
+        "lon": 11.25679
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 216208"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "IL RIFUGIO",
+    "description": "",
+    "address": "9, Piazza XX Settembre - 56048 Volterra (PI)",
+    "streetAddress": "9, Piazza XX Settembre",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40131,
+        "lon": 10.86298
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0588 572032",
+        "0588 86976"
+    ],
+    "rating": ""
+}

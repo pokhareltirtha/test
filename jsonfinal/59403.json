@@ -1,0 +1,20 @@
+{
+    "name": "BORRIELLO CLAUDIA",
+    "description": "",
+    "address": "39, Via Unione Europea - 50056 Montelupo Fiorentino (FI)",
+    "streetAddress": "39, Via Unione Europea",
+    "postalCode": "50056",
+    "addressLocality": "Montelupo Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73086,
+        "lon": 11.02077
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 911307"
+    ],
+    "rating": ""
+}

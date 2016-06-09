@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DEL GUERCINORO",
+    "description": "",
+    "address": "7, Piazza Guglielmo Marconi - 48013 Brisighella (RA)",
+    "streetAddress": "7, Piazza Guglielmo Marconi",
+    "postalCode": "48013",
+    "addressLocality": "Brisighella",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.22374,
+        "lon": 11.77306
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 80464"
+    ],
+    "rating": "5.0"
+}

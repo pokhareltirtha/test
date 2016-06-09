@@ -1,0 +1,20 @@
+{
+    "name": "LE MASCHERE",
+    "description": "",
+    "address": "70, Via Nazionale - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "70, Via Nazionale",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.00725,
+        "lon": 11.27127
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 841354"
+    ],
+    "rating": ""
+}

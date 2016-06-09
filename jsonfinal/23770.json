@@ -1,0 +1,20 @@
+{
+    "name": "CONCORDIA DANIELA",
+    "description": "",
+    "address": "85, Via Roma - 40021 Borgo Tossignano (BO)",
+    "streetAddress": "85, Via Roma",
+    "postalCode": "40021",
+    "addressLocality": "Borgo Tossignano",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.27714,
+        "lon": 11.58658
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0542 94013"
+    ],
+    "rating": ""
+}

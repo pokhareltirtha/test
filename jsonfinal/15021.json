@@ -1,0 +1,20 @@
+{
+    "name": "ANTICA TAVERNA CASAGRANDE",
+    "description": "",
+    "address": "61, Via Giovanni Battista Del Puglia - 50063 Figline Valdarno (FI)",
+    "streetAddress": "61, Via Giovanni Battista Del Puglia",
+    "postalCode": "50063",
+    "addressLocality": "Figline Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61723,
+        "lon": 11.47082
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 952403"
+    ],
+    "rating": ""
+}

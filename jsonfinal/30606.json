@@ -1,0 +1,21 @@
+{
+    "name": "LA FERRIERA",
+    "description": "",
+    "address": "4, Via La Ferriera - 52024 Loro Ciuffenna (AR)",
+    "streetAddress": "4, Via La Ferriera",
+    "postalCode": "52024",
+    "addressLocality": "Loro Ciuffenna",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.59581,
+        "lon": 11.63049
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9171921",
+        "055 9174007"
+    ],
+    "rating": ""
+}

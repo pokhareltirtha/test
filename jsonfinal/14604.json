@@ -1,0 +1,20 @@
+{
+    "name": "ARTEMIDE",
+    "description": "",
+    "address": "21, Via Di Galiga - 50065 Pontassieve (FI)",
+    "streetAddress": "21, Via Di Galiga",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83892,
+        "lon": 11.43396
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8317240"
+    ],
+    "rating": "5.0"
+}

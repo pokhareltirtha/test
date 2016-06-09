@@ -1,0 +1,20 @@
+{
+    "name": "COCOTRIPPONE",
+    "description": "",
+    "address": "140, Via Gioberti Vincenzo - 50121 Firenze (FI)",
+    "streetAddress": "140, Via Gioberti Vincenzo",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77049,
+        "lon": 11.27296
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2347527"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "ROADHOUSE GRILL",
+    "description": "",
+    "address": "24, Via Fratelli Cervi - 50013 Capalle (FI)",
+    "streetAddress": "24, Via Fratelli Cervi",
+    "postalCode": "50013",
+    "addressLocality": "Capalle",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84464,
+        "lon": 11.13743
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8969549"
+    ],
+    "rating": ""
+}

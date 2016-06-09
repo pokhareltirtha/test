@@ -1,0 +1,20 @@
+{
+    "name": "IL DECANTER",
+    "description": "",
+    "address": "1, Piazza Santa Maria Delle Carceri - 59100 Prato (PO)",
+    "streetAddress": "1, Piazza Santa Maria Delle Carceri",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87944,
+        "lon": 11.09787
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 691403"
+    ],
+    "rating": ""
+}

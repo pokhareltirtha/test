@@ -1,0 +1,20 @@
+{
+    "name": "GIUSTI VALTER",
+    "description": "",
+    "address": "173/175, Via Di Piaggiori - 55012 Capannori (LU)",
+    "streetAddress": "173/175, Via Di Piaggiori",
+    "postalCode": "55012",
+    "addressLocality": "Capannori",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.88288,
+        "lon": 10.597
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 929979"
+    ],
+    "rating": ""
+}

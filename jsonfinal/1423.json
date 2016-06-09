@@ -1,0 +1,20 @@
+{
+    "name": "LA FORNARINA",
+    "description": "",
+    "address": "19, Viale Morgagni - 50134 Firenze (FI)",
+    "streetAddress": "19, Viale Morgagni",
+    "postalCode": "50134",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79728,
+        "lon": 11.24182
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4224141"
+    ],
+    "rating": ""
+}

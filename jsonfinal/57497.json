@@ -1,0 +1,20 @@
+{
+    "name": "LO SCODELLINO",
+    "description": "",
+    "address": "27/A, Via Lamarmora Alfonso - 50121 Firenze (FI)",
+    "streetAddress": "27/A, Via Lamarmora Alfonso",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78052,
+        "lon": 11.26146
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 586414"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "EL GATTO",
+    "description": "",
+    "address": "4, Piazza Della Liberta - 51010 Traversagna (PT)",
+    "streetAddress": "4, Piazza Della Liberta",
+    "postalCode": "51010",
+    "addressLocality": "Traversagna",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87009,
+        "lon": 10.75352
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 74520"
+    ],
+    "rating": ""
+}

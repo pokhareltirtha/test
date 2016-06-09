@@ -1,0 +1,20 @@
+{
+    "name": "LA BUSSOLA",
+    "description": "",
+    "address": "144, Localita' Sagginale - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "144, Localita' Sagginale",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.93241,
+        "lon": 11.42241
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8490184"
+    ],
+    "rating": ""
+}

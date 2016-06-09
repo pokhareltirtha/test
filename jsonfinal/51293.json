@@ -1,0 +1,20 @@
+{
+    "name": "GUALTIERI E RENZI PIZZA AL TAGLIO",
+    "description": "",
+    "address": "51, Via Giuseppe Garibaldi - 59100 Prato (PO)",
+    "streetAddress": "51, Via Giuseppe Garibaldi",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88147,
+        "lon": 11.09851
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 607435"
+    ],
+    "rating": ""
+}

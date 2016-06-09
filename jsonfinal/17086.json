@@ -1,0 +1,20 @@
+{
+    "name": "TENUTA AL PINO",
+    "description": "",
+    "address": "Via Provinciale Di Belvedere, 29 - 56033 Capannoli (PI)",
+    "streetAddress": "Via Provinciale Di Belvedere, 29",
+    "postalCode": "56033",
+    "addressLocality": "Capannoli",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.57308,
+        "lon": 10.64791
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 607273"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "SELF SERVICE RISTORANTE - PIZZERIA",
+    "description": "",
+    "address": "Via Fosso Vecchio Snc - 56021 Cascina (PI)",
+    "streetAddress": "Via Fosso Vecchio Snc",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67071,
+        "lon": 10.52678
+    },
+    "categories": [
+        "Ristorazione collettiva e catering"
+    ],
+    "telephone": [
+        "050 779199"
+    ],
+    "rating": ""
+}

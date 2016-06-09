@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LA BOTTE",
+    "description": "Il Ristorante Pizzeria La Botte è il posto giusto per tutti i buongustai che amano la buona e sana cucina locale, a San Casciano in Val di Pesa",
+    "address": "154, V. Borromeo - 50026 Calzaiolo (FI)",
+    "streetAddress": "154, V. Borromeo",
+    "postalCode": "50026",
+    "addressLocality": "Calzaiolo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.63615,
+        "lon": 11.17499
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8249029"
+    ],
+    "rating": ""
+}

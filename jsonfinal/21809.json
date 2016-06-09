@@ -1,0 +1,21 @@
+{
+    "name": "TOSCANA FAIR",
+    "description": "",
+    "address": "46, Via Bonellina - 51100 Pistoia (PT)",
+    "streetAddress": "46, Via Bonellina",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.91753,
+        "lon": 10.91842
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 986520",
+        "0573 382299"
+    ],
+    "rating": ""
+}

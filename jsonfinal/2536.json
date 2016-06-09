@@ -1,0 +1,20 @@
+{
+    "name": "RELAIS RISERVA",
+    "description": "",
+    "address": ", Localita Fizzano - 53011 Castellina In Chianti (SI)",
+    "streetAddress": ", Localita Fizzano",
+    "postalCode": "53011",
+    "addressLocality": "Castellina In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.45206,
+        "lon": 11.22723
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 737223"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL CANTUCCIO",
+    "description": "",
+    "address": "50, Via Di Davanzello - 50041 La Chiusa (FI)",
+    "streetAddress": "50, Via Di Davanzello",
+    "postalCode": "50041",
+    "addressLocality": "La Chiusa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.88286,
+        "lon": 11.18066
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8818278"
+    ],
+    "rating": ""
+}

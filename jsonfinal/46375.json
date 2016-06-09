@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE TOSCANA",
+    "description": "",
+    "address": "2, Via San Biagio - 50063 Figline Valdarno (FI)",
+    "streetAddress": "2, Via San Biagio",
+    "postalCode": "50063",
+    "addressLocality": "Figline Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.62564,
+        "lon": 11.46298
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 951424"
+    ],
+    "rating": ""
+}

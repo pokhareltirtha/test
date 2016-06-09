@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE E PIZZERIA LAGO DI CERRETO",
+    "description": "",
+    "address": "327, Via Cantagallo - 59100 Prato (PO)",
+    "streetAddress": "327, Via Cantagallo",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.9374,
+        "lon": 11.09652
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 694319"
+    ],
+    "rating": ""
+}

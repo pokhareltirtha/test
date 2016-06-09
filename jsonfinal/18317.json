@@ -1,0 +1,20 @@
+{
+    "name": "FUORI PORTA",
+    "description": "",
+    "address": "10, Via Monte Alle Croci - 50125 Firenze (FI)",
+    "streetAddress": "10, Via Monte Alle Croci",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76325,
+        "lon": 11.26196
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2342483"
+    ],
+    "rating": "4.8"
+}

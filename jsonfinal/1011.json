@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LE FONTICINE",
+    "description": "Dal Ristorante Le Fonticine a Firenze troverai un’atmosfera calda ed accogliente dove assaporare le antiche ricette della cucina toscana.",
+    "address": "79/R, V. Nazionale - 50123 Firenze (FI)",
+    "streetAddress": "79/R, V. Nazionale",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77742,
+        "lon": 11.25239
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 282106"
+    ],
+    "rating": ""
+}

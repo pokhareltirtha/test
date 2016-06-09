@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA SAN DOMENICO",
+    "description": "Pizzeria aperta fino a tarda notte sulle pendici di Fiesole con splendida vista su Firenze.",
+    "address": "11, P. S. Domenico - 50014 Fiesole (FI)",
+    "streetAddress": "11, P. S. Domenico",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80088,
+        "lon": 11.2853
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 59060",
+        "055 59182"
+    ],
+    "rating": "3.5"
+}

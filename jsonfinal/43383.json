@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE BAR FOCACCERIA ATELIER",
+    "description": "",
+    "address": "5/R, Piazza Dei Peruzzi - 50122 Firenze (FI)",
+    "streetAddress": "5/R, Piazza Dei Peruzzi",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76885,
+        "lon": 11.25931
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 215420"
+    ],
+    "rating": ""
+}

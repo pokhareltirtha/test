@@ -1,0 +1,21 @@
+{
+    "name": "LA FATTORIA",
+    "description": "",
+    "address": "1, Via Pistoiese - 59100 Prato (PO)",
+    "streetAddress": "1, Via Pistoiese",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88297,
+        "lon": 11.09156
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 815368",
+        "339 5654352"
+    ],
+    "rating": ""
+}

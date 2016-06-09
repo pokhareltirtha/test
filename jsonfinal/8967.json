@@ -1,0 +1,20 @@
+{
+    "name": "LAVY E VALY",
+    "description": "",
+    "address": "Via Antonio Gramsci, 23 - 50055 Lastra A Signa (FI)",
+    "streetAddress": "Via Antonio Gramsci, 23",
+    "postalCode": "50055",
+    "addressLocality": "Lastra A Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76893,
+        "lon": 11.11076
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8802815"
+    ],
+    "rating": ""
+}

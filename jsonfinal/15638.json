@@ -1,0 +1,21 @@
+{
+    "name": "LA CAPANNINA",
+    "description": "",
+    "address": "3, Via Ca Basse - 40036 Trasasso (BO)",
+    "streetAddress": "3, Via Ca Basse",
+    "postalCode": "40036",
+    "addressLocality": "Trasasso",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.25425,
+        "lon": 11.27104
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "051 6771024"
+    ],
+    "rating": ""
+}

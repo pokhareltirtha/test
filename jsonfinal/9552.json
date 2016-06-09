@@ -1,0 +1,21 @@
+{
+    "name": "TRATTORIA PACCI' DI RIBECHINI GESSICA",
+    "description": "",
+    "address": "5, Via Roma - 56032 Buti (PI)",
+    "streetAddress": "5, Via Roma",
+    "postalCode": "56032",
+    "addressLocality": "Buti",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.72704,
+        "lon": 10.58681
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "320 0371577",
+        "0587 722162"
+    ],
+    "rating": "4.5"
+}

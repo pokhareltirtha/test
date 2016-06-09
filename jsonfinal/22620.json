@@ -1,0 +1,20 @@
+{
+    "name": "VOCINO S.R.L.",
+    "description": "",
+    "address": "28, Via Pellicceria - 50123 Firenze (FI)",
+    "streetAddress": "28, Via Pellicceria",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77078,
+        "lon": 11.25354
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 212701"
+    ],
+    "rating": ""
+}

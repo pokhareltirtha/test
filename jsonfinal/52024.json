@@ -1,0 +1,20 @@
+{
+    "name": "LA BASILICA",
+    "description": "",
+    "address": "1257, Via Livornese - 56010 Cascina (PI)",
+    "streetAddress": "1257, Via Livornese",
+    "postalCode": "56010",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67029,
+        "lon": 10.56978
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 961223"
+    ],
+    "rating": ""
+}

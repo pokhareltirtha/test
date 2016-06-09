@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA CUPELLI",
+    "description": "Il nostro ristorante vi offre un cucinato rigorosamente con prodotti locali, in un ambiente confortevole. Siamo a San Miniato (PI).",
+    "address": "199, Vl. Marconi Giglielmo - 56028 San Miniato (PI)",
+    "streetAddress": "199, Vl. Marconi Giglielmo",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70273,
+        "lon": 10.82445
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 5223106"
+    ],
+    "rating": ""
+}

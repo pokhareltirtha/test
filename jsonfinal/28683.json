@@ -1,0 +1,21 @@
+{
+    "name": "LE LANCE",
+    "description": "",
+    "address": "Via Giuseppe Mantellini, 2 - 50014 Fiesole (FI)",
+    "streetAddress": "Via Giuseppe Mantellini, 2",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80163,
+        "lon": 11.29759
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 599008",
+        "055 599595"
+    ],
+    "rating": "3.7"
+}

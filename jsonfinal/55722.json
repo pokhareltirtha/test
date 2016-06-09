@@ -1,0 +1,20 @@
+{
+    "name": "DEL BUONO GENNARO",
+    "description": "",
+    "address": "104, Via Toselli Pietro - 50144 Firenze (FI)",
+    "streetAddress": "104, Via Toselli Pietro",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78461,
+        "lon": 11.23272
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 355465"
+    ],
+    "rating": ""
+}

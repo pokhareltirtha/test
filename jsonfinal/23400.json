@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE FATTORIA IL PALAGIO",
+    "description": "",
+    "address": "97/99, Viale Dante Alighieri - 50038 Scarperia (FI)",
+    "streetAddress": "97/99, Viale Dante Alighieri",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.99535,
+        "lon": 11.3561
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 846376",
+        "055 8468067"
+    ],
+    "rating": ""
+}

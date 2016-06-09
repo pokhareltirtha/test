@@ -1,0 +1,21 @@
+{
+    "name": "LOCANDA SAN LORENZO",
+    "description": "",
+    "address": "313, Via Antonio Gramsci - 56027 San Miniato (PI)",
+    "streetAddress": "313, Via Antonio Gramsci",
+    "postalCode": "56027",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68912,
+        "lon": 10.78871
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 451930",
+        "0571 450122"
+    ],
+    "rating": ""
+}

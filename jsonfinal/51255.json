@@ -1,0 +1,20 @@
+{
+    "name": "LE DELIZIE DI ALFANO GIUSEPPE",
+    "description": "",
+    "address": "2/3r, Piazza S. Felicita - 50125 Firenze (FI)",
+    "streetAddress": "2/3r, Piazza S. Felicita",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76712,
+        "lon": 11.25235
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 295333"
+    ],
+    "rating": ""
+}

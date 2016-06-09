@@ -1,0 +1,20 @@
+{
+    "name": "LA ROCCA",
+    "description": "",
+    "address": "10, Via Delle Volte - 48013 Brisighella (RA)",
+    "streetAddress": "10, Via Delle Volte",
+    "postalCode": "48013",
+    "addressLocality": "Brisighella",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.22356,
+        "lon": 11.77178
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 81180"
+    ],
+    "rating": ""
+}

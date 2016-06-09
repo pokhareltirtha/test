@@ -1,0 +1,20 @@
+{
+    "name": "VOLATERRA DI JONNI GUARGUAGLINI",
+    "description": "",
+    "address": "5, Via Turazza G. - 56048 Volterra (PI)",
+    "streetAddress": "5, Via Turazza G.",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40168,
+        "lon": 10.85945
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 88765"
+    ],
+    "rating": ""
+}

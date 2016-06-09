@@ -1,0 +1,20 @@
+{
+    "name": "FUORI PORTA S.R.L.",
+    "description": "",
+    "address": "Viale Roma - 53037 San Gimignano (SI)",
+    "streetAddress": "Viale Roma",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46821,
+        "lon": 11.04189
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 943131"
+    ],
+    "rating": "4.0"
+}

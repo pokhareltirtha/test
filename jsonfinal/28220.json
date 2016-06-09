@@ -1,0 +1,20 @@
+{
+    "name": "NERI CLAUDIO",
+    "description": "",
+    "address": "11, Via Rio Chie' - 48013 Brisighella (RA)",
+    "streetAddress": "11, Via Rio Chie'",
+    "postalCode": "48013",
+    "addressLocality": "Brisighella",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.22841,
+        "lon": 11.78488
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "329 0671903"
+    ],
+    "rating": ""
+}

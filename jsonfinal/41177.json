@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA DELL'ABBONDANZA",
+    "description": "",
+    "address": "14, Via Dell Abbondanza - 51100 Pistoia (PT)",
+    "streetAddress": "14, Via Dell Abbondanza",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93361,
+        "lon": 10.91527
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 368037"
+    ],
+    "rating": "4.7"
+}

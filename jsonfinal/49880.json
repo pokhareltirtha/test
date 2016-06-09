@@ -1,0 +1,21 @@
+{
+    "name": "DE IESO NADIA",
+    "description": "",
+    "address": "49, Via Del Mezzomiglio - 51018 Pieve A Nievole (PT)",
+    "streetAddress": "49, Via Del Mezzomiglio",
+    "postalCode": "51018",
+    "addressLocality": "Pieve A Nievole",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87988,
+        "lon": 10.78625
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 284220",
+        "0572 954586"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "MUGNANO",
+    "description": "",
+    "address": ", Localita Mugnano - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": ", Localita Mugnano",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.41395,
+        "lon": 11.06326
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 959023"
+    ],
+    "rating": ""
+}

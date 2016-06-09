@@ -1,0 +1,20 @@
+{
+    "name": "PICCADILLY",
+    "description": "",
+    "address": "2, Via Pietro Carnesecchi - 50131 Firenze (FI)",
+    "streetAddress": "2, Via Pietro Carnesecchi",
+    "postalCode": "50131",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78199,
+        "lon": 11.28194
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 583483"
+    ],
+    "rating": ""
+}

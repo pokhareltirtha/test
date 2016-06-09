@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE TRATTORIA LA BOTTEGA",
+    "description": "Il bar, trattoria, tabacchi, alimentari ed enoteca dove gustare ottimi cappuccini e caffe...squisiti spuntini con prodotti di qualità a Barberino di Mugello.",
+    "address": "3, V. Lago - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "3, V. Lago",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.98932,
+        "lon": 11.23947
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8420919"
+    ],
+    "rating": "5.0"
+}

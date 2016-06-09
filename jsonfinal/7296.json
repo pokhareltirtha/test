@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE I GHIBELLINI",
+    "description": "",
+    "address": "8, Piazza Di S. Pier Maggiore - 50122 Firenze (FI)",
+    "streetAddress": "8, Piazza Di S. Pier Maggiore",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77131,
+        "lon": 11.26132
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        ""
+    ],
+    "rating": ""
+}

@@ -1,0 +1,22 @@
+{
+    "name": "RISTORANTE PIZZERIA LE ARCATE srl",
+    "description": "Il Ristorante Pizzeria Le Arcate di Prato offre ai suoi clienti un vasto menu che comprende sia portate di pesce che di carne.",
+    "address": "24/N/3, Trav. Crocifisso - 59100 Prato (PO)",
+    "streetAddress": "24/N/3, Trav. Crocifisso",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.84758,
+        "lon": 11.06313
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 625117",
+        "345 9917373"
+    ],
+    "rating": ""
+}

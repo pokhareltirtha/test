@@ -1,0 +1,21 @@
+{
+    "name": "ENOTECA GIOVANNI",
+    "description": "",
+    "address": "25, Via Giuseppe Garibaldi - 51016 Montecatini Terme (PT)",
+    "streetAddress": "25, Via Giuseppe Garibaldi",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88234,
+        "lon": 10.77002
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 71695",
+        "0572 73080"
+    ],
+    "rating": ""
+}

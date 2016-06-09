@@ -1,0 +1,21 @@
+{
+    "name": "CASA DEL VIN SANTO",
+    "description": "",
+    "address": "15, Via Porta Rossa - 50123 Firenze (FI)",
+    "streetAddress": "15, Via Porta Rossa",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77021,
+        "lon": 11.25252
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 216995"
+    ],
+    "rating": ""
+}

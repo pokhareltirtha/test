@@ -1,0 +1,20 @@
+{
+    "name": "WONDER PARK",
+    "description": "",
+    "address": "Via Provinciale Montalbano 42 - 51030 Serravalle Pistoiese (PT)",
+    "streetAddress": "Via Provinciale Montalbano 42",
+    "postalCode": "51030",
+    "addressLocality": "Serravalle Pistoiese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88797,
+        "lon": 10.9174
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 528705"
+    ],
+    "rating": ""
+}

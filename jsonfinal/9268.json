@@ -1,0 +1,20 @@
+{
+    "name": "LA BARACCA",
+    "description": "",
+    "address": ", Via Fossanuova - 55016 Porcari (LU)",
+    "streetAddress": ", Via Fossanuova",
+    "postalCode": "55016",
+    "addressLocality": "Porcari",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.80704,
+        "lon": 10.6145
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 299788"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "L'OSTERIA S.A.S. DI LUIGI COPPOLA",
+    "description": "",
+    "address": "16/R, Via Lambertesca - 50122 Firenze (FI)",
+    "streetAddress": "16/R, Via Lambertesca",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76889,
+        "lon": 11.25439
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2740458",
+        "055 2654512"
+    ],
+    "rating": ""
+}

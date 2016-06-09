@@ -1,0 +1,20 @@
+{
+    "name": "LA RONDINELLA",
+    "description": "",
+    "address": "10, Via Luigi Paladini - 50053 Empoli (FI)",
+    "streetAddress": "10, Via Luigi Paladini",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71893,
+        "lon": 10.94834
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 79012"
+    ],
+    "rating": ""
+}

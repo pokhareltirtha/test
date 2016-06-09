@@ -1,0 +1,20 @@
+{
+    "name": "HOTEL STARHOTELS MICHELANGELO",
+    "description": "",
+    "address": "2, Viale Rosselli Fratelli - 50123 Firenze (FI)",
+    "streetAddress": "2, Viale Rosselli Fratelli",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77786,
+        "lon": 11.23947
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 27841"
+    ],
+    "rating": ""
+}

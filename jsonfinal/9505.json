@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DEL PESCE ROSSO",
+    "description": "",
+    "address": "14, Via Chiarenti Francesco - 50050 Montaione (FI)",
+    "streetAddress": "14, Via Chiarenti Francesco",
+    "postalCode": "50050",
+    "addressLocality": "Montaione",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.55311,
+        "lon": 10.91321
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 69010"
+    ],
+    "rating": "4.0"
+}

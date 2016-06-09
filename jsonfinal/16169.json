@@ -1,0 +1,20 @@
+{
+    "name": "STEFAN",
+    "description": "",
+    "address": "1190, Via Giacomo Puccini - 55016 Porcari (LU)",
+    "streetAddress": "1190, Via Giacomo Puccini",
+    "postalCode": "55016",
+    "addressLocality": "Porcari",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.83898,
+        "lon": 10.60643
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 297927"
+    ],
+    "rating": ""
+}

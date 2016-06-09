@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL PRATO DEI FIORENTINI",
+    "description": "Il Ristorante Il Prato dei Fiorentini di Casola Valsenio propone menù deliziosi a base di pesce, tartufo e non solo.",
+    "address": "22, V. Cardello - 48032 Casola Valsenio (RA)",
+    "streetAddress": "22, V. Cardello",
+    "postalCode": "48032",
+    "addressLocality": "Casola Valsenio",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.25525,
+        "lon": 11.65832
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 8548936",
+        "0546 70875"
+    ],
+    "rating": ""
+}

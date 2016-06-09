@@ -1,0 +1,21 @@
+{
+    "name": "PINETA",
+    "description": "",
+    "address": "Via Roma 80 - 40050 Loiano (BO)",
+    "streetAddress": "Via Roma 80",
+    "postalCode": "40050",
+    "addressLocality": "Loiano",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.26868,
+        "lon": 11.32303
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "051 6545392",
+        "051 6550183"
+    ],
+    "rating": ""
+}

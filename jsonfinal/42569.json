@@ -1,0 +1,20 @@
+{
+    "name": "NANNY E CAFFE' DI CATENI GIANNI",
+    "description": "",
+    "address": "165, Via IV Novembre - 51039 Quarrata (PT)",
+    "streetAddress": "165, Via IV Novembre",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87065,
+        "lon": 10.9933
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 717443"
+    ],
+    "rating": ""
+}

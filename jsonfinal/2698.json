@@ -1,0 +1,20 @@
+{
+    "name": "LA PINETA",
+    "description": "",
+    "address": "29, Localita Monteluco - 53013 Gaiole In Chianti (SI)",
+    "streetAddress": "29, Localita Monteluco",
+    "postalCode": "53013",
+    "addressLocality": "Gaiole In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.471,
+        "lon": 11.43285
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 734051"
+    ],
+    "rating": ""
+}

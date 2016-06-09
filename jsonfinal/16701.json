@@ -1,0 +1,20 @@
+{
+    "name": "LA FOCACCINA RISTORANTE PIZZERIA",
+    "description": "",
+    "address": "2, Piazza Magrini Giovanni - 51019 Ponte Buggianese (PT)",
+    "streetAddress": "2, Piazza Magrini Giovanni",
+    "postalCode": "51019",
+    "addressLocality": "Ponte Buggianese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83906,
+        "lon": 10.7483
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 635930"
+    ],
+    "rating": ""
+}

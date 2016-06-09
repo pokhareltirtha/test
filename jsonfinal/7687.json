@@ -1,0 +1,20 @@
+{
+    "name": "GORI MAURIZIO",
+    "description": "",
+    "address": "14, Piazza S. Agostino - 59100 Prato (PO)",
+    "streetAddress": "14, Piazza S. Agostino",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88397,
+        "lon": 11.09608
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 24893"
+    ],
+    "rating": ""
+}

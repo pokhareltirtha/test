@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL FOCOLARE DI BACCHI & MALATESTI S.N.C.",
+    "description": "",
+    "address": "32, Via Battisti Cesare - 50051 Castelfiorentino (FI)",
+    "streetAddress": "32, Via Battisti Cesare",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.60279,
+        "lon": 10.97133
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "347 2387615"
+    ],
+    "rating": ""
+}

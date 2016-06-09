@@ -1,0 +1,21 @@
+{
+    "name": "LA CARABACCIA",
+    "description": "",
+    "address": "190/R, Via Palazzuolo - 50123 Firenze (FI)",
+    "streetAddress": "190/R, Via Palazzuolo",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77507,
+        "lon": 11.24348
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 214782",
+        "055 213203"
+    ],
+    "rating": ""
+}

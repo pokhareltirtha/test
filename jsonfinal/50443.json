@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA IN",
+    "description": "A Santa Croce sull’Arno, la pizzeria d’asporto Pizza In di Ianniciello Mirco vi aspetta per farvi assaporare le sue ottime pizze per tutti i gusti.",
+    "address": "2, Vl. G. Di Vittorio - 56029 Santa Croce Sull'Arno (PI)",
+    "streetAddress": "2, Vl. G. Di Vittorio",
+    "postalCode": "56029",
+    "addressLocality": "Santa Croce Sull'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.71242,
+        "lon": 10.77413
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 35482"
+    ],
+    "rating": ""
+}

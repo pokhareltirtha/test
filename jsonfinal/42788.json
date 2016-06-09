@@ -1,0 +1,20 @@
+{
+    "name": "MYCHEF RONCOBILACCIO EST",
+    "description": "",
+    "address": ",,Autostrada A1 Firenze - 40035 Castiglione Dei Pepoli (BO)",
+    "streetAddress": ",  Autostrada A1 Firenze",
+    "postalCode": "40035",
+    "addressLocality": "Castiglione Dei Pepoli",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.11309,
+        "lon": 11.23036
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0534 97950"
+    ],
+    "rating": ""
+}

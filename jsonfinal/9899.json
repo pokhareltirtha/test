@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA IL BERNINO",
+    "description": "A Poggibonsi, in provincia di Siena, la pizzeria Il Bernino propone pizze per tutti i gusti, anche da asporto, e piatti tipici della tradizione toscana.",
+    "address": "Loc. Bernino - 53036 Poggibonsi (SI)",
+    "streetAddress": "Loc. Bernino",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.45862,
+        "lon": 11.16431
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "327 9467452",
+        "0577 938098"
+    ],
+    "rating": ""
+}

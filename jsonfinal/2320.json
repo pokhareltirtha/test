@@ -1,0 +1,21 @@
+{
+    "name": "DA GIANNI",
+    "description": "",
+    "address": "47, Via Di Barberino - 50041 Le Croci (FI)",
+    "streetAddress": "47, Via Di Barberino",
+    "postalCode": "50041",
+    "addressLocality": "Le Croci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.94573,
+        "lon": 11.21381
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "334 3245061",
+        "333 9424868"
+    ],
+    "rating": ""
+}

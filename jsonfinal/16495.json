@@ -1,0 +1,20 @@
+{
+    "name": "AGRITURISMO CASORELLE",
+    "description": "L'Agriturismo Borgo Casorelle offre 5 appartamenti e 2 ville in v. Casorelle - 51035 Lamporecchio (PT).",
+    "address": "11, V. Casorelle - 51035 Lamporecchio (PT)",
+    "streetAddress": "11, V. Casorelle",
+    "postalCode": "51035",
+    "addressLocality": "Lamporecchio",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.82603,
+        "lon": 10.90784
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "329 2087614"
+    ],
+    "rating": ""
+}

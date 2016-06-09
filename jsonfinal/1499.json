@@ -1,0 +1,20 @@
+{
+    "name": "PAOLI",
+    "description": "",
+    "address": "12, Via Dei Tavolini - 50122 Firenze",
+    "streetAddress": "12, Via Dei Tavolini",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "",
+    "coordinates": {
+        "lat": null,
+        "lon": null
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        ""
+    ],
+    "rating": ""
+}

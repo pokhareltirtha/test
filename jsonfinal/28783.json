@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DA LORIS",
+    "description": "Ristorante Da Loris, la nostra cucina, da oltre 60 anni sempre attenta ai desideri dei suoi ospiti a Pratovecchio Stia (AR) in loc. Palazzo 1.",
+    "address": "1, Loc. Palazzo - 52015 Pratovecchio Stia (AR)",
+    "streetAddress": "1, Loc. Palazzo",
+    "postalCode": "52015",
+    "addressLocality": "Pratovecchio Stia",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.81853,
+        "lon": 11.70949
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 583680"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA SPERA",
+    "description": "",
+    "address": "9, Via Della Cernaia - 50129 Firenze (FI)",
+    "streetAddress": "9, Via Della Cernaia",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78616,
+        "lon": 11.25429
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 495286"
+    ],
+    "rating": "4.3"
+}

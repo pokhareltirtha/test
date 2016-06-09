@@ -1,0 +1,22 @@
+{
+    "name": "LA FIAMMA",
+    "description": "",
+    "address": "77, Via Camillo Benso Di Cavour - 51011 Borgo A Buggiano (PT)",
+    "streetAddress": "77, Via Camillo Benso Di Cavour",
+    "postalCode": "51011",
+    "addressLocality": "Borgo A Buggiano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8789,
+        "lon": 10.73507
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 318116",
+        "338 4890954"
+    ],
+    "rating": ""
+}

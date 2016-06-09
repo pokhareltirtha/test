@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA BUONORA",
+    "description": "",
+    "address": "484, Via Della Chiesa - 55100 Stabbiano (LU)",
+    "streetAddress": "484, Via Della Chiesa",
+    "postalCode": "55100",
+    "addressLocality": "Stabbiano",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.84343,
+        "lon": 10.55565
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 356003"
+    ],
+    "rating": ""
+}

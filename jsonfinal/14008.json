@@ -1,0 +1,21 @@
+{
+    "name": "ORIGINALI SRL",
+    "description": "",
+    "address": "38, Via Antognoli Adolfo - 50127 Firenze (FI)",
+    "streetAddress": "38, Via Antognoli Adolfo",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79865,
+        "lon": 11.23535
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 412784",
+        "055 4360085"
+    ],
+    "rating": ""
+}

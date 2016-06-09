@@ -1,0 +1,21 @@
+{
+    "name": "EBE",
+    "description": "",
+    "address": "1/A, Via Le Mozzette - 50037 San Piero A Sieve (FI)",
+    "streetAddress": "1/A, Via Le Mozzette",
+    "postalCode": "50037",
+    "addressLocality": "San Piero A Sieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.96414,
+        "lon": 11.32708
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 848019",
+        "055 8498333"
+    ],
+    "rating": ""
+}

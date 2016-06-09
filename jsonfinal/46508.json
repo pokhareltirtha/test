@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA ROSTICCERIA DA GIANNI SNC",
+    "description": "",
+    "address": "2, Via Amendola - 50055 Lastra A Signa (FI)",
+    "streetAddress": "2, Via Amendola",
+    "postalCode": "50055",
+    "addressLocality": "Lastra A Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77003,
+        "lon": 11.11326
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8722446"
+    ],
+    "rating": ""
+}

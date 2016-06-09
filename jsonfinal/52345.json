@@ -1,0 +1,20 @@
+{
+    "name": "NEW STEFY 2",
+    "description": "",
+    "address": "242, Via Comunale Tiglio - 55012 Capannori (LU)",
+    "streetAddress": "242, Via Comunale Tiglio",
+    "postalCode": "55012",
+    "addressLocality": "Capannori",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81441,
+        "lon": 10.56258
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 983230"
+    ],
+    "rating": ""
+}

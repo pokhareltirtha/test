@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA RISTORANTE NAPUL'E'",
+    "description": "",
+    "address": "Via Negri 25 - 59100 Prato (PO)",
+    "streetAddress": "Via Negri 25",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.89302,
+        "lon": 11.10262
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 693075"
+    ],
+    "rating": ""
+}

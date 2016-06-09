@@ -1,0 +1,21 @@
+{
+    "name": "LA TAVERNA DEI RIONI",
+    "description": "Ristorante con locale rinnovato che offre piatti tipici della cucina romagnola.",
+    "address": "11, V. Largo Ghetti - 47019 Tredozio (FC)",
+    "streetAddress": "11, V. Largo Ghetti",
+    "postalCode": "47019",
+    "addressLocality": "Tredozio",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.07867,
+        "lon": 11.74348
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0546 943932"
+    ],
+    "rating": ""
+}

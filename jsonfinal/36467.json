@@ -1,0 +1,20 @@
+{
+    "name": "TIGI S.R.L.",
+    "description": "",
+    "address": "1, Borgo Del Monastero - 50067 Rignano Sull'Arno (FI)",
+    "streetAddress": "1, Borgo Del Monastero",
+    "postalCode": "50067",
+    "addressLocality": "Rignano Sull'Arno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76985,
+        "lon": 11.422
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8303127"
+    ],
+    "rating": ""
+}

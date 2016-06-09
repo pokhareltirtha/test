@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA TANALIBERATUTTI",
+    "description": "",
+    "address": "40, Via Cassia Nord - 53035 Castellina Scalo Abate (SI)",
+    "streetAddress": "40, Via Cassia Nord",
+    "postalCode": "53035",
+    "addressLocality": "Castellina Scalo Abate",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.40502,
+        "lon": 11.21078
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 50408"
+    ],
+    "rating": ""
+}

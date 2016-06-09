@@ -1,0 +1,20 @@
+{
+    "name": "FIORAVANTE NAZZARENO",
+    "description": "",
+    "address": "56, Via Dell' Unita' - 51015 Monsummano Terme (PT)",
+    "streetAddress": "56, Via Dell' Unita'",
+    "postalCode": "51015",
+    "addressLocality": "Monsummano Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86913,
+        "lon": 10.81229
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 51515"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA E GODI",
+    "description": "",
+    "address": "63, Via Due Giugno - 56028 Ponte A Elsa (FI)",
+    "streetAddress": "63, Via Due Giugno",
+    "postalCode": "56028",
+    "addressLocality": "Ponte A Elsa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.68986,
+        "lon": 10.89692
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 932124"
+    ],
+    "rating": ""
+}

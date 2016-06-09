@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL PORCELLINO",
+    "description": "",
+    "address": "16, Vicolo Delle Prigioni - 56048 Volterra (PI)",
+    "streetAddress": "16, Vicolo Delle Prigioni",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40202,
+        "lon": 10.8603
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 86392"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ALBERGO MUSOLESI",
+    "description": "",
+    "address": "3, Piazza Madonna Della Neve - 40048 Madonna Dei Fornelli (BO)",
+    "streetAddress": "3, Piazza Madonna Della Neve",
+    "postalCode": "40048",
+    "addressLocality": "Madonna Dei Fornelli",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.20039,
+        "lon": 11.26047
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0534 94100",
+        "0534 94156"
+    ],
+    "rating": ""
+}

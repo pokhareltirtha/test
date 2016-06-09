@@ -1,0 +1,21 @@
+{
+    "name": "TRATTORIA DI BORGO",
+    "description": "Il ristorante pizzeria di Greve in Chianti che propone piatti tipici toscani e prelibate pizze a lievitazione naturale.",
+    "address": "5, V. Giuliotti - 50022 Greve In Chianti (FI)",
+    "streetAddress": "5, V. Giuliotti",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58365,
+        "lon": 11.31587
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "320 0731455"
+    ],
+    "rating": "5.0"
+}

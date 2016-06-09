@@ -1,0 +1,20 @@
+{
+    "name": "OVERGLASS RISTORANTE srl",
+    "description": "Colazioni, quality lunch, happy hour, menú giornaliero e musica a Scandicci (FI).",
+    "address": "2/C, Pl. Resistenza - 50018 Scandicci (FI)",
+    "streetAddress": "2/C, Pl. Resistenza",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75839,
+        "lon": 11.18137
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 7356825"
+    ],
+    "rating": ""
+}

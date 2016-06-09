@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA PIU' DI VITI ANDREA",
+    "description": "",
+    "address": "25, Via Borgo Delle Vittorie - 51017 Pescia (PT)",
+    "streetAddress": "25, Via Borgo Delle Vittorie",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90155,
+        "lon": 10.68802
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 478441"
+    ],
+    "rating": ""
+}

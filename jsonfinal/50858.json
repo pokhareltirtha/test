@@ -1,0 +1,20 @@
+{
+    "name": "CORTE NUOVA",
+    "description": "",
+    "address": "12, Via Fontanelle - 56020 Montopoli In Val D'Arno (PI)",
+    "streetAddress": "12, Via Fontanelle",
+    "postalCode": "56020",
+    "addressLocality": "Montopoli In Val D'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68373,
+        "lon": 10.73981
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 467914"
+    ],
+    "rating": ""
+}

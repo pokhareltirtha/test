@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA RISTORANTE MAGGIE",
+    "description": "Pizzeria, ristorante a Prato. Gusto e qualità per offrirvi un tripudio di prelibatezze nel rispetto della tradizione.",
+    "address": "519, V. Bologna - 59100 Prato (PO)",
+    "streetAddress": "519, V. Bologna",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.90742,
+        "lon": 11.11594
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 460493"
+    ],
+    "rating": ""
+}

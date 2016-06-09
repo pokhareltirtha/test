@@ -1,0 +1,20 @@
+{
+    "name": "ROOM SERVICE DI BORLANDI STEFANO E C. SAS",
+    "description": "",
+    "address": "110, Via Di Ripoli - 50126 Firenze (FI)",
+    "streetAddress": "110, Via Di Ripoli",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7557,
+        "lon": 11.29604
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6800460"
+    ],
+    "rating": ""
+}

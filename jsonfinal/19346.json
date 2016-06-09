@@ -1,0 +1,21 @@
+{
+    "name": "FANTASIA",
+    "description": "",
+    "address": "12, Via San Giuseppe - 50122 Firenze (FI)",
+    "streetAddress": "12, Via San Giuseppe",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76819,
+        "lon": 11.26447
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2343533",
+        "055 243045"
+    ],
+    "rating": ""
+}

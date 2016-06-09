@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA CHIMIAMA DI CARUSO VINCENZO",
+    "description": "",
+    "address": "1, Piazza Di Santa Trinita - 50123 Firenze (FI)",
+    "streetAddress": "1, Piazza Di Santa Trinita",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77017,
+        "lon": 11.25126
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 219845"
+    ],
+    "rating": ""
+}

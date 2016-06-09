@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LO STRETTOIO",
+    "description": "A Laterina (AR) ristorante tipico immerso nel verde della pineta, locale adatto per bambini e famiglie.",
+    "address": "7, Loc. Pian Di Chena - 52020 Laterina (AR)",
+    "streetAddress": "7, Loc. Pian Di Chena",
+    "postalCode": "52020",
+    "addressLocality": "Laterina",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.51027,
+        "lon": 11.67214
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0575 89161"
+    ],
+    "rating": ""
+}

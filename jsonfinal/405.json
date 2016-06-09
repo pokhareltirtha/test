@@ -1,0 +1,21 @@
+{
+    "name": "FIN - RESTAURANT S.R.L.",
+    "description": "",
+    "address": "34, Via Del Cavallaccio - 50142 Firenze (FI)",
+    "streetAddress": "34, Via Del Cavallaccio",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77354,
+        "lon": 11.1904
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 7331267",
+        "055 7877793"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ANTICA TORRE",
+    "description": "",
+    "address": "15, Piazza Giacomo Matteotti - 59015 Carmignano (PO)",
+    "streetAddress": "15, Piazza Giacomo Matteotti",
+    "postalCode": "59015",
+    "addressLocality": "Carmignano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.81394,
+        "lon": 11.01852
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 0935505"
+    ],
+    "rating": ""
+}

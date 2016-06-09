@@ -1,0 +1,21 @@
+{
+    "name": "LE BARBATE SRL",
+    "description": "",
+    "address": "18, Via Provinciale Romanina - 56020 Montopoli In Val D'Arno (PI)",
+    "streetAddress": "18, Via Provinciale Romanina",
+    "postalCode": "56020",
+    "addressLocality": "Montopoli In Val D'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68138,
+        "lon": 10.72986
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 468256",
+        "0571 468737"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA BAR IL GIARDINETTO",
+    "description": "Siamo a Capannori in provincia di Lucca dove potrai fare una buona colazione o una cena a base di pesce.",
+    "address": "1, V. Ronchi - 55062 Colle Di Compito (LU)",
+    "streetAddress": "1, V. Ronchi",
+    "postalCode": "55062",
+    "addressLocality": "Colle Di Compito",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.77256,
+        "lon": 10.60193
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 979032"
+    ],
+    "rating": ""
+}

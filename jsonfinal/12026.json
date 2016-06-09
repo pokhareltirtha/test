@@ -1,0 +1,20 @@
+{
+    "name": "PORTA A PRATO S.R.L.",
+    "description": "",
+    "address": "245, Viale Della Repubblica - 59100 Prato (PO)",
+    "streetAddress": "245, Viale Della Repubblica",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86189,
+        "lon": 11.10878
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "348 6636852"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "DONCHISCIOTTE",
+    "description": "",
+    "address": "20, Via Del Lago - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "20, Via Del Lago",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.98125,
+        "lon": 11.21528
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8420895"
+    ],
+    "rating": ""
+}

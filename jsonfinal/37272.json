@@ -1,0 +1,21 @@
+{
+    "name": "CENTRALE",
+    "description": "",
+    "address": "1, Piazza Cimatori - 50122 Firenze (FI)",
+    "streetAddress": "1, Piazza Cimatori",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77092,
+        "lon": 11.2562
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 214125",
+        "055 211915"
+    ],
+    "rating": "4.2"
+}

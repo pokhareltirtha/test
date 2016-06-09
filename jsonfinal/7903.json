@@ -1,0 +1,20 @@
+{
+    "name": "IL PINONE",
+    "description": "",
+    "address": "16, Via Montalbano - 59015 Carmignano (PO)",
+    "streetAddress": "16, Via Montalbano",
+    "postalCode": "59015",
+    "addressLocality": "Carmignano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.79018,
+        "lon": 11.00386
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8712094"
+    ],
+    "rating": ""
+}

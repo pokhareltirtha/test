@@ -1,0 +1,20 @@
+{
+    "name": "CASUAL FOOD SAS DI PAOLO ONZINI",
+    "description": "",
+    "address": "42/R, Via Sella Quintino - 50136 Firenze (FI)",
+    "streetAddress": "42/R, Via Sella Quintino",
+    "postalCode": "50136",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76691,
+        "lon": 11.28186
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 668553"
+    ],
+    "rating": ""
+}

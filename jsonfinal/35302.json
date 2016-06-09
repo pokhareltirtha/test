@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA SAN PIERO",
+    "description": "",
+    "address": "5, Piazzetta De Chambray Digny - 50037 Scarperia E San Piero (FI)",
+    "streetAddress": "5, Piazzetta De Chambray Digny",
+    "postalCode": "50037",
+    "addressLocality": "Scarperia E San Piero",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.99537,
+        "lon": 11.35611
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8487109"
+    ],
+    "rating": ""
+}

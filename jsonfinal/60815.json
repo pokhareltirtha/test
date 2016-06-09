@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA KETY",
+    "description": "",
+    "address": "8, Via Guido Virgilio - 56029 Santa Croce Sull'Arno (PI)",
+    "streetAddress": "8, Via Guido Virgilio",
+    "postalCode": "56029",
+    "addressLocality": "Santa Croce Sull'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.71052,
+        "lon": 10.78383
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 30827"
+    ],
+    "rating": ""
+}

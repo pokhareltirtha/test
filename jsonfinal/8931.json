@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA LA ROCCA",
+    "description": "",
+    "address": ", Via Provinciale Francesca Nord - 56010 Vicopisano (PI)",
+    "streetAddress": ", Via Provinciale Francesca Nord",
+    "postalCode": "56010",
+    "addressLocality": "Vicopisano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70184,
+        "lon": 10.59656
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 799794"
+    ],
+    "rating": "5.0"
+}

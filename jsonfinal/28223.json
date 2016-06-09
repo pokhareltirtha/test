@@ -1,0 +1,21 @@
+{
+    "name": "NEVOSI NIVES",
+    "description": "",
+    "address": "1/5, Via Roma - 40050 Loiano (BO)",
+    "streetAddress": "1/5, Via Roma",
+    "postalCode": "40050",
+    "addressLocality": "Loiano",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.26614,
+        "lon": 11.32479
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "335 8018256",
+        "051 8018256"
+    ],
+    "rating": ""
+}

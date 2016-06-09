@@ -1,0 +1,21 @@
+{
+    "name": "GASPA S.R.L.",
+    "description": "",
+    "address": "26/R, Via Palmieri Matteo - 50122 Firenze (FI)",
+    "streetAddress": "26/R, Via Palmieri Matteo",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7711,
+        "lon": 11.26119
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2009420",
+        "055 2638763"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LIME'ON AMERICAN WINE BAR & RESTAURANT",
+    "description": "",
+    "address": "Corso Giacomo Matteotti - 56025 Pontedera (PI)",
+    "streetAddress": "Corso Giacomo Matteotti",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66379,
+        "lon": 10.6379
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "340 9996770"
+    ],
+    "rating": ""
+}

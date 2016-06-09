@@ -1,0 +1,21 @@
+{
+    "name": "GRANDUCATO SRL",
+    "description": "",
+    "address": "211, Via Braga G. - 59021 Vaiano (PO)",
+    "streetAddress": "211, Via Braga G.",
+    "postalCode": "59021",
+    "addressLocality": "Vaiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.97028,
+        "lon": 11.1239
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 994319",
+        "0574 946165"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL CAMPANILE",
+    "description": "",
+    "address": "7, Via Giuseppe Giusti - 51017 Pescia (PT)",
+    "streetAddress": "7, Via Giuseppe Giusti",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90047,
+        "lon": 10.69204
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 495169"
+    ],
+    "rating": ""
+}

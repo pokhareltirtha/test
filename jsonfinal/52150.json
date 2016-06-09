@@ -1,0 +1,20 @@
+{
+    "name": "BAR MAGNOLIA",
+    "description": "Bar Magnolia, un caffè o un aperitivo in compagnia di amici simpatici in un locale piacevole a Pistoia.",
+    "address": "44/46, V. Montalbano - 51100 Masiano (PT)",
+    "streetAddress": "44/46, V. Montalbano",
+    "postalCode": "51100",
+    "addressLocality": "Masiano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89736,
+        "lon": 10.91778
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 381656"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "CIRI BE'",
+    "description": "",
+    "address": "164, Via Forlanini Enrico - 50127 Firenze (FI)",
+    "streetAddress": "164, Via Forlanini Enrico",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79313,
+        "lon": 11.23386
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 432623"
+    ],
+    "rating": ""
+}

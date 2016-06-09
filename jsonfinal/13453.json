@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA RODOLFO DI BASAGNI PATRIZIA",
+    "description": "",
+    "address": "21, Via F.Lli Rosselli - 50063 Incisa In Val D'Arno (FI)",
+    "streetAddress": "21, Via F.Lli Rosselli",
+    "postalCode": "50063",
+    "addressLocality": "Incisa In Val D'Arno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.65377,
+        "lon": 11.45109
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8335785"
+    ],
+    "rating": ""
+}

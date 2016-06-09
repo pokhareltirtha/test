@@ -1,0 +1,20 @@
+{
+    "name": "AL TRANVAI S.A.S.",
+    "description": "",
+    "address": "14/R, Piazza Tasso Torquato - 50124 Firenze (FI)",
+    "streetAddress": "14/R, Piazza Tasso Torquato",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76702,
+        "lon": 11.24143
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 225197"
+    ],
+    "rating": "4.0"
+}

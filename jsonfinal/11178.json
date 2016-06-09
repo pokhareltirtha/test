@@ -1,0 +1,20 @@
+{
+    "name": "ZETAPOINT",
+    "description": "",
+    "address": ", Via Di Maratona - 51016 Montecatini Terme (PT)",
+    "streetAddress": ", Via Di Maratona",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88457,
+        "lon": 10.76115
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 636665"
+    ],
+    "rating": ""
+}

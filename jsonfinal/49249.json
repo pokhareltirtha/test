@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA IN PIAZZA DI CROCI CINZIA",
+    "description": "",
+    "address": "14, Piazza Vittorio Veneto - 56020 Montopoli In Val D'Arno (PI)",
+    "streetAddress": "14, Piazza Vittorio Veneto",
+    "postalCode": "56020",
+    "addressLocality": "Montopoli In Val D'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.6774,
+        "lon": 10.73629
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 467003"
+    ],
+    "rating": ""
+}

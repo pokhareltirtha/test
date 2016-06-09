@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL VECCIOLINO",
+    "description": "Tortelli, pappardelle, penne al ragù, ribollita e tutte le specialità della cucina toscana, vi aspettano a Sesto Fiorentino (FI).",
+    "address": "1, V. Colli Alti (Loc. Monte Morello) - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "1, V. Colli Alti (Loc. Monte Morello)",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.88734,
+        "lon": 11.26679
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4481694"
+    ],
+    "rating": "3.3"
+}

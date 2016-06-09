@@ -1,0 +1,20 @@
+{
+    "name": "CARO AMICO SNC",
+    "description": "",
+    "address": "21, Strada Della Villa - 53035 Monteriggioni (SI)",
+    "streetAddress": "21, Strada Della Villa",
+    "postalCode": "53035",
+    "addressLocality": "Monteriggioni",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.34584,
+        "lon": 11.24589
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 318838"
+    ],
+    "rating": ""
+}

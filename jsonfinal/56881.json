@@ -1,0 +1,20 @@
+{
+    "name": "PATRIZIA",
+    "description": "",
+    "address": "73, Piazza Antonio Gramsci - 50051 Castelfiorentino (FI)",
+    "streetAddress": "73, Piazza Antonio Gramsci",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.60645,
+        "lon": 10.9697
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 64740"
+    ],
+    "rating": "5.0"
+}

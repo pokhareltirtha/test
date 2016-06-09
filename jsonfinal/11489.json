@@ -1,0 +1,21 @@
+{
+    "name": "RISTEMA S.R.L.",
+    "description": "",
+    "address": "214, Viale Montegrappa - 59100 Prato (PO)",
+    "streetAddress": "214, Viale Montegrappa",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.872,
+        "lon": 11.10936
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 512323",
+        "0574 537959"
+    ],
+    "rating": ""
+}

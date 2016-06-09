@@ -1,0 +1,20 @@
+{
+    "name": "IL PIACERE",
+    "description": "",
+    "address": "149, Via Gabriele D Annunzio - 50135 Firenze (FI)",
+    "streetAddress": "149, Via Gabriele D Annunzio",
+    "postalCode": "50135",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78179,
+        "lon": 11.30918
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 602605"
+    ],
+    "rating": "4.0"
+}

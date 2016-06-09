@@ -1,0 +1,21 @@
+{
+    "name": "POGGIO ROSSO",
+    "description": "",
+    "address": "Localita San Felice - 53019 San Felice (SI)",
+    "streetAddress": "Localita San Felice",
+    "postalCode": "53019",
+    "addressLocality": "San Felice",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.38859,
+        "lon": 11.45752
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 3964",
+        "0577 359089"
+    ],
+    "rating": ""
+}

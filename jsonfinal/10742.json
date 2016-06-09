@@ -1,0 +1,20 @@
+{
+    "name": "C'EST LA VIE DI GIANCARLO BINI SAS",
+    "description": "",
+    "address": "3, Via D'Angela Attilio - 51100 Pistoia (PT)",
+    "streetAddress": "3, Via D'Angela Attilio",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89355,
+        "lon": 10.96131
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 946354"
+    ],
+    "rating": ""
+}

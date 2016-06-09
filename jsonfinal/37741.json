@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE I CORTI",
+    "description": "",
+    "address": "136, Piazza Mercatale - 59100 Prato (PO)",
+    "streetAddress": "136, Piazza Mercatale",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87935,
+        "lon": 11.10273
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 606082"
+    ],
+    "rating": ""
+}

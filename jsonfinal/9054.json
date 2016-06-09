@@ -1,0 +1,21 @@
+{
+    "name": "ENOTECA IL CANTUCCIO",
+    "description": "",
+    "address": "46/C, Via Galcianese - 59100 Prato (PO)",
+    "streetAddress": "46/C, Via Galcianese",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88073,
+        "lon": 11.07186
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 607331",
+        "0574 404126"
+    ],
+    "rating": ""
+}

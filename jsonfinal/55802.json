@@ -1,0 +1,21 @@
+{
+    "name": "CHALET LA PINETA",
+    "description": "",
+    "address": "618, Via Dei Condotti - 50036 Bivigliano (FI)",
+    "streetAddress": "618, Via Dei Condotti",
+    "postalCode": "50036",
+    "addressLocality": "Bivigliano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.889,
+        "lon": 11.32513
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "338 5967546",
+        "055 406850"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE GIAPPONESE ZEN",
+    "description": "Il ristorante a Pistoia che offre cucina tipica giapponese con piatti anche da asporto e consegna a domicilio.",
+    "address": "64, V. Dalmazia - 51100 Pistoia (PT)",
+    "streetAddress": "64, V. Dalmazia",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93806,
+        "lon": 10.91033
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 1941664"
+    ],
+    "rating": ""
+}

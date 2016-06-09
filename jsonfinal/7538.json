@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA CASTAGNA",
+    "description": "",
+    "address": "7, Via Di Migliana - 59025 Il Fabbro (PO)",
+    "streetAddress": "7, Via Di Migliana",
+    "postalCode": "59025",
+    "addressLocality": "Il Fabbro",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.98498,
+        "lon": 11.12148
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 981791"
+    ],
+    "rating": ""
+}

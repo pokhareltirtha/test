@@ -1,0 +1,21 @@
+{
+    "name": "D'ANTONIO DI VALLINI STEFANO",
+    "description": "",
+    "address": "161, Via Provinciale Le Vicarese - 56010 Lugnano (PI)",
+    "streetAddress": "161, Via Provinciale Le Vicarese",
+    "postalCode": "56010",
+    "addressLocality": "Lugnano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68519,
+        "lon": 10.59881
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 710430",
+        "050 702001"
+    ],
+    "rating": "4.0"
+}

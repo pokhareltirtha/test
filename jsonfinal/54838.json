@@ -1,0 +1,20 @@
+{
+    "name": "UMBRA",
+    "description": "",
+    "address": "23, Piazza Giacomo Matteotti - 50018 Scandicci (FI)",
+    "streetAddress": "23, Piazza Giacomo Matteotti",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75342,
+        "lon": 11.19004
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 253037"
+    ],
+    "rating": ""
+}

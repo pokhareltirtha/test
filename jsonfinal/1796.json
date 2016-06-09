@@ -1,0 +1,22 @@
+{
+    "name": "BREK - PISTOIA",
+    "description": "",
+    "address": "15, Via Bartolomeo Sestini - 51100 Pontenuovo (PT)",
+    "streetAddress": "15, Via Bartolomeo Sestini",
+    "postalCode": "51100",
+    "addressLocality": "Pontenuovo",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94163,
+        "lon": 10.95329
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 452752",
+        "0573 964562"
+    ],
+    "rating": ""
+}

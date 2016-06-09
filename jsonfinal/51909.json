@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA MORDI E FUGGI",
+    "description": "",
+    "address": "243, Via Tosco Romagnola - 56012 Fornacette (PI)",
+    "streetAddress": "243, Via Tosco Romagnola",
+    "postalCode": "56012",
+    "addressLocality": "Fornacette",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67041,
+        "lon": 10.57908
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 422051"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "CASA DEL PROSCIUTTO",
+    "description": "",
+    "address": "58, Via Dei Bosconi - 50014 Fiesole (FI)",
+    "streetAddress": "58, Via Dei Bosconi",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85535,
+        "lon": 11.34153
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 548830"
+    ],
+    "rating": "5.0"
+}

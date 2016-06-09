@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA FRENZEN",
+    "description": "",
+    "address": "6/A, Via Toscana - 50052 Certaldo (FI)",
+    "streetAddress": "6/A, Via Toscana",
+    "postalCode": "50052",
+    "addressLocality": "Certaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.55918,
+        "lon": 11.03103
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 663542"
+    ],
+    "rating": ""
+}

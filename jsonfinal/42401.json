@@ -1,0 +1,20 @@
+{
+    "name": "BASSETTO",
+    "description": "",
+    "address": "102, Via Delle Citta' - 50052 Certaldo (FI)",
+    "streetAddress": "102, Via Delle Citta'",
+    "postalCode": "50052",
+    "addressLocality": "Certaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.53082,
+        "lon": 11.06155
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 664736"
+    ],
+    "rating": ""
+}

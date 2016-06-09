@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PORTO DI MARE- ESKIMO",
+    "description": "Il ristorante pizzeria di Firenze che propone piatti tipici della cucina italiana e mediterranea, gustose pizze e particolari specialità medievali.",
+    "address": "128, V. Pisana - 50143 Firenze (FI)",
+    "streetAddress": "128, V. Pisana",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76471,
+        "lon": 11.18203
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 712034",
+        "338 6409196"
+    ],
+    "rating": ""
+}

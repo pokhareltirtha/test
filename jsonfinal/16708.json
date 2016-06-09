@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE VILLA GARZONI",
+    "description": "",
+    "address": "1, Piazza Della Vittoria - 51012 Collodi (PT)",
+    "streetAddress": "1, Piazza Della Vittoria",
+    "postalCode": "51012",
+    "addressLocality": "Collodi",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89998,
+        "lon": 10.65331
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 428545"
+    ],
+    "rating": ""
+}

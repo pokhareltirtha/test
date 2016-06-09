@@ -1,0 +1,20 @@
+{
+    "name": "HOSTARIA IL DESCO",
+    "description": "",
+    "address": "23, Via Delle Terme - 50123 Firenze (FI)",
+    "streetAddress": "23, Via Delle Terme",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76992,
+        "lon": 11.25251
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 294882"
+    ],
+    "rating": "5.0"
+}

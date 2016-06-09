@@ -1,0 +1,20 @@
+{
+    "name": "VILLA SAN MICHELE",
+    "description": "",
+    "address": "42, Via Casole - 50022 Greve In Chianti (FI)",
+    "streetAddress": "42, Via Casole",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58573,
+        "lon": 11.31525
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 851034"
+    ],
+    "rating": ""
+}

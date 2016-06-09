@@ -1,0 +1,22 @@
+{
+    "name": "IL GATTO E LA VOLPE",
+    "description": "",
+    "address": "151, Via Ghibellina - 50122 Firenze (FI)",
+    "streetAddress": "151, Via Ghibellina",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77059,
+        "lon": 11.25834
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 289264",
+        "055 0125186"
+    ],
+    "rating": "4.5"
+}

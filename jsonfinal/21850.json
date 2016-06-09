@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LAGO DI LEGRI",
+    "description": "A Calenzano (FI) in 31, v. Legri trovi il Ristorante Lago Di Legri dove puoi  gustare una cucina tipica Toscana.",
+    "address": "31, V. Legri - 50041 Calenzano (FI)",
+    "streetAddress": "31, V. Legri",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.90806,
+        "lon": 11.216
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8819085"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LARGO GALEFFI 1",
+    "description": "",
+    "address": "1, Lg. Galeffi - 52025 Montevarchi (AR)",
+    "streetAddress": "1, Lg. Galeffi",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.5261,
+        "lon": 11.56523
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9850384"
+    ],
+    "rating": ""
+}

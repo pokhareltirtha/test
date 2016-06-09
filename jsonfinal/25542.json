@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE SAHARA DI SAIDI HASSEN",
+    "description": "",
+    "address": "60, Via Del Can Bianco - 51100 Pistoia (PT)",
+    "streetAddress": "60, Via Del Can Bianco",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9311,
+        "lon": 10.91887
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 27473"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA LE VEDUTE",
+    "description": "Ambiente accogliente per gustare ottime specialità toscane di produzione propria, a Fucecchio.",
+    "address": "121, V. Romana Lucchese - 50054 Fucecchio (FI)",
+    "streetAddress": "121, V. Romana Lucchese",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75703,
+        "lon": 10.75516
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 297008",
+        "329 5424902"
+    ],
+    "rating": ""
+}

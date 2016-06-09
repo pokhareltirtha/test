@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA SPAGHETTERIA",
+    "description": "",
+    "address": "173, V. Pistoiese - 50058 Signa (FI)",
+    "streetAddress": "173, V. Pistoiese",
+    "postalCode": "50058",
+    "addressLocality": "Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80581,
+        "lon": 11.11717
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8997584"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LA NUOVA CINA",
+    "description": "",
+    "address": "125, Corso Matteotti Giacomo - 51016 Montecatini Terme (PT)",
+    "streetAddress": "125, Corso Matteotti Giacomo",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88061,
+        "lon": 10.77827
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 73795"
+    ],
+    "rating": ""
+}

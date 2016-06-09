@@ -1,0 +1,20 @@
+{
+    "name": "MANGIAFUOCO",
+    "description": "",
+    "address": "24, Via Guelfa - 50129 Firenze (FI)",
+    "streetAddress": "24, Via Guelfa",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77746,
+        "lon": 11.25529
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 219201"
+    ],
+    "rating": ""
+}

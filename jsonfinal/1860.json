@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA DEL CONTADINO",
+    "description": "",
+    "address": "58, Via Provinciale Pratese - 51031 Agliana (PT)",
+    "streetAddress": "58, Via Provinciale Pratese",
+    "postalCode": "51031",
+    "addressLocality": "Agliana",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.91744,
+        "lon": 10.99335
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 718450"
+    ],
+    "rating": ""
+}

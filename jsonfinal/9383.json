@@ -1,0 +1,21 @@
+{
+    "name": "IL DISCEPOLO",
+    "description": "",
+    "address": "56, Viale Fedele Fedeli - 51016 Montecatini Terme (PT)",
+    "streetAddress": "56, Viale Fedele Fedeli",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89392,
+        "lon": 10.7779
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 78541"
+    ],
+    "rating": ""
+}

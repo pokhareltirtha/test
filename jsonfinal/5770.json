@@ -1,0 +1,20 @@
+{
+    "name": "DECO'",
+    "description": "",
+    "address": "50, Via Carradori Giovacchino - 59100 Prato (PO)",
+    "streetAddress": "50, Via Carradori Giovacchino",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87728,
+        "lon": 11.09162
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 42834"
+    ],
+    "rating": ""
+}

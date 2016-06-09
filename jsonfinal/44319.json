@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL CASOLARE",
+    "description": "Ristorante Il Casolare dove assaporare menù stagionali e regionali, degustare ottimi vini in un ambiente cordiale a Marradi (FI) in loc. Figacciolo.",
+    "address": "55/A, Loc. Figacciolo - 50034 Marradi (FI)",
+    "streetAddress": "55/A, Loc. Figacciolo",
+    "postalCode": "50034",
+    "addressLocality": "Marradi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.09103,
+        "lon": 11.62663
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8044380",
+        "338 1281651"
+    ],
+    "rating": ""
+}

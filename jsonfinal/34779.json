@@ -1,0 +1,20 @@
+{
+    "name": "AURORA RISTORANTE - FIESOLE",
+    "description": "",
+    "address": "Piazza Mino Da Fiesole 39/A - 50014 Fiesole (FI)",
+    "streetAddress": "Piazza Mino Da Fiesole 39/A",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80697,
+        "lon": 11.29221
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 599020"
+    ],
+    "rating": ""
+}

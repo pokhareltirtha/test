@@ -1,0 +1,20 @@
+{
+    "name": "NYX",
+    "description": "",
+    "address": "8, Via Imprunetana Per Tavarnuzze - 50023 Impruneta (FI)",
+    "streetAddress": "8, Via Imprunetana Per Tavarnuzze",
+    "postalCode": "50023",
+    "addressLocality": "Impruneta",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.6899,
+        "lon": 11.24581
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2312262"
+    ],
+    "rating": ""
+}

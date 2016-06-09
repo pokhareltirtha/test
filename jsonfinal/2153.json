@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE CINESE-PIZZERIA TESORO S.A.S. DI HU XIAOQIONG & C.",
+    "description": "",
+    "address": "488, Via Ferrucci Francesco - 59100 Prato (PO)",
+    "streetAddress": "488, Via Ferrucci Francesco",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86306,
+        "lon": 11.11816
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 581977",
+        "335 5864075"
+    ],
+    "rating": "5.0"
+}

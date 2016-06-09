@@ -1,0 +1,20 @@
+{
+    "name": "LA POSTA",
+    "description": "",
+    "address": "8, Via Roma - 50053 Empoli (FI)",
+    "streetAddress": "8, Via Roma",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71941,
+        "lon": 10.94889
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 74279"
+    ],
+    "rating": ""
+}

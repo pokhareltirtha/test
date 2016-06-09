@@ -1,0 +1,20 @@
+{
+    "name": "ENOTECA FUORI PIAZZA",
+    "description": "",
+    "address": "2, Via Primo Maggio - 50022 Greve In Chianti (FI)",
+    "streetAddress": "2, Via Primo Maggio",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.5844,
+        "lon": 11.31526
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8546313"
+    ],
+    "rating": ""
+}

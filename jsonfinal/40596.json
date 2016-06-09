@@ -1,0 +1,20 @@
+{
+    "name": "QUAGLI GIACOMO",
+    "description": "",
+    "address": "81, Via San Miniatese - 50054 Fucecchio (FI)",
+    "streetAddress": "81, Via San Miniatese",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71515,
+        "lon": 10.81535
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 940581"
+    ],
+    "rating": ""
+}

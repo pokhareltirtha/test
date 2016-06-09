@@ -1,0 +1,20 @@
+{
+    "name": "LA PACE",
+    "description": "",
+    "address": "16, Piazza Giuseppe Garibaldi - 47017 Rocca San Casciano (FC)",
+    "streetAddress": "16, Piazza Giuseppe Garibaldi",
+    "postalCode": "47017",
+    "addressLocality": "Rocca San Casciano",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.06017,
+        "lon": 11.84264
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0543 951344"
+    ],
+    "rating": ""
+}

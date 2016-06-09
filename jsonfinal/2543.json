@@ -1,0 +1,22 @@
+{
+    "name": "RISTORANTE PIZZERIA L'ORCO",
+    "description": "",
+    "address": "1, Via Dei Cipressi - 53036 Poggibonsi (SI)",
+    "streetAddress": "1, Via Dei Cipressi",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46691,
+        "lon": 11.14062
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 936396",
+        "0577 939186"
+    ],
+    "rating": ""
+}

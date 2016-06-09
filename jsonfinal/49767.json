@@ -1,0 +1,20 @@
+{
+    "name": "RUNNER PIZZA",
+    "description": "Da oltre 12 anni a Firenze, sforniamo ottime pizze, gustosi primi, fritti sfiziosi, fresche insalate e molto altro ancora.",
+    "address": "37, Vl. Montegrappa - 59100 Prato (PO)",
+    "streetAddress": "37, Vl. Montegrappa",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87609,
+        "lon": 11.10547
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 33333"
+    ],
+    "rating": ""
+}

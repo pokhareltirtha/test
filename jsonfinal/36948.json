@@ -1,0 +1,20 @@
+{
+    "name": "IL BARGELLO",
+    "description": "",
+    "address": "4, Piazza Della Signoria - 50122 Firenze (FI)",
+    "streetAddress": "4, Piazza Della Signoria",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7697,
+        "lon": 11.25568
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 214071"
+    ],
+    "rating": ""
+}

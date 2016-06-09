@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA CAPRI SOCIETA' A RESPONSABILITA' LIMITATA",
+    "description": "",
+    "address": "21, Via Rosselli Fratelli - 50064 Incisa In Val D'Arno (FI)",
+    "streetAddress": "21, Via Rosselli Fratelli",
+    "postalCode": "50064",
+    "addressLocality": "Incisa In Val D'Arno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.65377,
+        "lon": 11.45109
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "331 6792826"
+    ],
+    "rating": ""
+}

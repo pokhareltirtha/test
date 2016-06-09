@@ -1,0 +1,20 @@
+{
+    "name": "ALBERGO PAVONE - RISTORANTE",
+    "description": "L'Albergo Il Pavone, situato nella piazza di Premilcuore (FC), offre alla sua clientela un totale di 13 camere per 23 posti letto, tutte dotate di televisore.",
+    "address": "1, V. Moro - 47010 Premilcuore (FC)",
+    "streetAddress": "1, V. Moro",
+    "postalCode": "47010",
+    "addressLocality": "Premilcuore",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 43.9763,
+        "lon": 11.77718
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0543 956932"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CANTO DI MAGGIO",
+    "description": "",
+    "address": "2, Via Di Colle Ramole - 50124 Firenze (FI)",
+    "streetAddress": "2, Via Di Colle Ramole",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72714,
+        "lon": 11.2226
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2373684"
+    ],
+    "rating": ""
+}

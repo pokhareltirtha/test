@@ -1,0 +1,20 @@
+{
+    "name": "HU LIJIAO",
+    "description": "",
+    "address": "146, Via Pistoiese - 59100 Prato (PO)",
+    "streetAddress": "146, Via Pistoiese",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88548,
+        "lon": 11.08625
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 25676"
+    ],
+    "rating": ""
+}

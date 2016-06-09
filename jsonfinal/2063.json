@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA VERANDA",
+    "description": "",
+    "address": "10, Via Dell Arco - 59100 Prato (PO)",
+    "streetAddress": "10, Via Dell Arco",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87759,
+        "lon": 11.10074
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 38235"
+    ],
+    "rating": ""
+}

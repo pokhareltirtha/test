@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA DONCHISCIOTTE IOLO",
+    "description": "",
+    "address": "3, Via Didaco Bessi - 59100 Prato (PO)",
+    "streetAddress": "3, Via Didaco Bessi",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86113,
+        "lon": 11.04546
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 622573"
+    ],
+    "rating": "5.0"
+}

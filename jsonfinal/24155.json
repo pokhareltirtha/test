@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CORSINI",
+    "description": "",
+    "address": "25, Piazza La Vergine - 50054 Fucecchio (FI)",
+    "streetAddress": "25, Piazza La Vergine",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72941,
+        "lon": 10.8116
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 260067"
+    ],
+    "rating": ""
+}

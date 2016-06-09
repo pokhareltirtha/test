@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA RISTORANTE SCIUE' SCIUE'",
+    "description": "",
+    "address": "7, Via Giovan Battista Foggini - 50142 Firenze (FI)",
+    "streetAddress": "7, Via Giovan Battista Foggini",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77288,
+        "lon": 11.21297
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 712978"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE BORSALINO",
+    "description": "",
+    "address": "1, Via Cellini Benvenuto - 59016 Poggio A Caiano (PO)",
+    "streetAddress": "1, Via Cellini Benvenuto",
+    "postalCode": "59016",
+    "addressLocality": "Poggio A Caiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.81733,
+        "lon": 11.04743
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8797126",
+        "055 8797125"
+    ],
+    "rating": ""
+}

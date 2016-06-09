@@ -1,0 +1,20 @@
+{
+    "name": "LE ZIE DEL LAMPREDOTTO",
+    "description": "",
+    "address": "45, Via IV Novembre - 51100 Pistoia (PT)",
+    "streetAddress": "45, Via IV Novembre",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92833,
+        "lon": 10.92077
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "329 2141760"
+    ],
+    "rating": "5.0"
+}

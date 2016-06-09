@@ -1,0 +1,20 @@
+{
+    "name": "AMALFI ENERGY & FOOD S.R.L.",
+    "description": "",
+    "address": "25, Via Negri Ada - 59100 Prato (PO)",
+    "streetAddress": "25, Via Negri Ada",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.89317,
+        "lon": 11.1024
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 693075"
+    ],
+    "rating": "5.0"
+}

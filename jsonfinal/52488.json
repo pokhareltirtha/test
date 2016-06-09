@@ -1,0 +1,20 @@
+{
+    "name": "IL CIGLIERE",
+    "description": "",
+    "address": "1, Via Del Chianti - 56030 Terricciola (PI)",
+    "streetAddress": "1, Via Del Chianti",
+    "postalCode": "56030",
+    "addressLocality": "Terricciola",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.52821,
+        "lon": 10.67064
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 655221"
+    ],
+    "rating": ""
+}

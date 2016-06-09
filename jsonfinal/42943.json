@@ -1,0 +1,21 @@
+{
+    "name": "CONVIVIUM FIRENZE S.R.L.",
+    "description": "",
+    "address": "4/6, Viale Europa - 50126 Firenze (FI)",
+    "streetAddress": "4/6, Viale Europa",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75644,
+        "lon": 11.28959
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6800110",
+        "055 6811757"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "LA CUCINA DE MAMA'",
+    "description": "La Cucina De Mamà è il posto perfetto per conoscere il vero cibo peruviano, a Firenze in via Ponte di Mezzo.",
+    "address": "11/13/15r, V. Ponte Di Mezzo - 50127 Firenze (FI)",
+    "streetAddress": "11/13/15r, V. Ponte Di Mezzo",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79202,
+        "lon": 11.23656
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 5308774"
+    ],
+    "rating": "5.0"
+}

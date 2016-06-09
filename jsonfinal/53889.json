@@ -1,0 +1,21 @@
+{
+    "name": "LA TAVERNA",
+    "description": "",
+    "address": "26, Viale Baccarini - 50034 Marradi (FI)",
+    "streetAddress": "26, Viale Baccarini",
+    "postalCode": "50034",
+    "addressLocality": "Marradi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.07883,
+        "lon": 11.61728
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8042226",
+        "055 8041414"
+    ],
+    "rating": ""
+}

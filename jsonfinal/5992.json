@@ -1,0 +1,20 @@
+{
+    "name": "LE FATE",
+    "description": "",
+    "address": "126/R, Via S. Zanobi - 50129 Firenze (FI)",
+    "streetAddress": "126/R, Via S. Zanobi",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78104,
+        "lon": 11.25687
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3841998"
+    ],
+    "rating": "5.0"
+}

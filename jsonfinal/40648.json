@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA VICTORIA",
+    "description": "Il Ristorante Pizzeria Victoria a Lamporecchio realizza squisite specialità di pesce e carne che soddisferanno anche i palati più esigenti.",
+    "address": "43, V. Provinciale Montalbano - 51035 San Baronto (PT)",
+    "streetAddress": "43, V. Provinciale Montalbano",
+    "postalCode": "51035",
+    "addressLocality": "San Baronto",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83678,
+        "lon": 10.91916
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 88032"
+    ],
+    "rating": "5.0"
+}

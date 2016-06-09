@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA IL CAPRIOLO",
+    "description": "",
+    "address": "306, Via Roma - 59100 Prato (PO)",
+    "streetAddress": "306, Via Roma",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86385,
+        "lon": 11.08366
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 1825326"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DELL'ACQUOLINA",
+    "description": "",
+    "address": "26, Via Setteponti Levante - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "26, Via Setteponti Levante",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.55352,
+        "lon": 11.68444
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 977497"
+    ],
+    "rating": ""
+}

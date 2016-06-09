@@ -1,0 +1,20 @@
+{
+    "name": "FRANCO",
+    "description": "",
+    "address": "75/N/O, Via Di Novoli - 50127 Firenze (FI)",
+    "streetAddress": "75/N/O, Via Di Novoli",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79459,
+        "lon": 11.21723
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 414648"
+    ],
+    "rating": ""
+}

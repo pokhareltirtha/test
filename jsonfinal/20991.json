@@ -1,0 +1,20 @@
+{
+    "name": "I LEONI S.R.L.",
+    "description": "",
+    "address": "6/R, Via Dei Leoni - 50122 Firenze (FI)",
+    "streetAddress": "6/R, Via Dei Leoni",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76883,
+        "lon": 11.25701
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 284863"
+    ],
+    "rating": "5.0"
+}

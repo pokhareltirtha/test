@@ -1,0 +1,20 @@
+{
+    "name": "BAR PIZZERIA IL PASSEGGERO",
+    "description": "",
+    "address": "18, Via Costa Andrea - 50066 Pietrapiana (FI)",
+    "streetAddress": "18, Via Costa Andrea",
+    "postalCode": "50066",
+    "addressLocality": "Pietrapiana",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.69669,
+        "lon": 11.52885
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "055 8667459"
+    ],
+    "rating": ""
+}

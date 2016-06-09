@@ -1,0 +1,20 @@
+{
+    "name": "SPEEDY PIZZA",
+    "description": "",
+    "address": "339, Via Francesco Ferrucci - 59100 Prato (PO)",
+    "streetAddress": "339, Via Francesco Ferrucci",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.85796,
+        "lon": 11.12095
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 572577"
+    ],
+    "rating": ""
+}

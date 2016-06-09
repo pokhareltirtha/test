@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA IL MORO",
+    "description": "Pizzeria il Moro è il giusto luogo dove riassaporare il gusto vero della pizza tradizionale. Proponiamo alla clientela svariate pizze con accostamenti di ingredienti gradevoli e nuovi. Sforniamo, inol...",
+    "address": "29, V. Donizetti - 50018 Scandicci (FI)",
+    "streetAddress": "29, V. Donizetti",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76236,
+        "lon": 11.17444
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 7356711",
+        "328 6621909"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE GODI POPOLO",
+    "description": "",
+    "address": "18, Piazza XX Settembre - 56048 Volterra (PI)",
+    "streetAddress": "18, Piazza XX Settembre",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40135,
+        "lon": 10.86309
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 81464"
+    ],
+    "rating": ""
+}

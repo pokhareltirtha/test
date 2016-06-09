@@ -1,0 +1,20 @@
+{
+    "name": "LA GROTTA DI BACCO",
+    "description": "",
+    "address": "16, Piazza San Domenico - 59100 Prato (PO)",
+    "streetAddress": "16, Piazza San Domenico",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88182,
+        "lon": 11.09379
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 440094"
+    ],
+    "rating": ""
+}

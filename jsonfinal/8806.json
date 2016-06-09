@@ -1,0 +1,20 @@
+{
+    "name": "BRUNO'S SRL",
+    "description": "",
+    "address": "18, Via Delle Pleiadi - 59100 Prato (PO)",
+    "streetAddress": "18, Via Delle Pleiadi",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87462,
+        "lon": 11.06404
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        ""
+    ],
+    "rating": ""
+}

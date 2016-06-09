@@ -1,0 +1,20 @@
+{
+    "name": "VECCHIO VICOLO",
+    "description": "",
+    "address": "16, Via Lambertesca - 50122 Firenze (FI)",
+    "streetAddress": "16, Via Lambertesca",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76894,
+        "lon": 11.25401
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2654512"
+    ],
+    "rating": ""
+}

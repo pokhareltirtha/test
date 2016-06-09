@@ -1,0 +1,22 @@
+{
+    "name": "PIZZERIA IL QUARTO",
+    "description": "",
+    "address": "Localita' San Giorgio 1039 - 56021 Cascina (PI)",
+    "streetAddress": "Localita' San Giorgio 1039",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.6825,
+        "lon": 10.50337
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 742945",
+        "050 748468"
+    ],
+    "rating": ""
+}

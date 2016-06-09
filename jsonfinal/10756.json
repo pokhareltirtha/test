@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DEL BUONGUSTAIO",
+    "description": "In 106/b, v. Bruceto - Massa e Cozzile (PT) L'Osteria del Buongustaio tipica toscana e pizzeria con forno a legna: il connubio perfetto.",
+    "address": "106/B, V. Bruceto - 51010 Massa E Cozzile (PT)",
+    "streetAddress": "106/B, V. Bruceto",
+    "postalCode": "51010",
+    "addressLocality": "Massa E Cozzile",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8769,
+        "lon": 10.75749
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 70209"
+    ],
+    "rating": ""
+}

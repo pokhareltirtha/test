@@ -1,0 +1,20 @@
+{
+    "name": "VIVO RESTAURANT",
+    "description": "",
+    "address": "50, Sr435 - 51018 Pieve A Nievole (PT)",
+    "streetAddress": "50, Sr435",
+    "postalCode": "51018",
+    "addressLocality": "Pieve A Nievole",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88475,
+        "lon": 10.80983
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 520215"
+    ],
+    "rating": ""
+}

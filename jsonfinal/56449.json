@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA DA ROSA",
+    "description": "",
+    "address": "43, Via S Miniato - 52026 Pian Di Scò (AR)",
+    "streetAddress": "43, Via S Miniato",
+    "postalCode": "52026",
+    "addressLocality": "Pian Di Scò",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.63864,
+        "lon": 11.5387
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 960429"
+    ],
+    "rating": ""
+}

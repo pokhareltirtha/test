@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL GIRASOLE",
+    "description": "I ristoranti del villaggio turistico dove gustare piatti al calore del caminetto o al fresco in terrazza nella bella stagione a Figline e Incisa Valdarno.",
+    "address": "7, V. Di Norcenni - 50063 Figline E Incisa Valdarno (FI)",
+    "streetAddress": "7, V. Di Norcenni",
+    "postalCode": "50063",
+    "addressLocality": "Figline E Incisa Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61152,
+        "lon": 11.4453
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 959202"
+    ],
+    "rating": "4.0"
+}

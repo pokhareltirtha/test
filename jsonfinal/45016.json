@@ -1,0 +1,20 @@
+{
+    "name": "TOCQUEVILLE",
+    "description": "",
+    "address": "34, Via Pistoiese - 51016 Montecatini Terme (PT)",
+    "streetAddress": "34, Via Pistoiese",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87914,
+        "lon": 10.78525
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 766182"
+    ],
+    "rating": "5.0"
+}

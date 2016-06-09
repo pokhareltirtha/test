@@ -1,0 +1,21 @@
+{
+    "name": "IL VICO DEL CARMINE",
+    "description": "",
+    "address": "40, Via Pisana - 50143 Firenze (FI)",
+    "streetAddress": "40, Via Pisana",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77096,
+        "lon": 11.2377
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2336862",
+        "055 2281006"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "TORGITOIO",
+    "description": "",
+    "address": "669, Via Montalbano - 51034 Casalguidi (PT)",
+    "streetAddress": "669, Via Montalbano",
+    "postalCode": "51034",
+    "addressLocality": "Casalguidi",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86915,
+        "lon": 10.91915
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 526588"
+    ],
+    "rating": "5.0"
+}

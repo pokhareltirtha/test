@@ -1,0 +1,20 @@
+{
+    "name": "LUCCHESI ALICE",
+    "description": "",
+    "address": "13, Piazza S. Giorgio - 59100 Prato (PO)",
+    "streetAddress": "13, Piazza S. Giorgio",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.83596,
+        "lon": 11.10623
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 541498"
+    ],
+    "rating": ""
+}

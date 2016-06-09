@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA NUOVO DEL MAGRO",
+    "description": "Il Ristorante Pizzeria Nuovo Del Magro di Uzzano propone specialità della cucina tipica toscana e non solo.",
+    "address": "1, V. Zei (Loc. Alberghi) - 51017 Pescia (PT)",
+    "streetAddress": "1, V. Zei (Loc. Alberghi)",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87881,
+        "lon": 10.6884
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "327 7037020"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "CANTO DEI NELLI",
+    "description": "",
+    "address": "26/R, Via Del Canto Dei Nelli - 50123 Firenze (FI)",
+    "streetAddress": "26/R, Via Del Canto Dei Nelli",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77531,
+        "lon": 11.25333
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2678659",
+        "055 283279"
+    ],
+    "rating": ""
+}

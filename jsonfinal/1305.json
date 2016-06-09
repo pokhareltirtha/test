@@ -1,0 +1,21 @@
+{
+    "name": "IL DESCO",
+    "description": "",
+    "address": "55, Via Camillo Cavour - 50129 Firenze (FI)",
+    "streetAddress": "55, Via Camillo Cavour",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77861,
+        "lon": 11.25875
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 215375",
+        "055 288330"
+    ],
+    "rating": ""
+}

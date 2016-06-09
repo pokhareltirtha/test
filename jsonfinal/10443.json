@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA IL RIFUGIO",
+    "description": "",
+    "address": "9, Via Del Borgo - 50060 Castagno D'Andrea (FI)",
+    "streetAddress": "9, Via Del Borgo",
+    "postalCode": "50060",
+    "addressLocality": "Castagno D'Andrea",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.89759,
+        "lon": 11.65851
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8375055"
+    ],
+    "rating": ""
+}

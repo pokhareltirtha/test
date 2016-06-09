@@ -1,0 +1,20 @@
+{
+    "name": "LE BOTTI DI ASPASIA",
+    "description": "",
+    "address": "Piazza Machiavelli, 16 - 50025 Montespertoli (FI)",
+    "streetAddress": "Piazza Machiavelli, 16",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.6442,
+        "lon": 11.07785
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 657161"
+    ],
+    "rating": ""
+}

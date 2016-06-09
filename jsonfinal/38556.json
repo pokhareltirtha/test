@@ -1,0 +1,21 @@
+{
+    "name": "FIORENZA",
+    "description": "",
+    "address": "51, Via Reginaldo Giuliani - 50141 Firenze (FI)",
+    "streetAddress": "51, Via Reginaldo Giuliani",
+    "postalCode": "50141",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79934,
+        "lon": 11.23898
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 416903",
+        "055 412847"
+    ],
+    "rating": "5.0"
+}

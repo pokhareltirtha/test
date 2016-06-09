@@ -1,0 +1,20 @@
+{
+    "name": "PONTE DI CENCINO",
+    "description": "",
+    "address": "21, Via Pantano - 51034 Serravalle Pistoiese (PT)",
+    "streetAddress": "21, Via Pantano",
+    "postalCode": "51034",
+    "addressLocality": "Serravalle Pistoiese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88963,
+        "lon": 10.90695
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 527036"
+    ],
+    "rating": ""
+}

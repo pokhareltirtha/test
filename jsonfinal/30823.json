@@ -1,0 +1,20 @@
+{
+    "name": "STUZZICHERIA FRANCO",
+    "description": "",
+    "address": ", Piazzale Trento - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": ", Piazzale Trento",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.55221,
+        "lon": 11.58747
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9738810"
+    ],
+    "rating": ""
+}

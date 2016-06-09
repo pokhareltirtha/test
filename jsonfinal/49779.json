@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA BIANCHINA DI VITILLO ELENA",
+    "description": "",
+    "address": "1, Borgo Di Mezzo - 56031 Bientina (PI)",
+    "streetAddress": "1, Borgo Di Mezzo",
+    "postalCode": "56031",
+    "addressLocality": "Bientina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.71019,
+        "lon": 10.62043
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 757400"
+    ],
+    "rating": ""
+}

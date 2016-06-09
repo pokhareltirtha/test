@@ -1,0 +1,21 @@
+{
+    "name": "LILLY DI OMBRI SIMONA",
+    "description": "",
+    "address": "28, Via Tobbianese - 59100 Prato (PO)",
+    "streetAddress": "28, Via Tobbianese",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.8781,
+        "lon": 11.05443
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "392 9807035",
+        "0574 815973"
+    ],
+    "rating": ""
+}

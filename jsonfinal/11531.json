@@ -1,0 +1,20 @@
+{
+    "name": "HOTEL SANTA BARBARA",
+    "description": "",
+    "address": "Via Boito N.40, Pt - 51016 Montecatini Terme (PT)",
+    "streetAddress": "Via Boito N.40, Pt",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87986,
+        "lon": 10.78281
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 67353"
+    ],
+    "rating": ""
+}

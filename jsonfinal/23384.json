@@ -1,0 +1,21 @@
+{
+    "name": "MIRAMONTI",
+    "description": "",
+    "address": "61, Via Castianese - 52010 Montemignaio (AR)",
+    "streetAddress": "61, Via Castianese",
+    "postalCode": "52010",
+    "addressLocality": "Montemignaio",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.73947,
+        "lon": 11.61881
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8306469",
+        "055 8306566"
+    ],
+    "rating": ""
+}

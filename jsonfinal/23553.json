@@ -1,0 +1,21 @@
+{
+    "name": "MA.VE LONDA S.R.L.",
+    "description": "",
+    "address": "Snc, Lago - 50060 Londa (FI)",
+    "streetAddress": "Snc, Lago",
+    "postalCode": "50060",
+    "addressLocality": "Londa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73336,
+        "lon": 11.55688
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8351851",
+        "055 8351608"
+    ],
+    "rating": ""
+}

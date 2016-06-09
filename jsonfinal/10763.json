@@ -1,0 +1,20 @@
+{
+    "name": "MELOGRANO",
+    "description": "",
+    "address": "9, Piazza Degli Ospitalieri - 55011 Altopascio (LU)",
+    "streetAddress": "9, Piazza Degli Ospitalieri",
+    "postalCode": "55011",
+    "addressLocality": "Altopascio",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81509,
+        "lon": 10.67531
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 25016"
+    ],
+    "rating": ""
+}

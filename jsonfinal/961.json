@@ -1,0 +1,20 @@
+{
+    "name": "BAGO SRL",
+    "description": "",
+    "address": "47, Via Della Liberta' - 50066 Reggello (FI)",
+    "streetAddress": "47, Via Della Liberta'",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.62846,
+        "lon": 11.48517
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 861260"
+    ],
+    "rating": ""
+}

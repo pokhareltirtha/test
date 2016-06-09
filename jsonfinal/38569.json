@@ -1,0 +1,20 @@
+{
+    "name": "ROSSOPOMODORO",
+    "description": "",
+    "address": "17, Piazza Del Mercato Centrale - 50123 Firenze (FI)",
+    "streetAddress": "17, Piazza Del Mercato Centrale",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77689,
+        "lon": 11.25373
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 211131"
+    ],
+    "rating": "4.1"
+}

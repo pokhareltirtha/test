@@ -1,0 +1,20 @@
+{
+    "name": "I TRE MERLI",
+    "description": "",
+    "address": "12, Via Dei Fossi - 50123 Firenze (FI)",
+    "streetAddress": "12, Via Dei Fossi",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77238,
+        "lon": 11.24903
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 287062"
+    ],
+    "rating": ""
+}

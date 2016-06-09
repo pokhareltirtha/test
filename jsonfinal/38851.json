@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LA TAVERNA DI BARUFFI",
+    "description": "",
+    "address": "14, Via Baruffi - 50023 Baruffi (FI)",
+    "streetAddress": "14, Via Baruffi",
+    "postalCode": "50023",
+    "addressLocality": "Baruffi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.70744,
+        "lon": 11.22796
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2020630"
+    ],
+    "rating": ""
+}

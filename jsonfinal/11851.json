@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE I TOSCANI",
+    "description": "",
+    "address": "46, V. Petrarca - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "46, V. Petrarca",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82652,
+        "lon": 11.12437
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "055 0941680"
+    ],
+    "rating": ""
+}

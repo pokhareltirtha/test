@@ -1,0 +1,20 @@
+{
+    "name": "IL FRANTOIO",
+    "description": "",
+    "address": "66, Via Di Valdibrana - 51100 Pistoia (PT)",
+    "streetAddress": "66, Via Di Valdibrana",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.96717,
+        "lon": 10.91134
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 480040"
+    ],
+    "rating": "5.0"
+}

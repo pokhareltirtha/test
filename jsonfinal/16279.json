@@ -1,0 +1,20 @@
+{
+    "name": "HOTEL LE CERBAIE",
+    "description": "Ad Altopascio un albergo dove poter passare un soggiorno tranquillo e rilassante.",
+    "address": "1, Loc. Cerbaia - 55011 Altopascio (LU)",
+    "streetAddress": "1, Loc. Cerbaia",
+    "postalCode": "55011",
+    "addressLocality": "Altopascio",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81865,
+        "lon": 10.68664
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 264400"
+    ],
+    "rating": ""
+}

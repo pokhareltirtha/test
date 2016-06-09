@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ANNO ZERO",
+    "description": "",
+    "address": "97, Via Roma - 59024 San Quirico (PO)",
+    "streetAddress": "97, Via Roma",
+    "postalCode": "59024",
+    "addressLocality": "San Quirico",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 44.0535,
+        "lon": 11.15512
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 950445"
+    ],
+    "rating": ""
+}

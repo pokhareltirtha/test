@@ -1,0 +1,20 @@
+{
+    "name": "IL CAVALLINO",
+    "description": "",
+    "address": "113, Via Camillo Cavour - 51013 Chiesina Uzzanese (PT)",
+    "streetAddress": "113, Via Camillo Cavour",
+    "postalCode": "51013",
+    "addressLocality": "Chiesina Uzzanese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83658,
+        "lon": 10.72081
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 48203"
+    ],
+    "rating": ""
+}

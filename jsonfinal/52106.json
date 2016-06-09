@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA VICOPISANO",
+    "description": "",
+    "address": "31, Via XX Settembre - 56010 Uliveto Terme (PI)",
+    "streetAddress": "31, Via XX Settembre",
+    "postalCode": "56010",
+    "addressLocality": "Uliveto Terme",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69642,
+        "lon": 10.5152
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 798941"
+    ],
+    "rating": ""
+}

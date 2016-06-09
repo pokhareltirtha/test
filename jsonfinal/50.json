@@ -1,0 +1,21 @@
+{
+    "name": "I' CORBEZZOLO",
+    "description": "",
+    "address": ", Via P Caiani - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": ", Via P Caiani",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.95011,
+        "lon": 11.39845
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8402197"
+    ],
+    "rating": ""
+}

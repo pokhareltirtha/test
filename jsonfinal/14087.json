@@ -1,0 +1,21 @@
+{
+    "name": "ULIVO ROSSO",
+    "description": "",
+    "address": "2, Via Delle Catese - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "2, Via Delle Catese",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8514,
+        "lon": 11.21497
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4481953",
+        "055 4481890"
+    ],
+    "rating": ""
+}

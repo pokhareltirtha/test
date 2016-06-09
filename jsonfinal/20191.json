@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA PICCOLO TRIANON DI BORRANI ORNELLA",
+    "description": "",
+    "address": "20, Via Dante Da Castiglione - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "20, Via Dante Da Castiglione",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83227,
+        "lon": 11.26543
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 402007"
+    ],
+    "rating": ""
+}

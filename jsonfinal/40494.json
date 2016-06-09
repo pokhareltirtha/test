@@ -1,0 +1,20 @@
+{
+    "name": "DALL'OSTE",
+    "description": "",
+    "address": "3, Via Alamanni Luigi - 50123 Firenze (FI)",
+    "streetAddress": "3, Via Alamanni Luigi",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77635,
+        "lon": 11.24656
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 212048"
+    ],
+    "rating": "4.0"
+}

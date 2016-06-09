@@ -1,0 +1,21 @@
+{
+    "name": "CANAPONE ACADEMIA",
+    "description": "",
+    "address": "5, Piazza Buonaparte - 56028 San Miniato (PI)",
+    "streetAddress": "5, Piazza Buonaparte",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68017,
+        "lon": 10.85561
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 401957",
+        "0571 401956"
+    ],
+    "rating": ""
+}

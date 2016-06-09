@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ENOTECA LA TORRE",
+    "description": "Il più suggestivo ristorante di Montecarlo. Si offre un servizio esterno ed interno.",
+    "address": "7, V. Provinciale - 55015 Montecarlo (LU)",
+    "streetAddress": "7, V. Provinciale",
+    "postalCode": "55015",
+    "addressLocality": "Montecarlo",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.84963,
+        "lon": 10.66348
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 229495"
+    ],
+    "rating": ""
+}

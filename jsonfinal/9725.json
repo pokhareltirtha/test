@@ -1,0 +1,20 @@
+{
+    "name": "MEDA S.R.L.",
+    "description": "",
+    "address": "24, Via Del Giglio - 50028 Tavarnelle Val Di Pesa (FI)",
+    "streetAddress": "24, Via Del Giglio",
+    "postalCode": "50028",
+    "addressLocality": "Tavarnelle Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.53559,
+        "lon": 11.23471
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8072226"
+    ],
+    "rating": ""
+}

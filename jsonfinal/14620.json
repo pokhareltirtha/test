@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA DA REMO",
+    "description": "",
+    "address": "90, Via Giusti Giuseppe - 50041 Calenzano (FI)",
+    "streetAddress": "90, Via Giusti Giuseppe",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.86149,
+        "lon": 11.17083
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8877154"
+    ],
+    "rating": ""
+}

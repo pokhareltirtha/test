@@ -1,0 +1,20 @@
+{
+    "name": "BIG SUN",
+    "description": "",
+    "address": ", Piazza Cavallotti - 56011 Calci (PI)",
+    "streetAddress": ", Piazza Cavallotti",
+    "postalCode": "56011",
+    "addressLocality": "Calci",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.72548,
+        "lon": 10.51466
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 939267"
+    ],
+    "rating": ""
+}

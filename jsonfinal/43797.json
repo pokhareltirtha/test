@@ -1,0 +1,21 @@
+{
+    "name": "IL PAIOLO",
+    "description": "",
+    "address": "1, Via Del Cornocchio - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "1, Via Del Cornocchio",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.97851,
+        "lon": 11.22224
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8420733",
+        "055 3921325"
+    ],
+    "rating": "4.7"
+}

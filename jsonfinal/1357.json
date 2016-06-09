@@ -1,0 +1,21 @@
+{
+    "name": "DA FISCHIO",
+    "description": "",
+    "address": ", Via Roma - 50060 Londa (FI)",
+    "streetAddress": ", Via Roma",
+    "postalCode": "50060",
+    "addressLocality": "Londa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.86267,
+        "lon": 11.56462
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8351608"
+    ],
+    "rating": ""
+}

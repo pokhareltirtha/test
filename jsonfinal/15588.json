@@ -1,0 +1,20 @@
+{
+    "name": "ALBERGO RISTORANTE LA FORNACE",
+    "description": "L'albergo ristorante dotato di molti comfort a Rioveggio.",
+    "address": "Sp 325, V. Provinciale 58 - 40036 Rioveggio (BO)",
+    "streetAddress": "Sp 325, V. Provinciale 58",
+    "postalCode": "40036",
+    "addressLocality": "Rioveggio",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.27523,
+        "lon": 11.19915
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "051 6777538"
+    ],
+    "rating": ""
+}

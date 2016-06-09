@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA SUPERPIZZA A DOMICILIO",
+    "description": "",
+    "address": "188, Via Antonio Del Pollaiolo - 50142 Firenze (FI)",
+    "streetAddress": "188, Via Antonio Del Pollaiolo",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77069,
+        "lon": 11.21296
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 711386",
+        "055 717171"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA I' REGOLO",
+    "description": "Pizzeria I' Regolo a Scarperia E San Piero propone ampia varietà di menu' realizzati con prodotti freschi e di prima scelta e pizze cotte in forno a legna.",
+    "address": "4, V. Calimara - 50038 Scarperia E San Piero (FI)",
+    "streetAddress": "4, V. Calimara",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia E San Piero",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.96429,
+        "lon": 11.32524
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8498240"
+    ],
+    "rating": ""
+}

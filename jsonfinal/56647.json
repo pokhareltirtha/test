@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIAFIRENZE DI MASCIANA' GRAZIA",
+    "description": "",
+    "address": "73/F, Via Baccio Da Montelupo - 50142 Firenze (FI)",
+    "streetAddress": "73/F, Via Baccio Da Montelupo",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76912,
+        "lon": 11.19465
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4379931",
+        "055 7323441"
+    ],
+    "rating": ""
+}

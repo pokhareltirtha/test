@@ -1,0 +1,20 @@
+{
+    "name": "LA SERRA",
+    "description": "",
+    "address": "38, Lungarno Della Zecca Vecchia - 50122 Firenze (FI)",
+    "streetAddress": "38, Lungarno Della Zecca Vecchia",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76652,
+        "lon": 11.26343
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2623579"
+    ],
+    "rating": ""
+}

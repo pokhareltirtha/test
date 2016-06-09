@@ -1,0 +1,21 @@
+{
+    "name": "'' OSTERIA DEI BARONCELLI''",
+    "description": "",
+    "address": "11/R, Chiasso Dei Baroncelli - 50122 Firenze (FI)",
+    "streetAddress": "11/R, Chiasso Dei Baroncelli",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7689,
+        "lon": 11.25494
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2678023",
+        "055 288219"
+    ],
+    "rating": "4.0"
+}

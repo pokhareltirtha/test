@@ -1,0 +1,20 @@
+{
+    "name": "LA LOGGIA",
+    "description": "",
+    "address": "4, Via Doccia - 50014 Fiesole (FI)",
+    "streetAddress": "4, Via Doccia",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8022,
+        "lon": 11.2988
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 5678200"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "I MAL'AVVEZZI",
+    "description": "",
+    "address": "13, Viale Della Repubblica - 50023 Tavarnuzze (FI)",
+    "streetAddress": "13, Viale Della Repubblica",
+    "postalCode": "50023",
+    "addressLocality": "Tavarnuzze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71099,
+        "lon": 11.21962
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2374262"
+    ],
+    "rating": ""
+}

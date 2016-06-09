@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA DA SANDRINO SAS DI SANDRO NENCETTI E C.",
+    "description": "",
+    "address": "22, Via Londra - 50065 Pontassieve (FI)",
+    "streetAddress": "22, Via Londra",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77167,
+        "lon": 11.43504
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3921383",
+        "055 8368510"
+    ],
+    "rating": ""
+}

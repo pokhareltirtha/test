@@ -1,0 +1,20 @@
+{
+    "name": "LA COMBRICCOLA",
+    "description": "",
+    "address": "167, Via G Masini - 50051 Castelfiorentino (FI)",
+    "streetAddress": "167, Via G Masini",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61347,
+        "lon": 10.96823
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 629987"
+    ],
+    "rating": ""
+}

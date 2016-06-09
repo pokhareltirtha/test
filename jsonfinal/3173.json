@@ -1,0 +1,20 @@
+{
+    "name": "IL GHIRIGHIO",
+    "description": "",
+    "address": "29, Via Di Migliana - 59025 Migliana (PO)",
+    "streetAddress": "29, Via Di Migliana",
+    "postalCode": "59025",
+    "addressLocality": "Migliana",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.98121,
+        "lon": 11.09409
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 981103"
+    ],
+    "rating": ""
+}

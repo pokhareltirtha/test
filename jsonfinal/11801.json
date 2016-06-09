@@ -1,0 +1,20 @@
+{
+    "name": "QUARTO DI LUNA",
+    "description": "",
+    "address": "22, Via Biscolla - 51010 Biscolla (PT)",
+    "streetAddress": "22, Via Biscolla",
+    "postalCode": "51010",
+    "addressLocality": "Biscolla",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86681,
+        "lon": 10.76896
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 767110"
+    ],
+    "rating": ""
+}

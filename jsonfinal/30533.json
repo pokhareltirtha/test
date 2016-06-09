@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DA TONY",
+    "description": "",
+    "address": "46, Viale Galilei Galileo-Faella - 52026 Faella (AR)",
+    "streetAddress": "46, Viale Galilei Galileo-Faella",
+    "postalCode": "52026",
+    "addressLocality": "Faella",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.6277,
+        "lon": 11.51321
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 965065"
+    ],
+    "rating": ""
+}

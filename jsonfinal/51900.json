@@ -1,0 +1,20 @@
+{
+    "name": "BRICHOTEL",
+    "description": "Punto di partenza per raggiungere luoghi d'interesse toscani, il nostro hotel di Altopascio (LU) soddisfa tutte le esigenze di soggiorno turistico e business.",
+    "address": "1, V. Firenze (Ang. Vl. Europa) - 56038 Ponsacco (PI)",
+    "streetAddress": "1, V. Firenze (Ang. Vl. Europa)",
+    "postalCode": "56038",
+    "addressLocality": "Ponsacco",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.62775,
+        "lon": 10.61788
+    },
+    "categories": [
+        "Alberghi"
+    ],
+    "telephone": [
+        "0572 731142"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PULCINELLA",
+    "description": "",
+    "address": "21, Via Piero Gobetti - 56028 Ponte A Elsa (FI)",
+    "streetAddress": "21, Via Piero Gobetti",
+    "postalCode": "56028",
+    "addressLocality": "Ponte A Elsa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.69473,
+        "lon": 10.90407
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 931008"
+    ],
+    "rating": ""
+}

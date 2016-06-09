@@ -1,0 +1,21 @@
+{
+    "name": "OLIVIERO",
+    "description": "",
+    "address": "51, Via Delle Terme - 50123 Firenze (FI)",
+    "streetAddress": "51, Via Delle Terme",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76998,
+        "lon": 11.25233
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2302407",
+        "055 212421"
+    ],
+    "rating": "4.0"
+}

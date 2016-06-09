@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA CUCCUINI",
+    "description": "",
+    "address": "32, Via Caduti - 52025 Ricasoli (AR)",
+    "streetAddress": "32, Via Caduti",
+    "postalCode": "52025",
+    "addressLocality": "Ricasoli",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.52771,
+        "lon": 11.53863
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9166419"
+    ],
+    "rating": ""
+}

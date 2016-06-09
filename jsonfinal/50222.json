@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA PIZZERIA LA CAPANNA",
+    "description": "",
+    "address": "112, Via Camillo Cavour - 50129 Firenze (FI)",
+    "streetAddress": "112, Via Camillo Cavour",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78303,
+        "lon": 11.26225
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 210095"
+    ],
+    "rating": ""
+}

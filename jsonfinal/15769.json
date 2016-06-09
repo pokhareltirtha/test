@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA AL CASALINO DI ALECCI MARIO",
+    "description": "",
+    "address": "35, Via Del Casalino - 55012 Lunata (LU)",
+    "streetAddress": "35, Via Del Casalino",
+    "postalCode": "55012",
+    "addressLocality": "Lunata",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.84983,
+        "lon": 10.57141
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 933170",
+        "0583 935349"
+    ],
+    "rating": ""
+}

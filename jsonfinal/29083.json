@@ -1,0 +1,21 @@
+{
+    "name": "CANTINETTA ANTINORI",
+    "description": "Offriamo degustazioni di vini con una selezione di specialità della cucina toscana a Firenze (FI).",
+    "address": "3, P. Antinori - 50123 Firenze (FI)",
+    "streetAddress": "3, P. Antinori",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77272,
+        "lon": 11.25137
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 292234",
+        "055 2937527"
+    ],
+    "rating": ""
+}

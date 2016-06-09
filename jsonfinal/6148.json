@@ -1,0 +1,21 @@
+{
+    "name": "VILLA LA VEDETTA",
+    "description": "",
+    "address": "Viale Michelangiolo 78 - 50125 Firenze (FI)",
+    "streetAddress": "Viale Michelangiolo 78",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76132,
+        "lon": 11.26919
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 681621",
+        "055 681631"
+    ],
+    "rating": "5.0"
+}

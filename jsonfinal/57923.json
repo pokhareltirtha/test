@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA RISTORANTE LA ROCCA",
+    "description": "",
+    "address": "174/A, Via Bologna - 59100 Prato (PO)",
+    "streetAddress": "174/A, Via Bologna",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.89744,
+        "lon": 11.10145
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 982680",
+        "335 7769804"
+    ],
+    "rating": ""
+}

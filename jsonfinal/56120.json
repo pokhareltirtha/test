@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA ASTERIX",
+    "description": "",
+    "address": "21, Localita' Pieve A Socana - 52016 Castel Focognano (AR)",
+    "streetAddress": "21, Localita' Pieve A Socana",
+    "postalCode": "52016",
+    "addressLocality": "Castel Focognano",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.65343,
+        "lon": 11.78793
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0575 539249"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA MAN",
+    "description": "",
+    "address": "4, Via Carlo Goldoni - 59100 Prato (PO)",
+    "streetAddress": "4, Via Carlo Goldoni",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.89739,
+        "lon": 11.10469
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 460718"
+    ],
+    "rating": "4.0"
+}

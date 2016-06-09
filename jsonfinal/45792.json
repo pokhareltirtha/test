@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA DON CHISCIOTTE",
+    "description": "A Montecatini Terme in p. Del Popolo 20, Don Chisciotte propone cucina tipica toscana e pizze cotte nel forno a legna.",
+    "address": "20, P. Del Popolo - 51016 Montecatini Terme (PT)",
+    "streetAddress": "20, P. Del Popolo",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88311,
+        "lon": 10.77102
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 911637",
+        "392 9213454"
+    ],
+    "rating": ""
+}

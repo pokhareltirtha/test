@@ -1,0 +1,20 @@
+{
+    "name": "CENTRO STORICO SRL",
+    "description": "",
+    "address": "12/R, Via Dell' Acqua - 50122 Firenze (FI)",
+    "streetAddress": "12/R, Via Dell' Acqua",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77039,
+        "lon": 11.25867
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2302696"
+    ],
+    "rating": ""
+}

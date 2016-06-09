@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA TRE TIGLI",
+    "description": "",
+    "address": "Via S. Andrea - 55012 Sant'Andrea Di Compito (LU)",
+    "streetAddress": "Via S. Andrea",
+    "postalCode": "55012",
+    "addressLocality": "Sant'Andrea Di Compito",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.78531,
+        "lon": 10.56051
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 977057"
+    ],
+    "rating": "3.0"
+}

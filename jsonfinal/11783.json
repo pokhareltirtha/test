@@ -1,0 +1,20 @@
+{
+    "name": "DA MIMI'",
+    "description": "",
+    "address": "15, Via Del Bosco - 56029 Santa Croce Sull'Arno (PI)",
+    "streetAddress": "15, Via Del Bosco",
+    "postalCode": "56029",
+    "addressLocality": "Santa Croce Sull'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.71343,
+        "lon": 10.77862
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 31136"
+    ],
+    "rating": ""
+}

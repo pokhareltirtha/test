@@ -1,0 +1,20 @@
+{
+    "name": "LA TIGRE",
+    "description": "",
+    "address": "245, Via Porta San Marco - 51100 Pistoia (PT)",
+    "streetAddress": "245, Via Porta San Marco",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93865,
+        "lon": 10.92451
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 358794"
+    ],
+    "rating": ""
+}

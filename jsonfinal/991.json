@@ -1,0 +1,21 @@
+{
+    "name": "VILLA CAMPESTRI SRL",
+    "description": "",
+    "address": "19, Localita' Campestri - 50039 Vicchio (FI)",
+    "streetAddress": "19, Localita' Campestri",
+    "postalCode": "50039",
+    "addressLocality": "Vicchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.90701,
+        "lon": 11.43974
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8490109",
+        "055 8490108"
+    ],
+    "rating": ""
+}

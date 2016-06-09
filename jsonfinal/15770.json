@@ -1,0 +1,22 @@
+{
+    "name": "SENZA TEMPO",
+    "description": "",
+    "address": "174, Via Tosco Romagnola - 56012 Fornacette (PI)",
+    "streetAddress": "174, Via Tosco Romagnola",
+    "postalCode": "56012",
+    "addressLocality": "Fornacette",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67062,
+        "lon": 10.5808
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 420121",
+        "0587 420114"
+    ],
+    "rating": ""
+}

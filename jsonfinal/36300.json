@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE SABATINI",
+    "description": "Ristorante storico Sabatini di Firenze in via Panzani 9/a, solida e sana tradizione di gran qualità, per un’esperienza che non dimenticherete.",
+    "address": "9/A, V. Panzani - 50123 Firenze (FI)",
+    "streetAddress": "9/A, V. Panzani",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77423,
+        "lon": 11.25082
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 211559"
+    ],
+    "rating": ""
+}

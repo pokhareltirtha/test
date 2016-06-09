@@ -1,0 +1,20 @@
+{
+    "name": "LANDI NICOLA",
+    "description": "",
+    "address": "35, Via Guidacci - 50021 Barberino Val D'Elsa (FI)",
+    "streetAddress": "35, Via Guidacci",
+    "postalCode": "50021",
+    "addressLocality": "Barberino Val D'Elsa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.51341,
+        "lon": 11.0975
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8073017"
+    ],
+    "rating": ""
+}

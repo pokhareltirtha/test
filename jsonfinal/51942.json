@@ -1,0 +1,20 @@
+{
+    "name": "SALOON S.R.L.",
+    "description": "",
+    "address": "Via Pesciatina - 55012 Lunata (LU)",
+    "streetAddress": "Via Pesciatina",
+    "postalCode": "55012",
+    "addressLocality": "Lunata",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.85646,
+        "lon": 10.57224
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 936526"
+    ],
+    "rating": ""
+}

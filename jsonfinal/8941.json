@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE WANG CHAO S.A.S. DI CHEN XIAOMEI & C.",
+    "description": "",
+    "address": "132, Via Filzi Fabio - 59100 Prato (PO)",
+    "streetAddress": "132, Via Filzi Fabio",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88887,
+        "lon": 11.08092
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 603011"
+    ],
+    "rating": ""
+}

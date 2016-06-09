@@ -1,0 +1,20 @@
+{
+    "name": "A TUTTA PIZZA",
+    "description": "A Tutta Pizza si trova in v. Gramsci, 142 a Lari. A disposizione per: compleanni, feste private e qualsiasi evento anche il mercoledì sera su prenotazione.",
+    "address": "142, V. Gramsci - 56035 Lari (PI)",
+    "streetAddress": "142, V. Gramsci",
+    "postalCode": "56035",
+    "addressLocality": "Lari",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.60509,
+        "lon": 10.58584
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 616499"
+    ],
+    "rating": ""
+}

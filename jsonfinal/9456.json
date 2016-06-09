@@ -1,0 +1,21 @@
+{
+    "name": "ASSO DI LAGATTA E MARULLI SAS",
+    "description": "",
+    "address": "58, Via Puccini Niccolo' - 51100 Pistoia (PT)",
+    "streetAddress": "58, Via Puccini Niccolo'",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9311,
+        "lon": 10.9099
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 1780418",
+        "389 1969079"
+    ],
+    "rating": ""
+}

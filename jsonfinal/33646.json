@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LA BOTTEGHINA",
+    "description": "",
+    "address": "416, Via Montorsoli - 50036 Vaglia (FI)",
+    "streetAddress": "416, Via Montorsoli",
+    "postalCode": "50036",
+    "addressLocality": "Vaglia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8454,
+        "lon": 11.2906
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 401644"
+    ],
+    "rating": ""
+}

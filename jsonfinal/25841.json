@@ -1,0 +1,20 @@
+{
+    "name": "BENZAID HOCINE",
+    "description": "",
+    "address": "39/R, Via Faenza - 50123 Firenze (FI)",
+    "streetAddress": "39/R, Via Faenza",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77611,
+        "lon": 11.25201
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 217746"
+    ],
+    "rating": ""
+}

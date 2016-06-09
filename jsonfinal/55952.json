@@ -1,0 +1,21 @@
+{
+    "name": "ALBERGO RISTORANTE ITALIA DI PASQUINI & C. S.N.C.",
+    "description": "",
+    "address": "26, Piazza Potente - 50066 Reggello (FI)",
+    "streetAddress": "26, Piazza Potente",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.68316,
+        "lon": 11.53711
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 868022",
+        "055 868594"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA GIOTTO",
+    "description": "",
+    "address": "57, Corso Del Popolo - 50039 Vicchio (FI)",
+    "streetAddress": "57, Corso Del Popolo",
+    "postalCode": "50039",
+    "addressLocality": "Vicchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.93313,
+        "lon": 11.46514
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 844195"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LE PIASTRELLE",
+    "description": "",
+    "address": "57, Via Pieve A Celle - 51100 Pistoia (PT)",
+    "streetAddress": "57, Via Pieve A Celle",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92562,
+        "lon": 10.88586
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 572099"
+    ],
+    "rating": ""
+}

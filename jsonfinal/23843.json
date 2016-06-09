@@ -1,0 +1,20 @@
+{
+    "name": "LA BOTTEGA DI PONZALLA DI MIKE ZSOMBOR SAS",
+    "description": "",
+    "address": "1, Via Ponzalla - 50038 Scarperia (FI)",
+    "streetAddress": "1, Via Ponzalla",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.99471,
+        "lon": 11.35531
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8468250"
+    ],
+    "rating": ""
+}

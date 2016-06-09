@@ -1,0 +1,20 @@
+{
+    "name": "DA GIANNI",
+    "description": "",
+    "address": "47, Via Di Barberino - 50041 Calenzano (FI)",
+    "streetAddress": "47, Via Di Barberino",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.92847,
+        "lon": 11.20008
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8876908"
+    ],
+    "rating": ""
+}

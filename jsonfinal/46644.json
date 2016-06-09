@@ -1,0 +1,20 @@
+{
+    "name": "BAR PIZZERIA RE PUB",
+    "description": "",
+    "address": "62, Via Del Corso-Lagaro - 40035 Lagaro (BO)",
+    "streetAddress": "62, Via Del Corso-Lagaro",
+    "postalCode": "40035",
+    "addressLocality": "Lagaro",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.21687,
+        "lon": 11.17703
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "0534 897138"
+    ],
+    "rating": ""
+}

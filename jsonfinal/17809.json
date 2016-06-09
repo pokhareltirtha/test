@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL LATINI",
+    "description": "A Firenze la trattoria centenaria per assaporare i piatti della cucina tradizionale toscana, bistecche fiorentine e carne alla brace per tutti i gusti.",
+    "address": "6/R, V. Palchetti - 50123 Firenze (FI)",
+    "streetAddress": "6/R, V. Palchetti",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77146,
+        "lon": 11.24931
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 210916"
+    ],
+    "rating": "4.3"
+}

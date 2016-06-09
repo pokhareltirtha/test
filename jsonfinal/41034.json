@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ORLANDO",
+    "description": "",
+    "address": "Via Di Monteloro, 13 - 50065 Bagnacavallo (FI)",
+    "streetAddress": "Via Di Monteloro, 13",
+    "postalCode": "50065",
+    "addressLocality": "Bagnacavallo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.81824,
+        "lon": 11.3733
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8309056"
+    ],
+    "rating": ""
+}

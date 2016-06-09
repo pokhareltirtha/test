@@ -1,0 +1,20 @@
+{
+    "name": "SERENDEPICO",
+    "description": "",
+    "address": "36, Via Della Chiesa Di Gragnano - 55012 Capannori (LU)",
+    "streetAddress": "36, Via Della Chiesa Di Gragnano",
+    "postalCode": "55012",
+    "addressLocality": "Capannori",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.87191,
+        "lon": 10.62325
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 975026"
+    ],
+    "rating": "3.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "ALLO SBARAGLIO DI SBARAGLI PAOLO",
+    "description": "",
+    "address": "283, Via Senese - 53036 Poggibonsi (SI)",
+    "streetAddress": "283, Via Senese",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.45793,
+        "lon": 11.15666
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 983515"
+    ],
+    "rating": ""
+}

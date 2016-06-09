@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ANTICO BARILE",
+    "description": "Locale storico della città posto a pochi passi da piazza della Signoria e piazza Duomo offre in un ambiente completamente ristrutturato in stile rustico-elegante sia piatti tipici della tradizione tos...",
+    "address": "40/R, V. Cerchi - 50122 Firenze (FI)",
+    "streetAddress": "40/R, V. Cerchi",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77134,
+        "lon": 11.25611
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 213142"
+    ],
+    "rating": "4.0"
+}

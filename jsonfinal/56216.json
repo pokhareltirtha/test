@@ -1,0 +1,20 @@
+{
+    "name": "GRAN CAFE'",
+    "description": "",
+    "address": "9, Via Dell'Oleandro - 52025 Montevarchi (AR)",
+    "streetAddress": "9, Via Dell'Oleandro",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.53339,
+        "lon": 11.56217
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 980999"
+    ],
+    "rating": ""
+}

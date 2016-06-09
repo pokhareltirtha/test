@@ -1,0 +1,22 @@
+{
+    "name": "L'ARIETE",
+    "description": "",
+    "address": "9, Via Enrico Mattei - 56038 Ponsacco (PI)",
+    "streetAddress": "9, Via Enrico Mattei",
+    "postalCode": "56038",
+    "addressLocality": "Ponsacco",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.62827,
+        "lon": 10.62791
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 731177",
+        "338 2238750"
+    ],
+    "rating": "5.0"
+}

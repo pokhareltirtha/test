@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE RIVER SNC DI GUERRERA VITALINA E PERUGINI M.",
+    "description": "",
+    "address": "111, Localita' Persignano-Malva - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "111, Localita' Persignano-Malva",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.55055,
+        "lon": 11.58833
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 969390"
+    ],
+    "rating": ""
+}

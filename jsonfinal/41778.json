@@ -1,0 +1,20 @@
+{
+    "name": "DE PROFUNDIS srl",
+    "description": "Il Ristorante Cafè è situato al centro del paese di Figline Valdarno, da noi puoi fare dalla colazione alla cena.",
+    "address": "4, P. San Francesco D'Assisi - 50063 Figline E Incisa Valdarno (FI)",
+    "streetAddress": "4, P. San Francesco D'Assisi",
+    "postalCode": "50063",
+    "addressLocality": "Figline E Incisa Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61832,
+        "lon": 11.47276
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9152077"
+    ],
+    "rating": ""
+}

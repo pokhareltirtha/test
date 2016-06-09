@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA ROSA DEI VENTI",
+    "description": "",
+    "address": "5, Piazza A.Costa - 40021 Tossignano (BO)",
+    "streetAddress": "5, Piazza A.Costa",
+    "postalCode": "40021",
+    "addressLocality": "Tossignano",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.27244,
+        "lon": 11.60348
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0542 91550"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "TORRE AL SASSO",
+    "description": "",
+    "address": "51, Via Montetrini - 50065 Molino Del Piano (FI)",
+    "streetAddress": "51, Via Montetrini",
+    "postalCode": "50065",
+    "addressLocality": "Molino Del Piano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.81176,
+        "lon": 11.39985
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8300086"
+    ],
+    "rating": ""
+}

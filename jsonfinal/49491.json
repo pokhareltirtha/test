@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA E CONTORNI DI DAVI STELLARIO",
+    "description": "",
+    "address": "144/A, Via Dalmazia - 51100 Pistoia (PT)",
+    "streetAddress": "144/A, Via Dalmazia",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93969,
+        "lon": 10.90958
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 25997"
+    ],
+    "rating": ""
+}

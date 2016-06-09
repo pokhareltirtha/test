@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA RISTORANTE L'AMORINO",
+    "description": "",
+    "address": "5, P. L. Manara - 50018 Scandicci (FI)",
+    "streetAddress": "5, P. L. Manara",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7565,
+        "lon": 11.18774
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2579075",
+        "342 9796600"
+    ],
+    "rating": ""
+}

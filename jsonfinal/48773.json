@@ -1,0 +1,20 @@
+{
+    "name": "EM TANGO S.R.L.",
+    "description": "",
+    "address": "21, Viale Paoli Pasquale - 50137 Firenze (FI)",
+    "streetAddress": "21, Viale Paoli Pasquale",
+    "postalCode": "50137",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77836,
+        "lon": 11.28386
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 0517121"
+    ],
+    "rating": ""
+}

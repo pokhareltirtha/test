@@ -1,0 +1,20 @@
+{
+    "name": "RISTOSTAR",
+    "description": "",
+    "address": "222, Via Pietramarina - 50059 Vinci (FI)",
+    "streetAddress": "222, Via Pietramarina",
+    "postalCode": "50059",
+    "addressLocality": "Vinci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76249,
+        "lon": 10.9469
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 508340"
+    ],
+    "rating": ""
+}

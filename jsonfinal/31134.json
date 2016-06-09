@@ -1,0 +1,20 @@
+{
+    "name": "LA RANA DE FILETTO",
+    "description": "",
+    "address": "Localita Tirasasso - 52017 Pratovecchio Stia (AR)",
+    "streetAddress": "Localita Tirasasso",
+    "postalCode": "52017",
+    "addressLocality": "Pratovecchio Stia",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.78809,
+        "lon": 11.72202
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 504505"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE OSTERIA DE' MEDICI",
+    "description": "",
+    "address": "13, Piazza Giuseppe E Vinicio Capanni - 50064 Incisa In Val D'Arno (FI)",
+    "streetAddress": "13, Piazza Giuseppe E Vinicio Capanni",
+    "postalCode": "50064",
+    "addressLocality": "Incisa In Val D'Arno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.65655,
+        "lon": 11.44976
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8335780"
+    ],
+    "rating": ""
+}

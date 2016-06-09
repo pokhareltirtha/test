@@ -1,0 +1,20 @@
+{
+    "name": "CIRIGNI CLAUDIO",
+    "description": "",
+    "address": "69, Via Roma - 52025 Montevarchi (AR)",
+    "streetAddress": "69, Via Roma",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.52362,
+        "lon": 11.56709
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 901826"
+    ],
+    "rating": ""
+}

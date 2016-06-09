@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA MAGENTA DI SQUARCI LUCIA",
+    "description": "",
+    "address": "58, Via Donizetti Gaetano - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "58, Via Donizetti Gaetano",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.81994,
+        "lon": 11.14557
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8970017"
+    ],
+    "rating": ""
+}

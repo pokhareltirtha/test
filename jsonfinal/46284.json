@@ -1,0 +1,20 @@
+{
+    "name": "DOTTOR PIZZA S.R.L.",
+    "description": "",
+    "address": "67/R, Viale De Amicis Edmondo - 50137 Firenze (FI)",
+    "streetAddress": "67/R, Viale De Amicis Edmondo",
+    "postalCode": "50137",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77855,
+        "lon": 11.29019
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 6540849"
+    ],
+    "rating": ""
+}

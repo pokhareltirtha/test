@@ -1,0 +1,22 @@
+{
+    "name": "RISTORANTE PIZZERIA STELLA DEL SUD",
+    "description": "Nella nostra pizzeria potrete gustare la vera pizza napoletana cotta nel forno a legna...assaporare specialità di pesce a Prato.",
+    "address": "76, V. M. Degli Organi - 59100 Galciana (PO)",
+    "streetAddress": "76, V. M. Degli Organi",
+    "postalCode": "59100",
+    "addressLocality": "Galciana",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.8867,
+        "lon": 11.05538
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie",
+        ""
+    ],
+    "telephone": [
+        "0574 815337"
+    ],
+    "rating": ""
+}

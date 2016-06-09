@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA BOTTEGA",
+    "description": "Il Ristorante La Bottega, cucina sana e genuina, è un locale che gode di un panorama mozzafiato a Volpaia.",
+    "address": "1, P. Della Torre - 53017 Radda In Chianti (SI)",
+    "streetAddress": "1, P. Della Torre",
+    "postalCode": "53017",
+    "addressLocality": "Radda In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.51657,
+        "lon": 11.38119
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 735602"
+    ],
+    "rating": ""
+}

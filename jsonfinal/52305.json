@@ -1,0 +1,20 @@
+{
+    "name": "CITI ALESSIO",
+    "description": "",
+    "address": "6, Via Sturzo Don - 56025 Pontedera (PI)",
+    "streetAddress": "6, Via Sturzo Don",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66601,
+        "lon": 10.6569
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 484312"
+    ],
+    "rating": ""
+}

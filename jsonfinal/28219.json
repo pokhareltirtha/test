@@ -1,0 +1,20 @@
+{
+    "name": "LA CASETTA DI BIONDI MASSIMO",
+    "description": "",
+    "address": "6, Parco Giuseppe Ugonia - 48013 Brisighella (RA)",
+    "streetAddress": "6, Parco Giuseppe Ugonia",
+    "postalCode": "48013",
+    "addressLocality": "Brisighella",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.22164,
+        "lon": 11.77088
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 80250"
+    ],
+    "rating": "4.5"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIAZZA DEL VINO",
+    "description": "",
+    "address": "Via Torretta, 18/R - 50137 Firenze (FI)",
+    "streetAddress": "Via Torretta, 18/R",
+    "postalCode": "50137",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77302,
+        "lon": 11.28297
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 671404"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "AL CAVALLINO ROSSO",
+    "description": "",
+    "address": "Via Tosco Romagnola Ovest, 90 - 56025 La Rotta (PI)",
+    "streetAddress": "Via Tosco Romagnola Ovest, 90",
+    "postalCode": "56025",
+    "addressLocality": "La Rotta",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66092,
+        "lon": 10.68229
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 52549"
+    ],
+    "rating": "2.0"
+}

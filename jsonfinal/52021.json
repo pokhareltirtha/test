@@ -1,0 +1,20 @@
+{
+    "name": "ARMELLIN ALDO",
+    "description": "",
+    "address": "246, Via Tosco Romagnola - 56021 Cascina (PI)",
+    "streetAddress": "246, Via Tosco Romagnola",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67659,
+        "lon": 10.54602
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 710018"
+    ],
+    "rating": ""
+}

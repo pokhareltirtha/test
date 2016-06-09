@@ -1,0 +1,21 @@
+{
+    "name": "PAPRIKA",
+    "description": "",
+    "address": "44, Strada Provinciale Colligiana - 53035 Monteriggioni (SI)",
+    "streetAddress": "44, Strada Provinciale Colligiana",
+    "postalCode": "53035",
+    "addressLocality": "Monteriggioni",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.40169,
+        "lon": 11.17405
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 304679",
+        "0577 307449"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL GRIFONE DI VITIELLO CARLO & C. SAS",
+    "description": "",
+    "address": "52, Via Fra' Bartolommeo - 50132 Firenze (FI)",
+    "streetAddress": "52, Via Fra' Bartolommeo",
+    "postalCode": "50132",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78502,
+        "lon": 11.26807
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 573257"
+    ],
+    "rating": ""
+}

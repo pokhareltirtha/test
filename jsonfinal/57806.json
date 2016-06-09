@@ -1,0 +1,20 @@
+{
+    "name": "PRINCE AMICO",
+    "description": "",
+    "address": "12/R, Via Delle Brache - 50122 Firenze (FI)",
+    "streetAddress": "12/R, Via Delle Brache",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76831,
+        "lon": 11.25928
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 268000"
+    ],
+    "rating": ""
+}

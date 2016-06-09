@@ -1,0 +1,20 @@
+{
+    "name": "I PALMENTI",
+    "description": "Specialità tradizionali toscane nel ristorante I Palmenti di Montelupo Fiorentino, pesce e bistecche alla fiorentina per riempirsi a sazietà.",
+    "address": "67, V. Della Pesa - 50056 Montelupo Fiorentino (FI)",
+    "streetAddress": "67, V. Della Pesa",
+    "postalCode": "50056",
+    "addressLocality": "Montelupo Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72368,
+        "lon": 11.02618
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 913326"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "ALIGASTROPIZZA BAR",
+    "description": "",
+    "address": "41, Via Montorsolii - 53036 Poggibonsi (SI)",
+    "streetAddress": "41, Via Montorsolii",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46833,
+        "lon": 11.14667
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 938392"
+    ],
+    "rating": "5.0"
+}

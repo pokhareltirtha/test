@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA CHIAROSCURO",
+    "description": "Venite a provare l'ottima pizza cotta nel forno a legna e le specialità di pesce nel nostro ristorante di Calenzano (FI).",
+    "address": "31, V. Fogliaia - 50041 Calenzano (FI)",
+    "streetAddress": "31, V. Fogliaia",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85491,
+        "lon": 11.157
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8873300"
+    ],
+    "rating": "5.0"
+}

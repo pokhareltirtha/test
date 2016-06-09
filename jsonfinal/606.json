@@ -1,0 +1,22 @@
+{
+    "name": "LA BOTTEGA DI MONTEGIOVI",
+    "description": "",
+    "address": "74, Via Palagio In Colognole - 50065 Pontassieve (FI)",
+    "streetAddress": "74, Via Palagio In Colognole",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.87828,
+        "lon": 11.4827
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8319632",
+        "338 7471276"
+    ],
+    "rating": ""
+}

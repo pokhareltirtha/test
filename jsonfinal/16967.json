@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE VILLA OTIUM",
+    "description": "Il ristorante bed & breakfast situato nel cuore della campagna di Volterra che ospita eventi e feste private.",
+    "address": "Loc. S. Cipriano - 56048 Volterra (PI)",
+    "streetAddress": "Loc. S. Cipriano",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.43132,
+        "lon": 10.8456
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 88575"
+    ],
+    "rating": ""
+}

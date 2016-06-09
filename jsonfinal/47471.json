@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA BECCACECI",
+    "description": "",
+    "address": "6, Via Venezia - 59013 Montemurlo (PO)",
+    "streetAddress": "6, Via Venezia",
+    "postalCode": "59013",
+    "addressLocality": "Montemurlo",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.90939,
+        "lon": 11.0347
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 680266"
+    ],
+    "rating": ""
+}

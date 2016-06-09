@@ -1,0 +1,20 @@
+{
+    "name": "CERTINI ALESSANDRA",
+    "description": "",
+    "address": "7, Via Battisti - 52014 Poppi (AR)",
+    "streetAddress": "7, Via Battisti",
+    "postalCode": "52014",
+    "addressLocality": "Poppi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.72286,
+        "lon": 11.76579
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 529467"
+    ],
+    "rating": ""
+}

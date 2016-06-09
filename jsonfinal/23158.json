@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE I CINQUE SENSI",
+    "description": "",
+    "address": "3, Via Pier Capponi - 50132 Firenze (FI)",
+    "streetAddress": "3, Via Pier Capponi",
+    "postalCode": "50132",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77895,
+        "lon": 11.26804
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 5000315"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "CORRADO CRISTANIA",
+    "description": "",
+    "address": "253, Via Firenze - 59100 Prato (PO)",
+    "streetAddress": "253, Via Firenze",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86687,
+        "lon": 11.12819
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 560752"
+    ],
+    "rating": ""
+}

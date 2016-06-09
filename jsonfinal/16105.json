@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA NAPOLIMANIA DI ANDRISANI ALESSANDRO",
+    "description": "",
+    "address": "57, Via Volterrana - 56030 Selvatelle (PI)",
+    "streetAddress": "57, Via Volterrana",
+    "postalCode": "56030",
+    "addressLocality": "Selvatelle",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.5598,
+        "lon": 10.69264
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 653421"
+    ],
+    "rating": ""
+}

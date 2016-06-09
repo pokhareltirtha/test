@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA MARTINICCA",
+    "description": "Presso il Ristorante la Martinicca è possibile gustare la vera bistecca alla fiorentina. La cucina tradizionale toscana a Firenze, nel centro storico.",
+    "address": "27/R, V. Sole - 50123 Firenze (FI)",
+    "streetAddress": "27/R, V. Sole",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7723,
+        "lon": 11.25007
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 218928"
+    ],
+    "rating": ""
+}

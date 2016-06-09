@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA \" DA MONICA\"",
+    "description": "Specialità di pesce, di carne e pizze fragranti a Poggibonsi.",
+    "address": "V. Marmolada - 53036 Poggibonsi (SI)",
+    "streetAddress": "V. Marmolada",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.47793,
+        "lon": 11.14662
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "328 0334304"
+    ],
+    "rating": "5.0"
+}

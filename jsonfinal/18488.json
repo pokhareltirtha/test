@@ -1,0 +1,21 @@
+{
+    "name": "LA GATTA NERA",
+    "description": "",
+    "address": "59, Via La Diga - 52022 Cipriano (AR)",
+    "streetAddress": "59, Via La Diga",
+    "postalCode": "52022",
+    "addressLocality": "Cipriano",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.5738,
+        "lon": 11.49405
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9620198",
+        "331 8767267"
+    ],
+    "rating": ""
+}

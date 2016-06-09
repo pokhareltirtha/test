@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE VALSELLUSTRA",
+    "description": "Il ristorante di Casalfiumanese che cucina per i propri clienti piatti dal gusto inconfondibile preparati con ingredienti genuini.",
+    "address": "16, V. Valsellustra - 40020 Casalfiumanese (BO)",
+    "streetAddress": "16, V. Valsellustra",
+    "postalCode": "40020",
+    "addressLocality": "Casalfiumanese",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.32827,
+        "lon": 11.57919
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0542 684073"
+    ],
+    "rating": ""
+}

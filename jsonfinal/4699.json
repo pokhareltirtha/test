@@ -1,0 +1,20 @@
+{
+    "name": "TUTTO BONO",
+    "description": "",
+    "address": "6, Via Nicolo Copernico - 50019 Osmannoro (FI)",
+    "streetAddress": "6, Via Nicolo Copernico",
+    "postalCode": "50019",
+    "addressLocality": "Osmannoro",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80572,
+        "lon": 11.17854
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3436725"
+    ],
+    "rating": ""
+}

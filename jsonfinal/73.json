@@ -1,0 +1,21 @@
+{
+    "name": "LA FURBA",
+    "description": "",
+    "address": "99, Via Statale - 59016 Poggetto (PO)",
+    "streetAddress": "99, Via Statale",
+    "postalCode": "59016",
+    "addressLocality": "Poggetto",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.82798,
+        "lon": 11.03937
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8705316"
+    ],
+    "rating": ""
+}

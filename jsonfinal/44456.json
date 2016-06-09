@@ -1,0 +1,20 @@
+{
+    "name": "LA CASA DEL PROSCIUTTO",
+    "description": "",
+    "address": "1, Via Ponte A Vicchio - 50039 Ponte A Vicchio (FI)",
+    "streetAddress": "1, Via Ponte A Vicchio",
+    "postalCode": "50039",
+    "addressLocality": "Ponte A Vicchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.92803,
+        "lon": 11.46714
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 844031"
+    ],
+    "rating": ""
+}

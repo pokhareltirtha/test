@@ -1,0 +1,21 @@
+{
+    "name": "AL FRESCO",
+    "description": "",
+    "address": "99, Borgo Pinti - 50121 Firenze (FI)",
+    "streetAddress": "99, Borgo Pinti",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77694,
+        "lon": 11.26639
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 26261",
+        "055 2626450"
+    ],
+    "rating": ""
+}

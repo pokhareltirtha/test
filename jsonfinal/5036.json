@@ -1,0 +1,20 @@
+{
+    "name": "CERI LEONARDO",
+    "description": "",
+    "address": "Snc, Via Gattinella - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "Snc, Via Gattinella",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8464,
+        "lon": 11.15072
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 5867135"
+    ],
+    "rating": ""
+}

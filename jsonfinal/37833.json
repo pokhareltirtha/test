@@ -1,0 +1,20 @@
+{
+    "name": "DA BUZZANCA",
+    "description": "",
+    "address": "31, Via Lucciano - 50025 Montespertoli (FI)",
+    "streetAddress": "31, Via Lucciano",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.64736,
+        "lon": 11.14661
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 670267"
+    ],
+    "rating": ""
+}

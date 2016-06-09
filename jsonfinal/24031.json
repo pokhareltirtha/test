@@ -1,0 +1,20 @@
+{
+    "name": "LA CARABACCIA",
+    "description": "",
+    "address": "24  Viale Magnani - Casciana Terme (PI)",
+    "streetAddress": "24, Viale Magnani",
+    "postalCode": "",
+    "addressLocality": "Casciana Terme",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.52615,
+        "lon": 10.61982
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 645164"
+    ],
+    "rating": ""
+}

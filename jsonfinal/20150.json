@@ -1,0 +1,20 @@
+{
+    "name": "BE' MI TEMPI",
+    "description": "",
+    "address": "28, Viale La Comune Di Parigi - 50018 Badia A Settimo (FI)",
+    "streetAddress": "28, Viale La Comune Di Parigi",
+    "postalCode": "50018",
+    "addressLocality": "Badia A Settimo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77728,
+        "lon": 11.14623
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 790122"
+    ],
+    "rating": "2.0"
+}

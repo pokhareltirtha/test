@@ -1,0 +1,20 @@
+{
+    "name": "SERAFINA",
+    "description": "",
+    "address": "40, Via Pisana - 56025 Pontedera (PI)",
+    "streetAddress": "40, Via Pisana",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.6647,
+        "lon": 10.62776
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 53152"
+    ],
+    "rating": ""
+}

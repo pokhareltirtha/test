@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PASSO DELLA FUTA DAL 1890",
+    "description": "Il Ristorante Passo Della Futa, il ristorante dove gustare la cucina tipica toscana, a Firenzuola (FI) in v. Traversa Futa, 1492.",
+    "address": "1492, V. Traversa Futa - 50033 Firenzuola (FI)",
+    "streetAddress": "1492, V. Traversa Futa",
+    "postalCode": "50033",
+    "addressLocality": "Firenzuola",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.09329,
+        "lon": 11.2783
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 815255"
+    ],
+    "rating": ""
+}

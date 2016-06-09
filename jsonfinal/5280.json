@@ -1,0 +1,21 @@
+{
+    "name": "ALEX'S PIZZA DI BILLONE ALESSANDRO",
+    "description": "",
+    "address": "177, Piazza Vittorio Veneto - 51036 Larciano (PT)",
+    "streetAddress": "177, Piazza Vittorio Veneto",
+    "postalCode": "51036",
+    "addressLocality": "Larciano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.82462,
+        "lon": 10.87721
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 859175"
+    ],
+    "rating": ""
+}

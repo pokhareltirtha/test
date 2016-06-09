@@ -1,0 +1,21 @@
+{
+    "name": "IMMOBILIARE VILLA ROMANTICA SRL",
+    "description": "",
+    "address": "42, Via Del Poggetto - 51018 Pieve A Nievole (PT)",
+    "streetAddress": "42, Via Del Poggetto",
+    "postalCode": "51018",
+    "addressLocality": "Pieve A Nievole",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88126,
+        "lon": 10.78805
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 4279756",
+        "0572 521484"
+    ],
+    "rating": ""
+}

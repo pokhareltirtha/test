@@ -1,0 +1,21 @@
+{
+    "name": "DA ROSANNA",
+    "description": "",
+    "address": "1, Via Della Scienza - 56022 Castelfranco Di Sotto (PI)",
+    "streetAddress": "1, Via Della Scienza",
+    "postalCode": "56022",
+    "addressLocality": "Castelfranco Di Sotto",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69996,
+        "lon": 10.76109
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "348 0463602",
+        "0571 471105"
+    ],
+    "rating": ""
+}

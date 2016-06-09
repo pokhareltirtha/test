@@ -1,0 +1,20 @@
+{
+    "name": "LA CANTINA DI GO' WINE BAR & FOOD",
+    "description": "",
+    "address": "6, Via O.Brogiotti - 56011 Calci (PI)",
+    "streetAddress": "6, Via O.Brogiotti",
+    "postalCode": "56011",
+    "addressLocality": "Calci",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.72878,
+        "lon": 10.51789
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 937869"
+    ],
+    "rating": ""
+}

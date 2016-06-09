@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA DEL DUOMO",
+    "description": "",
+    "address": "21/R, Piazza S. Giovanni - 50123 Firenze (FI)",
+    "streetAddress": "21/R, Piazza S. Giovanni",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77346,
+        "lon": 11.25505
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 210719"
+    ],
+    "rating": ""
+}

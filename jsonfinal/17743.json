@@ -1,0 +1,20 @@
+{
+    "name": "LUNGARNO 23",
+    "description": "",
+    "address": "23, Lungarno Torrigiani - 50125 Firenze (FI)",
+    "streetAddress": "23, Lungarno Torrigiani",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76626,
+        "lon": 11.25632
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2345957"
+    ],
+    "rating": "4.0"
+}

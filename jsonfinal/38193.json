@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE DA PAMPURIO",
+    "description": "A Rignano sull'Arno in v. Torri (str. Provinciale 90) 6, il Ristorante da Pampurio propone specialità della cucina toscana a pranzo ed a cena.",
+    "address": "6, V. Torri (Str. Provinciale 90) - 50067 Rignano Sull'Arno (FI)",
+    "streetAddress": "6, V. Torri (Str. Provinciale 90)",
+    "postalCode": "50067",
+    "addressLocality": "Rignano Sull'Arno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74184,
+        "lon": 11.44316
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8305141",
+        "055 8305174"
+    ],
+    "rating": ""
+}

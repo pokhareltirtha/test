@@ -1,0 +1,20 @@
+{
+    "name": "CIRCO - LO TEATRO DEL SALE",
+    "description": "",
+    "address": "111, Via Dei Macci - 50122 Firenze (FI)",
+    "streetAddress": "111, Via Dei Macci",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77137,
+        "lon": 11.2664
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2001492"
+    ],
+    "rating": "4.0"
+}

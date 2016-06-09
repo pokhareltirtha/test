@@ -1,0 +1,20 @@
+{
+    "name": "SWEET WOK",
+    "description": "Il nuovo ristorante a Prato dove potrete trovare tutto il meglio della cucina giapponese e cinese.",
+    "address": "61, V. Valentini - 59100 Prato (PO)",
+    "streetAddress": "61, V. Valentini",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87048,
+        "lon": 11.09834
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 584834"
+    ],
+    "rating": ""
+}

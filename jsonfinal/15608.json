@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA LA LANTERNA",
+    "description": "",
+    "address": "145, Via Ca' Dei Santoni - 40048 Ca' Dei Santoni (BO)",
+    "streetAddress": "145, Via Ca' Dei Santoni",
+    "postalCode": "40048",
+    "addressLocality": "Ca' Dei Santoni",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.16437,
+        "lon": 11.23187
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0534 98203"
+    ],
+    "rating": "5.0"
+}

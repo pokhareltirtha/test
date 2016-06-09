@@ -1,0 +1,21 @@
+{
+    "name": "RE MATTO OSTERIA PIZZERIA",
+    "description": "A Firenze in vl. Dei Mille 152, Re Matto Osteria Pizzeria propone specialità di pesce e di carne della cucina toscana.",
+    "address": "152, Vl. Dei Mille - 50131 Firenze (FI)",
+    "streetAddress": "152, Vl. Dei Mille",
+    "postalCode": "50131",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7852,
+        "lon": 11.27085
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 583851"
+    ],
+    "rating": ""
+}

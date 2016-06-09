@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PERLAMORA SRL",
+    "description": "",
+    "address": "Via Golfonaia - 50064 Figline Valdarno (FI)",
+    "streetAddress": "Via Golfonaia",
+    "postalCode": "50064",
+    "addressLocality": "Figline Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.60235,
+        "lon": 11.44404
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 951904"
+    ],
+    "rating": ""
+}

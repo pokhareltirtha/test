@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA TAGLIO E ASPORTO DI CARRUBA SALVATORE",
+    "description": "",
+    "address": "103/R, Via Torcicoda - 50142 Firenze (FI)",
+    "streetAddress": "103/R, Via Torcicoda",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77705,
+        "lon": 11.21501
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 706768"
+    ],
+    "rating": ""
+}

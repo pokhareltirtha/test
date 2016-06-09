@@ -1,0 +1,21 @@
+{
+    "name": "IL NICCHIO",
+    "description": "",
+    "address": "16, Via Renato Fucini - 50059 Vinci (FI)",
+    "streetAddress": "16, Via Renato Fucini",
+    "postalCode": "50059",
+    "addressLocality": "Vinci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78603,
+        "lon": 10.92666
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 56054",
+        "0571 56681"
+    ],
+    "rating": "4.0"
+}

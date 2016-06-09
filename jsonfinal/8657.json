@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE CORSARO VERDE",
+    "description": "",
+    "address": "11, Piazza XX Settembre - 51016 Montecatini Terme (PT)",
+    "streetAddress": "11, Piazza XX Settembre",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88178,
+        "lon": 10.77195
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 911650"
+    ],
+    "rating": "5.0"
+}

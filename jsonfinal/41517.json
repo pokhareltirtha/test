@@ -1,0 +1,20 @@
+{
+    "name": "DONIZETTI PIZZERIA",
+    "description": "",
+    "address": "Via Della Resistenza, 1 - 50058 Signa (FI)",
+    "streetAddress": "Via Della Resistenza, 1",
+    "postalCode": "50058",
+    "addressLocality": "Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77797,
+        "lon": 11.09877
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "334 2554860"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LA TAVERNA DI VAGLIAGLI",
+    "description": "",
+    "address": "4, Via Del Sergente - 53019 Vagliagli (SI)",
+    "streetAddress": "4, Via Del Sergente",
+    "postalCode": "53019",
+    "addressLocality": "Vagliagli",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42178,
+        "lon": 11.34777
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 322532"
+    ],
+    "rating": ""
+}

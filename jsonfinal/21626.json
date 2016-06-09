@@ -1,0 +1,20 @@
+{
+    "name": "ALIMENTARI CECCHI",
+    "description": "",
+    "address": "50, Via Bigiano E Castel Dei Bovani - 51100 Pistoia (PT)",
+    "streetAddress": "50, Via Bigiano E Castel Dei Bovani",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94986,
+        "lon": 10.92533
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 451028"
+    ],
+    "rating": ""
+}

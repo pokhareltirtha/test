@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL COCODE'",
+    "description": "",
+    "address": "91, Via Falterona-Porrena - 52014 Poppi (AR)",
+    "streetAddress": "91, Via Falterona-Porrena",
+    "postalCode": "52014",
+    "addressLocality": "Poppi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.75036,
+        "lon": 11.74154
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 500181"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "VIA VENETO",
+    "description": "",
+    "address": "171, Via Vittorio Veneto - 56025 Pontedera (PI)",
+    "streetAddress": "171, Via Vittorio Veneto",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66822,
+        "lon": 10.64244
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 56548"
+    ],
+    "rating": ""
+}

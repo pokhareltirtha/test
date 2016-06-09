@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DA JOLANDA - ALBERGO BERTI",
+    "description": "Il Ristorante Da Jolanda Albergo Berti offre ai suoi clienti la cucina casalinga con specialità toscane in 351, Via Traversa Firenze - 50033 Firenzuola (FI).",
+    "address": "351, V. Traversa Firenze - 50033 Firenzuola (FI)",
+    "streetAddress": "351, V. Traversa Firenze",
+    "postalCode": "50033",
+    "addressLocality": "Firenzuola",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.11713,
+        "lon": 11.39619
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 815265"
+    ],
+    "rating": ""
+}

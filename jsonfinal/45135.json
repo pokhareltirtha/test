@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA LUCIGNOLO",
+    "description": "",
+    "address": "3/A, Via Giovanni Amendola - 51010 Uzzano (PT)",
+    "streetAddress": "3/A, Via Giovanni Amendola",
+    "postalCode": "51010",
+    "addressLocality": "Uzzano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87894,
+        "lon": 10.70591
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "335 1744019",
+        "0572 444140"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LE PORTE",
+    "description": "",
+    "address": "1, Localita Monte Serra - 56011 Calci (PI)",
+    "streetAddress": "1, Localita Monte Serra",
+    "postalCode": "56011",
+    "addressLocality": "Calci",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.74913,
+        "lon": 10.55021
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 3688808"
+    ],
+    "rating": ""
+}

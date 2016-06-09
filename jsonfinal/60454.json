@@ -1,0 +1,20 @@
+{
+    "name": "L'OASI DELLA PIZZA",
+    "description": "",
+    "address": "77, Strada Provinciale Pratese - 51031 Spedalino (PT)",
+    "streetAddress": "77, Strada Provinciale Pratese",
+    "postalCode": "51031",
+    "addressLocality": "Spedalino",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.91731,
+        "lon": 10.99453
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 679830"
+    ],
+    "rating": ""
+}

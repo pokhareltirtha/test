@@ -1,0 +1,21 @@
+{
+    "name": "INDIA",
+    "description": "",
+    "address": "43, Via Antonio Gramsci - 50014 Fiesole (FI)",
+    "streetAddress": "43, Via Antonio Gramsci",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.807,
+        "lon": 11.29657
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 599900",
+        "055 59258"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL GRILLO SRL",
+    "description": "",
+    "address": "50100 Firenze (FI)",
+    "streetAddress": "",
+    "postalCode": "50100",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7747,
+        "lon": 11.25051
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2729553"
+    ],
+    "rating": ""
+}

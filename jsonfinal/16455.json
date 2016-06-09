@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DA ANGELA DI CUSAI FRANCESCO",
+    "description": "",
+    "address": "36, Via S. Giuseppe - 55015 Montecarlo (LU)",
+    "streetAddress": "36, Via S. Giuseppe",
+    "postalCode": "55015",
+    "addressLocality": "Montecarlo",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.84159,
+        "lon": 10.65928
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 22177"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "FUTURA RISTORANTE PIZZERIA",
+    "description": "",
+    "address": "11, Vicolo Del Chiassarello - 59100 Tavola (PO)",
+    "streetAddress": "11, Vicolo Del Chiassarello",
+    "postalCode": "59100",
+    "addressLocality": "Tavola",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.84283,
+        "lon": 11.04569
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 755551"
+    ],
+    "rating": ""
+}

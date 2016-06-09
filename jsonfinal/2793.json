@@ -1,0 +1,20 @@
+{
+    "name": "LA MAGGIONE",
+    "description": "",
+    "address": "7, Strada Del Maggione - 53035 Monteriggioni (SI)",
+    "streetAddress": "7, Strada Del Maggione",
+    "postalCode": "53035",
+    "addressLocality": "Monteriggioni",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.39911,
+        "lon": 11.29519
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 328344"
+    ],
+    "rating": ""
+}

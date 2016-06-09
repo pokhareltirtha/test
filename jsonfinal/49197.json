@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA E COMPANY",
+    "description": "",
+    "address": "Via Volterrana - 56033 Capannoli (PI)",
+    "streetAddress": "Via Volterrana",
+    "postalCode": "56033",
+    "addressLocality": "Capannoli",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.58523,
+        "lon": 10.67646
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 606164"
+    ],
+    "rating": ""
+}

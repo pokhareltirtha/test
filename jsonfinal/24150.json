@@ -1,0 +1,20 @@
+{
+    "name": "IL MEZZO MARINAIO",
+    "description": "",
+    "address": "84, Via Volterrana Nord - 50025 Baccaiano (FI)",
+    "streetAddress": "84, Via Volterrana Nord",
+    "postalCode": "50025",
+    "addressLocality": "Baccaiano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.66457,
+        "lon": 11.0845
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 671292"
+    ],
+    "rating": ""
+}

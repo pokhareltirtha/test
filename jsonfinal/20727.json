@@ -1,0 +1,21 @@
+{
+    "name": "ARTI E MESTIERI SRL",
+    "description": "",
+    "address": "217, Frazione Tasso - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "217, Frazione Tasso",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.55055,
+        "lon": 11.58833
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9199903",
+        "055 9199769"
+    ],
+    "rating": ""
+}

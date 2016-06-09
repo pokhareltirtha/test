@@ -1,0 +1,20 @@
+{
+    "name": "DA SABA SRL",
+    "description": "",
+    "address": "165, Via S. Quirico - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "165, Via S. Quirico",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84554,
+        "lon": 11.14372
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 898496"
+    ],
+    "rating": ""
+}

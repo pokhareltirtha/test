@@ -1,0 +1,20 @@
+{
+    "name": "FRATELLI CUORE RISTORANTE PIZZERIA CAFFE'",
+    "description": "Fratelli Cuore è un ristorante, pizzeria e caffè aperto 24 ore al giorno con menu di carne alla griglia, pizze cotte a legna e pasta fatta in casa.",
+    "address": "P. Stazione - 50123 Firenze (FI)",
+    "streetAddress": "P. Stazione",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77595,
+        "lon": 11.24764
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2670264"
+    ],
+    "rating": ""
+}

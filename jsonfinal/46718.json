@@ -1,0 +1,20 @@
+{
+    "name": "SAPORE DI PIZZA DI BAGLIONI SIMONE",
+    "description": "",
+    "address": "8, Via Vittorio Veneto - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "8, Via Vittorio Veneto",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82099,
+        "lon": 11.13857
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8960006"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE GIAPPONESE ETTO",
+    "description": "Sushi e specialità orientali a Firenze.",
+    "address": "1, V. Cesalpino - 50134 Firenze (FI)",
+    "streetAddress": "1, V. Cesalpino",
+    "postalCode": "50134",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79696,
+        "lon": 11.24464
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "388 8149828"
+    ],
+    "rating": "5.0"
+}

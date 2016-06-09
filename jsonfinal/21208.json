@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA I RIFFAIOLI",
+    "description": "L'osteria dove assaporare la vera cucina fiorentina e regionale con piatti con un un pò di estro e vivacità e che seguono le stagioni, vieni a Firenze.",
+    "address": "2/R, V. Ponte Alle Riffe - 50133 Firenze (FI)",
+    "streetAddress": "2/R, V. Ponte Alle Riffe",
+    "postalCode": "50133",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78907,
+        "lon": 11.27079
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 5088070",
+        "392 9797517"
+    ],
+    "rating": ""
+}

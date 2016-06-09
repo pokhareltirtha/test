@@ -1,0 +1,22 @@
+{
+    "name": "RODOLFO",
+    "description": "",
+    "address": "9, Via Santa Maria - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "9, Via Santa Maria",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82419,
+        "lon": 11.13371
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8966615",
+        "055 8954549"
+    ],
+    "rating": ""
+}

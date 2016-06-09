@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE OSTERIA DELLA BISTECCA",
+    "description": "",
+    "address": "3, Viale Luigi Gori - 50127 Firenze (FI)",
+    "streetAddress": "3, Viale Luigi Gori",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79634,
+        "lon": 11.20578
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 315657"
+    ],
+    "rating": ""
+}

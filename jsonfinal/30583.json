@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA DEL PORCELLINO",
+    "description": "",
+    "address": "7, Via Val Di Lamona - 50123 Firenze (FI)",
+    "streetAddress": "7, Via Val Di Lamona",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77002,
+        "lon": 11.25381
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 291371",
+        "055 264148"
+    ],
+    "rating": ""
+}

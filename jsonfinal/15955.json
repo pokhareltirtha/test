@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA VECCHIA NOCE",
+    "description": "",
+    "address": "39, Localita Noce - 56010 Vicopisano (PI)",
+    "streetAddress": "39, Localita Noce",
+    "postalCode": "56010",
+    "addressLocality": "Vicopisano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69048,
+        "lon": 10.53392
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 788229"
+    ],
+    "rating": ""
+}

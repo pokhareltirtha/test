@@ -1,0 +1,21 @@
+{
+    "name": "SCALZI E GNUDI BISTROT",
+    "description": "Bistrot cucina mediterranea, pranzi di lavoro in centro, bistecca alla fiorentina da Scalzi e 'Gnudi a Firenze.",
+    "address": "93/R, V. Cavour - 50129 Firenze (FI)",
+    "streetAddress": "93/R, V. Cavour",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78121,
+        "lon": 11.26083
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "348 9522261",
+        "389 9422733"
+    ],
+    "rating": "5.0"
+}

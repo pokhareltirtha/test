@@ -1,0 +1,20 @@
+{
+    "name": "LO STRETTOIO",
+    "description": "",
+    "address": "7, Via Di Serpiolle - 50141 Firenze (FI)",
+    "streetAddress": "7, Via Di Serpiolle",
+    "postalCode": "50141",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82105,
+        "lon": 11.25362
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4250044"
+    ],
+    "rating": "4.8"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL COCCODRILLO",
+    "description": "",
+    "address": "7, Via Della Scala - 50123 Firenze (FI)",
+    "streetAddress": "7, Via Della Scala",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77354,
+        "lon": 11.24839
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 261870"
+    ],
+    "rating": ""
+}

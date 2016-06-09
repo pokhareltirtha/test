@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA SCHIACCIA PIZZA DI BORETTI MONICA",
+    "description": "",
+    "address": "878, Via Pesciatina - 55012 Gragnano (LU)",
+    "streetAddress": "878, Via Pesciatina",
+    "postalCode": "55012",
+    "addressLocality": "Gragnano",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.87265,
+        "lon": 10.63848
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 435002"
+    ],
+    "rating": "5.0"
+}

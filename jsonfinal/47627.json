@@ -1,0 +1,20 @@
+{
+    "name": "BAR PIZZALPONTE DI CIALDI ROBERTA",
+    "description": "",
+    "address": "27, Via Larga - 51039 Quarrata (PT)",
+    "streetAddress": "27, Via Larga",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.84871,
+        "lon": 10.9848
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 774370"
+    ],
+    "rating": ""
+}

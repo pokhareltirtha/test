@@ -1,0 +1,21 @@
+{
+    "name": "HAPPYDAY",
+    "description": "",
+    "address": "110, Via Cassia Nord - 53035 Monteriggioni (SI)",
+    "streetAddress": "110, Via Cassia Nord",
+    "postalCode": "53035",
+    "addressLocality": "Monteriggioni",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.38317,
+        "lon": 11.23961
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 052045",
+        "0577 318494"
+    ],
+    "rating": ""
+}

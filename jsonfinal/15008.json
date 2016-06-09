@@ -1,0 +1,20 @@
+{
+    "name": "ZUSHI",
+    "description": "",
+    "address": "6/A, Viale Belfiore - 50144 Firenze (FI)",
+    "streetAddress": "6/A, Viale Belfiore",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77928,
+        "lon": 11.24102
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "055 334716"
+    ],
+    "rating": ""
+}

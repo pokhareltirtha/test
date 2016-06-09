@@ -1,0 +1,20 @@
+{
+    "name": "BAR LA PALAZZA",
+    "description": "",
+    "address": "28, Via Idice - 40063 Monghidoro (BO)",
+    "streetAddress": "28, Via Idice",
+    "postalCode": "40063",
+    "addressLocality": "Monghidoro",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.22172,
+        "lon": 11.35225
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "051 6551462"
+    ],
+    "rating": ""
+}

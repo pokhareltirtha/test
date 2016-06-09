@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA ACCADI",
+    "description": "Una calda ed ospitale trattoria tipica toscana nel centro storico della città di Firenze… perla del Rinascimento italiano.",
+    "address": "56/R, Bg. Pinti - 50121 Firenze (FI)",
+    "streetAddress": "56/R, Bg. Pinti",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77364,
+        "lon": 11.26342
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2478410"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "SHOW CLUB RESTAURANT",
+    "description": "",
+    "address": "Via Di Mezzo, 59 - 56012 Sardina (PI)",
+    "streetAddress": "Via Di Mezzo, 59",
+    "postalCode": "56012",
+    "addressLocality": "Sardina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69428,
+        "lon": 10.62133
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "347 0440346"
+    ],
+    "rating": ""
+}

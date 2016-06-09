@@ -1,0 +1,20 @@
+{
+    "name": "CIBREO SRL",
+    "description": "",
+    "address": "118/R, Via Dei Macci - 50122 Firenze (FI)",
+    "streetAddress": "118/R, Via Dei Macci",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77124,
+        "lon": 11.26632
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2341100"
+    ],
+    "rating": "4.0"
+}

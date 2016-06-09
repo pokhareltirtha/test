@@ -1,0 +1,20 @@
+{
+    "name": "LA BRACE",
+    "description": "",
+    "address": "2, Via Delle Olimpiadi - Zona Stadio - 51100 Pistoia (PT)",
+    "streetAddress": "2, Via Delle Olimpiadi - Zona Stadio",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94191,
+        "lon": 10.91601
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 26352"
+    ],
+    "rating": "4.0"
+}

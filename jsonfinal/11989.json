@@ -1,0 +1,20 @@
+{
+    "name": "EL PATIO",
+    "description": "",
+    "address": "77, Via Delle Scerbaie - 50054 Fucecchio (FI)",
+    "streetAddress": "77, Via Delle Scerbaie",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78502,
+        "lon": 10.75844
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 296052"
+    ],
+    "rating": ""
+}

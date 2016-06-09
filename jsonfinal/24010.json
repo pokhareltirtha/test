@@ -1,0 +1,21 @@
+{
+    "name": "ACQUACOTTA",
+    "description": "",
+    "address": "27, Via Cesare Battisti - 56038 Ponsacco (PI)",
+    "streetAddress": "27, Via Cesare Battisti",
+    "postalCode": "56038",
+    "addressLocality": "Ponsacco",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.6193,
+        "lon": 10.63326
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 734563",
+        "0587 730582"
+    ],
+    "rating": ""
+}

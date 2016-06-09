@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA REGINELLA",
+    "description": "Presso la Pizzeria Reginella, nel cuore di Empoli, troverete la vera pizza napoletana fatta nel forno a legna e preparata con ingredienti che la rendono unica. Tra le tante pizze c'è anche il famoso \"...",
+    "address": "4, V. Bardini - 50053 Empoli (FI)",
+    "streetAddress": "4, V. Bardini",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72181,
+        "lon": 10.95077
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 1720879"
+    ],
+    "rating": "5.0"
+}

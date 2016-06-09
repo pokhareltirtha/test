@@ -1,0 +1,21 @@
+{
+    "name": "VINANDRO RISTORANTE TRATTORIA OSTERIA E MERENDE",
+    "description": "Il Ristorante Vinandro localizzato a Fiesole in p. Mino Da Fiesole 33 è enoteca, osteria e vineria di qualità.",
+    "address": "33, P. Mino Da Fiesole - 50014 Fiesole (FI)",
+    "streetAddress": "33, P. Mino Da Fiesole",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80697,
+        "lon": 11.29221
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 59121",
+        "338 1299869"
+    ],
+    "rating": "4.0"
+}

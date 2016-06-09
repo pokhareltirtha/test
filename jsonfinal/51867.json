@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA SCHIACCINOTECA",
+    "description": "La Pizzeria Schiaccinoteca si trova in p. Treviso, 8 a Pistoia (PT). Offre ottime qualità di pizza al taglio e primi piatti anche da asporto.",
+    "address": "8, P. Treviso - 51100 Pistoia (PT)",
+    "streetAddress": "8, P. Treviso",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92913,
+        "lon": 10.91474
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 24698"
+    ],
+    "rating": ""
+}

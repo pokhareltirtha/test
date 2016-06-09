@@ -1,0 +1,20 @@
+{
+    "name": "FANTASTIC PIZZA DI COTUGNO CARMELA",
+    "description": "",
+    "address": "31, Via Roma - 51031 Agliana (PT)",
+    "streetAddress": "31, Via Roma",
+    "postalCode": "51031",
+    "addressLocality": "Agliana",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90466,
+        "lon": 11.00384
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 679246"
+    ],
+    "rating": ""
+}

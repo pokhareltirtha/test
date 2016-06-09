@@ -1,0 +1,20 @@
+{
+    "name": "PARK HOTEL LE SORGENTI",
+    "description": "",
+    "address": "198, Via Matteotti - 51018 Pieve A Nievole (PT)",
+    "streetAddress": "198, Via Matteotti",
+    "postalCode": "51018",
+    "addressLocality": "Pieve A Nievole",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87866,
+        "lon": 10.78739
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 951116"
+    ],
+    "rating": ""
+}

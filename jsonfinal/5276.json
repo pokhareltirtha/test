@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA IL PINONE",
+    "description": "",
+    "address": "Via Montalbano, 65 - 51039 Quarrata (PT)",
+    "streetAddress": "Via Montalbano, 65",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86113,
+        "lon": 10.98668
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8712094"
+    ],
+    "rating": ""
+}

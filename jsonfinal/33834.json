@@ -1,0 +1,21 @@
+{
+    "name": "SPORT",
+    "description": "",
+    "address": "333, Via Val D Orme - 50053 Casenuove (FI)",
+    "streetAddress": "333, Via Val D Orme",
+    "postalCode": "50053",
+    "addressLocality": "Casenuove",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.69045,
+        "lon": 10.96048
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 6160489",
+        "0571 921936"
+    ],
+    "rating": ""
+}

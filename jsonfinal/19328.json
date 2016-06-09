@@ -1,0 +1,20 @@
+{
+    "name": "LA REGGIA DEGLI ETRUSCHI",
+    "description": "",
+    "address": "18, Via San Francesco - 50014 Fiesole (FI)",
+    "streetAddress": "18, Via San Francesco",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8073,
+        "lon": 11.29053
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 59385"
+    ],
+    "rating": ""
+}

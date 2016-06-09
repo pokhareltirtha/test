@@ -1,0 +1,20 @@
+{
+    "name": "ANTICA OSTERIA DI BAZZINO",
+    "description": "",
+    "address": "63, Via Montorsoli - 53036 Poggibonsi (SI)",
+    "streetAddress": "63, Via Montorsoli",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46793,
+        "lon": 11.14675
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 936877"
+    ],
+    "rating": ""
+}

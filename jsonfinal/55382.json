@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA DA LILLO DI VARGA VASILICA IUSTINA",
+    "description": "",
+    "address": "25, Piazza Amendola Giovanni - 50054 Fucecchio (FI)",
+    "streetAddress": "25, Piazza Amendola Giovanni",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72822,
+        "lon": 10.80994
+    },
+    "categories": [
+        "Gastronomie, salumerie e rosticcerie"
+    ],
+    "telephone": [
+        "346 5293044"
+    ],
+    "rating": ""
+}

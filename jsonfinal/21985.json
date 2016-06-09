@@ -1,0 +1,21 @@
+{
+    "name": "AMERICAN SHOW",
+    "description": "",
+    "address": "643, Via Francesca Sud - 51015 Monsummano Terme (PT)",
+    "streetAddress": "643, Via Francesca Sud",
+    "postalCode": "51015",
+    "addressLocality": "Monsummano Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.85508,
+        "lon": 10.82266
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "337 676777",
+        "338 8673535"
+    ],
+    "rating": ""
+}

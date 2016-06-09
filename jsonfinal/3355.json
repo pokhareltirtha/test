@@ -1,0 +1,20 @@
+{
+    "name": "CAFFE' DESIDERIO",
+    "description": "",
+    "address": "5, Piazza Niccolo Tommaseo - 50135 Settignano (FI)",
+    "streetAddress": "5, Piazza Niccolo Tommaseo",
+    "postalCode": "50135",
+    "addressLocality": "Settignano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78285,
+        "lon": 11.32093
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 697687"
+    ],
+    "rating": ""
+}

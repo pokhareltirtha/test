@@ -1,0 +1,21 @@
+{
+    "name": "CAMPING BELSITO",
+    "description": "",
+    "address": "1, Via Delle Vigne - 51016 Montecatini Terme (PT)",
+    "streetAddress": "1, Via Delle Vigne",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90461,
+        "lon": 10.78816
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "328 5768602",
+        "0572 67373"
+    ],
+    "rating": ""
+}

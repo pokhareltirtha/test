@@ -1,0 +1,20 @@
+{
+    "name": "SPLASH",
+    "description": "",
+    "address": "6, Lungarno Aldo Moro - 50136 Firenze (FI)",
+    "streetAddress": "6, Lungarno Aldo Moro",
+    "postalCode": "50136",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76698,
+        "lon": 11.29206
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 674200"
+    ],
+    "rating": ""
+}

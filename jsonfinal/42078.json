@@ -1,0 +1,21 @@
+{
+    "name": "CASA MASI",
+    "description": "",
+    "address": "Via Collerucci, 53 - 50050 Montaione (FI)",
+    "streetAddress": "Via Collerucci, 53",
+    "postalCode": "50050",
+    "addressLocality": "Montaione",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58348,
+        "lon": 10.87785
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 4248659",
+        "0571 677042"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "CICCIO PASTICCIO DI DILETTO LOREDANA",
+    "description": "",
+    "address": "57, Via Roma - 51031 Agliana (PT)",
+    "streetAddress": "57, Via Roma",
+    "postalCode": "51031",
+    "addressLocality": "Agliana",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90488,
+        "lon": 11.00403
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 718350"
+    ],
+    "rating": ""
+}

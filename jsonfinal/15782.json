@@ -1,0 +1,20 @@
+{
+    "name": "CASA DEL POPOLO",
+    "description": "",
+    "address": "57, Via Di Corniola - 50053 Empoli (FI)",
+    "streetAddress": "57, Via Di Corniola",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.69972,
+        "lon": 10.93829
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 922202"
+    ],
+    "rating": ""
+}

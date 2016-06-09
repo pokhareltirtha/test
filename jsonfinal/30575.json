@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE BOCCON' DIVINO",
+    "description": "Nel nostro ristorante immerso nella campagna Toscana potrete gustare squisiti piatti di pesce a Pelago in provincia di Firenze.",
+    "address": "10, V. Cafaggiolo - 50060 Pelago (FI)",
+    "streetAddress": "10, V. Cafaggiolo",
+    "postalCode": "50060",
+    "addressLocality": "Pelago",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77115,
+        "lon": 11.46636
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8311279"
+    ],
+    "rating": "4.0"
+}

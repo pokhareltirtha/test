@@ -1,0 +1,20 @@
+{
+    "name": "BAR PIZZERIA AFFRICO DI CINTURA MARCO & C. S.N.C.",
+    "description": "",
+    "address": "20, Viale Fanti Manfredo - 50137 Firenze (FI)",
+    "streetAddress": "20, Viale Fanti Manfredo",
+    "postalCode": "50137",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77835,
+        "lon": 11.28761
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "055 5385923"
+    ],
+    "rating": ""
+}

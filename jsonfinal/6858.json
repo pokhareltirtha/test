@@ -1,0 +1,20 @@
+{
+    "name": "LA PANTERA VIOLA",
+    "description": "",
+    "address": "10, Via Antonio Pacinotti - 50131 Firenze (FI)",
+    "streetAddress": "10, Via Antonio Pacinotti",
+    "postalCode": "50131",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78342,
+        "lon": 11.27212
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 588846"
+    ],
+    "rating": ""
+}

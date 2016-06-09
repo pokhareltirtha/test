@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA CATALANA SNC",
+    "description": "",
+    "address": "38, Via Gramsci Antonio - 50050 Gambassi Terme (FI)",
+    "streetAddress": "38, Via Gramsci Antonio",
+    "postalCode": "50050",
+    "addressLocality": "Gambassi Terme",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.53591,
+        "lon": 10.9511
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 638725"
+    ],
+    "rating": ""
+}

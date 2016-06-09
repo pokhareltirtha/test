@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LO STUZZICHINO",
+    "description": "",
+    "address": "3, Via Delle Rose - 40048 San Benedetto Val Di Sambro (BO)",
+    "streetAddress": "3, Via Delle Rose",
+    "postalCode": "40048",
+    "addressLocality": "San Benedetto Val Di Sambro",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.21321,
+        "lon": 11.23638
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0534 95227"
+    ],
+    "rating": ""
+}

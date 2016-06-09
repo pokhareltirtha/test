@@ -1,0 +1,20 @@
+{
+    "name": "BIOENOTECA VOLPAIA",
+    "description": "",
+    "address": "Località Volpaia - 53017 Radda In Chianti (SI)",
+    "streetAddress": "Località Volpaia",
+    "postalCode": "53017",
+    "addressLocality": "Radda In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.51811,
+        "lon": 11.3828
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 738066"
+    ],
+    "rating": ""
+}

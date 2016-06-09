@@ -1,0 +1,20 @@
+{
+    "name": "IL GIARDINO DI BARBANO",
+    "description": "",
+    "address": "3, Piazza Dell Indipendenza - 50129 Firenze (FI)",
+    "streetAddress": "3, Piazza Dell Indipendenza",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77939,
+        "lon": 11.25417
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 486752"
+    ],
+    "rating": "3.0"
+}

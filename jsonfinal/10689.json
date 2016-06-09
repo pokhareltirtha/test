@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE MANZONI SNC DI GHERARDESCHI & C.",
+    "description": "",
+    "address": "34, Via Quasimodo Salvatore - 51100 Pistoia (PT)",
+    "streetAddress": "34, Via Quasimodo Salvatore",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93203,
+        "lon": 10.93699
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 28101"
+    ],
+    "rating": "2.0"
+}

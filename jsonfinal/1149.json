@@ -1,0 +1,21 @@
+{
+    "name": "I PORTICI RISTORANTE PIZZERIA",
+    "description": "La delizia del pescato più fresco, delle cozze più stuzzicanti e la fragranza di un’ottima pizza per le vostre serate in compagnia a Figline e Incisa Valdarno.",
+    "address": "40, V. Fabbrini - 50063 Figline Valdarno (FI)",
+    "streetAddress": "40, V. Fabbrini",
+    "postalCode": "50063",
+    "addressLocality": "Figline Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61745,
+        "lon": 11.4738
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9155775"
+    ],
+    "rating": ""
+}

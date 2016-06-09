@@ -1,0 +1,20 @@
+{
+    "name": "ART HOTEL MIRO'",
+    "description": "",
+    "address": "7, Via Degli Olmi - 50041 Calenzano (FI)",
+    "streetAddress": "7, Via Degli Olmi",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8444,
+        "lon": 11.15881
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8869434"
+    ],
+    "rating": ""
+}

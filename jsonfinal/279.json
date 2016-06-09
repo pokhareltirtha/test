@@ -1,0 +1,20 @@
+{
+    "name": "CHALET BELLARIVA",
+    "description": "",
+    "address": "11, Lung'Arno Colombo Cristoforo - 50136 Firenze (FI)",
+    "streetAddress": "11, Lung'Arno Colombo Cristoforo",
+    "postalCode": "50136",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7747,
+        "lon": 11.25051
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 667082"
+    ],
+    "rating": ""
+}

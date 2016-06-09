@@ -1,0 +1,20 @@
+{
+    "name": "LA PERGOLA",
+    "description": "",
+    "address": "100, Via Roma - 56025 Pontedera (PI)",
+    "streetAddress": "100, Via Roma",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66126,
+        "lon": 10.63397
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 290627"
+    ],
+    "rating": ""
+}

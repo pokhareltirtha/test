@@ -1,0 +1,21 @@
+{
+    "name": "I LAGHI DELLA TRANQUILLITA'",
+    "description": "Ristorante nella campagna di Reggello (FI) con annessi appartamenti in stile rurale toscano dotate di comfort e vista sul lago per i vostri weekend di relax.",
+    "address": "58, V. Manzoni - 50066 Reggello (FI)",
+    "streetAddress": "58, V. Manzoni",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.64859,
+        "lon": 11.51627
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8656720"
+    ],
+    "rating": "4.8"
+}

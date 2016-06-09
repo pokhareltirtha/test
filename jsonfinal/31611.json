@@ -1,0 +1,21 @@
+{
+    "name": "ROSTICCERIA RISTORANTE RENZINO DI RICCI DANIELE",
+    "description": "",
+    "address": "4, Piazza Enrico Toti - 52025 Montevarchi (AR)",
+    "streetAddress": "4, Piazza Enrico Toti",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.52562,
+        "lon": 11.56886
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "340 4705900",
+        "055 984022"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LA DEGUSTERIA",
+    "description": "",
+    "address": "24, Piazza Pecori Giraldi - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "24, Piazza Pecori Giraldi",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.95174,
+        "lon": 11.39197
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8456212"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CAFFE' GIUSTI ... DAL 1898",
+    "description": "Locale storico dove da sempre sono di casa la buona cucina e l'ospitalità a Montecatini Terme (PT).",
+    "address": "24, P. Giusti - 51016 Montecatini Terme (PT)",
+    "streetAddress": "24, P. Giusti",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89667,
+        "lon": 10.78934
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 70186"
+    ],
+    "rating": ""
+}

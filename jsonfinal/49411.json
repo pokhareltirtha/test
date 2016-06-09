@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA ARTIGIANA DI CARAVAGLIO PASQUALE",
+    "description": "",
+    "address": "9, Piazza S. Agostino - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "9, Piazza S. Agostino",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42192,
+        "lon": 11.12424
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 921326"
+    ],
+    "rating": ""
+}

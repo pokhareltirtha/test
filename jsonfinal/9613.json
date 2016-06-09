@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA IL BOSCHETTO",
+    "description": "",
+    "address": "25, Via Del Casorino - 51010 Massa E Cozzile (PT)",
+    "streetAddress": "25, Via Del Casorino",
+    "postalCode": "51010",
+    "addressLocality": "Massa E Cozzile",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9101,
+        "lon": 10.76382
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "328 1366708",
+        "0572 60383"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "BORGO ANTICO",
+    "description": "",
+    "address": "6, Piazza Santo Spirito - 50125 Firenze (FI)",
+    "streetAddress": "6, Piazza Santo Spirito",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76649,
+        "lon": 11.24751
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 210437"
+    ],
+    "rating": "5.0"
+}

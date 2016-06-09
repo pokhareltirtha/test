@@ -1,0 +1,21 @@
+{
+    "name": "ALBERGO RISTORANTE PASQUI snc",
+    "description": "L'Hotel Pasqui mette a disposizione camere arredate elegantemente, con ogni comodità e comfort, dalle quali si può ammirare un suggestivo e pittoresco paesaggio con boschi, campi e prati. Il raffinato...",
+    "address": "29, V. Mazzini - 47017 Rocca San Casciano (FC)",
+    "streetAddress": "29, V. Mazzini",
+    "postalCode": "47017",
+    "addressLocality": "Rocca San Casciano",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.06066,
+        "lon": 11.84469
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0543 960103",
+        "0543 951442"
+    ],
+    "rating": "5.0"
+}

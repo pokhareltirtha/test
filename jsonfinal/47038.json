@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA PEPEROSA",
+    "description": "",
+    "address": "5, Via Uguccione Della Faggiola - 50126 Firenze (FI)",
+    "streetAddress": "5, Via Uguccione Della Faggiola",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76256,
+        "lon": 11.29028
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "055 6814484"
+    ],
+    "rating": ""
+}

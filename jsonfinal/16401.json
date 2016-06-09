@@ -1,0 +1,20 @@
+{
+    "name": "LE TENTAZIONI E DOPPIO SENSO",
+    "description": "Due locali in uno...angolo bar + ristorante per gustare sfiziosi aperitivi o momenti di relax all'insegna della buona cucina...siamo a Empoli",
+    "address": "199/17, V. Sanzio - 50053 Empoli (FI)",
+    "streetAddress": "199/17, V. Sanzio",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71577,
+        "lon": 10.92276
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 944537"
+    ],
+    "rating": ""
+}

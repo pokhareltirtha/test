@@ -1,0 +1,20 @@
+{
+    "name": "VILLA PITIANA - HOTEL RISTORANTE",
+    "description": "Nel nostro ristorante immerso nel verde potrete gustare ottimi piatti a Reggello in provincia di Firenze.",
+    "address": "7, V. Prov. Tosi - 50066 Reggello (FI)",
+    "streetAddress": "7, V. Prov. Tosi",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74057,
+        "lon": 11.50017
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 860259"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA IL DESIDERIO",
+    "description": "",
+    "address": "1, Via XXIV Maggio - 51019 Ponte Buggianese (PT)",
+    "streetAddress": "1, Via XXIV Maggio",
+    "postalCode": "51019",
+    "addressLocality": "Ponte Buggianese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83958,
+        "lon": 10.74673
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 930548",
+        "338 3593900"
+    ],
+    "rating": ""
+}

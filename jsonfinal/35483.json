@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA CASAMATTA",
+    "description": "Il Ristorante Pizzeria Casamatta si trova in 360, v. Aretina a Firenze (FI), tradizionali piatti della cucina toscana accompagnati da ottimi vini.",
+    "address": "360, V. Aretina - 50136 Firenze (FI)",
+    "streetAddress": "360, V. Aretina",
+    "postalCode": "50136",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76852,
+        "lon": 11.32176
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6505186"
+    ],
+    "rating": "4.4"
+}

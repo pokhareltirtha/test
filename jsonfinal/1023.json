@@ -1,0 +1,21 @@
+{
+    "name": "LA REPUBBLICA",
+    "description": "Il Ristorante Pizzeria La Repubblica prepara deliziose specialità toscane e ottime pizze che sapranno soddisfare anche i palati più esigenti a Firenze.",
+    "address": "20/R, V. Oche - 50122 Firenze (FI)",
+    "streetAddress": "20/R, V. Oche",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7722,
+        "lon": 11.25599
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2396683"
+    ],
+    "rating": ""
+}

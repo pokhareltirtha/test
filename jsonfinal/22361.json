@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA  L'OFFICINA DEL GUSTO  DI PEDRO S.R.L.",
+    "description": "",
+    "address": "1, Via S. Maria A Castagnolo - 50055 Lastra A Signa (FI)",
+    "streetAddress": "1, Via S. Maria A Castagnolo",
+    "postalCode": "50055",
+    "addressLocality": "Lastra A Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76934,
+        "lon": 11.12072
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8707649",
+        "055 8720236"
+    ],
+    "rating": ""
+}

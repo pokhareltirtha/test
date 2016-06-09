@@ -1,0 +1,20 @@
+{
+    "name": "LA TERRAZZA",
+    "description": "",
+    "address": "223, Via Baccheretana - 59015 Carmignano (PO)",
+    "streetAddress": "223, Via Baccheretana",
+    "postalCode": "59015",
+    "addressLocality": "Carmignano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.81962,
+        "lon": 11.00295
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8706258"
+    ],
+    "rating": ""
+}

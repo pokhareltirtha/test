@@ -1,0 +1,20 @@
+{
+    "name": "SANFREDIAVINO",
+    "description": "",
+    "address": "10, Via Pisana - 50143 Firenze (FI)",
+    "streetAddress": "10, Via Pisana",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77057,
+        "lon": 11.23976
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 229111"
+    ],
+    "rating": ""
+}

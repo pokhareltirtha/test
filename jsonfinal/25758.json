@@ -1,0 +1,20 @@
+{
+    "name": "DA NANDO",
+    "description": "",
+    "address": "Via Adorno Poggio - 56022 Castelfranco Di Sotto (PI)",
+    "streetAddress": "Via Adorno Poggio",
+    "postalCode": "56022",
+    "addressLocality": "Castelfranco Di Sotto",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.73659,
+        "lon": 10.74577
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 297786"
+    ],
+    "rating": ""
+}

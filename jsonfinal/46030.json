@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE MASON",
+    "description": "",
+    "address": "50, Via Ferruccio Parri - 51010 Sant'Allucio (PT)",
+    "streetAddress": "50, Via Ferruccio Parri",
+    "postalCode": "51010",
+    "addressLocality": "Sant'Allucio",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88432,
+        "lon": 10.69752
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 451363"
+    ],
+    "rating": ""
+}

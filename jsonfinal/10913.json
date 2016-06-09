@@ -1,0 +1,20 @@
+{
+    "name": "CIBECCHINI S.A.S.",
+    "description": "",
+    "address": "20, Via Bagnano - 50052 Certaldo (FI)",
+    "streetAddress": "20, Via Bagnano",
+    "postalCode": "50052",
+    "addressLocality": "Certaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.55143,
+        "lon": 11.12492
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 660072"
+    ],
+    "rating": ""
+}

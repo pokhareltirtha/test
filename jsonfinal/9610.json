@@ -1,0 +1,20 @@
+{
+    "name": "EMME HOTEL S.R.L.",
+    "description": "",
+    "address": "30, Via Indipendenza - 51016 Montecatini Terme (PT)",
+    "streetAddress": "30, Via Indipendenza",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87984,
+        "lon": 10.77454
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 8799008"
+    ],
+    "rating": ""
+}

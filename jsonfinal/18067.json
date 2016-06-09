@@ -1,0 +1,20 @@
+{
+    "name": "M.C.L.",
+    "description": "",
+    "address": "73, Via Moncioni - 52025 Moncioni (AR)",
+    "streetAddress": "73, Via Moncioni",
+    "postalCode": "52025",
+    "addressLocality": "Moncioni",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.48551,
+        "lon": 11.50875
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9702185"
+    ],
+    "rating": ""
+}

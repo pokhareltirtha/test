@@ -1,0 +1,20 @@
+{
+    "name": "IL RITROVO",
+    "description": "",
+    "address": "77, Via Querciola - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "77, Via Querciola",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83447,
+        "lon": 11.18858
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4210144"
+    ],
+    "rating": ""
+}

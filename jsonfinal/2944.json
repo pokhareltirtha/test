@@ -1,0 +1,21 @@
+{
+    "name": "RIVOIRE",
+    "description": "",
+    "address": "4, Piazza Della Signoria - 50122 Firenze (FI)",
+    "streetAddress": "4, Piazza Della Signoria",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76978,
+        "lon": 11.25542
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 287437",
+        "055 214412"
+    ],
+    "rating": ""
+}

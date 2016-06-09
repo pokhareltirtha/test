@@ -1,0 +1,20 @@
+{
+    "name": "ALBERGO RISTORANTE POLI snc",
+    "description": "L'albergo ristorante dove gustare una cucina casalinga tradizionale a San Benedetto Val di Sambro in provincia di Bologna.",
+    "address": "5/B, P. Madonna Della Neve - 40048 Madonna Dei Fornelli (BO)",
+    "streetAddress": "5/B, P. Madonna Della Neve",
+    "postalCode": "40048",
+    "addressLocality": "Madonna Dei Fornelli",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.20033,
+        "lon": 11.26046
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0534 94114"
+    ],
+    "rating": ""
+}

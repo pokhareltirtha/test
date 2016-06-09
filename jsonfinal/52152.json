@@ -1,0 +1,20 @@
+{
+    "name": "LORIERI PIERA",
+    "description": "",
+    "address": "32, Via Don Giovanni Minzoni - 56011 Calci (PI)",
+    "streetAddress": "32, Via Don Giovanni Minzoni",
+    "postalCode": "56011",
+    "addressLocality": "Calci",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.73377,
+        "lon": 10.51844
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 6152601"
+    ],
+    "rating": ""
+}

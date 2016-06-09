@@ -1,0 +1,20 @@
+{
+    "name": "LA CANTINELLA",
+    "description": "",
+    "address": "70,,Frazione Montemarciano - 52028 Montemarciano (AR)",
+    "streetAddress": "70,  Frazione Montemarciano",
+    "postalCode": "52028",
+    "addressLocality": "Montemarciano",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.58395,
+        "lon": 11.60663
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9172705"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "L'ANTICA TRATTORIA",
+    "description": "",
+    "address": "23, Piazza Arnolfo Di Cambio - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "23, Piazza Arnolfo Di Cambio",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42248,
+        "lon": 11.12654
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 923747"
+    ],
+    "rating": ""
+}

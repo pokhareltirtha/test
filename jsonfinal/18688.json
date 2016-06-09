@@ -1,0 +1,20 @@
+{
+    "name": "AGRITURISMO TAVERNA DI BIBBIANO",
+    "description": "Agriturismo La Taverna di Bibbiano, l'ambiente romantico per gustare la cucina toscana a Colle di Val d'Elsa (SI).",
+    "address": "35, Loc. Bibbiano - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "35, Loc. Bibbiano",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.44245,
+        "lon": 11.09789
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 959164"
+    ],
+    "rating": ""
+}

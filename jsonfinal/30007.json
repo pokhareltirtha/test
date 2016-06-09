@@ -1,0 +1,21 @@
+{
+    "name": "TORRE GUELFA SRL",
+    "description": "",
+    "address": "20, Via S. Martino - 50064 Figline Valdarno (FI)",
+    "streetAddress": "20, Via S. Martino",
+    "postalCode": "50064",
+    "addressLocality": "Figline Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.62119,
+        "lon": 11.45113
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 951112",
+        "055 9507727"
+    ],
+    "rating": ""
+}

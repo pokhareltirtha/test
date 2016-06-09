@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA ALOISIUS",
+    "description": "Presso il Ristorante Pizzeria Aloisius, in Via Pistoiese 2/R a Firenze è possibile gustare deliziose colazioni, menù di mare e di terra e favolose pizze.",
+    "address": "2/R, V. Pistoiese - 50145 Firenze (FI)",
+    "streetAddress": "2/R, V. Pistoiese",
+    "postalCode": "50145",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79406,
+        "lon": 11.18753
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 308653"
+    ],
+    "rating": "3.7"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA CANTINETTA DI PASSIGNANO",
+    "description": "Il locale, nato nel marzo del 2010 come cocktelleria e preparazione aperitivi si è trasformato con successo in un ottimo ristorante di pesce fresco.",
+    "address": "1/A, Str. Greve - 50028 Tavarnelle Val Di Pesa (FI)",
+    "streetAddress": "1/A, Str. Greve",
+    "postalCode": "50028",
+    "addressLocality": "Tavarnelle Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.59231,
+        "lon": 11.25483
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8071975",
+        "393 9300816"
+    ],
+    "rating": ""
+}

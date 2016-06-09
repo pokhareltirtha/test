@@ -1,0 +1,20 @@
+{
+    "name": "MALBORGHETTO",
+    "description": "",
+    "address": "4, Via Monteluco - 53013 Gaiole In Chianti (SI)",
+    "streetAddress": "4, Via Monteluco",
+    "postalCode": "53013",
+    "addressLocality": "Gaiole In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.43331,
+        "lon": 11.40013
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 746201"
+    ],
+    "rating": ""
+}

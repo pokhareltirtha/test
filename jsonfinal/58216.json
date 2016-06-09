@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA CLO",
+    "description": "",
+    "address": "2, Via Aleramo - 59013 Montemurlo (PO)",
+    "streetAddress": "2, Via Aleramo",
+    "postalCode": "59013",
+    "addressLocality": "Montemurlo",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.90829,
+        "lon": 11.03002
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 689345"
+    ],
+    "rating": ""
+}

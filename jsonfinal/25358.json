@@ -1,0 +1,20 @@
+{
+    "name": "MR. SUSHI SRL",
+    "description": "",
+    "address": "5, Piazza Primo Maggio - 50145 Firenze (FI)",
+    "streetAddress": "5, Piazza Primo Maggio",
+    "postalCode": "50145",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79485,
+        "lon": 11.16922
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3436316"
+    ],
+    "rating": ""
+}

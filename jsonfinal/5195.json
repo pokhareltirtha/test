@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE I COLLI DI VALERIO E CLAUDIA ANDREINI SNC",
+    "description": "",
+    "address": "Via Colli - 51037 Montale (PT)",
+    "streetAddress": "Via Colli",
+    "postalCode": "51037",
+    "addressLocality": "Montale",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.95992,
+        "lon": 11.03614
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 596248"
+    ],
+    "rating": ""
+}

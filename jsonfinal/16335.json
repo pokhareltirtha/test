@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DA LORENZO",
+    "description": "A Montecatini Terme, Da Lorenzo è un'elegante ristorante, dove si gustano piatti della migliore cucina italiana a base di pesce e cruditè di mare sempre freschi",
+    "address": "45, C. Roma - 51016 Montecatini Terme (PT)",
+    "streetAddress": "45, C. Roma",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88424,
+        "lon": 10.76869
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 79557"
+    ],
+    "rating": ""
+}

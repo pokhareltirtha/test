@@ -1,0 +1,20 @@
+{
+    "name": "FLORA OSTERIA-PIZZERIA WINE BAR DI ALAIA FLORA",
+    "description": "",
+    "address": "85, Via Pellico Silvio - 50059 Vinci (FI)",
+    "streetAddress": "85, Via Pellico Silvio",
+    "postalCode": "50059",
+    "addressLocality": "Vinci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72523,
+        "lon": 10.93807
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 902503"
+    ],
+    "rating": ""
+}

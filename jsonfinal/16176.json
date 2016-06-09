@@ -1,0 +1,22 @@
+{
+    "name": "RISTORANTE PIZZERIA DA IRENE",
+    "description": "Ristorante Pizzeria Da Irene: cucina tipica lucchese e pizza con forno a legna, serate a tema, aperitivi e molto altro, a Capannori in via Comunale Nuova.",
+    "address": "15, V. Comunale Nuova - 55060 Guamo (LU)",
+    "streetAddress": "15, V. Comunale Nuova",
+    "postalCode": "55060",
+    "addressLocality": "Guamo",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.88087,
+        "lon": 10.60157
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 403653",
+        "328 5369636"
+    ],
+    "rating": ""
+}

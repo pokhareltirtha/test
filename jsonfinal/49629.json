@@ -1,0 +1,20 @@
+{
+    "name": "RAGAZZO DARIO & C. SAS",
+    "description": "",
+    "address": "153, Via Di Montecarlo - 51017 Pescia (PT)",
+    "streetAddress": "153, Via Di Montecarlo",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87409,
+        "lon": 10.68608
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 451775"
+    ],
+    "rating": ""
+}

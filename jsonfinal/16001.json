@@ -1,0 +1,21 @@
+{
+    "name": "SCIABOLINO",
+    "description": "",
+    "address": "18, Via Ormicello - 50053 Casenuove (FI)",
+    "streetAddress": "18, Via Ormicello",
+    "postalCode": "50053",
+    "addressLocality": "Casenuove",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.69268,
+        "lon": 10.95844
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 924333",
+        "0571 922723"
+    ],
+    "rating": "4.4"
+}

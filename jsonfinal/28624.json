@@ -1,0 +1,20 @@
+{
+    "name": "CAFAGGI DAL 1922",
+    "description": "",
+    "address": "35, Via Guelfa - 50129 Firenze (FI)",
+    "streetAddress": "35, Via Guelfa",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7778,
+        "lon": 11.25441
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 294989"
+    ],
+    "rating": ""
+}

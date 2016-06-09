@@ -1,0 +1,20 @@
+{
+    "name": "FRATELLI LA BUFALA PIZZERIA RISTORANTE",
+    "description": "",
+    "address": "Via Del Dei Neri 76/R - 50122 Firenze (FI)",
+    "streetAddress": "Via Del Dei Neri 76/R",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76853,
+        "lon": 11.25722
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9063912"
+    ],
+    "rating": "4.0"
+}

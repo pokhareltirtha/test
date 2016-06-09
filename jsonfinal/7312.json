@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA AMORE MIO",
+    "description": "",
+    "address": "19, Via Francesco Cilea - 51100 Pistoia (PT)",
+    "streetAddress": "19, Via Francesco Cilea",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92902,
+        "lon": 10.8996
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "392 4749177"
+    ],
+    "rating": "4.0"
+}

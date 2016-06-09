@@ -1,0 +1,20 @@
+{
+    "name": "CAFFE' DECO'",
+    "description": "",
+    "address": "45, Piazza Della Liberta - 50129 Firenze (FI)",
+    "streetAddress": "45, Piazza Della Liberta",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78314,
+        "lon": 11.26278
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 571135"
+    ],
+    "rating": ""
+}

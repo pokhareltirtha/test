@@ -1,0 +1,20 @@
+{
+    "name": "BARRETTI IGLI",
+    "description": "",
+    "address": "46, Via Calabria - 53036 Poggibonsi (SI)",
+    "streetAddress": "46, Via Calabria",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46008,
+        "lon": 11.11098
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 934476"
+    ],
+    "rating": ""
+}

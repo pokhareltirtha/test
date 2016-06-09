@@ -1,0 +1,21 @@
+{
+    "name": "DA LIDO",
+    "description": "",
+    "address": "62  Via Livornese Ovest - Casciana Terme Lari (PI)",
+    "streetAddress": "62, Via Livornese Ovest",
+    "postalCode": "",
+    "addressLocality": "Casciana Terme Lari",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.60353,
+        "lon": 10.56987
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 616020"
+    ],
+    "rating": ""
+}

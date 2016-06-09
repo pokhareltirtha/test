@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA STRAPIZZAMI E NON SOLO DI CELATA MAURIZIO",
+    "description": "",
+    "address": "29/R, Via Dei Sette Santi - 50131 Firenze (FI)",
+    "streetAddress": "29/R, Via Dei Sette Santi",
+    "postalCode": "50131",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78101,
+        "lon": 11.27851
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 577112",
+        "055 5000826"
+    ],
+    "rating": "3.0"
+}

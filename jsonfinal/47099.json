@@ -1,0 +1,20 @@
+{
+    "name": "LA. SA",
+    "description": "",
+    "address": "1, Via Filippo Degli Ugoni - 50126 Firenze (FI)",
+    "streetAddress": "1, Via Filippo Degli Ugoni",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76154,
+        "lon": 11.2884
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 6800009"
+    ],
+    "rating": ""
+}

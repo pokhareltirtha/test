@@ -1,0 +1,20 @@
+{
+    "name": "CASA DEL VINO",
+    "description": "",
+    "address": "16, Via Dell Ariento - 50123 Firenze (FI)",
+    "streetAddress": "16, Via Dell Ariento",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77669,
+        "lon": 11.25249
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 215609"
+    ],
+    "rating": ""
+}

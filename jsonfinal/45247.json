@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL GORAIOLO",
+    "description": "Il ristorante Il Goraiolo tipico toscano a Marliana; un luogo suggestivo ed accogliente dove potrete gustare un tripudio di prelibatezze.",
+    "address": "40, V. Provinciale Mammianese - 51010 Goraiolo (PT)",
+    "streetAddress": "40, V. Provinciale Mammianese",
+    "postalCode": "51010",
+    "addressLocality": "Goraiolo",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9437,
+        "lon": 10.75635
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 66279"
+    ],
+    "rating": ""
+}

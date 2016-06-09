@@ -1,0 +1,21 @@
+{
+    "name": "CASALE DEI RICCI",
+    "description": "",
+    "address": "51, Via Delle Cinque Vie - 50125 Firenze (FI)",
+    "streetAddress": "51, Via Delle Cinque Vie",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74243,
+        "lon": 11.27277
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 683284",
+        "055 685740"
+    ],
+    "rating": "3.5"
+}

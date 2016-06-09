@@ -1,0 +1,21 @@
+{
+    "name": "IL VILLAGGIO",
+    "description": "",
+    "address": "2, Via Alcide De Gasperi - 56030 Villaggio San Giovanni Di Valdera (PI)",
+    "streetAddress": "2, Via Alcide De Gasperi",
+    "postalCode": "56030",
+    "addressLocality": "Villaggio San Giovanni Di Valdera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.46025,
+        "lon": 10.75935
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 643130"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA POGGIO IL MASSETO",
+    "description": "Vieni ad assaporare la famosa e rinomata bistecca fiorentina, al ristorante Poggio Il Massetto tra le verdi colline di Scandicci.",
+    "address": "102, V. S. Martino Palma - 50018 San Martino Alla Palma (FI)",
+    "streetAddress": "102, V. S. Martino Palma",
+    "postalCode": "50018",
+    "addressLocality": "San Martino Alla Palma",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74019,
+        "lon": 11.15055
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 768969"
+    ],
+    "rating": "4.5"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE BALDINI",
+    "description": "",
+    "address": "12, Viale IV Novembre - 56025 Pontedera (PI)",
+    "streetAddress": "12, Viale IV Novembre",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66053,
+        "lon": 10.63619
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 292722"
+    ],
+    "rating": "4.0"
+}

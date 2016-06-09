@@ -1,0 +1,20 @@
+{
+    "name": "GIALE S.A.S.",
+    "description": "",
+    "address": "3, Via Pacinotti Antonio - 50131 Firenze (FI)",
+    "streetAddress": "3, Via Pacinotti Antonio",
+    "postalCode": "50131",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78325,
+        "lon": 11.27198
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 571312"
+    ],
+    "rating": ""
+}

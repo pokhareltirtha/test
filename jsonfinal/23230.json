@@ -1,0 +1,20 @@
+{
+    "name": "IL MESTOLO RISTORANTE PIZZERIA",
+    "description": "",
+    "address": "Snc, Via Casorelle - 51035 Lamporecchio (PT)",
+    "streetAddress": "Snc, Via Casorelle",
+    "postalCode": "51035",
+    "addressLocality": "Lamporecchio",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8267,
+        "lon": 10.90715
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 803117"
+    ],
+    "rating": ""
+}

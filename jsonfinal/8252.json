@@ -1,0 +1,21 @@
+{
+    "name": "TRE CAMPANE",
+    "description": "",
+    "address": "6, Localita Vecchia Di Treggiaia - 56025 Pontedera (PI)",
+    "streetAddress": "6, Localita Vecchia Di Treggiaia",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.63414,
+        "lon": 10.67262
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 475139"
+    ],
+    "rating": ""
+}

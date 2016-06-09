@@ -1,0 +1,21 @@
+{
+    "name": "HOTEL RISTORANTE GLI ORZALI srl",
+    "description": "L'Hotel Ristorante Gli Orzali è un must assoluto di Firenzuola (FI) per l'eccellenza del cibo, del vino e dell'ospitalità.",
+    "address": "570, Loc. Contessa Lina - 50033 Firenzuola (FI)",
+    "streetAddress": "570, Loc. Contessa Lina",
+    "postalCode": "50033",
+    "addressLocality": "Firenzuola",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.11332,
+        "lon": 11.38072
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8199222",
+        "055 819761"
+    ],
+    "rating": ""
+}

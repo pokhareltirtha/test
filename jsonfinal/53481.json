@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA PIAZZETTA SRL",
+    "description": "",
+    "address": "120, Via Fosso Del Masi - 59100 Paperino (PO)",
+    "streetAddress": "120, Via Fosso Del Masi",
+    "postalCode": "59100",
+    "addressLocality": "Paperino",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.84343,
+        "lon": 11.09053
+    },
+    "categories": [
+        "Gastronomie, salumerie e rosticcerie"
+    ],
+    "telephone": [
+        "0574 643140"
+    ],
+    "rating": ""
+}

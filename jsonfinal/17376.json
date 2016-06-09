@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE OASI DI VALLECHIARA DI COVATI FIORENZA",
+    "description": "",
+    "address": "112, Str. Delle Masse - 53011 Castellina In Chianti (SI)",
+    "streetAddress": "112, Str. Delle Masse",
+    "postalCode": "53011",
+    "addressLocality": "Castellina In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.41965,
+        "lon": 11.28011
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 740612"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "CAMPALDINO",
+    "description": "",
+    "address": "Via Roma 95 - 52014 Ponte A Poppi (AR)",
+    "streetAddress": "Via Roma 95",
+    "postalCode": "52014",
+    "addressLocality": "Ponte A Poppi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.72833,
+        "lon": 11.7691
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 529008",
+        "0575 348607"
+    ],
+    "rating": ""
+}

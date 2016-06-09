@@ -1,0 +1,20 @@
+{
+    "name": "BARBAROSSA",
+    "description": "",
+    "address": "694, Via Ponte Mocarini - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "694, Via Ponte Mocarini",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.54394,
+        "lon": 11.5723
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9199016"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "DA VINCI A EATALY FIRENZE",
+    "description": "",
+    "address": "22, Via De Martelli - 50129 Firenze (FI)",
+    "streetAddress": "22, Via De Martelli",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77402,
+        "lon": 11.25554
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 0153603"
+    ],
+    "rating": ""
+}

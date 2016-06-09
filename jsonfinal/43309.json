@@ -1,0 +1,20 @@
+{
+    "name": "RENSI CRISTINA",
+    "description": "",
+    "address": "9, Via Allegri - 50033 Firenzuola (FI)",
+    "streetAddress": "9, Via Allegri",
+    "postalCode": "50033",
+    "addressLocality": "Firenzuola",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.11821,
+        "lon": 11.37872
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 816256"
+    ],
+    "rating": ""
+}

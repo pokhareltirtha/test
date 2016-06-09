@@ -1,0 +1,20 @@
+{
+    "name": "O SARACINO",
+    "description": "",
+    "address": "1, Via G Masini - 50051 Castelfiorentino (FI)",
+    "streetAddress": "1, Via G Masini",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.60665,
+        "lon": 10.96797
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 629467"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CONSUMI snc",
+    "description": "Consumi a Pelago (FI) è un ristorante, cioccolateria, pasticceria con servizio tabacchi, aperto a pranzo e cena.",
+    "address": "307, V. Casentinese - 50060 Consuma (FI)",
+    "streetAddress": "307, V. Casentinese",
+    "postalCode": "50060",
+    "addressLocality": "Consuma",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7806,
+        "lon": 11.59605
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8306507"
+    ],
+    "rating": ""
+}

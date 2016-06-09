@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA IL QUADRIFOGLIO DI BELLINI DANIELA",
+    "description": "",
+    "address": "128, Via Raffaello Sanzio - 50053 Empoli (FI)",
+    "streetAddress": "128, Via Raffaello Sanzio",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71616,
+        "lon": 10.93869
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0571 77368"
+    ],
+    "rating": ""
+}

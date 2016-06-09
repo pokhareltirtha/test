@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL MESSICANO",
+    "description": "A Quarrata (PT) in 38, vl. Montalbano Il ristorante il Messicano ideale per cene di lavoro e meeting. Ottimo rapporto qualità prezzo. Serviamo anche d'asporto.",
+    "address": "38, Vl. Montalbano - 51039 Quarrata (PT)",
+    "streetAddress": "38, Vl. Montalbano",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.84891,
+        "lon": 10.97864
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 72301"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE 543",
+    "description": "",
+    "address": "6, Via Della Rimembranza - 56034 Chianni (PI)",
+    "streetAddress": "6, Via Della Rimembranza",
+    "postalCode": "56034",
+    "addressLocality": "Chianni",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.48608,
+        "lon": 10.64046
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 647225"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "IL SALVIATINO",
+    "description": "",
+    "address": "21, Via Del Salviatino - 50014 Fiesole (FI)",
+    "streetAddress": "21, Via Del Salviatino",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78977,
+        "lon": 11.29824
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 90411",
+        "055 9041111"
+    ],
+    "rating": "4.7"
+}

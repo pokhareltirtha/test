@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA NUOVO RANCH",
+    "description": "Ristorante Pizzeria Nuovo Ranch, ambiente piacevole ed elegante per gustare i prodotti tipici della zona, a Bagno a Ripoli.",
+    "address": "13, V. Bencista' Gorioli - 50012 San Donato In Collina (FI)",
+    "streetAddress": "13, V. Bencista' Gorioli",
+    "postalCode": "50012",
+    "addressLocality": "San Donato In Collina",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7394,
+        "lon": 11.3856
+    },
+    "categories": [
+        "Ristoranti - trattorie ed osterie"
+    ],
+    "telephone": [
+        "055 699045"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "NARISI DOMENICO RISTORANTE IL TORRIONE",
+    "description": "",
+    "address": "149, Viale Duca Della Vittoria - 50068 Rufina (FI)",
+    "streetAddress": "149, Viale Duca Della Vittoria",
+    "postalCode": "50068",
+    "addressLocality": "Rufina",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82056,
+        "lon": 11.48492
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8498552"
+    ],
+    "rating": ""
+}

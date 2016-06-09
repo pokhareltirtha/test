@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA BAR BLUE SKY",
+    "description": "",
+    "address": "23, Via Bramalegno - 51019 Ponte Buggianese (PT)",
+    "streetAddress": "23, Via Bramalegno",
+    "postalCode": "51019",
+    "addressLocality": "Ponte Buggianese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83791,
+        "lon": 10.74288
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0572 635619"
+    ],
+    "rating": ""
+}

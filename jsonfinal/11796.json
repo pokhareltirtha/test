@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CASA ROSSA C.S.R. DI",
+    "description": "",
+    "address": "62, Via Lucchese - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "62, Via Lucchese",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80549,
+        "lon": 11.18041
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 315462"
+    ],
+    "rating": ""
+}

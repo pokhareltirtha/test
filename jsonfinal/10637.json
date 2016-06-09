@@ -1,0 +1,21 @@
+{
+    "name": "AGRITURISMO RISALPIANO",
+    "description": "Agriturismo Risalpiano, in una posizione perfetta e ideale per chi vuole vivere un week-end immerso nella natura a Pelago.",
+    "address": "7, Loc. Risalpiano - 50060 Pelago (FI)",
+    "streetAddress": "7, Loc. Risalpiano",
+    "postalCode": "50060",
+    "addressLocality": "Pelago",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77334,
+        "lon": 11.50172
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8326314",
+        "333 6121501"
+    ],
+    "rating": ""
+}

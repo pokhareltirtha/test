@@ -1,0 +1,21 @@
+{
+    "name": "IL MERLO",
+    "description": "",
+    "address": "2, Via Di Meleto - 50022 Greve In Chianti (FI)",
+    "streetAddress": "2, Via Di Meleto",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.66493,
+        "lon": 11.31936
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8586028",
+        "347 2412192"
+    ],
+    "rating": ""
+}

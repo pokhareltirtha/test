@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE TRATTORIA SAN CARLO",
+    "description": "Il ristorante propone una cucina toscana tradizionale.",
+    "address": "354, V. Montalese - 59013 Montemurlo (PO)",
+    "streetAddress": "354, V. Montalese",
+    "postalCode": "59013",
+    "addressLocality": "Montemurlo",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.92373,
+        "lon": 11.04492
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 1661555",
+        "338 1319661"
+    ],
+    "rating": ""
+}

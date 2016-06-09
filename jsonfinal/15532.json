@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA COLLA",
+    "description": "Il Ristorante La Colla propone piatti tipici della cucina maremmana. Venite a gustare le loro specialità a Borgo San Lorenzo.",
+    "address": "69, V. Faentina - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "69, V. Faentina",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.00452,
+        "lon": 11.43062
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8405013"
+    ],
+    "rating": ""
+}

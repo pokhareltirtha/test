@@ -1,0 +1,20 @@
+{
+    "name": "I PIZZACCHIERE",
+    "description": "",
+    "address": "2/1, Via S. Miniato - 50125 Firenze (FI)",
+    "streetAddress": "2/1, Via S. Miniato",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76418,
+        "lon": 11.26133
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2466332"
+    ],
+    "rating": ""
+}

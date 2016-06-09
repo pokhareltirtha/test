@@ -1,0 +1,21 @@
+{
+    "name": "L'ANTICA TAVERNA",
+    "description": "",
+    "address": "18, Via Dei Sarti - 56048 Volterra (PI)",
+    "streetAddress": "18, Via Dei Sarti",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40275,
+        "lon": 10.85967
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0588 87058"
+    ],
+    "rating": ""
+}

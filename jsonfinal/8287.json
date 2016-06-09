@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE TRATTORIA DELLA FONTE",
+    "description": "Il Ristorante Trattoria della Fonte di Montefiridolfi (FI) propone un'ampia scelta di piatti tipici della cucina toscana.",
+    "address": "31, V. S. Maria A Macerata - 50020 Montefiridolfi (FI)",
+    "streetAddress": "31, V. S. Maria A Macerata",
+    "postalCode": "50020",
+    "addressLocality": "Montefiridolfi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.59443,
+        "lon": 11.24335
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8244743",
+        "055 8244700"
+    ],
+    "rating": ""
+}

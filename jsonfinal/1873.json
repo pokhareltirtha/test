@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL LANTERNONE",
+    "description": "",
+    "address": "30, Via Piero Della Francesca - 59013 Bagnolo (PO)",
+    "streetAddress": "30, Via Piero Della Francesca",
+    "postalCode": "59013",
+    "addressLocality": "Bagnolo",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.91203,
+        "lon": 11.0621
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 720271"
+    ],
+    "rating": ""
+}

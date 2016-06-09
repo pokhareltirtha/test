@@ -1,0 +1,21 @@
+{
+    "name": "TRE FIUMI",
+    "description": "",
+    "address": "Via Madonna Dei Tre Fiumi 16 - 50032 Madonna Dei Tre Fiumi (FI)",
+    "streetAddress": "Via Madonna Dei Tre Fiumi 16",
+    "postalCode": "50032",
+    "addressLocality": "Madonna Dei Tre Fiumi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.01441,
+        "lon": 11.44382
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8495705",
+        "055 8403015"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DE'NICHI",
+    "description": "",
+    "address": "109, Via Limitese - 50059 Spicchio-Sovigliana (FI)",
+    "streetAddress": "109, Via Limitese",
+    "postalCode": "50059",
+    "addressLocality": "Spicchio-Sovigliana",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73273,
+        "lon": 10.95488
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 902643"
+    ],
+    "rating": ""
+}

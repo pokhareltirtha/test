@@ -1,0 +1,21 @@
+{
+    "name": "DONNINI",
+    "description": "",
+    "address": "22, Via Di Rimaggio - 50012 Rimaggio (FI)",
+    "streetAddress": "22, Via Di Rimaggio",
+    "postalCode": "50012",
+    "addressLocality": "Rimaggio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75818,
+        "lon": 11.33062
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6511599",
+        "055 630076"
+    ],
+    "rating": "4.7"
+}

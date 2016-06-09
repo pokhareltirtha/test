@@ -1,0 +1,22 @@
+{
+    "name": "L'ARCA",
+    "description": "",
+    "address": "Via Madonna 36 - 51100 Pistoia (PT)",
+    "streetAddress": "Via Madonna 36",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93227,
+        "lon": 10.91293
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 994384",
+        "338 1428044"
+    ],
+    "rating": "4.8"
+}

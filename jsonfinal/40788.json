@@ -1,0 +1,20 @@
+{
+    "name": "LA FONDUE",
+    "description": "",
+    "address": "1, Via Della Fonderia - 50142 Firenze (FI)",
+    "streetAddress": "1, Via Della Fonderia",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77268,
+        "lon": 11.23787
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2286006"
+    ],
+    "rating": "4.0"
+}

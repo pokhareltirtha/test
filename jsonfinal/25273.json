@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA ENZO & PIERO",
+    "description": "Lasciatevi cullare dalle specialità tipiche toscane e fiorentine, per una cena indimenticabile a Firenze.",
+    "address": "105/Rosso, V. Faenza - 50123 Firenze (FI)",
+    "streetAddress": "105/Rosso, V. Faenza",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77756,
+        "lon": 11.25112
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 214901"
+    ],
+    "rating": ""
+}

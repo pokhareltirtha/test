@@ -1,0 +1,21 @@
+{
+    "name": "DANIELE E RICCARDO RISTORANTE",
+    "description": "A Montevarchi (AR) il ristorante che propone primi e secondi piatti di carne e di pesce con un ottimo compromesso qualità/prezzo.",
+    "address": "5, V. Poggio Bracciolini - 52025 Montevarchi (AR)",
+    "streetAddress": "5, V. Poggio Bracciolini",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.52473,
+        "lon": 11.56655
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 900399",
+        "328 4682726"
+    ],
+    "rating": ""
+}

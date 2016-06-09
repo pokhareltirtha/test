@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA BAR CAFFE' SANTA CATERINA",
+    "description": "",
+    "address": "4  V. Campana - Colle Di Val D'Elsa (SI)",
+    "streetAddress": "4, V. Campana",
+    "postalCode": "",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42106,
+        "lon": 11.11647
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 922451"
+    ],
+    "rating": ""
+}

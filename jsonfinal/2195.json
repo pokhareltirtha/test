@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PAOLO E CLARA",
+    "description": "",
+    "address": "Via Fornace 10 - 50060 Londa (FI)",
+    "streetAddress": "Via Fornace 10",
+    "postalCode": "50060",
+    "addressLocality": "Londa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85089,
+        "lon": 11.3992
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "347 9292847",
+        "055 8354041"
+    ],
+    "rating": ""
+}

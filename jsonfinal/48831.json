@@ -1,0 +1,20 @@
+{
+    "name": "INTERNO 27",
+    "description": "",
+    "address": "27, Via Primo Settembre - 50145 Firenze (FI)",
+    "streetAddress": "27, Via Primo Settembre",
+    "postalCode": "50145",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79852,
+        "lon": 11.19522
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 340743"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE BELLA CIAO",
+    "description": "Il ristorante Bella Ciao di Scandicci (FI), in v. Volterrana, è l'ideale dove poter gustare piatti tipici a base di trippa ed altre specialità toscane.",
+    "address": "8, V. Volterrana - 50018 Giogoli (FI)",
+    "streetAddress": "8, V. Volterrana",
+    "postalCode": "50018",
+    "addressLocality": "Giogoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72684,
+        "lon": 11.20065
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 741502"
+    ],
+    "rating": "4.0"
+}

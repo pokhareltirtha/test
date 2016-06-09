@@ -1,0 +1,21 @@
+{
+    "name": "MIRAVALLE",
+    "description": "",
+    "address": "Piazzetta Del Castello 3 - 56028 San Miniato (PI)",
+    "streetAddress": "Piazzetta Del Castello 3",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67958,
+        "lon": 10.85084
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 401015",
+        "0571 418075"
+    ],
+    "rating": ""
+}

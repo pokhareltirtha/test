@@ -1,0 +1,20 @@
+{
+    "name": "AUDHA S.R.L.",
+    "description": "",
+    "address": "1, Via G.Matteotti - 56037 Peccioli (PI)",
+    "streetAddress": "1, Via G.Matteotti",
+    "postalCode": "56037",
+    "addressLocality": "Peccioli",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.5482,
+        "lon": 10.72054
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 635776"
+    ],
+    "rating": ""
+}

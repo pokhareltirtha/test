@@ -1,0 +1,20 @@
+{
+    "name": "LE CONTRADE",
+    "description": "",
+    "address": "Localita Vinci - 53013 Gaiole In Chianti (SI)",
+    "streetAddress": "Localita Vinci",
+    "postalCode": "53013",
+    "addressLocality": "Gaiole In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46697,
+        "lon": 11.43194
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 749504"
+    ],
+    "rating": ""
+}

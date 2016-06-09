@@ -1,0 +1,20 @@
+{
+    "name": "SUD",
+    "description": "",
+    "address": "4, Via Della Vigna Vecchia - 50122 Firenze (FI)",
+    "streetAddress": "4, Via Della Vigna Vecchia",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77016,
+        "lon": 11.25995
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 289368"
+    ],
+    "rating": ""
+}

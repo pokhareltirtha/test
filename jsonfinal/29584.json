@@ -1,0 +1,21 @@
+{
+    "name": "ANTICO FATTORE",
+    "description": "",
+    "address": "1, Via Lambertesca - 50122 Firenze (FI)",
+    "streetAddress": "1, Via Lambertesca",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76864,
+        "lon": 11.25489
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 288975",
+        "055 283341"
+    ],
+    "rating": ""
+}

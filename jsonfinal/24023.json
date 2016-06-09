@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CHIARA",
+    "description": "",
+    "address": "212, Via P Valdera - 56038 Ponsacco (PI)",
+    "streetAddress": "212, Via P Valdera",
+    "postalCode": "56038",
+    "addressLocality": "Ponsacco",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.61079,
+        "lon": 10.64375
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 731121"
+    ],
+    "rating": ""
+}

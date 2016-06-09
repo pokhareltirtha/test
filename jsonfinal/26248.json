@@ -1,0 +1,21 @@
+{
+    "name": "TRATTORIA RISTORANTE DALLA MARGHE",
+    "description": "La Trattoria dalla Marghe di Calenzano (FI) è una tappa irrinunciabile dove potete gustare, in un ambiente rustico, l'ottima cucina toscana.",
+    "address": "93, V. Di Prato - 50041 Calenzano (FI)",
+    "streetAddress": "93, V. Di Prato",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85415,
+        "lon": 11.15761
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 0192384",
+        "339 5477426"
+    ],
+    "rating": ""
+}

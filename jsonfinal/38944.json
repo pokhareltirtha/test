@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA SPORT",
+    "description": "",
+    "address": ", Via Valdorme Nuova - 50053 Empoli (FI)",
+    "streetAddress": ", Via Valdorme Nuova",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.70225,
+        "lon": 10.95414
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 921936"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "PIZZA EXPRESS",
+    "description": "La pizzeria da asporto che prepara anche kebab, focacce, insalate, primi e secondi piatti, a Firenze",
+    "address": "78, V. Saggina - 50145 Firenze (FI)",
+    "streetAddress": "78, V. Saggina",
+    "postalCode": "50145",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7969,
+        "lon": 11.18229
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 323070",
+        "800 706706"
+    ],
+    "rating": ""
+}

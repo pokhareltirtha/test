@@ -1,0 +1,21 @@
+{
+    "name": "IL GRIGIO VENEZIANO",
+    "description": "",
+    "address": "301, Via Lucchese - 51100 Pistoia (PT)",
+    "streetAddress": "301, Via Lucchese",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.91623,
+        "lon": 10.87251
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 1984061",
+        "0573 571684"
+    ],
+    "rating": ""
+}

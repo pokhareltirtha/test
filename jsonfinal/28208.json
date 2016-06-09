@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL CARDELLO",
+    "description": "A Casola Valsenio, ristorante immerso nel verde del Parco Regionale della Vena del Gesso Romagnola.",
+    "address": "11, V. Cardello - 48032 Casola Valsenio (RA)",
+    "streetAddress": "11, V. Cardello",
+    "postalCode": "48032",
+    "addressLocality": "Casola Valsenio",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.23489,
+        "lon": 11.63574
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 2000308",
+        "0546 73917"
+    ],
+    "rating": ""
+}

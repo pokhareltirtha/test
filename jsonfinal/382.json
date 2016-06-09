@@ -1,0 +1,20 @@
+{
+    "name": "MULINO A VENTO",
+    "description": "",
+    "address": "48, Via Montefiesole - 50065 Doccia (FI)",
+    "streetAddress": "48, Via Montefiesole",
+    "postalCode": "50065",
+    "addressLocality": "Doccia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82403,
+        "lon": 11.42799
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8396168"
+    ],
+    "rating": ""
+}

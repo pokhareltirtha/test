@@ -1,0 +1,20 @@
+{
+    "name": "ENOSTERIA MANGIA",
+    "description": "",
+    "address": "173, Via Ferrucci - 59100 Prato (PO)",
+    "streetAddress": "173, Via Ferrucci",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86745,
+        "lon": 11.11068
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 572917"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "AGRITURISMO POGGIO TONDO",
+    "description": "L'Agriturismo Poggiotondo sorge nel territorio di Monsummano Terme, nella suggestiva oasi naturale della Valdinievole, a breve distanza da Montecatini Terme. L'attento restauro dell'antico casale ha r...",
+    "address": "780, Loc. Croce Al Monte - 51015 Monsummano Terme (PT)",
+    "streetAddress": "780, Loc. Croce Al Monte",
+    "postalCode": "51015",
+    "addressLocality": "Monsummano Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86446,
+        "lon": 10.81237
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "338 7973486",
+        "0572 81290"
+    ],
+    "rating": "4.5"
+}

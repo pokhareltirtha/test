@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA LANTERNA",
+    "description": "",
+    "address": "Via Di Pulica 132 - 50056 Montelupo Fiorentino (FI)",
+    "streetAddress": "Via Di Pulica 132",
+    "postalCode": "50056",
+    "addressLocality": "Montelupo Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.70128,
+        "lon": 11.05061
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 4921059",
+        "0571 542021"
+    ],
+    "rating": ""
+}

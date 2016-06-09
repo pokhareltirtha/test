@@ -1,0 +1,21 @@
+{
+    "name": "VALLECHIARA",
+    "description": "",
+    "address": "9, Via Gioacchino Rossini - 59015 Comeana (PO)",
+    "streetAddress": "9, Via Gioacchino Rossini",
+    "postalCode": "59015",
+    "addressLocality": "Comeana",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.79324,
+        "lon": 11.05763
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8710251",
+        "055 8710255"
+    ],
+    "rating": ""
+}

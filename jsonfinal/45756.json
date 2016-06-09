@@ -1,0 +1,20 @@
+{
+    "name": "PIZZOSTERIA AL PIESTRO",
+    "description": "",
+    "address": "Via Vecchia Di Campiglio - 51100 Pistoia (PT)",
+    "streetAddress": "Via Vecchia Di Campiglio",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.97892,
+        "lon": 10.86444
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 417010"
+    ],
+    "rating": ""
+}

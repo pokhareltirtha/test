@@ -1,0 +1,21 @@
+{
+    "name": "LE CARCERI RISTORANTE PIZZERIA WINE BAR",
+    "description": "Le Carceri Ristorante Pizzeria Wine Bar è un locale in piazza Madonna Della Neve, a Firenze, ideale per trascorrere speciali serate in compagnia.",
+    "address": "3, P. Madonna Della Neve - 50122 Firenze (FI)",
+    "streetAddress": "3, P. Madonna Della Neve",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76943,
+        "lon": 11.2685
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2479327"
+    ],
+    "rating": "4.0"
+}

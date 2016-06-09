@@ -1,0 +1,20 @@
+{
+    "name": "GRAMASTEDA SRL",
+    "description": "",
+    "address": "20, Via Benvenuto Cellini - 50028 Sambuca (FI)",
+    "streetAddress": "20, Via Benvenuto Cellini",
+    "postalCode": "50028",
+    "addressLocality": "Sambuca",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.57258,
+        "lon": 11.21345
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8071537"
+    ],
+    "rating": ""
+}

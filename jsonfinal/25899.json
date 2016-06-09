@@ -1,0 +1,21 @@
+{
+    "name": "IL MADARINO",
+    "description": "",
+    "address": "17, Via Condotta - 50122 Firenze (FI)",
+    "streetAddress": "17, Via Condotta",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77022,
+        "lon": 11.25535
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2676709",
+        "055 2396130"
+    ],
+    "rating": ""
+}

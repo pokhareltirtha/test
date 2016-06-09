@@ -1,0 +1,20 @@
+{
+    "name": "IL CORALLO",
+    "description": "",
+    "address": "27, Via Signano - 50018 San Giusto A Signano (FI)",
+    "streetAddress": "27, Via Signano",
+    "postalCode": "50018",
+    "addressLocality": "San Giusto A Signano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75893,
+        "lon": 11.19836
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2571893"
+    ],
+    "rating": ""
+}

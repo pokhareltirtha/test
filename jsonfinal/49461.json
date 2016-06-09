@@ -1,0 +1,21 @@
+{
+    "name": "PAMY",
+    "description": "",
+    "address": "19, Via Provinciale Lucchese - 51016 Montecatini Terme (PT)",
+    "streetAddress": "19, Via Provinciale Lucchese",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88558,
+        "lon": 10.76411
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "340 0755606",
+        "0572 70267"
+    ],
+    "rating": ""
+}

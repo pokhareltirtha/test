@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CINESE LA FELICITA' S.A.S. DI LIU KANGBAN & C.",
+    "description": "",
+    "address": "6, Via IV Novembre - 56025 Pontedera (PI)",
+    "streetAddress": "6, Via IV Novembre",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66081,
+        "lon": 10.63415
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 8695996"
+    ],
+    "rating": ""
+}

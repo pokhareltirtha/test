@@ -1,0 +1,20 @@
+{
+    "name": "LA COLLEGIATA",
+    "description": "",
+    "address": "27, Localita Strada - 53037 San Gimignano (SI)",
+    "streetAddress": "27, Localita Strada",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46712,
+        "lon": 11.03889
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 943201"
+    ],
+    "rating": ""
+}

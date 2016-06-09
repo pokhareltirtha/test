@@ -1,0 +1,21 @@
+{
+    "name": "BORDINO",
+    "description": "",
+    "address": "9, Via Stracciatella - 50125 Firenze (FI)",
+    "streetAddress": "9, Via Stracciatella",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76686,
+        "lon": 11.2533
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2340854",
+        "055 213048"
+    ],
+    "rating": "4.0"
+}

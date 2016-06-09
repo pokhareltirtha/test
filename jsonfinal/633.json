@@ -1,0 +1,22 @@
+{
+    "name": "LA FONTANA",
+    "description": "",
+    "address": "14, Piazza Giacomo Matteotti - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "14, Piazza Giacomo Matteotti",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82223,
+        "lon": 11.13588
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "338 7163090",
+        "055 8948147"
+    ],
+    "rating": ""
+}

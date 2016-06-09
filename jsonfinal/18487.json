@@ -1,0 +1,20 @@
+{
+    "name": "BAR FIBBI DI MERCANTI EDO",
+    "description": "",
+    "address": "106/R, Via Del Ponte Alle Mosse - 50144 Firenze (FI)",
+    "streetAddress": "106/R, Via Del Ponte Alle Mosse",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78268,
+        "lon": 11.23433
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 363095"
+    ],
+    "rating": ""
+}

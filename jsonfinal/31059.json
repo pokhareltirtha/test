@@ -1,0 +1,20 @@
+{
+    "name": "LUNGARNO BISTROT",
+    "description": "",
+    "address": "1, Piazza Degli Scarlatti - 50125 Firenze (FI)",
+    "streetAddress": "1, Piazza Degli Scarlatti",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": null,
+        "lon": null
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        ""
+    ],
+    "rating": ""
+}

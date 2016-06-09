@@ -1,0 +1,21 @@
+{
+    "name": "IL GABBIANO",
+    "description": "",
+    "address": "11, Via Di Faltugnano - 59021 Vaiano (PO)",
+    "streetAddress": "11, Via Di Faltugnano",
+    "postalCode": "59021",
+    "addressLocality": "Vaiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.92338,
+        "lon": 11.12974
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 984073",
+        "329 7665723"
+    ],
+    "rating": ""
+}

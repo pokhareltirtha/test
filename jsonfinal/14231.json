@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DONIZETTI",
+    "description": "",
+    "address": "10, Via Giuseppe Santelli - 50058 Signa (FI)",
+    "streetAddress": "10, Via Giuseppe Santelli",
+    "postalCode": "50058",
+    "addressLocality": "Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77814,
+        "lon": 11.09883
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 0941568"
+    ],
+    "rating": ""
+}

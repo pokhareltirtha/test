@@ -1,0 +1,20 @@
+{
+    "name": "PICCOLO RISTORO FIORENTINO",
+    "description": "",
+    "address": "26, Via Del Moro - 50123 Firenze (FI)",
+    "streetAddress": "26, Via Del Moro",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7723,
+        "lon": 11.2495
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "348 6390706"
+    ],
+    "rating": ""
+}

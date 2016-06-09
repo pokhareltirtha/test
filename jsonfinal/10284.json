@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE I 4 CANTONI",
+    "description": "",
+    "address": "10, Via Uffenheim - 52015 Pratovecchio (AR)",
+    "streetAddress": "10, Via Uffenheim",
+    "postalCode": "52015",
+    "addressLocality": "Pratovecchio",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.7865,
+        "lon": 11.7211
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0575 582696"
+    ],
+    "rating": ""
+}

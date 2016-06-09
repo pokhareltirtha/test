@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA LO STRACOTTO",
+    "description": "",
+    "address": "Piazza Di Madonna Degli Aldobrandini - 50123 Firenze (FI)",
+    "streetAddress": "Piazza Di Madonna Degli Aldobrandini",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77487,
+        "lon": 11.25275
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2302062"
+    ],
+    "rating": ""
+}

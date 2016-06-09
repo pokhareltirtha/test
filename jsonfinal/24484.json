@@ -1,0 +1,20 @@
+{
+    "name": "QUATTRO GIGLI",
+    "description": "",
+    "address": "2, Piazza Michele Da Montopoli - 56020 Montopoli In Val D'Arno (PI)",
+    "streetAddress": "2, Piazza Michele Da Montopoli",
+    "postalCode": "56020",
+    "addressLocality": "Montopoli In Val D'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67023,
+        "lon": 10.76082
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 466878"
+    ],
+    "rating": ""
+}

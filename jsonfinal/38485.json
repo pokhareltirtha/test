@@ -1,0 +1,20 @@
+{
+    "name": "IL NUOVO SEDANO ALLEGRO S.R.L.",
+    "description": "",
+    "address": "10, Via Farini Luigi Carlo - 50121 Firenze (FI)",
+    "streetAddress": "10, Via Farini Luigi Carlo",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77358,
+        "lon": 11.26591
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2344020"
+    ],
+    "rating": "3.0"
+}

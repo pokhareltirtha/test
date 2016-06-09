@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA AL SOLITO POSTO",
+    "description": "",
+    "address": "Via Dante Alighieri 27 - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "Via Dante Alighieri 27",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.54943,
+        "lon": 11.58108
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "338 8421089",
+        "055 9199712"
+    ],
+    "rating": "3.0"
+}

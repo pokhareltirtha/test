@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA LA MAGONA",
+    "description": "",
+    "address": "16, Via Ridolfi Cosimo - 50051 Castelfiorentino (FI)",
+    "streetAddress": "16, Via Ridolfi Cosimo",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.60515,
+        "lon": 10.9686
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 64098"
+    ],
+    "rating": ""
+}

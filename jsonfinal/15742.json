@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA PIZZERIA RISTORANTE GABANA",
+    "description": "Il ristorante dove gustare ottimi piatti e degustare innumerevoli vini in un ambiente ospitale a Camugnano in provincia di Bologna.",
+    "address": "82,,V. Bacino Brasimone - 40032 Camugnano (BO)",
+    "streetAddress": "82,  V. Bacino Brasimone",
+    "postalCode": "40032",
+    "addressLocality": "Camugnano",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.12987,
+        "lon": 11.11641
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0534 91064"
+    ],
+    "rating": ""
+}

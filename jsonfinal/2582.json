@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA DA MEME",
+    "description": "A Monteriggioni (SI), in 7, v. del Ginepro, il ristorante pizzeria offre specialità di cucina tipica toscana; servizio pizza da asporto.",
+    "address": "7, V. Del Ginepro (Loc. Uopini) - 53035 Monteriggioni (SI)",
+    "streetAddress": "7, V. Del Ginepro (Loc. Uopini)",
+    "postalCode": "53035",
+    "addressLocality": "Monteriggioni",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.35149,
+        "lon": 11.29764
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 318118"
+    ],
+    "rating": ""
+}

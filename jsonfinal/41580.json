@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA CANTINA",
+    "description": "",
+    "address": "30/D, Largo Gramsci - 53036 Poggibonsi (SI)",
+    "streetAddress": "30/D, Largo Gramsci",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46997,
+        "lon": 11.14604
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 937332"
+    ],
+    "rating": ""
+}

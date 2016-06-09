@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA E BALZE DI FABBRI LORENZO",
+    "description": "",
+    "address": "57, Via IV Novembre - 52020 Castelfranco Di Sopra (AR)",
+    "streetAddress": "57, Via IV Novembre",
+    "postalCode": "52020",
+    "addressLocality": "Castelfranco Di Sopra",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.62218,
+        "lon": 11.5551
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9149931"
+    ],
+    "rating": ""
+}

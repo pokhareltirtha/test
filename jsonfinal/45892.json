@@ -1,0 +1,20 @@
+{
+    "name": "PIZZOSTERIA  AL PIESTRO",
+    "description": "",
+    "address": "Via Vecchia Di Saturnana, 2 - 51100 Piestro (PT)",
+    "streetAddress": "Via Vecchia Di Saturnana, 2",
+    "postalCode": "51100",
+    "addressLocality": "Piestro",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9871,
+        "lon": 10.8879
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 417010"
+    ],
+    "rating": ""
+}

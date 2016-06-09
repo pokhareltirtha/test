@@ -1,0 +1,20 @@
+{
+    "name": "FORINO",
+    "description": "",
+    "address": "21, Via Carlo Piaggia - 55012 Tassignano (LU)",
+    "streetAddress": "21, Via Carlo Piaggia",
+    "postalCode": "55012",
+    "addressLocality": "Tassignano",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.83592,
+        "lon": 10.56941
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 935302"
+    ],
+    "rating": ""
+}

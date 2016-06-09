@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CHALET VIGNALE",
+    "description": "",
+    "address": "133, Localita Vignale - 50066 Reggello (FI)",
+    "streetAddress": "133, Localita Vignale",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73581,
+        "lon": 11.51735
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8622388"
+    ],
+    "rating": ""
+}

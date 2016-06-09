@@ -1,0 +1,21 @@
+{
+    "name": "IL POGGIO",
+    "description": "",
+    "address": "7, Via Porta All Arco - 56048 Volterra (PI)",
+    "streetAddress": "7, Via Porta All Arco",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40151,
+        "lon": 10.85958
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0588 85257"
+    ],
+    "rating": ""
+}

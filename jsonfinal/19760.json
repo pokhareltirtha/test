@@ -1,0 +1,21 @@
+{
+    "name": "ALLA PIAZZA",
+    "description": "",
+    "address": "7, Localita La Piazza - 53011 La Piazza (SI)",
+    "streetAddress": "7, Localita La Piazza",
+    "postalCode": "53011",
+    "addressLocality": "La Piazza",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.53016,
+        "lon": 11.28491
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 733580",
+        "331 9267403"
+    ],
+    "rating": ""
+}

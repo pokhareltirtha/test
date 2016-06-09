@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE JU BIN DI LUO SHUMIN & C SAS",
+    "description": "",
+    "address": "42, Via Ponte A Quaracchi - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "42, Via Ponte A Quaracchi",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80243,
+        "lon": 11.18426
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 310421"
+    ],
+    "rating": ""
+}

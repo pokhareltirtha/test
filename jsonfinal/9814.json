@@ -1,0 +1,20 @@
+{
+    "name": "SAN LUIGI",
+    "description": "",
+    "address": ", Via San Luigi Strove - 53035 Monteriggioni (SI)",
+    "streetAddress": ", Via San Luigi Strove",
+    "postalCode": "53035",
+    "addressLocality": "Monteriggioni",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.37843,
+        "lon": 11.17258
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 301055"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL TRENINO",
+    "description": "",
+    "address": "190, Via Umberto Mariotti - 51100 Pistoia (PT)",
+    "streetAddress": "190, Via Umberto Mariotti",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92928,
+        "lon": 10.95496
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 29399"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "MARIO'S DI LAZZERI MATTEO & GUIDO SNC",
+    "description": "",
+    "address": "34, Via Antonio Meucci - 56036 Palaia (PI)",
+    "streetAddress": "34, Via Antonio Meucci",
+    "postalCode": "56036",
+    "addressLocality": "Palaia",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.60582,
+        "lon": 10.76644
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 629289"
+    ],
+    "rating": ""
+}

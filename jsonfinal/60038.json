@@ -1,0 +1,20 @@
+{
+    "name": "IL VICOLO",
+    "description": "",
+    "address": "91, Via Del Cantone - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "91, Via Del Cantone",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80359,
+        "lon": 11.17521
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 315597"
+    ],
+    "rating": ""
+}

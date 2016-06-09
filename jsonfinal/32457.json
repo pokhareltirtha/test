@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA GREPPIA",
+    "description": "",
+    "address": "23,,Lung Arno Ferrucci Francesco - 50126 Firenze (FI)",
+    "streetAddress": "23,  Lung Arno Ferrucci Francesco",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76389,
+        "lon": 11.27896
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6812341"
+    ],
+    "rating": ""
+}

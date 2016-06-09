@@ -1,0 +1,20 @@
+{
+    "name": "TAVERNA DEL BARBAROSSA RISTORANTE PIZZERIA",
+    "description": "La Taverna del Barbarossa, a San Miniato in Via Pestalozzi, è certamente il ristorante pizzeria preferito dai turisti e dalla clientela residenziale della città",
+    "address": "",
+    "streetAddress": "",
+    "postalCode": "",
+    "addressLocality": "",
+    "addressRegion": "",
+    "coordinates": {
+        "lat": null,
+        "lon": null
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 400919"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "TOGETHER FLORENCE INN",
+    "description": "",
+    "address": "Via Alcide De Gasperi 6 - 50012 Bagno A Ripoli (FI)",
+    "streetAddress": "Via Alcide De Gasperi 6",
+    "postalCode": "50012",
+    "addressLocality": "Bagno A Ripoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75234,
+        "lon": 11.30771
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6822000"
+    ],
+    "rating": ""
+}

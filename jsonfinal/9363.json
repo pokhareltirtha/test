@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE E PIZZERIA I TRE ANGELI",
+    "description": "Il Ristorante Pizzeria I tre Angeli a Pescia (PT) dove gustare specialità di carne e pesce, ottime pizze cotte nel forno a legna, pasta fresca e risotti.",
+    "address": "61, V. Garibaldi - 51017 Pescia (PT)",
+    "streetAddress": "61, V. Garibaldi",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89242,
+        "lon": 10.68967
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 490142"
+    ],
+    "rating": "5.0"
+}

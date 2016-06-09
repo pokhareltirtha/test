@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DA MIPA",
+    "description": "",
+    "address": "63, Via Chiesa - 55012 Pieve Di Compito (LU)",
+    "streetAddress": "63, Via Chiesa",
+    "postalCode": "55012",
+    "addressLocality": "Pieve Di Compito",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.78003,
+        "lon": 10.57697
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 975010"
+    ],
+    "rating": "3.0"
+}

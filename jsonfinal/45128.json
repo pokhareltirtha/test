@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL FORNELLO",
+    "description": "Ristorante Il Fornello, ristorante tipico con cucina tipica toscana e piatti di pasta fresca, specialità stagionali come tartufo e asparagi, carne e pesce.",
+    "address": "5, V. Mammianese - 55011 Marginone (LU)",
+    "streetAddress": "5, V. Mammianese",
+    "postalCode": "55011",
+    "addressLocality": "Marginone",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81883,
+        "lon": 10.72643
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 228242"
+    ],
+    "rating": ""
+}

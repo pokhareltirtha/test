@@ -1,0 +1,20 @@
+{
+    "name": "DEI FRESCOBALDI",
+    "description": "",
+    "address": "4, Via Dei Magazzini - 50122 Firenze (FI)",
+    "streetAddress": "4, Via Dei Magazzini",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77005,
+        "lon": 11.2568
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 284724"
+    ],
+    "rating": ""
+}

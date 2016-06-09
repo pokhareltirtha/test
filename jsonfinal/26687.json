@@ -1,0 +1,20 @@
+{
+    "name": "LA RISTORAZIONE ITALIANA S.R.L.",
+    "description": "",
+    "address": "1, Via Vittorio Emanuele - 50041 Calenzano (FI)",
+    "streetAddress": "1, Via Vittorio Emanuele",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85099,
+        "lon": 11.16719
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8876466"
+    ],
+    "rating": ""
+}

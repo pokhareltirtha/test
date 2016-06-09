@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE HOTEL \"ROSA BIANCA\" DA MORENO",
+    "description": "",
+    "address": "Snc, Via Guido Guerra - 47013 Dovadola (FC)",
+    "streetAddress": "Snc, Via Guido Guerra",
+    "postalCode": "47013",
+    "addressLocality": "Dovadola",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.12076,
+        "lon": 11.88418
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0543 960215",
+        "349 8601818"
+    ],
+    "rating": ""
+}

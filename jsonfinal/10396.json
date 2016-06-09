@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL GIRARROSTO DI MENGOZZI ADUILIA",
+    "description": "",
+    "address": "Snc, Via Biserno - 47018 Santa Sofia (FC)",
+    "streetAddress": "Snc, Via Biserno",
+    "postalCode": "47018",
+    "addressLocality": "Santa Sofia",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 43.90521,
+        "lon": 11.83509
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0543 970007"
+    ],
+    "rating": ""
+}

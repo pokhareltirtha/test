@@ -1,0 +1,20 @@
+{
+    "name": "L'ANTICA POSTA",
+    "description": "",
+    "address": "10/12, Via Miglioli - 50050 Case Nuove (FI)",
+    "streetAddress": "10/12, Via Miglioli",
+    "postalCode": "50050",
+    "addressLocality": "Case Nuove",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58501,
+        "lon": 10.96852
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 628129"
+    ],
+    "rating": ""
+}

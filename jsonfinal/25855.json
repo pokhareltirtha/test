@@ -1,0 +1,21 @@
+{
+    "name": "THE CLUB HOUSE",
+    "description": "",
+    "address": "Via De Ginori, 6r - 50123 Firenze (FI)",
+    "streetAddress": "Via De Ginori, 6r",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77524,
+        "lon": 11.25517
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "334 3386275",
+        "055 211427"
+    ],
+    "rating": "5.0"
+}

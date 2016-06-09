@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL MESSICANO",
+    "description": "",
+    "address": "38, Vl. Montalbano - 51039 Quarrata (PT)",
+    "streetAddress": "38, Vl. Montalbano",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.84891,
+        "lon": 10.97864
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 1923339",
+        "0573 72301"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA COSTA AZZURRA DI LENZI GIOVANNI",
+    "description": "",
+    "address": "4, Via Giovanni XXIII Papa - 59100 Prato (PO)",
+    "streetAddress": "4, Via Giovanni XXIII Papa",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87402,
+        "lon": 11.1174
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 553801",
+        "347 2344602"
+    ],
+    "rating": ""
+}

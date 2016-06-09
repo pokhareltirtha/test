@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA E SFIZZI",
+    "description": "",
+    "address": "43/R, Piazza Della Stazione - 50123 Firenze (FI)",
+    "streetAddress": "43/R, Piazza Della Stazione",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77648,
+        "lon": 11.24914
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "055 2670256"
+    ],
+    "rating": ""
+}

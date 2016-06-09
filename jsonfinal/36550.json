@@ -1,0 +1,20 @@
+{
+    "name": "ARK S.R.L.",
+    "description": "",
+    "address": "47, Viale Gramsci Antonio - 50121 Firenze (FI)",
+    "streetAddress": "47, Viale Gramsci Antonio",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77444,
+        "lon": 11.27078
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 365500"
+    ],
+    "rating": ""
+}

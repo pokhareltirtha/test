@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA RIGOLETTO",
+    "description": "La trattoria ubicata a San Gimignano (SI) dove potrete gustare le specialità della tradizione riviste in chiave moderna.",
+    "address": "23, Vl. Roma - 53037 San Gimignano (SI)",
+    "streetAddress": "23, Vl. Roma",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46824,
+        "lon": 11.04185
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 940159"
+    ],
+    "rating": ""
+}

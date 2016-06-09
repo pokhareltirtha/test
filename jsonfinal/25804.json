@@ -1,0 +1,20 @@
+{
+    "name": "BOCCONDIVINO SRL",
+    "description": "",
+    "address": "59, Via Mascagni - 59100 Prato (PO)",
+    "streetAddress": "59, Via Mascagni",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88916,
+        "lon": 11.0711
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 442061"
+    ],
+    "rating": ""
+}

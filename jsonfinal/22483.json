@@ -1,0 +1,20 @@
+{
+    "name": "RESTAURANT PERUANO LIMA LIMON DI LANDEO BALVIN JULIO CESAR",
+    "description": "",
+    "address": "8/R, Via Ponte All'Asse - 50144 Firenze (FI)",
+    "streetAddress": "8/R, Via Ponte All'Asse",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78453,
+        "lon": 11.2404
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 332352"
+    ],
+    "rating": ""
+}

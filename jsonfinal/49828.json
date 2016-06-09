@@ -1,0 +1,20 @@
+{
+    "name": "CHARLIE'S BROWN",
+    "description": "",
+    "address": "1, Via Piovola - 50053 Empoli (FI)",
+    "streetAddress": "1, Via Piovola",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72058,
+        "lon": 10.96202
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 592186"
+    ],
+    "rating": ""
+}

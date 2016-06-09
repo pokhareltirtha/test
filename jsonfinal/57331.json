@@ -1,0 +1,21 @@
+{
+    "name": "LA CONTESSA",
+    "description": "",
+    "address": "5, Via Nefetti - 47018 Santa Sofia (FC)",
+    "streetAddress": "5, Via Nefetti",
+    "postalCode": "47018",
+    "addressLocality": "Santa Sofia",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 43.948,
+        "lon": 11.90714
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "340 4815258",
+        "0543 970137"
+    ],
+    "rating": "3.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "FATTORIA VILLA SPOIANO",
+    "description": "La Fattoria Villa Spoiano, a Tavarnelle Val di Pesa in Via Di Spoiano, offre prodotti agricoli biologici e deliziose camere per un riposo tranquillo e sereno.",
+    "address": "2, V. Di Spoiano - 50028 Tavarnelle Val Di Pesa (FI)",
+    "streetAddress": "2, V. Di Spoiano",
+    "postalCode": "50028",
+    "addressLocality": "Tavarnelle Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.55067,
+        "lon": 11.16959
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8077313"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA PACE",
+    "description": "",
+    "address": "11/C, Piazza G. Matteotti - 47015 Modigliana (FC)",
+    "streetAddress": "11/C, Piazza G. Matteotti",
+    "postalCode": "47015",
+    "addressLocality": "Modigliana",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.1596,
+        "lon": 11.79405
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0546 941638"
+    ],
+    "rating": ""
+}

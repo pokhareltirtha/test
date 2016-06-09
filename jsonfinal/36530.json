@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA TURANU SNC",
+    "description": "",
+    "address": "8, Piazza Bagnolette - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "8, Piazza Bagnolette",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8399,
+        "lon": 11.18991
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4201352"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE MARIO ALLA QUERCIOLA",
+    "description": "",
+    "address": "428, Via Faentina - 50014 Olmo (FI)",
+    "streetAddress": "428, Via Faentina",
+    "postalCode": "50014",
+    "addressLocality": "Olmo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85834,
+        "lon": 11.33793
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 540024"
+    ],
+    "rating": "3.0"
+}

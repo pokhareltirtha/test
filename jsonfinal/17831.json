@@ -1,0 +1,20 @@
+{
+    "name": "MANGIANDO MANGIANDO",
+    "description": "",
+    "address": "80, Piazza Giacomo Matteotti - 50022 Greve In Chianti (FI)",
+    "streetAddress": "80, Piazza Giacomo Matteotti",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58282,
+        "lon": 11.31692
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8546372"
+    ],
+    "rating": ""
+}

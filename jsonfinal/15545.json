@@ -1,0 +1,20 @@
+{
+    "name": "DA GILBERTO",
+    "description": "",
+    "address": "86, Via Bacino Del Brasimone - 40032 Lago Brasimone (BO)",
+    "streetAddress": "86, Via Bacino Del Brasimone",
+    "postalCode": "40032",
+    "addressLocality": "Lago Brasimone",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.12987,
+        "lon": 11.11641
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0534 91116"
+    ],
+    "rating": ""
+}

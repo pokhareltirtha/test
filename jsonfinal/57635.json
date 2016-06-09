@@ -1,0 +1,20 @@
+{
+    "name": "MOKHA",
+    "description": "",
+    "address": "5, Piazza S. Marco - 59100 Prato (PO)",
+    "streetAddress": "5, Piazza S. Marco",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87804,
+        "lon": 11.10145
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 400412"
+    ],
+    "rating": ""
+}

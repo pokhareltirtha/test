@@ -1,0 +1,20 @@
+{
+    "name": "GRIFONI SIMONE",
+    "description": "",
+    "address": "60, Via Vecchia Aretina - 52020 Pergine Valdarno (AR)",
+    "streetAddress": "60, Via Vecchia Aretina",
+    "postalCode": "52020",
+    "addressLocality": "Pergine Valdarno",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.49868,
+        "lon": 11.66643
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 899423"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA CASSIA VETUS",
+    "description": "",
+    "address": "18, Via Setteponti Levante - 52024 Loro Ciuffenna (AR)",
+    "streetAddress": "18, Via Setteponti Levante",
+    "postalCode": "52024",
+    "addressLocality": "Loro Ciuffenna",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.5881,
+        "lon": 11.62768
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9172116"
+    ],
+    "rating": ""
+}

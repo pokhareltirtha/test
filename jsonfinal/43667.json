@@ -1,0 +1,20 @@
+{
+    "name": "CUCINA TORCICODA",
+    "description": "",
+    "address": "5, Via Torta - 50122 Firenze (FI)",
+    "streetAddress": "5, Via Torta",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76949,
+        "lon": 11.26044
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2654329"
+    ],
+    "rating": ""
+}

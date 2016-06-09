@@ -1,0 +1,20 @@
+{
+    "name": "L'OSTERIA DI GIOVANNI SNC DI LATINI GIOVANNI CAROLE CHIARA",
+    "description": "",
+    "address": "18/20/22, Via Del Moro - 50123 Firenze (FI)",
+    "streetAddress": "18/20/22, Via Del Moro",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77211,
+        "lon": 11.24927
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 210004"
+    ],
+    "rating": "4.2"
+}

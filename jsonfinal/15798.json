@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PRIMO AMORE",
+    "description": "Il ristorante Primo Amore, i sapori tipici della Toscana alla vostra tavola per ogni tipo di occasione.",
+    "address": "6, Vl. Europa - 56021 Cascina (PI)",
+    "streetAddress": "6, Vl. Europa",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66552,
+        "lon": 10.53852
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 710494"
+    ],
+    "rating": ""
+}

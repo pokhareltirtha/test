@@ -1,0 +1,20 @@
+{
+    "name": "CONTOLI MICHELE",
+    "description": "",
+    "address": "2/C, Via G.Di Vittorio - 40020 Casalfiumanese (BO)",
+    "streetAddress": "2/C, Via G.Di Vittorio",
+    "postalCode": "40020",
+    "addressLocality": "Casalfiumanese",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.29913,
+        "lon": 11.6314
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0542 666691"
+    ],
+    "rating": ""
+}

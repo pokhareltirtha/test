@@ -1,0 +1,20 @@
+{
+    "name": "CAFÈ PINAR",
+    "description": "",
+    "address": "Via Pier Fortunato Calvi, 5 - 50137 Firenze (FI)",
+    "streetAddress": "Via Pier Fortunato Calvi, 5",
+    "postalCode": "50137",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7744,
+        "lon": 11.28384
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 679383"
+    ],
+    "rating": ""
+}

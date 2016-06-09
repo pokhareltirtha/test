@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA IL QUADRIFOGLIO DI PINTO ANTONIO",
+    "description": "La Pizzeria Il Quadrifoglio Forno d'Oro di Pescia ti offre la vera pizza napoletana a lievitazione naturale, prodotti e dolci tipici napoletani.",
+    "address": "18, Vl. Europa - 51017 Pescia (PT)",
+    "streetAddress": "18, Vl. Europa",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89722,
+        "lon": 10.69143
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 476879",
+        "0572 47253"
+    ],
+    "rating": ""
+}

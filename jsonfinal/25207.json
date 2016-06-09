@@ -1,0 +1,21 @@
+{
+    "name": "CANTINE DEL REDI",
+    "description": "",
+    "address": "4, Via Cinque Martiri - 59015 Artimino (PO)",
+    "streetAddress": "4, Via Cinque Martiri",
+    "postalCode": "59015",
+    "addressLocality": "Artimino",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.78237,
+        "lon": 11.03644
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8718083",
+        "366 6645969"
+    ],
+    "rating": ""
+}

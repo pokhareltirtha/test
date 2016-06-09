@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LE PAVONIERE S.R.L.",
+    "description": "",
+    "address": "Traversa IL Crocifisso - 59100 Prato (PO)",
+    "streetAddress": "Traversa IL Crocifisso",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.84816,
+        "lon": 11.06151
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 623763"
+    ],
+    "rating": ""
+}

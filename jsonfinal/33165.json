@@ -1,0 +1,21 @@
+{
+    "name": "SAALAM BOMBAY",
+    "description": "",
+    "address": "43, Viale Fratelli Rosselli - 50144 Firenze (FI)",
+    "streetAddress": "43, Viale Fratelli Rosselli",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77919,
+        "lon": 11.24323
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 357900",
+        "055 3217464"
+    ],
+    "rating": "3.6"
+}

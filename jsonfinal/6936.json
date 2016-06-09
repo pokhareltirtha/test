@@ -1,0 +1,20 @@
+{
+    "name": "LE OFFICINE DEL MARINI - RISTORANTE SUSHI",
+    "description": "",
+    "address": "9, Piazza Della Sapienza - 51100 Pistoia (PT)",
+    "streetAddress": "9, Piazza Della Sapienza",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93468,
+        "lon": 10.91631
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 24393"
+    ],
+    "rating": ""
+}

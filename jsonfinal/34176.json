@@ -1,0 +1,21 @@
+{
+    "name": "RUGBY PUB SRL",
+    "description": "",
+    "address": "21, Viale Paoli Pasquale - 50137 Firenze (FI)",
+    "streetAddress": "21, Viale Paoli Pasquale",
+    "postalCode": "50137",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77908,
+        "lon": 11.28239
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 5529215",
+        "055 572586"
+    ],
+    "rating": "4.0"
+}

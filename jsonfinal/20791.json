@@ -1,0 +1,20 @@
+{
+    "name": "NAPOLEONE",
+    "description": "",
+    "address": "24, Piazza Del Carmine - 50124 Firenze (FI)",
+    "streetAddress": "24, Piazza Del Carmine",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76896,
+        "lon": 11.24403
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 281015"
+    ],
+    "rating": "3.0"
+}

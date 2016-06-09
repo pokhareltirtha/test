@@ -1,0 +1,20 @@
+{
+    "name": "KAPPERI! SRL",
+    "description": "",
+    "address": "39, Via Saffi Aurelio - 56025 Pontedera (PI)",
+    "streetAddress": "39, Via Saffi Aurelio",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.6647,
+        "lon": 10.63465
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 59495"
+    ],
+    "rating": ""
+}

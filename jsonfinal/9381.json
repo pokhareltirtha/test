@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE COLLEOLI AGRITURISMO COLLEOLI",
+    "description": "",
+    "address": "Loc. Colleoli - 56025 Pontedera (PI)",
+    "streetAddress": "Loc. Colleoli",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.65896,
+        "lon": 10.67379
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 622621"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "LO STRAVIZIO",
+    "description": "",
+    "address": "60, Via Carlo D Angio - 50126 Firenze (FI)",
+    "streetAddress": "60, Via Carlo D Angio",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75796,
+        "lon": 11.29176
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 6801370"
+    ],
+    "rating": ""
+}

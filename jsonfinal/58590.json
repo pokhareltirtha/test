@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIAUMBRA DI TANGANELLI REMO",
+    "description": "",
+    "address": "309, Via Gramsci Antonio - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "309, Via Gramsci Antonio",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83457,
+        "lon": 11.19951
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 443647"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "COCCIPIZZA",
+    "description": "",
+    "address": "7, Via Giovanni Dei Marignolli - 50127 Firenze (FI)",
+    "streetAddress": "7, Via Giovanni Dei Marignolli",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79185,
+        "lon": 11.23703
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 3289578",
+        "347 1744286"
+    ],
+    "rating": ""
+}

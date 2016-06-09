@@ -1,0 +1,21 @@
+{
+    "name": "OMERO",
+    "description": "",
+    "address": "47, Via Pian De Giullari - 50125 Firenze (FI)",
+    "streetAddress": "47, Via Pian De Giullari",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74762,
+        "lon": 11.25774
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2336183",
+        "055 220053"
+    ],
+    "rating": ""
+}

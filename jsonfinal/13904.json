@@ -1,0 +1,20 @@
+{
+    "name": "IL CORTILE DI GIANNINO",
+    "description": "",
+    "address": "19, Via Petrosa - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "19, Via Petrosa",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.82114,
+        "lon": 11.20618
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4492720"
+    ],
+    "rating": "5.0"
+}

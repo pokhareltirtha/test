@@ -1,0 +1,20 @@
+{
+    "name": "GRECO LUIGI",
+    "description": "",
+    "address": "39, Via Della Croce - 50023 Impruneta (FI)",
+    "streetAddress": "39, Via Della Croce",
+    "postalCode": "50023",
+    "addressLocality": "Impruneta",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.68449,
+        "lon": 11.25232
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2313492"
+    ],
+    "rating": ""
+}

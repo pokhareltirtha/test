@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE BABATTE",
+    "description": "",
+    "address": "Via Romania - 53036 Bellavista (SI)",
+    "streetAddress": "Via Romania",
+    "postalCode": "53036",
+    "addressLocality": "Bellavista",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.44129,
+        "lon": 11.16225
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 979533"
+    ],
+    "rating": ""
+}

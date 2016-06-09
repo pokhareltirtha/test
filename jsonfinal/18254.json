@@ -1,0 +1,21 @@
+{
+    "name": "ELDORADO S.R.L.",
+    "description": "",
+    "address": "Snc, Localita' Linari - 53013 Gaiole In Chianti (SI)",
+    "streetAddress": "Snc, Localita' Linari",
+    "postalCode": "53013",
+    "addressLocality": "Gaiole In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.43332,
+        "lon": 11.50147
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 749559",
+        "0577 749298"
+    ],
+    "rating": ""
+}

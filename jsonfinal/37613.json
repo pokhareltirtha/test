@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE VITTORIA",
+    "description": "",
+    "address": "231, Via Pistoiese - 59100 Prato (PO)",
+    "streetAddress": "231, Via Pistoiese",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88687,
+        "lon": 11.08343
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 28619"
+    ],
+    "rating": ""
+}

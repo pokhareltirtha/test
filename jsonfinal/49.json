@@ -1,0 +1,20 @@
+{
+    "name": "DOWNUP S.R.L.",
+    "description": "",
+    "address": "6, Via Copernico - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "6, Via Copernico",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80572,
+        "lon": 11.17854
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3436732"
+    ],
+    "rating": ""
+}

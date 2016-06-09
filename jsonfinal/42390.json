@@ -1,0 +1,21 @@
+{
+    "name": "CATERING RISTORANTE BAR PIZZERIA",
+    "description": "",
+    "address": "27, Via Della Chiesa - 50056 Montelupo Fiorentino (FI)",
+    "streetAddress": "27, Via Della Chiesa",
+    "postalCode": "50056",
+    "addressLocality": "Montelupo Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7322,
+        "lon": 11.00906
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 1933664",
+        "0571 913459"
+    ],
+    "rating": ""
+}

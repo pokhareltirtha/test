@@ -1,0 +1,20 @@
+{
+    "name": "PASTICCERIA PIZZERIA CENNINI SIMONE",
+    "description": "La Pasticceria Pizzeria Simone Cennini, a Colle di Val d’Elsa in Piazza Scala, vi conquisterà con i sapori ed i profumi della tradizione senese.",
+    "address": "20/22, P. Scala - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "20/22, P. Scala",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42376,
+        "lon": 11.12574
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 921285"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA IL GALLO",
+    "description": "",
+    "address": "1, Via Belvedere - 56035 Lari (PI)",
+    "streetAddress": "1, Via Belvedere",
+    "postalCode": "56035",
+    "addressLocality": "Lari",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.56204,
+        "lon": 10.59792
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 685233"
+    ],
+    "rating": ""
+}

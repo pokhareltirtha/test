@@ -1,0 +1,20 @@
+{
+    "name": "DAMI'",
+    "description": "",
+    "address": "Via Sillaro 2 - 40022 Sassoleone (BO)",
+    "streetAddress": "Via Sillaro 2",
+    "postalCode": "40022",
+    "addressLocality": "Sassoleone",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.25917,
+        "lon": 11.48442
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0542 97863"
+    ],
+    "rating": ""
+}

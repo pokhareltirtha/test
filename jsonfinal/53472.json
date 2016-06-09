@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA KEBAB S.N.C. DI MAHMOOD KHALID  C. SNC",
+    "description": "",
+    "address": "342, Via Pistoiese - 50145 Firenze (FI)",
+    "streetAddress": "342, Via Pistoiese",
+    "postalCode": "50145",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79275,
+        "lon": 11.16571
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 340108"
+    ],
+    "rating": "5.0"
+}

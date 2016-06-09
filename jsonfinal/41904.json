@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE GIGLIO ROSSO",
+    "description": "Ristorante di Firenze, adiacente alla Chiesa di Santa Maria Novella, propone piatti di cucina toscana, oltre che la famosissima Bistecca Fiorentina!",
+    "address": "35/R, V. Dei Panzani - 50123 Firenze (FI)",
+    "streetAddress": "35/R, V. Dei Panzani",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77403,
+        "lon": 11.25112
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 211795",
+        "339 2426365"
+    ],
+    "rating": ""
+}

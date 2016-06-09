@@ -1,0 +1,21 @@
+{
+    "name": "L'OCA BIANCA",
+    "description": "",
+    "address": "2, Piazzale Della Pace - 56028 San Miniato Basso (PI)",
+    "streetAddress": "2, Piazzale Della Pace",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato Basso",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69347,
+        "lon": 10.8411
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 931964",
+        "0571 401471"
+    ],
+    "rating": ""
+}

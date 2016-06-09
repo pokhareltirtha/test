@@ -1,0 +1,20 @@
+{
+    "name": "PADELLINO",
+    "description": "",
+    "address": "Viale Stazione 222 - 50036 Vaglia (FI)",
+    "streetAddress": "Viale Stazione 222",
+    "postalCode": "50036",
+    "addressLocality": "Vaglia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.90574,
+        "lon": 11.28292
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 407902"
+    ],
+    "rating": ""
+}

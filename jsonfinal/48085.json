@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA IL VECCHIO POGGIO",
+    "description": "L'Osteria Il Vecchio Poggio di Lo Iacono Marco si trova in 51, v. V. Emanuele a Poggio A Caiano (PO), è specializzata in piatti di pesce, primi piatti e pizze.",
+    "address": "51, V. Vittorio Emanuele - 59016 Poggio A Caiano (PO)",
+    "streetAddress": "51, V. Vittorio Emanuele",
+    "postalCode": "59016",
+    "addressLocality": "Poggio A Caiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.81494,
+        "lon": 11.05982
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8778889"
+    ],
+    "rating": ""
+}

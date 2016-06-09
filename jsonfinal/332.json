@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA CAMPAGNA ORESTE",
+    "description": "Il Ristorante Pizzeria Campagna Oreste si trova a 5 Km da Calenzano, immerso nel verde in loc. Legri, e dispone di pizzeria con forno a legna, cucina toscana.",
+    "address": "22, V. Legri - 50041 Calenzano (FI)",
+    "streetAddress": "22, V. Legri",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.91435,
+        "lon": 11.22453
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8827156"
+    ],
+    "rating": ""
+}

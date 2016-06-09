@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DE MACCI",
+    "description": "",
+    "address": "77/R, Via Dei Macci - 50122 Firenze (FI)",
+    "streetAddress": "77/R, Via Dei Macci",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77043,
+        "lon": 11.26596
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 241226"
+    ],
+    "rating": ""
+}

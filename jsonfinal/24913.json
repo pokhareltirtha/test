@@ -1,0 +1,20 @@
+{
+    "name": "BOCCANEGRA SIMON",
+    "description": "",
+    "address": "124/R., Via Ghibellina - 50122 Firenze (FI)",
+    "streetAddress": "124/R., Via Ghibellina",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77032,
+        "lon": 11.26115
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2001098"
+    ],
+    "rating": "5.0"
+}

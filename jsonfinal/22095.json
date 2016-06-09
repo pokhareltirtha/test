@@ -1,0 +1,20 @@
+{
+    "name": "VILLA CAPPUGI",
+    "description": "Villa Cappugi, a Pistoia in via Collegigliato 45, accogli i propri clienti in un ambiente elegante adatto per soggiorni di lavoro e per pause rilassanti.",
+    "address": "45, V. Collegigliato - 51100 Pistoia (PT)",
+    "streetAddress": "45, V. Collegigliato",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94982,
+        "lon": 10.92032
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 450297"
+    ],
+    "rating": ""
+}

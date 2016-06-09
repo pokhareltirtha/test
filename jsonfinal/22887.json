@@ -1,0 +1,20 @@
+{
+    "name": "TIMEOUT RESTAURANT S.R.L.",
+    "description": "",
+    "address": "131, Via Paisiello Giovanni - 50144 Firenze (FI)",
+    "streetAddress": "131, Via Paisiello Giovanni",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78511,
+        "lon": 11.22469
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 354252"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA/TRATTORIA MONTE PAOLO",
+    "description": "",
+    "address": "55, Via Montepaolo - 47013 Dovadola (FC)",
+    "streetAddress": "55, Via Montepaolo",
+    "postalCode": "47013",
+    "addressLocality": "Dovadola",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.12834,
+        "lon": 11.89144
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "348 2729098",
+        "0543 934406"
+    ],
+    "rating": ""
+}

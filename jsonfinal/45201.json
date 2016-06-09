@@ -1,0 +1,20 @@
+{
+    "name": "CECCO",
+    "description": "",
+    "address": "Via Forti 96/98 - 51017 Pescia (PT)",
+    "streetAddress": "Via Forti 96/98",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9032,
+        "lon": 10.6892
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 477955"
+    ],
+    "rating": "4.0"
+}

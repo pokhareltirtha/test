@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL FOCOLARE",
+    "description": "Il ristorante a Montespertoli (FI) luogo ideale per coloro che desiderano gustare la vera bistecca alla fiorentina e tanti altri ottimi piatti di carne.",
+    "address": "173, V. Volterrana Nord - 50025 Montagnana (FI)",
+    "streetAddress": "173, V. Volterrana Nord",
+    "postalCode": "50025",
+    "addressLocality": "Montagnana",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.67243,
+        "lon": 11.10352
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 671132"
+    ],
+    "rating": ""
+}

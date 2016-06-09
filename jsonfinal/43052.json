@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE DU-CA",
+    "description": "Ristorante pizzeria Du-Ca, primi piatti fatti in casa, tortelli e ravioli, pizza con farine macinate a pietra e bistecca alla fiorentina.",
+    "address": "2, V. Giotto - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "2, V. Giotto",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.95514,
+        "lon": 11.38987
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8456733",
+        "366 8218646"
+    ],
+    "rating": ""
+}

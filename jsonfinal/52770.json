@@ -1,0 +1,20 @@
+{
+    "name": "TAVERNA DEI MATTI",
+    "description": "La freschezza dei prodotti utilizzati e l'esperienza acquisita in tanti anni fanno della Taverna Dei Matti un punto di riferimento per tutti coloro che vogliono degustare le nostre specialità. La nost...",
+    "address": "4/R, V. Speri - 50135 Firenze (FI)",
+    "streetAddress": "4/R, V. Speri",
+    "postalCode": "50135",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7722,
+        "lon": 11.28578
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 666537"
+    ],
+    "rating": "5.0"
+}

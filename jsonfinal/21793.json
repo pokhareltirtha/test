@@ -1,0 +1,21 @@
+{
+    "name": "BALDINI",
+    "description": "",
+    "address": "96  Via IL Prato - Firenze (FI)",
+    "streetAddress": "96, Via IL Prato",
+    "postalCode": "",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77667,
+        "lon": 11.24103
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 287663",
+        "055 213118"
+    ],
+    "rating": ""
+}

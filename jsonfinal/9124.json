@@ -1,0 +1,20 @@
+{
+    "name": "FELICI DONATELLA",
+    "description": "",
+    "address": "43, Localita Sarti Grilletto - 55011 Badia Pozzeveri (LU)",
+    "streetAddress": "43, Localita Sarti Grilletto",
+    "postalCode": "55011",
+    "addressLocality": "Badia Pozzeveri",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.82081,
+        "lon": 10.64808
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 276446"
+    ],
+    "rating": ""
+}

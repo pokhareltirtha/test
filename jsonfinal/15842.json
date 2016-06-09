@@ -1,0 +1,20 @@
+{
+    "name": "UNA PALAZZO MANNAIONI",
+    "description": "",
+    "address": "Via Marconi 2 - 50050 Montaione (FI)",
+    "streetAddress": "Via Marconi 2",
+    "postalCode": "50050",
+    "addressLocality": "Montaione",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.55248,
+        "lon": 10.91171
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 69277"
+    ],
+    "rating": "5.0"
+}

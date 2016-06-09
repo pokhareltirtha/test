@@ -1,0 +1,20 @@
+{
+    "name": "BONAGUIDI",
+    "description": "",
+    "address": "18, Piazza Santa Croce - 50122 Firenze (FI)",
+    "streetAddress": "18, Piazza Santa Croce",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76858,
+        "lon": 11.26153
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 241867"
+    ],
+    "rating": ""
+}

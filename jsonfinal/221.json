@@ -1,0 +1,21 @@
+{
+    "name": "GATTABUIA",
+    "description": "",
+    "address": "13, Lungarno Benvenuto Cellini - 50125 Firenze (FI)",
+    "streetAddress": "13, Lungarno Benvenuto Cellini",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76422,
+        "lon": 11.26982
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 6814449"
+    ],
+    "rating": "5.0"
+}

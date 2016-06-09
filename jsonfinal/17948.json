@@ -1,0 +1,20 @@
+{
+    "name": "TIT-S.R.L.",
+    "description": "",
+    "address": "45, Via Del Chianti Classico - 53035 Quercegrossa (SI)",
+    "streetAddress": "45, Via Del Chianti Classico",
+    "postalCode": "53035",
+    "addressLocality": "Quercegrossa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.39276,
+        "lon": 11.30904
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 327169"
+    ],
+    "rating": ""
+}

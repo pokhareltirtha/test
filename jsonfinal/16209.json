@@ -1,0 +1,20 @@
+{
+    "name": "SUCCO D'UVA",
+    "description": "",
+    "address": "2, Via XX Settembre - 56031 Bientina (PI)",
+    "streetAddress": "2, Via XX Settembre",
+    "postalCode": "56031",
+    "addressLocality": "Bientina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70955,
+        "lon": 10.61967
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 757548"
+    ],
+    "rating": ""
+}

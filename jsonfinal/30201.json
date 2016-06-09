@@ -1,0 +1,20 @@
+{
+    "name": "IL CASOLARE",
+    "description": "",
+    "address": "111, Via Persignano - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "111, Via Persignano",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.58861,
+        "lon": 11.56861
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 969390"
+    ],
+    "rating": ""
+}

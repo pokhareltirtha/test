@@ -1,0 +1,20 @@
+{
+    "name": "IL GIORGIONE",
+    "description": "",
+    "address": "23, Via Belvedere - 50032 Sagginale (FI)",
+    "streetAddress": "23, Via Belvedere",
+    "postalCode": "50032",
+    "addressLocality": "Sagginale",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.93266,
+        "lon": 11.41932
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8490130"
+    ],
+    "rating": "5.0"
+}

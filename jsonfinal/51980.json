@@ -1,0 +1,20 @@
+{
+    "name": "ENJOY PIZZERIA",
+    "description": "",
+    "address": "262, Via Pesciatina - 55012 Lunata (LU)",
+    "streetAddress": "262, Via Pesciatina",
+    "postalCode": "55012",
+    "addressLocality": "Lunata",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.85685,
+        "lon": 10.58137
+    },
+    "categories": [
+        "Pizzi e merletti"
+    ],
+    "telephone": [
+        "0583 929523"
+    ],
+    "rating": ""
+}

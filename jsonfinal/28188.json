@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE 7 DOLLARI",
+    "description": "A Brisighella, il ristorante dove gustare i piatti della cucina tradizionale romagnola e toscana.",
+    "address": "7, V. Strada Casale - 48013 Brisighella (RA)",
+    "streetAddress": "7, V. Strada Casale",
+    "postalCode": "48013",
+    "addressLocality": "Brisighella",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.18229,
+        "lon": 11.6992
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 88070",
+        "338 4478718"
+    ],
+    "rating": ""
+}

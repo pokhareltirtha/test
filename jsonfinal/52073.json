@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA PAOLA",
+    "description": "",
+    "address": "72, Via Cima Vorno - 55060 Capannori (LU)",
+    "streetAddress": "72, Via Cima Vorno",
+    "postalCode": "55060",
+    "addressLocality": "Capannori",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.77801,
+        "lon": 10.51041
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0583 971048"
+    ],
+    "rating": ""
+}

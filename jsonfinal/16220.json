@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL CONVENTINO DI BONANNI MANUELA & C. S.R.L.",
+    "description": "",
+    "address": "3, Via Butese - 56011 Calci (PI)",
+    "streetAddress": "3, Via Butese",
+    "postalCode": "56011",
+    "addressLocality": "Calci",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.74012,
+        "lon": 10.52517
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 936103"
+    ],
+    "rating": "5.0"
+}

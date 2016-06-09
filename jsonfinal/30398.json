@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA LA QUERCE",
+    "description": "",
+    "address": "12, Via Aretina - 52021 Bucine (AR)",
+    "streetAddress": "12, Via Aretina",
+    "postalCode": "52021",
+    "addressLocality": "Bucine",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.49698,
+        "lon": 11.62097
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9788074"
+    ],
+    "rating": ""
+}

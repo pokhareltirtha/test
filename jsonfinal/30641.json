@@ -1,0 +1,20 @@
+{
+    "name": "SETTIMO",
+    "description": "",
+    "address": "21, Via Del Barco - 50127 Firenze (FI)",
+    "streetAddress": "21, Via Del Barco",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79208,
+        "lon": 11.2137
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 433458"
+    ],
+    "rating": "4.0"
+}

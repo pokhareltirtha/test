@@ -1,0 +1,20 @@
+{
+    "name": "L'OSTERIA",
+    "description": "",
+    "address": "57  Viale Roma - Pratovecchio (AR)",
+    "streetAddress": "57, Viale Roma",
+    "postalCode": "",
+    "addressLocality": "Pratovecchio",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.79443,
+        "lon": 11.71538
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 583843"
+    ],
+    "rating": ""
+}

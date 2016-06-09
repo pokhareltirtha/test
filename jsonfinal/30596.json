@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE SANTA CATERINA DI CHERICI FERNANDO & C. (S.N.C.)",
+    "description": "",
+    "address": "131, Via S. Giovanni Gualberto - 50066 Saltino (FI)",
+    "streetAddress": "131, Via S. Giovanni Gualberto",
+    "postalCode": "50066",
+    "addressLocality": "Saltino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73288,
+        "lon": 11.55663
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8622728",
+        "055 869288"
+    ],
+    "rating": "4.0"
+}

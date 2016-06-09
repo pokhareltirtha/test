@@ -1,0 +1,20 @@
+{
+    "name": "AL PACHINO",
+    "description": "",
+    "address": "Via Vecchia Di San Gervasio - 56036 Palaia (PI)",
+    "streetAddress": "Via Vecchia Di San Gervasio",
+    "postalCode": "56036",
+    "addressLocality": "Palaia",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.62665,
+        "lon": 10.70439
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 628040"
+    ],
+    "rating": ""
+}

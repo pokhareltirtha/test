@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA RANA DA FILETTO snc",
+    "description": "Ristorante e cucina tipica a Pratovecchio Stia, dove garantiamo alla clientela una qualità assoluta delle realizzazioni eseguite sempre a regola d'arte.",
+    "address": "10, V. Campo Sportivo - 52017 Stia (AR)",
+    "streetAddress": "10, V. Campo Sportivo",
+    "postalCode": "52017",
+    "addressLocality": "Stia",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.80072,
+        "lon": 11.70582
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 504505",
+        "338 3365727"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA LANTERNA SDF DI PIERACCIONI A. E C.",
+    "description": "",
+    "address": "18, Via Pulica - 50056 Pulica (FI)",
+    "streetAddress": "18, Via Pulica",
+    "postalCode": "50056",
+    "addressLocality": "Pulica",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.70359,
+        "lon": 11.04215
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 542021"
+    ],
+    "rating": ""
+}

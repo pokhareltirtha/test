@@ -1,0 +1,20 @@
+{
+    "name": "CANTUCCIO",
+    "description": "",
+    "address": "12, Via Verdi - 52024 Loro Ciuffenna (AR)",
+    "streetAddress": "12, Via Verdi",
+    "postalCode": "52024",
+    "addressLocality": "Loro Ciuffenna",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.55589,
+        "lon": 11.70905
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 977134"
+    ],
+    "rating": "5.0"
+}

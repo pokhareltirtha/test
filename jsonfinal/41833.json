@@ -1,0 +1,21 @@
+{
+    "name": "ACCADEMIA DELLA CUCINA TOSCANA DI GIACHETTI MASSIMO",
+    "description": "",
+    "address": "52, Via Chiantigiana - 50028 Tavarnelle Val Di Pesa (FI)",
+    "streetAddress": "52, Via Chiantigiana",
+    "postalCode": "50028",
+    "addressLocality": "Tavarnelle Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.56334,
+        "lon": 11.22132
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8072059",
+        "339 6279255"
+    ],
+    "rating": ""
+}

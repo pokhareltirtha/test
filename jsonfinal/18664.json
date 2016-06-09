@@ -1,0 +1,20 @@
+{
+    "name": "SAN LORENZO APARTMENTS",
+    "description": "",
+    "address": "Viale Della Rimembranza - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "Viale Della Rimembranza",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42306,
+        "lon": 11.11362
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 923675"
+    ],
+    "rating": ""
+}

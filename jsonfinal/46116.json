@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ASIATICO LA FORTUNA DA SABRINA",
+    "description": "Il ristorante di Empoli si occupa di preparare piatti tipici della cucina cinese e della cucina asiatica, proponendo vantaggiose promozioni.",
+    "address": "109, Vl. Togliatti - 50059 Vinci (FI)",
+    "streetAddress": "109, Vl. Togliatti",
+    "postalCode": "50059",
+    "addressLocality": "Vinci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72856,
+        "lon": 10.93485
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 508162"
+    ],
+    "rating": ""
+}

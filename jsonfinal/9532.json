@@ -1,0 +1,20 @@
+{
+    "name": "CAFFE' RISTORANTE GLI ARTISTI",
+    "description": "",
+    "address": "4, Piazza Giovanni XXIII - 51100 Pistoia (PT)",
+    "streetAddress": "4, Piazza Giovanni XXIII",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93493,
+        "lon": 10.91795
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 976391"
+    ],
+    "rating": ""
+}

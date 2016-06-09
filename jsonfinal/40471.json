@@ -1,0 +1,21 @@
+{
+    "name": "I RICCHI",
+    "description": "",
+    "address": "14, Via Docciola - 50019 Serravalle (FI)",
+    "streetAddress": "14, Via Docciola",
+    "postalCode": "50019",
+    "addressLocality": "Serravalle",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84731,
+        "lon": 11.26833
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 402024",
+        "055 402045"
+    ],
+    "rating": ""
+}

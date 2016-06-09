@@ -1,0 +1,21 @@
+{
+    "name": "CONTESSA LINA",
+    "description": "",
+    "address": "570, Localita Contessa Lina - 50033 Firenzuola (FI)",
+    "streetAddress": "570, Localita Contessa Lina",
+    "postalCode": "50033",
+    "addressLocality": "Firenzuola",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.11332,
+        "lon": 11.38072
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8199222"
+    ],
+    "rating": ""
+}

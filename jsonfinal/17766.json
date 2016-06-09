@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA IL FEUDO",
+    "description": "Il Ristorante Il Feudo, da oltre dieci anni, è situato nel bellissimo centro storico di Monteriggioni, perla del senese, circondata da paesaggi meravigliosi. Il Feudo è il luogo ideale per soddisfare ...",
+    "address": "16, P. Roma - 53035 Monteriggioni (SI)",
+    "streetAddress": "16, P. Roma",
+    "postalCode": "53035",
+    "addressLocality": "Monteriggioni",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.38958,
+        "lon": 11.22371
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 304108"
+    ],
+    "rating": ""
+}

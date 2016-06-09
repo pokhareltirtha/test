@@ -1,0 +1,20 @@
+{
+    "name": "LA TERRAZA",
+    "description": "",
+    "address": "22, Piazza Giacomo Matteotti - 50022 Greve In Chianti (FI)",
+    "streetAddress": "22, Piazza Giacomo Matteotti",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58255,
+        "lon": 11.31678
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 853308"
+    ],
+    "rating": ""
+}

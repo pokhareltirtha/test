@@ -1,0 +1,20 @@
+{
+    "name": "GRAND HOTEL MINERVA",
+    "description": "L'albergo ristorante dove trascorrere un soggiorno tranquillo e gustare menù mediterraneo o pranzi di lavoro a Firenze.",
+    "address": "16, P. S. M. Novella - 50123 Firenze (FI)",
+    "streetAddress": "16, P. S. M. Novella",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7739,
+        "lon": 11.24914
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 27230"
+    ],
+    "rating": "4.2"
+}

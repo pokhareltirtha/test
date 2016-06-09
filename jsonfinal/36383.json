@@ -1,0 +1,20 @@
+{
+    "name": "TERZOTEMPO",
+    "description": "",
+    "address": "2, Via Achille Grandi - 50023 Tavarnuzze (FI)",
+    "streetAddress": "2, Via Achille Grandi",
+    "postalCode": "50023",
+    "addressLocality": "Tavarnuzze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71153,
+        "lon": 11.21696
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2373364"
+    ],
+    "rating": "5.0"
+}

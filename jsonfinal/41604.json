@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE BEL MI' COLLE",
+    "description": "La nostra trattoria dove si possono respirare profumi e ricordare sapori di casa, in un ambiente tradizionale, siamo a Colle di Val d'Elsa.",
+    "address": "56, V. Garibaldi - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "56, V. Garibaldi",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42265,
+        "lon": 11.12486
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 922837"
+    ],
+    "rating": ""
+}

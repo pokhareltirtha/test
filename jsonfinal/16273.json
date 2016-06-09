@@ -1,0 +1,20 @@
+{
+    "name": "CARPE DIEM",
+    "description": "",
+    "address": "67, Via Da Filicaia - 50050 Montaione (FI)",
+    "streetAddress": "67, Via Da Filicaia",
+    "postalCode": "50050",
+    "addressLocality": "Montaione",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54946,
+        "lon": 10.91433
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 697888"
+    ],
+    "rating": ""
+}

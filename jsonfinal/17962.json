@@ -1,0 +1,21 @@
+{
+    "name": "LA VENEZIA",
+    "description": "",
+    "address": "7/9, Via Usimbardi - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "7/9, Via Usimbardi",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42221,
+        "lon": 11.12674
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 922241",
+        "0577 921260"
+    ],
+    "rating": "4.0"
+}

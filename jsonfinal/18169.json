@@ -1,0 +1,20 @@
+{
+    "name": "BARAKA CAFE'",
+    "description": "Situato nella periferia a nord di Firenze, ambiente raffinato e moderno ideale per festeggiare compleanni o eventi di ogni genere.",
+    "address": "75/R, V. Novoli - 50127 Firenze (FI)",
+    "streetAddress": "75/R, V. Novoli",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79508,
+        "lon": 11.21645
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 431495"
+    ],
+    "rating": "5.0"
+}

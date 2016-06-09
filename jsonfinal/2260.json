@@ -1,0 +1,20 @@
+{
+    "name": "JGR S.R.L.",
+    "description": "",
+    "address": "21, Via Dei Vespucci - 50145 Firenze (FI)",
+    "streetAddress": "21, Via Dei Vespucci",
+    "postalCode": "50145",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7962,
+        "lon": 11.20153
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3850450"
+    ],
+    "rating": ""
+}

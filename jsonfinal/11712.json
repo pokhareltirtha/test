@@ -1,0 +1,20 @@
+{
+    "name": "TAMERO' PASTA BAR",
+    "description": "",
+    "address": "11, Piazza Santo Spirito - 50125 Firenze (FI)",
+    "streetAddress": "11, Piazza Santo Spirito",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76632,
+        "lon": 11.2473
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 282596"
+    ],
+    "rating": "5.0"
+}

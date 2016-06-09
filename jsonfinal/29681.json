@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL CAVALIERE DEL CASTELLO DI GABBIANO",
+    "description": "Il “Cavaliere” è il nome del ristorante di Castello di Gabbiano, ricavato da una colonica del XVI secolo.",
+    "address": "22, V. Gabbiano - 50026 Mercatale (FI)",
+    "streetAddress": "22, V. Gabbiano",
+    "postalCode": "50026",
+    "addressLocality": "Mercatale",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.62685,
+        "lon": 11.25756
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8218423",
+        "334 6429535"
+    ],
+    "rating": ""
+}

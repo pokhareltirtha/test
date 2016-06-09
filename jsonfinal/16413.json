@@ -1,0 +1,20 @@
+{
+    "name": "HONG KONG",
+    "description": "",
+    "address": "42, Via Cavour Camillo Benso - 50053 Empoli (FI)",
+    "streetAddress": "42, Via Cavour Camillo Benso",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71796,
+        "lon": 10.94571
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 710493"
+    ],
+    "rating": ""
+}

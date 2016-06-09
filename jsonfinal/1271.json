@@ -1,0 +1,21 @@
+{
+    "name": "LANTERNA BLU",
+    "description": "",
+    "address": "9, Via Corridoni Filippo - 50134 Firenze (FI)",
+    "streetAddress": "9, Via Corridoni Filippo",
+    "postalCode": "50134",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79084,
+        "lon": 11.24354
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4220560"
+    ],
+    "rating": ""
+}

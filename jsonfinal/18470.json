@@ -1,0 +1,20 @@
+{
+    "name": "SDL S.R.L.",
+    "description": "",
+    "address": "186, Via Montelupo - 50025 Montespertoli (FI)",
+    "streetAddress": "186, Via Montelupo",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.64863,
+        "lon": 11.07002
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 675265"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE BEI",
+    "description": "",
+    "address": "320, Via Del Bosco - 56029 Santa Croce Sull'Arno (PI)",
+    "streetAddress": "320, Via Del Bosco",
+    "postalCode": "56029",
+    "addressLocality": "Santa Croce Sull'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.72695,
+        "lon": 10.76622
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 30761",
+        "0571 386041"
+    ],
+    "rating": ""
+}

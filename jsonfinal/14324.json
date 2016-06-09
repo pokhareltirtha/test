@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE MARISA",
+    "description": "Ristorante Marisa: 62 anni di storia e tradizione alle spalle a Barberino di Mugello (FI) in 21, v. Lago, Vi offre il meglio della buona cucina toscana.",
+    "address": "",
+    "streetAddress": "",
+    "postalCode": "",
+    "addressLocality": "",
+    "addressRegion": "",
+    "coordinates": {
+        "lat": null,
+        "lon": null
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8420045"
+    ],
+    "rating": "4.5"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA ALL'INSEGNA DEL GALLO",
+    "description": "",
+    "address": "Via Gian Pasquale Poccianti 6 - 50018 Scandicci (FI)",
+    "streetAddress": "Via Gian Pasquale Poccianti 6",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75512,
+        "lon": 11.19433
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2578244",
+        "334 7485347"
+    ],
+    "rating": ""
+}

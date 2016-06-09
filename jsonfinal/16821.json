@@ -1,0 +1,21 @@
+{
+    "name": "ALBERGO RISTORANTE S. ELISA",
+    "description": "L'hotel ristorante S. Elisa immerso nella campagna volterrana a Volterra (PI) in strada regionale 68.",
+    "address": "Strada Regionale 68 (Km 36.500) - 56048 Volterra (PI)",
+    "streetAddress": "Strada Regionale 68 (Km 36.500)",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.39244,
+        "lon": 10.89581
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "328 4354535",
+        "0588 80034"
+    ],
+    "rating": ""
+}

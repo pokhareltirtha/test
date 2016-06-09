@@ -1,0 +1,20 @@
+{
+    "name": "NUOVO ASTRO CAFE' DI BINDI STEFANO",
+    "description": "",
+    "address": "43, Via S. Maria - 51011 Buggiano (PT)",
+    "streetAddress": "43, Via S. Maria",
+    "postalCode": "51011",
+    "addressLocality": "Buggiano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87499,
+        "lon": 10.73217
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 30648"
+    ],
+    "rating": ""
+}

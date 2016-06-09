@@ -1,0 +1,21 @@
+{
+    "name": "CASAMIA PICCOLO BISTROT",
+    "description": "A Pistoia (PT) in 44, v. Udine il lounge restaurant che offre ricchi aperitivi a buffet, cene di qualità e serate divertenti tra cocktails ed ottima musica.",
+    "address": "44, V. Udine - 51100 Pistoia (PT)",
+    "streetAddress": "44, V. Udine",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92613,
+        "lon": 10.92161
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 8702811",
+        "0573 28784"
+    ],
+    "rating": ""
+}

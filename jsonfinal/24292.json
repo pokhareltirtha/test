@@ -1,0 +1,21 @@
+{
+    "name": "COLLEBRUNACCHI",
+    "description": "",
+    "address": "6, Via Collebrunacchi - 56028 San Miniato (PI)",
+    "streetAddress": "6, Via Collebrunacchi",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.63475,
+        "lon": 10.86057
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 409593",
+        "0571 409601"
+    ],
+    "rating": ""
+}

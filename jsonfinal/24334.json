@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE MOLINO D'ERA",
+    "description": "",
+    "address": "Loc. Molino D'Era - 56048 Volterra (PI)",
+    "streetAddress": "Loc. Molino D'Era",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.45374,
+        "lon": 10.8234
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 33049",
+        "0588 33220"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA MACELLERIA IL TEGOLO",
+    "description": "",
+    "address": "16, Via Corliano - 50050 Cerreto Guidi (FI)",
+    "streetAddress": "16, Via Corliano",
+    "postalCode": "50050",
+    "addressLocality": "Cerreto Guidi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74877,
+        "lon": 10.86389
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0571 559038",
+        "0571 559011"
+    ],
+    "rating": ""
+}

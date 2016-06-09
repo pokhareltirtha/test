@@ -1,0 +1,20 @@
+{
+    "name": "SOLDI",
+    "description": "",
+    "address": "29, Via Di Montechiaro - 51100 Pontelungo (PT)",
+    "streetAddress": "29, Via Di Montechiaro",
+    "postalCode": "51100",
+    "addressLocality": "Pontelungo",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92245,
+        "lon": 10.89053
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 571738"
+    ],
+    "rating": "5.0"
+}

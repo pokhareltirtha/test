@@ -1,0 +1,20 @@
+{
+    "name": "HENRY",
+    "description": "",
+    "address": "22, Via Martiri - 47019 Tredozio (FC)",
+    "streetAddress": "22, Via Martiri",
+    "postalCode": "47019",
+    "addressLocality": "Tredozio",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.08169,
+        "lon": 11.74521
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 943825"
+    ],
+    "rating": ""
+}

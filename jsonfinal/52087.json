@@ -1,0 +1,20 @@
+{
+    "name": "BAR TRATTORIA PIZZERIA PAOLO E PAOLA",
+    "description": "",
+    "address": "188, Via Comunale S. Ginese - 55012 Capannori (LU)",
+    "streetAddress": "188, Via Comunale S. Ginese",
+    "postalCode": "55012",
+    "addressLocality": "Capannori",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.8474,
+        "lon": 10.57119
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 909337"
+    ],
+    "rating": ""
+}

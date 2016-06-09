@@ -1,0 +1,20 @@
+{
+    "name": "STEFANACCI",
+    "description": "",
+    "address": "25, Case Giusti Costozze - 59024 Costozze (PO)",
+    "streetAddress": "25, Case Giusti Costozze",
+    "postalCode": "59024",
+    "addressLocality": "Costozze",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 44.03684,
+        "lon": 11.15963
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 950146"
+    ],
+    "rating": ""
+}

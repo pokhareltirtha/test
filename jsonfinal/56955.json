@@ -1,0 +1,20 @@
+{
+    "name": "DANTE",
+    "description": "",
+    "address": "12, Piazza Nazario Sauro - 50124 Firenze (FI)",
+    "streetAddress": "12, Piazza Nazario Sauro",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76915,
+        "lon": 11.24656
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 219219"
+    ],
+    "rating": ""
+}

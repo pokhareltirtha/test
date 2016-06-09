@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE - PIZZERIA - BAR REGINA MARGHERITA",
+    "description": "",
+    "address": "Via Della Rimembranza 6/8 - 56034 Chianni (PI)",
+    "streetAddress": "Via Della Rimembranza 6/8",
+    "postalCode": "56034",
+    "addressLocality": "Chianni",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.48636,
+        "lon": 10.64054
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 647225"
+    ],
+    "rating": ""
+}

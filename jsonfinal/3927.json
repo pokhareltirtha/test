@@ -1,0 +1,20 @@
+{
+    "name": "ALBERGO RISTORANTE BAR BELLAVISTA SNC",
+    "description": "",
+    "address": "123, Via S.Antonio-Baragazza - 40035 Castiglione Dei Pepoli (BO)",
+    "streetAddress": "123, Via S.Antonio-Baragazza",
+    "postalCode": "40035",
+    "addressLocality": "Castiglione Dei Pepoli",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.12904,
+        "lon": 11.19997
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0534 898166"
+    ],
+    "rating": ""
+}

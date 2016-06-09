@@ -1,0 +1,20 @@
+{
+    "name": "HOTEL MIRAGE FLORENCE",
+    "description": "Il Golden Tulip Mirage rappresenta la migliore scelta per il vostro soggiorno a Firenze.",
+    "address": "231/18, V. Baracca - 50127 Firenze (FI)",
+    "streetAddress": "231/18, V. Baracca",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79552,
+        "lon": 11.2058
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 352011"
+    ],
+    "rating": "4.0"
+}

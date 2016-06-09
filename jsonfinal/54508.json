@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE VALDINIEVOLE ANTICA DI ISPAS ILEANA",
+    "description": "",
+    "address": "48, Via Cavour - 51015 Monsummano Terme (PT)",
+    "streetAddress": "48, Via Cavour",
+    "postalCode": "51015",
+    "addressLocality": "Monsummano Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87215,
+        "lon": 10.81063
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 81365"
+    ],
+    "rating": ""
+}

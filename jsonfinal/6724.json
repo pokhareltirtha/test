@@ -1,0 +1,20 @@
+{
+    "name": "AMORINO... PANINO E VINO",
+    "description": "",
+    "address": "16, Via Dei Servi - 50122 Firenze (FI)",
+    "streetAddress": "16, Via Dei Servi",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77423,
+        "lon": 11.258
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 281081"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DE' GRILLI BY LUCA OSTERIA DE' GRILLI BY LUCA",
+    "description": "",
+    "address": "13, Corso Matteotti Giacomo - 56021 Cascina (PI)",
+    "streetAddress": "13, Corso Matteotti Giacomo",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.6763,
+        "lon": 10.55046
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 702549"
+    ],
+    "rating": ""
+}

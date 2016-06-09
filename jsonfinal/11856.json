@@ -1,0 +1,20 @@
+{
+    "name": "DONNA RICCARDA OSTERIA",
+    "description": "",
+    "address": "151, Via Savaiola - 50053 Monterappoli (FI)",
+    "streetAddress": "151, Via Savaiola",
+    "postalCode": "50053",
+    "addressLocality": "Monterappoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.68349,
+        "lon": 10.94494
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 924864"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA PIZZOPOLIS SAS",
+    "description": "",
+    "address": "23, Via Quattro Novembre - 51100 Pistoia (PT)",
+    "streetAddress": "23, Via Quattro Novembre",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92835,
+        "lon": 10.91989
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 364340"
+    ],
+    "rating": ""
+}

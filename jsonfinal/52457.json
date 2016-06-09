@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA L'ANGOLO",
+    "description": "",
+    "address": "42, Via D.Alighieri - 56036 Forcoli (PI)",
+    "streetAddress": "42, Via D.Alighieri",
+    "postalCode": "56036",
+    "addressLocality": "Forcoli",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.6019,
+        "lon": 10.70856
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "347 3909280",
+        "0587 628260"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "LA PIEVE",
+    "description": "",
+    "address": "Via Bacci 2 - 50051 Castelfiorentino (FI)",
+    "streetAddress": "Via Bacci 2",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.60966,
+        "lon": 10.97389
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 64045",
+        "0571 629203"
+    ],
+    "rating": ""
+}

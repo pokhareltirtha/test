@@ -1,0 +1,21 @@
+{
+    "name": "GUCCI MUSEO",
+    "description": "",
+    "address": "10, Piazza Della Signoria - 50122 Firenze (FI)",
+    "streetAddress": "10, Piazza Della Signoria",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76966,
+        "lon": 11.25643
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 75923827",
+        "055 75927010"
+    ],
+    "rating": ""
+}

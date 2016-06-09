@@ -1,0 +1,20 @@
+{
+    "name": "PASO",
+    "description": "",
+    "address": "88, Via Di Tiglio - 55012 Capannori (LU)",
+    "streetAddress": "88, Via Di Tiglio",
+    "postalCode": "55012",
+    "addressLocality": "Capannori",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.8149,
+        "lon": 10.56206
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 981750"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE GENOVINI",
+    "description": "Ristorante Genovini di Arzilli Mauro e Cristina in via Balconevisi 2/12 a San Miniato propone, alloggio, banchetti, specialità tartufo e cucina toscana.",
+    "address": "2/12, V. Balconevisi - 56028 Genovini (PI)",
+    "streetAddress": "2/12, V. Balconevisi",
+    "postalCode": "56028",
+    "addressLocality": "Genovini",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.64394,
+        "lon": 10.83378
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 460116",
+        "340 7116246"
+    ],
+    "rating": ""
+}

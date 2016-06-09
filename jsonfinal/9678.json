@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL SACCO FIORENTINO",
+    "description": "Assapora il meglio della cucina locale toscana nel nostro Ristorante  Sacco Fiorentino a Volterra, in provincia di Pisa.",
+    "address": "13, V. Turazza - 56048 Volterra (PI)",
+    "streetAddress": "13, V. Turazza",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40165,
+        "lon": 10.8592
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 88537"
+    ],
+    "rating": ""
+}

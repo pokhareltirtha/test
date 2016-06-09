@@ -1,0 +1,21 @@
+{
+    "name": "BARONE RICASOLI S.P.A.",
+    "description": "",
+    "address": "2, Piazza Goldoni Carlo - 50123 Firenze (FI)",
+    "streetAddress": "2, Piazza Goldoni Carlo",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7711,
+        "lon": 11.24767
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 730290",
+        "055 7301"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "ALLA VECCHIA BETTOLA",
+    "description": "",
+    "address": "3, Viale Vasco Pratolini - 50124 Firenze (FI)",
+    "streetAddress": "3, Viale Vasco Pratolini",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76766,
+        "lon": 11.23941
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 224158"
+    ],
+    "rating": ""
+}

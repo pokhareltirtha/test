@@ -1,0 +1,21 @@
+{
+    "name": "TRATTORIA ARMANDO",
+    "description": "",
+    "address": "140, Borgo Borgognissanti - 50123 Firenze (FI)",
+    "streetAddress": "140, Borgo Borgognissanti",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77472,
+        "lon": 11.25047
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 217263",
+        "055 216219"
+    ],
+    "rating": "4.0"
+}

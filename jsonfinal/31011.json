@@ -1,0 +1,20 @@
+{
+    "name": "LE BARRIQUE RISTORANTE ENOTECA",
+    "description": "Enoteca Le Barrique a Firenze in v. Leone, mantenendo una ricca e selezionata carta dei vini, offre sfiziosi piatti della tradizione toscana.",
+    "address": "40/R, V. Leone - 50124 Firenze (FI)",
+    "streetAddress": "40/R, V. Leone",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76805,
+        "lon": 11.24221
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 224192"
+    ],
+    "rating": ""
+}

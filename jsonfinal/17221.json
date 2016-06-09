@@ -1,0 +1,21 @@
+{
+    "name": "IL CARDINALE",
+    "description": "",
+    "address": "10, Via Piemonte - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "10, Via Piemonte",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.4225,
+        "lon": 11.13368
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 923707",
+        "0577 922089"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL CONVIVIO DEI CORSI",
+    "description": "Il ristorante creato in una vecchia abitazione sulla piazza principale di Ortignano Raggiolo (AR) che propone piatti preparati con prodotti di qualità.",
+    "address": "3,,P. San Michele - 52010 Ortignano Raggiolo (AR)",
+    "streetAddress": "3,  P. San Michele",
+    "postalCode": "52010",
+    "addressLocality": "Ortignano Raggiolo",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.67671,
+        "lon": 11.71117
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 514274"
+    ],
+    "rating": ""
+}

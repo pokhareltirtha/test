@@ -1,0 +1,20 @@
+{
+    "name": "CARANBAR",
+    "description": "",
+    "address": "19, Via Ricci Adamo - 52017 Stia (AR)",
+    "streetAddress": "19, Via Ricci Adamo",
+    "postalCode": "52017",
+    "addressLocality": "Stia",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.79969,
+        "lon": 11.70762
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 504500"
+    ],
+    "rating": ""
+}

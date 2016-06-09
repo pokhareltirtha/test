@@ -1,0 +1,20 @@
+{
+    "name": "BOCCONCINO",
+    "description": "",
+    "address": "61, Piazza Dalmazia - 50141 Firenze (FI)",
+    "streetAddress": "61, Piazza Dalmazia",
+    "postalCode": "50141",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79616,
+        "lon": 11.24041
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4221280"
+    ],
+    "rating": ""
+}

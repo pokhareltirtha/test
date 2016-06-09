@@ -1,0 +1,20 @@
+{
+    "name": "CENTO LIRE SRL",
+    "description": "",
+    "address": "3, Via Di Pianvallico - 50038 Scarperia (FI)",
+    "streetAddress": "3, Via Di Pianvallico",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.97448,
+        "lon": 11.33326
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8468101"
+    ],
+    "rating": ""
+}

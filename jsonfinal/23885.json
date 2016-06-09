@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA DI STRADA CASALE",
+    "description": "",
+    "address": "22, Via Strada Casale - 48013 Brisighella (RA)",
+    "streetAddress": "22, Via Strada Casale",
+    "postalCode": "48013",
+    "addressLocality": "Brisighella",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.18032,
+        "lon": 11.69641
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 88054"
+    ],
+    "rating": ""
+}

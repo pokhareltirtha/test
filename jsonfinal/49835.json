@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LA VECCHIA GRIGLIA",
+    "description": "Ristorante Pizzeria La Vecchia Griglia a 56010 Vicopisano (PI) in 55, v. Provinciale Vicarese, dove degustare una buona cucina casalinga.",
+    "address": "55, V. Provinciale Vicarese - 56010 Uliveto Terme (PI)",
+    "streetAddress": "55, V. Provinciale Vicarese",
+    "postalCode": "56010",
+    "addressLocality": "Uliveto Terme",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68526,
+        "lon": 10.59809
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 788214"
+    ],
+    "rating": ""
+}

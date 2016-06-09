@@ -1,0 +1,21 @@
+{
+    "name": "TRATTORIA COCO LEZZONE",
+    "description": "",
+    "address": "26, Via Parioncino - 50123 Firenze (FI)",
+    "streetAddress": "26, Via Parioncino",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77081,
+        "lon": 11.25008
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 280349",
+        "055 287178"
+    ],
+    "rating": "5.0"
+}

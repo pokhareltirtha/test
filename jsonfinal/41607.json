@@ -1,0 +1,21 @@
+{
+    "name": "BE' CAFFE'",
+    "description": "",
+    "address": "4/6/8 R, Via Mino - 50122 Firenze (FI)",
+    "streetAddress": "4/6/8 R, Via Mino",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77034,
+        "lon": 11.2661
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3924666",
+        "055 3924663"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE I DUE LAGHI",
+    "description": "",
+    "address": "147, Localita Cornacchiaia - 50033 Cornacchiaia (FI)",
+    "streetAddress": "147, Localita Cornacchiaia",
+    "postalCode": "50033",
+    "addressLocality": "Cornacchiaia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.10404,
+        "lon": 11.3351
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8149214"
+    ],
+    "rating": ""
+}

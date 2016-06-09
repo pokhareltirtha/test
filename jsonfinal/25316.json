@@ -1,0 +1,20 @@
+{
+    "name": "CHELYS SRL",
+    "description": "",
+    "address": "85, Via Firenze - 59100 Prato (PO)",
+    "streetAddress": "85, Via Firenze",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87204,
+        "lon": 11.11899
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 757205"
+    ],
+    "rating": ""
+}

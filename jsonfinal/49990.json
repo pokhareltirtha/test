@@ -1,0 +1,20 @@
+{
+    "name": "LA ROTONDA DI GROSSO PASQUALE",
+    "description": "",
+    "address": "1, Via Della Maddalena - 51017 Pescia (PT)",
+    "streetAddress": "1, Via Della Maddalena",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90116,
+        "lon": 10.69133
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 478440"
+    ],
+    "rating": ""
+}

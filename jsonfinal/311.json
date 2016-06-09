@@ -1,0 +1,21 @@
+{
+    "name": "CRAZY PIZZA DI CAVAZZONI RICCARDO",
+    "description": "",
+    "address": "80/82, Via Del Serraglio - 59100 Prato (PO)",
+    "streetAddress": "80/82, Via Del Serraglio",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88418,
+        "lon": 11.09736
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 401362"
+    ],
+    "rating": ""
+}

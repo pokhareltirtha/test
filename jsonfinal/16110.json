@@ -1,0 +1,22 @@
+{
+    "name": "SONIA",
+    "description": "",
+    "address": "21, Piazza Del Popolo - 51010 Marliana (PT)",
+    "streetAddress": "21, Piazza Del Popolo",
+    "postalCode": "51010",
+    "addressLocality": "Marliana",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93359,
+        "lon": 10.76943
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 69334",
+        "0572 69211"
+    ],
+    "rating": "5.0"
+}

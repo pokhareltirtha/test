@@ -1,0 +1,20 @@
+{
+    "name": "MISTER PIZZA",
+    "description": "",
+    "address": "26, Via Jacopo Carrucci - 50053 Empoli (FI)",
+    "streetAddress": "26, Via Jacopo Carrucci",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71973,
+        "lon": 10.95055
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 981123"
+    ],
+    "rating": ""
+}

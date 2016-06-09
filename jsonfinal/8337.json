@@ -1,0 +1,21 @@
+{
+    "name": "DONDOLI PAOLO",
+    "description": "",
+    "address": "18, Piazza XX Settembre - 56048 Volterra (PI)",
+    "streetAddress": "18, Piazza XX Settembre",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40135,
+        "lon": 10.86309
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 87623",
+        "0588 88537"
+    ],
+    "rating": ""
+}

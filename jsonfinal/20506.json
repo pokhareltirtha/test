@@ -1,0 +1,20 @@
+{
+    "name": "AGRITURISMO LE MURA",
+    "description": "L'Agriturismo Le Mura di Bucine sorge in un'elegante posizione immersa nel verde dei colli della Val d'Ambra, nella stupenda campagna toscana.",
+    "address": "31, Loc. IL Casello - S. Leolino - 52021 San Leolino (AR)",
+    "streetAddress": "31, Loc. IL Casello - S. Leolino",
+    "postalCode": "52021",
+    "addressLocality": "San Leolino",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.48003,
+        "lon": 11.61627
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9911120"
+    ],
+    "rating": ""
+}

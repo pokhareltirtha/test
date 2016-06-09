@@ -1,0 +1,20 @@
+{
+    "name": "NEROMO",
+    "description": "",
+    "address": "25, Borgo San Frediano - 50124 Firenze (FI)",
+    "streetAddress": "25, Borgo San Frediano",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76955,
+        "lon": 11.24458
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2382645"
+    ],
+    "rating": ""
+}

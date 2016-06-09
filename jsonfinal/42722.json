@@ -1,0 +1,20 @@
+{
+    "name": "LA RIBOLLITA",
+    "description": "",
+    "address": "Viale Corsica, 31 R - 50127 Firenze (FI)",
+    "streetAddress": "Viale Corsica, 31 R",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78904,
+        "lon": 11.23934
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3992053"
+    ],
+    "rating": ""
+}

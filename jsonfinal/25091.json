@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LOGLI MARIO",
+    "description": "Un ristorante rustico e familiare dove potrai gustare i migliori piatti della tradizione culinaria toscana, a Prato",
+    "address": "1, V. Filettole - 59100 Filettole (PO)",
+    "streetAddress": "1, V. Filettole",
+    "postalCode": "59100",
+    "addressLocality": "Filettole",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88745,
+        "lon": 11.11332
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 23010"
+    ],
+    "rating": ""
+}

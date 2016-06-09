@@ -1,0 +1,20 @@
+{
+    "name": "VILLA IL PALAGIO RISTORANTE PALAGIO 59",
+    "description": "Siamo lieti di ospitarvi nel nostro albergo in una moderna struttura a Rignano sull'Arno in provincia di Firenze.",
+    "address": "59, V. IL Palagio - 50067 Rignano Sull'Arno (FI)",
+    "streetAddress": "59, V. IL Palagio",
+    "postalCode": "50067",
+    "addressLocality": "Rignano Sull'Arno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.69679,
+        "lon": 11.44705
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8348865"
+    ],
+    "rating": "4.5"
+}

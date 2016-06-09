@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA PIAZZETTA",
+    "description": "Un caratteristico locale presente dal 1977 a Chiesina Uzzanese (PT) che propon epiatti tipici della cucina toscana con specialità di pesce e pizza.",
+    "address": "79, V. Romana Vecchia - 51013 Chiesina Uzzanese (PT)",
+    "streetAddress": "79, V. Romana Vecchia",
+    "postalCode": "51013",
+    "addressLocality": "Chiesina Uzzanese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.84994,
+        "lon": 10.70865
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 489007"
+    ],
+    "rating": ""
+}

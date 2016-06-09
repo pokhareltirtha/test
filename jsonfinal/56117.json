@@ -1,0 +1,21 @@
+{
+    "name": "PIZZA Y RESTAURANT CAFE'",
+    "description": "",
+    "address": "16, Localita' Ferrantina - 52011 Bibbiena (AR)",
+    "streetAddress": "16, Localita' Ferrantina",
+    "postalCode": "52011",
+    "addressLocality": "Bibbiena",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.69305,
+        "lon": 11.81082
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "393 0198169",
+        "0575 536078"
+    ],
+    "rating": "4.8"
+}

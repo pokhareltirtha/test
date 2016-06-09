@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA DA PAKO",
+    "description": "Circa 90 posti a sedere compresa la tettoia esterna, per una cucina sana, tradizionale e rustica, a Firenzuola (FI)",
+    "address": "761, V. Bruscoli - 50033 Bruscoli (FI)",
+    "streetAddress": "761, V. Bruscoli",
+    "postalCode": "50033",
+    "addressLocality": "Bruscoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.0991,
+        "lon": 11.2706
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 818177"
+    ],
+    "rating": "4.0"
+}

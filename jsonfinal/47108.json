@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LATERA",
+    "description": "",
+    "address": "13, Strada Latera - 50031 Latera (FI)",
+    "streetAddress": "13, Strada Latera",
+    "postalCode": "50031",
+    "addressLocality": "Latera",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.97227,
+        "lon": 11.23104
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8479010"
+    ],
+    "rating": "5.0"
+}

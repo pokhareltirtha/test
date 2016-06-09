@@ -1,0 +1,21 @@
+{
+    "name": "VILLA BORDONI",
+    "description": "",
+    "address": "Via San Cresci 31-32, - 50022 Greve In Chianti (FI)",
+    "streetAddress": "Via San Cresci 31-32,",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.59572,
+        "lon": 11.31608
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8546230",
+        "055 8840004"
+    ],
+    "rating": ""
+}

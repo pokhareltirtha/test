@@ -1,0 +1,20 @@
+{
+    "name": "DIMICLA",
+    "description": "",
+    "address": "4, Via Circonvallazione - 52024 Loro Ciuffenna (AR)",
+    "streetAddress": "4, Via Circonvallazione",
+    "postalCode": "52024",
+    "addressLocality": "Loro Ciuffenna",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.59269,
+        "lon": 11.63284
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9172549"
+    ],
+    "rating": "3.0"
+}

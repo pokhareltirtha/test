@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA CAMMILLO",
+    "description": "Trattoria Camillo ti aspetta a Firenze, per gustare la cucina tipica toscana, in bg. S. Jacopo.",
+    "address": "57/R, Borgo San Jacopo - 50125 Firenze (FI)",
+    "streetAddress": "57/R, Borgo San Jacopo",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76812,
+        "lon": 11.25007
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 212427"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "CIRCOLO DEI GOLIARDI",
+    "description": "",
+    "address": "Via Ponticelli Pieve, 30/B - 40026 Imola (BO)",
+    "streetAddress": "Via Ponticelli Pieve, 30/B",
+    "postalCode": "40026",
+    "addressLocality": "Imola",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.32625,
+        "lon": 11.61626
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0542 850937"
+    ],
+    "rating": ""
+}

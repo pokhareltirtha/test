@@ -1,0 +1,20 @@
+{
+    "name": "ASHOKA",
+    "description": "",
+    "address": "Via Pisana 86/88 R - 50143 Firenze (FI)",
+    "streetAddress": "Via Pisana 86/88 R",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76693,
+        "lon": 11.21316
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 224446"
+    ],
+    "rating": ""
+}

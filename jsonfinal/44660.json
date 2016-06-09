@@ -1,0 +1,20 @@
+{
+    "name": "AJI TEI",
+    "description": "",
+    "address": "38, Viale Spartaco Lavagnini - 50129 Firenze (FI)",
+    "streetAddress": "38, Viale Spartaco Lavagnini",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78288,
+        "lon": 11.25644
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 476100"
+    ],
+    "rating": "4.7"
+}

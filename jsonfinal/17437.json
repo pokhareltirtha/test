@@ -1,0 +1,20 @@
+{
+    "name": "TOTO'",
+    "description": "",
+    "address": "6, Borgo Santi Apostoli - 50123 Firenze (FI)",
+    "streetAddress": "6, Borgo Santi Apostoli",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76912,
+        "lon": 11.2532
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 212096"
+    ],
+    "rating": "5.0"
+}

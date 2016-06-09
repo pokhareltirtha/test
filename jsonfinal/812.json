@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA DA SANDRINO",
+    "description": "",
+    "address": "12, Piazza Washington - 50065 Pontassieve (FI)",
+    "streetAddress": "12, Piazza Washington",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77148,
+        "lon": 11.43501
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8368510"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LA VECCHIA PIZZERIA DI MARINI MAURO",
+    "description": "",
+    "address": "63, Borgo Lisci - 56048 Saline Di Volterra (PI)",
+    "streetAddress": "63, Borgo Lisci",
+    "postalCode": "56048",
+    "addressLocality": "Saline Di Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.36036,
+        "lon": 10.81024
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0588 44333"
+    ],
+    "rating": ""
+}

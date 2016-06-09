@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE MIBAR",
+    "description": "A Calenzano, il Ristorante MiBar propone a pranzo e a cena, menù tradizionali, prodotti tipici e specialità toscane in un ambiente accogliente e famigliare.",
+    "address": "145, V. Baldanzese - 50041 Calenzano (FI)",
+    "streetAddress": "145, V. Baldanzese",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84601,
+        "lon": 11.17088
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "328 2956045",
+        "0572 772534"
+    ],
+    "rating": ""
+}

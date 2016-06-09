@@ -1,0 +1,20 @@
+{
+    "name": "BAR TRATTORIA GIULIANI",
+    "description": "",
+    "address": "393, Via Mammianese - 51017 Pescia (PT)",
+    "streetAddress": "393, Via Mammianese",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94715,
+        "lon": 10.71924
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 409155"
+    ],
+    "rating": ""
+}

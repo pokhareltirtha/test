@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE I CAVALLACCI",
+    "description": "Il vero sapore della carne fiorentina lo potete assaporare nel nostro ristorante a Impruneta (FI).",
+    "address": "3, Vl. Moro - 50023 Impruneta (FI)",
+    "streetAddress": "3, Vl. Moro",
+    "postalCode": "50023",
+    "addressLocality": "Impruneta",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.68829,
+        "lon": 11.25214
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2020574"
+    ],
+    "rating": ""
+}

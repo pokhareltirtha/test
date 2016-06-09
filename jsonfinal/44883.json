@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA FORCA",
+    "description": "",
+    "address": "23, Piazza Leon Battista Alberti - 50136 Firenze (FI)",
+    "streetAddress": "23, Piazza Leon Battista Alberti",
+    "postalCode": "50136",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76985,
+        "lon": 11.2818
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6266326"
+    ],
+    "rating": ""
+}

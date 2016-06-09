@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA IL MERCANTE",
+    "description": "Il ristorante Il Mercante propone deliziose specialità in un ambiente tranquillo e piacevole, a Prato.",
+    "address": "47, Trav. Crocifisso - 59100 Prato (PO)",
+    "streetAddress": "47, Trav. Crocifisso",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.84995,
+        "lon": 11.05663
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 627174"
+    ],
+    "rating": "5.0"
+}

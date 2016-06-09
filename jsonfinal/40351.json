@@ -1,0 +1,21 @@
+{
+    "name": "I' TOSCANO",
+    "description": "",
+    "address": "70, Via Guelfa - 50129 Firenze (FI)",
+    "streetAddress": "70, Via Guelfa",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7783,
+        "lon": 11.25307
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 216837",
+        "055 215475"
+    ],
+    "rating": ""
+}

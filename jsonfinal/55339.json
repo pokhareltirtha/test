@@ -1,0 +1,20 @@
+{
+    "name": "GIGLIO PIZZA",
+    "description": "",
+    "address": "Strada Statale Scarperia 551 - 50100 Firenze (FI)",
+    "streetAddress": "Strada Statale Scarperia 551",
+    "postalCode": "50100",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77472,
+        "lon": 11.25047
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "055 8323000"
+    ],
+    "rating": ""
+}

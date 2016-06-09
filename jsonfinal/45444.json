@@ -1,0 +1,21 @@
+{
+    "name": "MATAM",
+    "description": "",
+    "address": "160, Via Lucchese - 50019 Osmannoro (FI)",
+    "streetAddress": "160, Via Lucchese",
+    "postalCode": "50019",
+    "addressLocality": "Osmannoro",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80945,
+        "lon": 11.17052
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3454158",
+        "055 3025105"
+    ],
+    "rating": ""
+}

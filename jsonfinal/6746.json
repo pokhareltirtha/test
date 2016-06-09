@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE TEATRO DEI MEDICI",
+    "description": "",
+    "address": "14, Via La Torre - 50038 Scarperia (FI)",
+    "streetAddress": "14, Via La Torre",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.96062,
+        "lon": 11.34411
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8459876"
+    ],
+    "rating": ""
+}

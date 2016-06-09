@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIAPAOLA DI POMPEI PIER PAOLO",
+    "description": "",
+    "address": "1/2, Piazza Agnolo - 50033 Firenzuola (FI)",
+    "streetAddress": "1/2, Piazza Agnolo",
+    "postalCode": "50033",
+    "addressLocality": "Firenzuola",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.11854,
+        "lon": 11.37906
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 819191"
+    ],
+    "rating": ""
+}

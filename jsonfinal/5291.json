@@ -1,0 +1,21 @@
+{
+    "name": "TRE CACI",
+    "description": "",
+    "address": "130, Via Baldanzese - 50041 Calenzano (FI)",
+    "streetAddress": "130, Via Baldanzese",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84963,
+        "lon": 11.17385
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8874951",
+        "055 8825302"
+    ],
+    "rating": ""
+}

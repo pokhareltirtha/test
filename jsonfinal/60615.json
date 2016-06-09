@@ -1,0 +1,20 @@
+{
+    "name": "ALEX'S PIZZA DI GRASSO EMANUELE",
+    "description": "",
+    "address": "84, Via Giovannelli Brunero - 51015 Monsummano Terme (PT)",
+    "streetAddress": "84, Via Giovannelli Brunero",
+    "postalCode": "51015",
+    "addressLocality": "Monsummano Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.84489,
+        "lon": 10.82669
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 617603"
+    ],
+    "rating": ""
+}

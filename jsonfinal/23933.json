@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA GROTTA",
+    "description": "Ristorante La Grotta, locale storico, dove gustare sapori romagnoli e stagionali, a Brisighella (RA) in v. Metelli, 1.",
+    "address": "1, V. Metelli - 48013 Brisighella (RA)",
+    "streetAddress": "1, V. Metelli",
+    "postalCode": "48013",
+    "addressLocality": "Brisighella",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.22371,
+        "lon": 11.77464
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 81488"
+    ],
+    "rating": ""
+}

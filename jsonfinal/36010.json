@@ -1,0 +1,21 @@
+{
+    "name": "KITSCH DEUX",
+    "description": "",
+    "address": "22, Via San Gallo - 50129 Firenze (FI)",
+    "streetAddress": "22, Via San Gallo",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77863,
+        "lon": 11.25735
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "328 9039289",
+        "366 3906564"
+    ],
+    "rating": "4.3"
+}

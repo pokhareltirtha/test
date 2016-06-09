@@ -1,0 +1,21 @@
+{
+    "name": "SALAMANCA",
+    "description": "",
+    "address": "80, Via Ghibellina - 50122 Firenze (FI)",
+    "streetAddress": "80, Via Ghibellina",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76993,
+        "lon": 11.263
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2345452",
+        "339 6962919"
+    ],
+    "rating": "4.1"
+}

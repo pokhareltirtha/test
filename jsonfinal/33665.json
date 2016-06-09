@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA ALFREDO",
+    "description": "",
+    "address": "14, Via Dei Leoni - 50122 Firenze (FI)",
+    "streetAddress": "14, Via Dei Leoni",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76939,
+        "lon": 11.25745
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 294912"
+    ],
+    "rating": ""
+}

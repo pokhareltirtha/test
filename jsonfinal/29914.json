@@ -1,0 +1,20 @@
+{
+    "name": "DA PINOCCHIO",
+    "description": "",
+    "address": "Piazza Mercato Centrale 46r - 50123 Firenze (FI)",
+    "streetAddress": "Piazza Mercato Centrale 46r",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77623,
+        "lon": 11.25411
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2670119"
+    ],
+    "rating": ""
+}

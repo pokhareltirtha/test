@@ -1,0 +1,21 @@
+{
+    "name": "LA BAITA",
+    "description": "",
+    "address": "67, Via Orazio Bacci - 50051 Castelfiorentino (FI)",
+    "streetAddress": "67, Via Orazio Bacci",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.63089,
+        "lon": 10.99767
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 61385"
+    ],
+    "rating": ""
+}

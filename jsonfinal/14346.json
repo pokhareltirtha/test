@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL BATTIBECCO srl",
+    "description": "Il ristorante di  Impruneta (FI) in cui la buona cucina, la pittura, la scrittura, la musica e la scultura s'incontrano per un connubio perfetto.",
+    "address": "",
+    "streetAddress": "",
+    "postalCode": "",
+    "addressLocality": "",
+    "addressRegion": "",
+    "coordinates": {
+        "lat": null,
+        "lon": null
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2313820"
+    ],
+    "rating": "3.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL CHICCO",
+    "description": "",
+    "address": "118, Via Giulio Innocenti - 51100 Pistoia (PT)",
+    "streetAddress": "118, Via Giulio Innocenti",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9317,
+        "lon": 10.95055
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 532301"
+    ],
+    "rating": ""
+}

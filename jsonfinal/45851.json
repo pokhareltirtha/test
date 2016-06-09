@@ -1,0 +1,20 @@
+{
+    "name": "IL PONTORMO SEMPLIFICATA",
+    "description": "",
+    "address": "27/29, Via Tosco Romagnola Sud - 50056 Montelupo Fiorentino (FI)",
+    "streetAddress": "27/29, Via Tosco Romagnola Sud",
+    "postalCode": "50056",
+    "addressLocality": "Montelupo Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72791,
+        "lon": 10.99652
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 913669"
+    ],
+    "rating": ""
+}

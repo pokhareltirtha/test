@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA CAVOUR",
+    "description": "",
+    "address": "19, Via Camillo Benso Di Cavour - 50052 Certaldo (FI)",
+    "streetAddress": "19, Via Camillo Benso Di Cavour",
+    "postalCode": "50052",
+    "addressLocality": "Certaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54761,
+        "lon": 11.03987
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 668380"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PASQUINI DINA",
+    "description": "",
+    "address": "21, Via Delle Oche - 50122 Firenze (FI)",
+    "streetAddress": "21, Via Delle Oche",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7722,
+        "lon": 11.25599
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 217651"
+    ],
+    "rating": ""
+}

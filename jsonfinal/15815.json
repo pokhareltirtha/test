@@ -1,0 +1,20 @@
+{
+    "name": "TENUTA ISABELLA",
+    "description": "",
+    "address": "Via Prov Di Gello - 56025 Pontedera (PI)",
+    "streetAddress": "Via Prov Di Gello",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66632,
+        "lon": 10.63835
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 420735"
+    ],
+    "rating": "4.0"
+}

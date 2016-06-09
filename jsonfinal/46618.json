@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA MISTRAL",
+    "description": "",
+    "address": "1, Frazione Suviana - 40030 Castel Di Casio (BO)",
+    "streetAddress": "1, Frazione Suviana",
+    "postalCode": "40030",
+    "addressLocality": "Castel Di Casio",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.13475,
+        "lon": 11.03033
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0534 42543"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LE CERNACCHIE",
+    "description": "",
+    "address": "11, Via Cintola Alta - 50022 La Panca (FI)",
+    "streetAddress": "11, Via Cintola Alta",
+    "postalCode": "50022",
+    "addressLocality": "La Panca",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61757,
+        "lon": 11.35932
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8547968"
+    ],
+    "rating": ""
+}

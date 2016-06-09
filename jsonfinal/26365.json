@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA FATTORIA",
+    "description": "",
+    "address": "11, V. Cerro - 50028 Tavarnelle Val Di Pesa (FI)",
+    "streetAddress": "11, V. Cerro",
+    "postalCode": "50028",
+    "addressLocality": "Tavarnelle Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58094,
+        "lon": 11.18873
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "055 8070000",
+        "055 8070158"
+    ],
+    "rating": "4.5"
+}

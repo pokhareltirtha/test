@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA SIESTA",
+    "description": "",
+    "address": "313, Via Statale - 51039 Quarrata (PT)",
+    "streetAddress": "313, Via Statale",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86719,
+        "lon": 10.99017
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 717628"
+    ],
+    "rating": ""
+}

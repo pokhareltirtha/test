@@ -1,0 +1,21 @@
+{
+    "name": "BORGO CASATO",
+    "description": "",
+    "address": "12, Strada Statale Chiantigiana - 53035 Monteriggioni (SI)",
+    "streetAddress": "12, Strada Statale Chiantigiana",
+    "postalCode": "53035",
+    "addressLocality": "Monteriggioni",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.37355,
+        "lon": 11.31065
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 352901",
+        "0575 352002"
+    ],
+    "rating": ""
+}

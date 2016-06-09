@@ -1,0 +1,20 @@
+{
+    "name": "LE BARRIQUE",
+    "description": "",
+    "address": "19, Corso Alessandro Manzoni - 59100 Prato (PO)",
+    "streetAddress": "19, Corso Alessandro Manzoni",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86801,
+        "lon": 11.04725
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 30151"
+    ],
+    "rating": ""
+}

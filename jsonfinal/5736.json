@@ -1,0 +1,21 @@
+{
+    "name": "TIJUANA MEXICAN GRILL S.R.L.",
+    "description": "",
+    "address": "57/R, Via IL Prato - 50123 Firenze (FI)",
+    "streetAddress": "57/R, Via IL Prato",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77649,
+        "lon": 11.24118
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2676937",
+        "055 287247"
+    ],
+    "rating": "3.5"
+}

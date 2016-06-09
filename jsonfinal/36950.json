@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA VERSILIA COM'ERA",
+    "description": "Ristorante Pizzeria Versilia Com'era offre: degustazione pescato giornaliero della costa tirrenica, scelto e selezionato personalmente dal mercato ittico di Viareggio. Carni nazionali cotte alla brace...",
+    "address": "13, V. S. Giuseppe - 51036 Larciano (PT)",
+    "streetAddress": "13, V. S. Giuseppe",
+    "postalCode": "51036",
+    "addressLocality": "Larciano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.84733,
+        "lon": 10.90229
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 88460",
+        "320 7116597"
+    ],
+    "rating": ""
+}

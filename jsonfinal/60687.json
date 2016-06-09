@@ -1,0 +1,20 @@
+{
+    "name": "ESTRO CAFFÈ",
+    "description": "Estro Caffè offre un servizio di caffetteria completo in largo Don Puglisi a San Miniato (PI).",
+    "address": "7, Lg. Don Puglisi - 56028 San Miniato (PI)",
+    "streetAddress": "7, Lg. Don Puglisi",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68032,
+        "lon": 10.85761
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 419832"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "INDUSTRIE COMMERCIALI SRL",
+    "description": "",
+    "address": "41/R, Via Dei Servi - 50122 Firenze (FI)",
+    "streetAddress": "41/R, Via Dei Servi",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77612,
+        "lon": 11.26016
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2398470"
+    ],
+    "rating": ""
+}

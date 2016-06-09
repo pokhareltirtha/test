@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA SAN VIVALDO",
+    "description": "",
+    "address": "21, Via San Vivaldo - 50050 San Vivaldo (FI)",
+    "streetAddress": "21, Via San Vivaldo",
+    "postalCode": "50050",
+    "addressLocality": "San Vivaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.52378,
+        "lon": 10.89523
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 69264",
+        "0571 680118"
+    ],
+    "rating": "3.0"
+}

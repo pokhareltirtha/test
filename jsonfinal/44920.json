@@ -1,0 +1,21 @@
+{
+    "name": "GIANNINO IN SAN LORENZO",
+    "description": "",
+    "address": "Borgo San Lorenzo 33/35/37r - 50123 Firenze (FI)",
+    "streetAddress": "Borgo San Lorenzo 33/35/37r",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77455,
+        "lon": 11.25494
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 212206",
+        "055 2399799"
+    ],
+    "rating": "4.7"
+}

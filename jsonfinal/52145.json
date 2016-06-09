@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA CUCINA DEL RE PIZZERIA HOSTERIA ROSTICCERIA",
+    "description": "",
+    "address": "16/17, P. Massimiliano Kolbe - 56012 Calcinaia (PI)",
+    "streetAddress": "16/17, P. Massimiliano Kolbe",
+    "postalCode": "56012",
+    "addressLocality": "Calcinaia",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67263,
+        "lon": 10.57312
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "320 9665425",
+        "347 1821342"
+    ],
+    "rating": ""
+}

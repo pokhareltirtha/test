@@ -1,0 +1,20 @@
+{
+    "name": "LA GROTTA DI CICCIO DI IAMI ANNA",
+    "description": "",
+    "address": "3, Via Chiantigiana - 52025 Montevarchi (AR)",
+    "streetAddress": "3, Via Chiantigiana",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.53017,
+        "lon": 11.56065
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 980882"
+    ],
+    "rating": ""
+}

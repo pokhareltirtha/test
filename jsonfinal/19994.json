@@ -1,0 +1,21 @@
+{
+    "name": "SOCIETA' ESERCIZI RISTORANTIS.E.R. DI INNOCENTI SANDRO E MECATTI SIMONETTA S.N.C.",
+    "description": "",
+    "address": "47, Via Varchi Benedetto - 50132 Firenze (FI)",
+    "streetAddress": "47, Via Varchi Benedetto",
+    "postalCode": "50132",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77744,
+        "lon": 11.27441
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "335 6350924",
+        "055 292188"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "L' ACINO ROSSO",
+    "description": "",
+    "address": "34, Via Gabbiano - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": "34, Via Gabbiano",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.62921,
+        "lon": 11.26277
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8219148"
+    ],
+    "rating": ""
+}

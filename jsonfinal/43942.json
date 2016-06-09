@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LOUNGE BAR IL GUSTO DELL'OPIFICIO",
+    "description": "",
+    "address": ", Via Arco - 59100 Prato (PO)",
+    "streetAddress": ", Via Arco",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87763,
+        "lon": 11.10078
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 870502"
+    ],
+    "rating": ""
+}

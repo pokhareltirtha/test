@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE SAPORI DEL BORGO",
+    "description": "I Sapori del Borgo è un locale che fa sia da ristorante che da osteria, proponendo piatti sempre freschi e genuini in piazza Toscanini 3 a Fucecchio.",
+    "address": "3, P. Toscanini - 50054 Fucecchio (FI)",
+    "streetAddress": "3, P. Toscanini",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73218,
+        "lon": 10.80909
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 1720276"
+    ],
+    "rating": ""
+}

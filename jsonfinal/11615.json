@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE I' POGGIO",
+    "description": "",
+    "address": "15, Via Ortimino - 50025 Montespertoli (FI)",
+    "streetAddress": "15, Via Ortimino",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.63496,
+        "lon": 11.01968
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 674140"
+    ],
+    "rating": ""
+}

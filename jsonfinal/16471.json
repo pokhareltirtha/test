@@ -1,0 +1,20 @@
+{
+    "name": "LA POLVERIERA",
+    "description": "",
+    "address": "4, Via Marlianese - 51016 Montecatini Terme (PT)",
+    "streetAddress": "4, Via Marlianese",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90695,
+        "lon": 10.77961
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 67353"
+    ],
+    "rating": "4.0"
+}

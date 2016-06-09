@@ -1,0 +1,20 @@
+{
+    "name": "LE GRAND CAFE' D'EUROPE",
+    "description": "",
+    "address": "136, Corso Giacomo Matteotti - 51016 Montecatini Terme (PT)",
+    "streetAddress": "136, Corso Giacomo Matteotti",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8808,
+        "lon": 10.77599
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 72418"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "MARE MOSSO",
+    "description": "",
+    "address": "5, Via Ponte Dei Bari - 51016 Montecatini Terme (PT)",
+    "streetAddress": "5, Via Ponte Dei Bari",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87947,
+        "lon": 10.7699
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 906318"
+    ],
+    "rating": ""
+}

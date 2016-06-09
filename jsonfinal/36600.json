@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE 'DA FILIPPO ' DI TANAGRO FILIPPO & C. SNC",
+    "description": "",
+    "address": "16, Via Della Chiesa - 50058 Signa (FI)",
+    "streetAddress": "16, Via Della Chiesa",
+    "postalCode": "50058",
+    "addressLocality": "Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79526,
+        "lon": 11.12764
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8739192"
+    ],
+    "rating": ""
+}

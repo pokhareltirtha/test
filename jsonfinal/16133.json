@@ -1,0 +1,20 @@
+{
+    "name": "VILLA PAPAO RISTORANTE - ZIMMER DI IMMOBILIARE ERREGI SRL",
+    "description": "",
+    "address": "Via Pesciatina - 55012 Lunata (LU)",
+    "streetAddress": "Via Pesciatina",
+    "postalCode": "55012",
+    "addressLocality": "Lunata",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.85647,
+        "lon": 10.57236
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 429041"
+    ],
+    "rating": ""
+}

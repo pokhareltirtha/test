@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE FATTORIA LA FORESTA DI CHANCE",
+    "description": "",
+    "address": "31  Via Roma - Stia (AR)",
+    "streetAddress": "31, Via Roma",
+    "postalCode": "",
+    "addressLocality": "Stia",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.79839,
+        "lon": 11.70945
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 582032"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "L'UNDICESIMO",
+    "description": "",
+    "address": "92, Localita Prulli Di Sopra - 50066 Prulli (FI)",
+    "streetAddress": "92, Localita Prulli Di Sopra",
+    "postalCode": "50066",
+    "addressLocality": "Prulli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.65211,
+        "lon": 11.46792
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8635775"
+    ],
+    "rating": ""
+}

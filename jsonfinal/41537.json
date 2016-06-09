@@ -1,0 +1,20 @@
+{
+    "name": "CAFFE' BIGALLO",
+    "description": "",
+    "address": "73, Via Del Proconsolo - 50122 Firenze (FI)",
+    "streetAddress": "73, Via Del Proconsolo",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77144,
+        "lon": 11.25791
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 291403"
+    ],
+    "rating": ""
+}

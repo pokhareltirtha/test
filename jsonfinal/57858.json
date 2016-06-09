@@ -1,0 +1,20 @@
+{
+    "name": "JASSE",
+    "description": "",
+    "address": "26, Via Degli Alfani - 50121 Firenze (FI)",
+    "streetAddress": "26, Via Degli Alfani",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77418,
+        "lon": 11.26293
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "338 8197868"
+    ],
+    "rating": ""
+}

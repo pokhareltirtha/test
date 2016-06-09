@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE BUCA POLDO",
+    "description": "",
+    "address": "Via Chiasso Degli Armagnati, 2r - 50122 Firenze (FI)",
+    "streetAddress": "Via Chiasso Degli Armagnati, 2r",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76949,
+        "lon": 11.25452
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3921299",
+        "055 2396578"
+    ],
+    "rating": ""
+}

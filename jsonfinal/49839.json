@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA AL VECCHIO CORALLO L. & C. SAS",
+    "description": "",
+    "address": "45/A, Via Romana Ovest - 55016 Porcari (LU)",
+    "streetAddress": "45/A, Via Romana Ovest",
+    "postalCode": "55016",
+    "addressLocality": "Porcari",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.84943,
+        "lon": 10.61518
+    },
+    "categories": [
+        "Gastronomie, salumerie e rosticcerie"
+    ],
+    "telephone": [
+        "0583 299334"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LA TANA",
+    "description": "",
+    "address": "11, Corso Marco Da Galliano - 50031 Galliano (FI)",
+    "streetAddress": "11, Corso Marco Da Galliano",
+    "postalCode": "50031",
+    "addressLocality": "Galliano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.01606,
+        "lon": 11.29125
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8428368"
+    ],
+    "rating": ""
+}

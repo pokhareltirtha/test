@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ROBIGLIO",
+    "description": "",
+    "address": "Via De' Tosinghi, 11 - 50123 Firenze (FI)",
+    "streetAddress": "Via De' Tosinghi, 11",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77222,
+        "lon": 11.25483
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 215013"
+    ],
+    "rating": ""
+}

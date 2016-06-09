@@ -1,0 +1,20 @@
+{
+    "name": "SONG LUXI",
+    "description": "",
+    "address": "35/R, Via Dei Servi - 50122 Firenze (FI)",
+    "streetAddress": "35/R, Via Dei Servi",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7753,
+        "lon": 11.25923
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2399594"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL CAPRICCIO",
+    "description": "",
+    "address": "29, Viale Della Repubblica - 59100 Prato (PO)",
+    "streetAddress": "29, Viale Della Repubblica",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86769,
+        "lon": 11.11319
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 072524"
+    ],
+    "rating": ""
+}

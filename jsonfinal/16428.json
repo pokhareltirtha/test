@@ -1,0 +1,20 @@
+{
+    "name": "ANTICA OSTERIA DEI MEATI",
+    "description": "",
+    "address": "1245, Via Della Chiesa - 55100 Lucca (LU)",
+    "streetAddress": "1245, Via Della Chiesa",
+    "postalCode": "55100",
+    "addressLocality": "Lucca",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.84343,
+        "lon": 10.55565
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 510373"
+    ],
+    "rating": ""
+}

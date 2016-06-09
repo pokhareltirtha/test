@@ -1,0 +1,20 @@
+{
+    "name": "CLARO DE LUNA",
+    "description": "",
+    "address": "Via Cerrete 3 - 40048 San Benedetto Val Di Sambro (BO)",
+    "streetAddress": "Via Cerrete 3",
+    "postalCode": "40048",
+    "addressLocality": "San Benedetto Val Di Sambro",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.19254,
+        "lon": 11.21107
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0534 890012"
+    ],
+    "rating": ""
+}

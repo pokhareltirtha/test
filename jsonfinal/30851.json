@@ -1,0 +1,20 @@
+{
+    "name": "GASTRONOMIA PRONTO E VIA DI SILVIA CRISTINO",
+    "description": "",
+    "address": "44/R, Via Di Peretola - 50145 Firenze (FI)",
+    "streetAddress": "44/R, Via Di Peretola",
+    "postalCode": "50145",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79667,
+        "lon": 11.19519
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 311077"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA PEPE & SALE SRL SOCIETA A CAPITALE RIDOTTO",
+    "description": "",
+    "address": "70/72, Via Pisana - 56025 Pontedera (PI)",
+    "streetAddress": "70/72, Via Pisana",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66488,
+        "lon": 10.62633
+    },
+    "categories": [
+        "Gastronomie, salumerie e rosticcerie"
+    ],
+    "telephone": [
+        "0587 213260"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LA FENICE",
+    "description": "",
+    "address": "2, Via Di Compiobbi - 50012 Vallina (FI)",
+    "streetAddress": "2, Via Di Compiobbi",
+    "postalCode": "50012",
+    "addressLocality": "Vallina",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78253,
+        "lon": 11.36224
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 696048"
+    ],
+    "rating": ""
+}

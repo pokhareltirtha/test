@@ -1,0 +1,20 @@
+{
+    "name": "ORVM",
+    "description": "",
+    "address": "3, Piazza D Ognissanti - 50123 Firenze (FI)",
+    "streetAddress": "3, Piazza D Ognissanti",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77203,
+        "lon": 11.24571
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 27152785"
+    ],
+    "rating": ""
+}

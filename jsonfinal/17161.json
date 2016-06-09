@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA OASI",
+    "description": "A Peccioli c’è un’oasi di pace, tranquillità e buona cucina: il Ristorante Pizzeria l’Oasi è il posto ideale per una serata rilassante in compagnia di amici, per cene di laurea, banchetti e cerimonie ...",
+    "address": "2, V. Risorgimento - 56037 Peccioli (PI)",
+    "streetAddress": "2, V. Risorgimento",
+    "postalCode": "56037",
+    "addressLocality": "Peccioli",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.5466,
+        "lon": 10.71916
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "331 8524215",
+        "0587 352257"
+    ],
+    "rating": ""
+}

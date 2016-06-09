@@ -1,0 +1,21 @@
+{
+    "name": "FATTORIA DEGLI USIGNOLI srl",
+    "description": "Agriturismo, ristorante e scuola equitazione a Reggello. Una meravigliosa cornice dove sarete allietati dal servizio di pregio.",
+    "address": "100, Loc. Piazza - 50066 San Donato In Fronzano (FI)",
+    "streetAddress": "100, Loc. Piazza",
+    "postalCode": "50066",
+    "addressLocality": "San Donato In Fronzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.70956,
+        "lon": 11.51372
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8652018",
+        "055 8652002"
+    ],
+    "rating": "4.7"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "DA QUE GRULLI",
+    "description": "",
+    "address": "Via Dei Confini 162 - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "Via Dei Confini 162",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83864,
+        "lon": 11.11223
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "393 7461913"
+    ],
+    "rating": ""
+}

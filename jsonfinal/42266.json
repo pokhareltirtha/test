@@ -1,0 +1,20 @@
+{
+    "name": "RAFFIO SARA",
+    "description": "",
+    "address": "24, Via Boccaccio Giovanni - 50052 Certaldo (FI)",
+    "streetAddress": "24, Via Boccaccio Giovanni",
+    "postalCode": "50052",
+    "addressLocality": "Certaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54897,
+        "lon": 11.04425
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 668229"
+    ],
+    "rating": ""
+}

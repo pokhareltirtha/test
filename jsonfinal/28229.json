@@ -1,0 +1,20 @@
+{
+    "name": "LE VOLTE PALAZZO LOUP HOTEL",
+    "description": "",
+    "address": "21, Via Santa Margherita - 40050 Scanello (BO)",
+    "streetAddress": "21, Via Santa Margherita",
+    "postalCode": "40050",
+    "addressLocality": "Scanello",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.26861,
+        "lon": 11.35226
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "051 6544040"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "CIRCOLO IL MESTOLO",
+    "description": "",
+    "address": "87, Via Ardengo Soffici - 59016 Poggio A Caiano (PO)",
+    "streetAddress": "87, Via Ardengo Soffici",
+    "postalCode": "59016",
+    "addressLocality": "Poggio A Caiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.8125,
+        "lon": 11.05323
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8798092"
+    ],
+    "rating": "4.0"
+}

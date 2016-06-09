@@ -1,0 +1,20 @@
+{
+    "name": "SAN LUCCHESE",
+    "description": "",
+    "address": "5, Località San Lucchese - 53036 Poggibonsi (SI)",
+    "streetAddress": "5, Località San Lucchese",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.45542,
+        "lon": 11.14868
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 937119"
+    ],
+    "rating": "4.8"
+}

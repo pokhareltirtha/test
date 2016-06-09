@@ -1,0 +1,20 @@
+{
+    "name": "LA SPERANZA",
+    "description": "",
+    "address": "42  Via Camillo Benso Conte Di Cavour - Casciana Terme (PI)",
+    "streetAddress": "42, Via Camillo Benso Conte Di Cavour",
+    "postalCode": "",
+    "addressLocality": "Casciana Terme",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.52816,
+        "lon": 10.61809
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 646215"
+    ],
+    "rating": ""
+}

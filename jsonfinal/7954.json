@@ -1,0 +1,21 @@
+{
+    "name": "IL MELOGRANO",
+    "description": "",
+    "address": "586, Via Tosco Romagnola - 56025 La Rotta (PI)",
+    "streetAddress": "586, Via Tosco Romagnola",
+    "postalCode": "56025",
+    "addressLocality": "La Rotta",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66145,
+        "lon": 10.68335
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 482000"
+    ],
+    "rating": ""
+}

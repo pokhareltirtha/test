@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CASTELLO DI VICCHIOMAGGIO",
+    "description": "",
+    "address": "4, Via Vicchio Maggio - 50022 Greve In Chianti (FI)",
+    "streetAddress": "4, Via Vicchio Maggio",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61103,
+        "lon": 11.28735
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8546342"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL FICO D'INDIA",
+    "description": "",
+    "address": "79, Via Tosco Romagnola - 56020 San Romano (PI)",
+    "streetAddress": "79, Via Tosco Romagnola",
+    "postalCode": "56020",
+    "addressLocality": "San Romano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68683,
+        "lon": 10.76176
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 450908"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "NERONE",
+    "description": "",
+    "address": "95, Via Faenza - 50123 Firenze (FI)",
+    "streetAddress": "95, Via Faenza",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7786,
+        "lon": 11.25059
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 291217"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "LA CANTINA DI TOIA",
+    "description": "",
+    "address": "12, Via Toia - 59011 Bacchereto (PO)",
+    "streetAddress": "12, Via Toia",
+    "postalCode": "59011",
+    "addressLocality": "Bacchereto",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.80758,
+        "lon": 10.98745
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8717135",
+        "055 8717305"
+    ],
+    "rating": "4.3"
+}

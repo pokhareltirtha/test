@@ -1,0 +1,20 @@
+{
+    "name": "LE CHIAVI D'ORO",
+    "description": "",
+    "address": ", Via Del Frantoio - 51100 Pistoia (PT)",
+    "streetAddress": ", Via Del Frantoio",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93529,
+        "lon": 10.91729
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 30226"
+    ],
+    "rating": "2.0"
+}

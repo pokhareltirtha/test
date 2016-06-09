@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE OSTERIA DEL GAMBERO ROSSO",
+    "description": "",
+    "address": "1, Via Per Collodi Castello - 51012 Collodi (PT)",
+    "streetAddress": "1, Via Per Collodi Castello",
+    "postalCode": "51012",
+    "addressLocality": "Collodi",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90122,
+        "lon": 10.65336
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 427329"
+    ],
+    "rating": ""
+}

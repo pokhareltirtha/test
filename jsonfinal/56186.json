@@ -1,0 +1,20 @@
+{
+    "name": "PIZZICOTTO",
+    "description": "",
+    "address": "83, Via Fratelli Rosselli - 50063 Figline E Incisa Valdarno (FI)",
+    "streetAddress": "83, Via Fratelli Rosselli",
+    "postalCode": "50063",
+    "addressLocality": "Figline E Incisa Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.62333,
+        "lon": 11.48387
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 951699"
+    ],
+    "rating": ""
+}

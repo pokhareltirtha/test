@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA TRATTORIA LA VECCHIA PIEVE",
+    "description": "",
+    "address": "26, Via Francesco Ruschi - 56011 Calci (PI)",
+    "streetAddress": "26, Via Francesco Ruschi",
+    "postalCode": "56011",
+    "addressLocality": "Calci",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.7267,
+        "lon": 10.514
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 939177"
+    ],
+    "rating": ""
+}

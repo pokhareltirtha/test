@@ -1,0 +1,20 @@
+{
+    "name": "FLORIAN - VENEZIA 1720",
+    "description": "Il Ristorante Florian, a Firenze in Via Parione, vi propone un delizioso menu gastronomico e gustose specialità di pasticceria.",
+    "address": "28/R, V. Parione - 50123 Firenze (FI)",
+    "streetAddress": "28/R, V. Parione",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77076,
+        "lon": 11.24952
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 284291"
+    ],
+    "rating": ""
+}

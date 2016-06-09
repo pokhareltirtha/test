@@ -1,0 +1,21 @@
+{
+    "name": "LA PERGOLA ALBERGO RISTORANTE",
+    "description": "Alberghi ristorante pizzeria a Fontanelice (BO)",
+    "address": "47, C. Europa - 40025 Fontanelice (BO)",
+    "streetAddress": "47, C. Europa",
+    "postalCode": "40025",
+    "addressLocality": "Fontanelice",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.25855,
+        "lon": 11.55883
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0542 92562"
+    ],
+    "rating": ""
+}

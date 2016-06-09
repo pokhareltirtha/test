@@ -1,0 +1,20 @@
+{
+    "name": "CONVIVUM FIRENZE - LA SOSTA",
+    "description": "",
+    "address": "4/6, Vl. Europa - 50126 Firenze (FI)",
+    "streetAddress": "4/6, Vl. Europa",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75644,
+        "lon": 11.28959
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6802482"
+    ],
+    "rating": ""
+}

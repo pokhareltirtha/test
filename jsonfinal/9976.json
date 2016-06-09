@@ -1,0 +1,20 @@
+{
+    "name": "OMBRA DELLA SERA",
+    "description": "",
+    "address": "16, Via Guarnacci - 56048 Volterra (PI)",
+    "streetAddress": "16, Via Guarnacci",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.4035,
+        "lon": 10.86132
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 85274"
+    ],
+    "rating": ""
+}

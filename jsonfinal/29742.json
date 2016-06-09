@@ -1,0 +1,21 @@
+{
+    "name": "TOSCANI DA SEMPRE",
+    "description": "",
+    "address": "13, Via Fratelli Monzecchi - 50065 Pontassieve (FI)",
+    "streetAddress": "13, Via Fratelli Monzecchi",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77541,
+        "lon": 11.43834
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "392 8476361",
+        "055 8392952"
+    ],
+    "rating": "4.0"
+}

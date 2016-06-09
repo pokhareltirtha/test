@@ -1,0 +1,20 @@
+{
+    "name": "GIACOMO",
+    "description": "",
+    "address": "12, Via Carducci - 50066 Saltino (FI)",
+    "streetAddress": "12, Via Carducci",
+    "postalCode": "50066",
+    "addressLocality": "Saltino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72861,
+        "lon": 11.5374
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 862185"
+    ],
+    "rating": ""
+}

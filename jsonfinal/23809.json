@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA LA CASETTA",
+    "description": "Il Ristorante Trattoria La Casetta, a Brisighella in Via Ugonia, è la meta ideale per ogni celebrazione e momento conviviale familiare ed aziendale.",
+    "address": "6, V. Ugonia - 48013 Brisighella (RA)",
+    "streetAddress": "6, V. Ugonia",
+    "postalCode": "48013",
+    "addressLocality": "Brisighella",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.2221,
+        "lon": 11.77119
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 80250"
+    ],
+    "rating": ""
+}

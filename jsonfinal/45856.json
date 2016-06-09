@@ -1,0 +1,21 @@
+{
+    "name": "IL CONVIO",
+    "description": "",
+    "address": "2, Via San Maiano - 56028 San Miniato (PI)",
+    "streetAddress": "2, Via San Maiano",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.672,
+        "lon": 10.85131
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 408032",
+        "0571 408114"
+    ],
+    "rating": ""
+}

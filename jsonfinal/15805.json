@@ -1,0 +1,20 @@
+{
+    "name": "VEMA S.R.L.",
+    "description": "",
+    "address": "7, Via Verruca - 56010 Vicopisano (PI)",
+    "streetAddress": "7, Via Verruca",
+    "postalCode": "56010",
+    "addressLocality": "Vicopisano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70278,
+        "lon": 10.5817
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 799938"
+    ],
+    "rating": ""
+}

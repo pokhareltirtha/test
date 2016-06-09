@@ -1,0 +1,20 @@
+{
+    "name": "DA I COCO FILIPPO",
+    "description": "",
+    "address": "24, Viale Giovanni Amendola - 50121 Firenze (FI)",
+    "streetAddress": "24, Viale Giovanni Amendola",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76996,
+        "lon": 11.2712
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2476268"
+    ],
+    "rating": "4.0"
+}

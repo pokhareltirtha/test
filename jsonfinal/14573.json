@@ -1,0 +1,20 @@
+{
+    "name": "URBAN STEK HOUSE",
+    "description": "",
+    "address": "27, Via Roma - 51031 Agliana (PT)",
+    "streetAddress": "27, Via Roma",
+    "postalCode": "51031",
+    "addressLocality": "Agliana",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90462,
+        "lon": 11.00381
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 2885750"
+    ],
+    "rating": ""
+}

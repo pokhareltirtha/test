@@ -1,0 +1,20 @@
+{
+    "name": "CAFE' GOURMANDE SRL",
+    "description": "",
+    "address": "6, Via Del Capannaccio - 59100 Prato (PO)",
+    "streetAddress": "6, Via Del Capannaccio",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.89013,
+        "lon": 11.04937
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 660897"
+    ],
+    "rating": ""
+}

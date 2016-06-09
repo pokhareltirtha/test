@@ -1,0 +1,21 @@
+{
+    "name": "ANTICA TRATTORIA SANESI SAS DI SERAFINO SANESI & C.",
+    "description": "",
+    "address": "33, Via Dell' Arione - 50055 Lastra A Signa (FI)",
+    "streetAddress": "33, Via Dell' Arione",
+    "postalCode": "50055",
+    "addressLocality": "Lastra A Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77074,
+        "lon": 11.10641
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "055 8720234",
+        "055 8725698"
+    ],
+    "rating": "5.0"
+}

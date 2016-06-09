@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA...DA QUEI RAGAZZI",
+    "description": "",
+    "address": "16, Piazza Guglielmo Marconi - 50018 Scandicci (FI)",
+    "streetAddress": "16, Piazza Guglielmo Marconi",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75414,
+        "lon": 11.19267
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 255863"
+    ],
+    "rating": ""
+}

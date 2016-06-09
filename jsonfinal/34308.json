@@ -1,0 +1,21 @@
+{
+    "name": "ERBORISTERIA ELISIR",
+    "description": "",
+    "address": "63, Vl. Risorgimento - 50025 Montespertoli (FI)",
+    "streetAddress": "63, Vl. Risorgimento",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.64503,
+        "lon": 11.07273
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 657257",
+        "338 8458953"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA RISTORANTE DA BEPPONE",
+    "description": "",
+    "address": "13, Via Romite - 53037 San Gimignano (SI)",
+    "streetAddress": "13, Via Romite",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46968,
+        "lon": 11.04273
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0577 943135"
+    ],
+    "rating": ""
+}

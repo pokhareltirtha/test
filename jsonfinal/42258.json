@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA BOCCA D'ERSA snc",
+    "description": "Il Ristorante Bocca d'Ersa nasce nell'anno 2000 a Poggibonsi divenendo pian piano meta di riferimento della zona",
+    "address": "V. Cassia Nord (Loc. Drove) - 53036 Poggibonsi (SI)",
+    "streetAddress": "V. Cassia Nord (Loc. Drove)",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.4826,
+        "lon": 11.14872
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 983569"
+    ],
+    "rating": "4.6"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE MOMOYAMA",
+    "description": "Ristorante Momoyama se cercate un posto eclettico, questo ristorante è il posto che fa per voi a Firenze.",
+    "address": "10/R, Bg. S. Frediano - 50124 Firenze (FI)",
+    "streetAddress": "10/R, Bg. S. Frediano",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76917,
+        "lon": 11.246
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 291840"
+    ],
+    "rating": "4.5"
+}

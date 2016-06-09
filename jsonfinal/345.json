@@ -1,0 +1,21 @@
+{
+    "name": "CAPITALE DELLA CINA",
+    "description": "",
+    "address": "12/13, Largo Fratelli Alinari - 50123 Firenze (FI)",
+    "streetAddress": "12/13, Largo Fratelli Alinari",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77612,
+        "lon": 11.25024
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2877030",
+        "055 287703"
+    ],
+    "rating": "3.0"
+}

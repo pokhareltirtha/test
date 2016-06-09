@@ -1,0 +1,20 @@
+{
+    "name": "ME LA GODO",
+    "description": "",
+    "address": "11/A, Via Gramsci - 51010 Traversagna (PT)",
+    "streetAddress": "11/A, Via Gramsci",
+    "postalCode": "51010",
+    "addressLocality": "Traversagna",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86976,
+        "lon": 10.75448
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 70024"
+    ],
+    "rating": ""
+}

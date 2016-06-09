@@ -1,0 +1,20 @@
+{
+    "name": "FIOR DI PIZZA",
+    "description": "",
+    "address": "20, Piazza Unita Italiana - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "20, Piazza Unita Italiana",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.54997,
+        "lon": 11.58314
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9199785"
+    ],
+    "rating": ""
+}

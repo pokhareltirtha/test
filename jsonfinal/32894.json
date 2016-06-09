@@ -1,0 +1,20 @@
+{
+    "name": "FRANCESCOVINI SRL",
+    "description": "",
+    "address": "Borgo Dei Greci - 50122 Firenze (FI)",
+    "streetAddress": "Borgo Dei Greci",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76915,
+        "lon": 11.259
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 218737"
+    ],
+    "rating": ""
+}

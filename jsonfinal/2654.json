@@ -1,0 +1,20 @@
+{
+    "name": "FUTURA OSTERIA",
+    "description": "",
+    "address": "7, Localita Abbadia Isola - 53035 Monteriggioni (SI)",
+    "streetAddress": "7, Localita Abbadia Isola",
+    "postalCode": "53035",
+    "addressLocality": "Monteriggioni",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.34491,
+        "lon": 11.28687
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 301240"
+    ],
+    "rating": ""
+}

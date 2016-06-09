@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA LIMONAIA",
+    "description": "L'Hotel Alexandra Ristorante a Vinci in v. Dei Martiri, nello splendido contesto del centro storico, l'hotel ristorante che saprà rendere indimenticabili.",
+    "address": "38, V. Dei Martiri - 50059 Vinci (FI)",
+    "streetAddress": "38, V. Dei Martiri",
+    "postalCode": "50059",
+    "addressLocality": "Vinci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78265,
+        "lon": 10.92342
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 56224"
+    ],
+    "rating": ""
+}

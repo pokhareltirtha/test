@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA ZOCCHI",
+    "description": "",
+    "address": "Piazza Edizon, 7 /R - 50123 Firenze (FI)",
+    "streetAddress": "Piazza Edizon, 7 /R",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7747,
+        "lon": 11.25051
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 409511"
+    ],
+    "rating": ""
+}

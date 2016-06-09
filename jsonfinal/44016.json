@@ -1,0 +1,20 @@
+{
+    "name": "LA CAVALLINA",
+    "description": "",
+    "address": "Viale Del Lago 17 - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "Viale Del Lago 17",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.98148,
+        "lon": 11.21702
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8420086"
+    ],
+    "rating": ""
+}

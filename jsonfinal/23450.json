@@ -1,0 +1,20 @@
+{
+    "name": "IL PALAZZO",
+    "description": "",
+    "address": "Via Ridracoli 11 - 47021 Bagno Di Romagna (FC)",
+    "streetAddress": "Via Ridracoli 11",
+    "postalCode": "47021",
+    "addressLocality": "Bagno Di Romagna",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 43.88673,
+        "lon": 11.83662
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0543 917570"
+    ],
+    "rating": ""
+}

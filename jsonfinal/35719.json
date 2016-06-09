@@ -1,0 +1,20 @@
+{
+    "name": "SLOWLY CAFE'",
+    "description": "",
+    "address": "63, Via Porta Rossa - 50123 Firenze (FI)",
+    "streetAddress": "63, Via Porta Rossa",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77023,
+        "lon": 11.25227
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2645354"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE FELLINI",
+    "description": "",
+    "address": "134, Via Ghibellina - 50122 Firenze (FI)",
+    "streetAddress": "134, Via Ghibellina",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77044,
+        "lon": 11.26038
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "366 2665005",
+        "055 2478898"
+    ],
+    "rating": "4.5"
+}

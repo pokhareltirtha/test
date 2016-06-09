@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE JUFU S.A.S. DI HU HAORONG & C.",
+    "description": "",
+    "address": "46, Via Cava - 59100 Prato (PO)",
+    "streetAddress": "46, Via Cava",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.85825,
+        "lon": 11.07876
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "338 2400016"
+    ],
+    "rating": ""
+}

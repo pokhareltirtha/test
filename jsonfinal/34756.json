@@ -1,0 +1,20 @@
+{
+    "name": "STEFANINI MARINO",
+    "description": "",
+    "address": "42, Via Condotto - 50033 Bruscoli (FI)",
+    "streetAddress": "42, Via Condotto",
+    "postalCode": "50033",
+    "addressLocality": "Bruscoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.14088,
+        "lon": 11.24476
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 818018"
+    ],
+    "rating": ""
+}

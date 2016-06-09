@@ -1,0 +1,21 @@
+{
+    "name": "IL VELIERO EL VIVE SNC",
+    "description": "",
+    "address": "2, Via Vergiolesi Selvaggia - 51100 Pistoia (PT)",
+    "streetAddress": "2, Via Vergiolesi Selvaggia",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93352,
+        "lon": 10.90865
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 367480"
+    ],
+    "rating": "4.8"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LA VIE EN ROSE",
+    "description": "",
+    "address": "68/R, Borgo Allegri - 50122 Firenze (FI)",
+    "streetAddress": "68/R, Borgo Allegri",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77083,
+        "lon": 11.2649
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2346943"
+    ],
+    "rating": ""
+}

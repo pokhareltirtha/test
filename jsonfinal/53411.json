@@ -1,0 +1,20 @@
+{
+    "name": "VOLTERRANI",
+    "description": "",
+    "address": "69, Via Profeti - 50051 Castelfiorentino (FI)",
+    "streetAddress": "69, Via Profeti",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.59756,
+        "lon": 10.96653
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 632139"
+    ],
+    "rating": ""
+}

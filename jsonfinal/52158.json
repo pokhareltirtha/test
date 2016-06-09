@@ -1,0 +1,20 @@
+{
+    "name": "LA FONTANINA",
+    "description": "",
+    "address": "49, Via Grieco Ruggero - 50050 Case Nuove (FI)",
+    "streetAddress": "49, Via Grieco Ruggero",
+    "postalCode": "50050",
+    "addressLocality": "Case Nuove",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58681,
+        "lon": 10.96738
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 631067"
+    ],
+    "rating": "4.0"
+}

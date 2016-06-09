@@ -1,0 +1,21 @@
+{
+    "name": "VIA ROMA DI BARONCELLI MASSIMO",
+    "description": "",
+    "address": "312/L, Via Roma - 59100 Prato (PO)",
+    "streetAddress": "312/L, Via Roma",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86139,
+        "lon": 11.08145
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 545919",
+        "0574 639913"
+    ],
+    "rating": ""
+}

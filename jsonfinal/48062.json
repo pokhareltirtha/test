@@ -1,0 +1,20 @@
+{
+    "name": "ALEX S.R.L.",
+    "description": "",
+    "address": "30/34/R, Via Palmieri Matteo - 50122 Firenze (FI)",
+    "streetAddress": "30/34/R, Via Palmieri Matteo",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77134,
+        "lon": 11.26135
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 293372"
+    ],
+    "rating": ""
+}

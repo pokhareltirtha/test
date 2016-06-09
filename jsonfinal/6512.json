@@ -1,0 +1,21 @@
+{
+    "name": "YOSHIDA NORIO",
+    "description": "",
+    "address": "1, Piazza Della Stazione - 50123 Firenze (FI)",
+    "streetAddress": "1, Piazza Della Stazione",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77681,
+        "lon": 11.24929
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2381023",
+        "055 2646261"
+    ],
+    "rating": ""
+}

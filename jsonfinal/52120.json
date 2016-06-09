@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA IL MORECCIO DI RUBINO ENRICO",
+    "description": "",
+    "address": "1219, Via Tosco Romagnola - 56021 San Giorgio (PI)",
+    "streetAddress": "1219, Via Tosco Romagnola",
+    "postalCode": "56021",
+    "addressLocality": "San Giorgio",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68417,
+        "lon": 10.50449
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "050 742079"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE SERGENTE SNC",
+    "description": "",
+    "address": "26, Via S. Lucia - 50031 Montecarelli (FI)",
+    "streetAddress": "26, Via S. Lucia",
+    "postalCode": "50031",
+    "addressLocality": "Montecarelli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.0783,
+        "lon": 11.28137
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8423127"
+    ],
+    "rating": "3.0"
+}

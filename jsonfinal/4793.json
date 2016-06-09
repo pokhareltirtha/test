@@ -1,0 +1,21 @@
+{
+    "name": "LA SOSTA DEL GUSTO",
+    "description": "",
+    "address": "11, Via Santa Brigida - 50065 Pontassieve (FI)",
+    "streetAddress": "11, Via Santa Brigida",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84882,
+        "lon": 11.38802
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8300341",
+        "055 8300856"
+    ],
+    "rating": ""
+}

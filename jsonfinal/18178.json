@@ -1,0 +1,20 @@
+{
+    "name": "LA BOTTE DI BACCO",
+    "description": "",
+    "address": "23, Via XX Settembre - 53017 Radda In Chianti (SI)",
+    "streetAddress": "23, Via XX Settembre",
+    "postalCode": "53017",
+    "addressLocality": "Radda In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.48685,
+        "lon": 11.37575
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 739008"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE COSIMO DE' MEDICI srl",
+    "description": "Il ristorante Cosimo Dè Medici si trova in 19, v. Lago a Barberino di Mugello (FI) dove assaporare piatti della tradizione Toscana.",
+    "address": "19, V. Lago - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "19, V. Lago",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.98132,
+        "lon": 11.21515
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8420370",
+        "055 8420528"
+    ],
+    "rating": "5.0"
+}

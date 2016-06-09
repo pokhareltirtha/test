@@ -1,0 +1,21 @@
+{
+    "name": "BAR RISTORANTE BORGOFORTE",
+    "description": "",
+    "address": "4, Via Volterrana - 50050 Borgoforte (FI)",
+    "streetAddress": "4, Via Volterrana",
+    "postalCode": "50050",
+    "addressLocality": "Borgoforte",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.55727,
+        "lon": 10.95147
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 638236",
+        "0571 638529"
+    ],
+    "rating": "4.0"
+}

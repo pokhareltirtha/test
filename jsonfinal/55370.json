@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA BAR LA LOGGIA",
+    "description": "",
+    "address": "3, Piazza Santissimo Rosario - 59016 Poggio A Caiano (PO)",
+    "streetAddress": "3, Piazza Santissimo Rosario",
+    "postalCode": "59016",
+    "addressLocality": "Poggio A Caiano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.81606,
+        "lon": 11.05474
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 877107"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ANTICA TRATTORIA DEL TURBONE",
+    "description": "",
+    "address": "35, Via Turbone - 50056 Turbone (FI)",
+    "streetAddress": "35, Via Turbone",
+    "postalCode": "50056",
+    "addressLocality": "Turbone",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71904,
+        "lon": 11.03516
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 542035"
+    ],
+    "rating": "5.0"
+}

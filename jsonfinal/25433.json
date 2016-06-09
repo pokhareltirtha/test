@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE SAPORI DI TOSCANA",
+    "description": "Il ristorante dove assaporare la cucina Toscana con piatti ricchi di prodotti dell'orto provenienti da aziende agricole limitrofe ad Empoli (FI).",
+    "address": "",
+    "streetAddress": "",
+    "postalCode": "",
+    "addressLocality": "",
+    "addressRegion": "",
+    "coordinates": {
+        "lat": null,
+        "lon": null
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "340 5098273"
+    ],
+    "rating": "4.0"
+}

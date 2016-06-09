@@ -1,0 +1,21 @@
+{
+    "name": "KING PIZZERIA KEBAB",
+    "description": "",
+    "address": "15, Via Anton Francesco Doni - 50144 Firenze (FI)",
+    "streetAddress": "15, Via Anton Francesco Doni",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78588,
+        "lon": 11.2327
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "388 0764061",
+        "055 355800"
+    ],
+    "rating": ""
+}

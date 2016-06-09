@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE",
+    "description": "",
+    "address": "2, Via Montecristo - 50060 Sant'Ellero (FI)",
+    "streetAddress": "2, Via Montecristo",
+    "postalCode": "50060",
+    "addressLocality": "Sant'Ellero",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73919,
+        "lon": 11.47093
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 860146"
+    ],
+    "rating": ""
+}

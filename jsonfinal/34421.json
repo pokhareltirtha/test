@@ -1,0 +1,20 @@
+{
+    "name": "CHINA TOWN",
+    "description": "",
+    "address": "6, Via Dei Vecchietti - 50123 Firenze (FI)",
+    "streetAddress": "6, Via Dei Vecchietti",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77247,
+        "lon": 11.25279
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 294470"
+    ],
+    "rating": ""
+}

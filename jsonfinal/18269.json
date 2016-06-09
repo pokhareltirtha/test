@@ -1,0 +1,20 @@
+{
+    "name": "UVASPINA",
+    "description": "",
+    "address": "62, Via Isidoro Del Lungo - 52025 Montevarchi (AR)",
+    "streetAddress": "62, Via Isidoro Del Lungo",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.52299,
+        "lon": 11.5685
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 900194"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "POWER STATION",
+    "description": "",
+    "address": "35/A, Via Le Ville - 52028 Ville (AR)",
+    "streetAddress": "35/A, Via Le Ville",
+    "postalCode": "52028",
+    "addressLocality": "Ville",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.56638,
+        "lon": 11.57115
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9737046"
+    ],
+    "rating": ""
+}

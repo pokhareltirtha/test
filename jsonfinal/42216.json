@@ -1,0 +1,20 @@
+{
+    "name": "LA CANTINETTA IN BORGO",
+    "description": "",
+    "address": "Via Borgo San Lorenzo, 14 - 50123 Firenze (FI)",
+    "streetAddress": "Via Borgo San Lorenzo, 14",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77488,
+        "lon": 11.25505
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 213525"
+    ],
+    "rating": ""
+}

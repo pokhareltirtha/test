@@ -1,0 +1,20 @@
+{
+    "name": "DON CHISCIOTTE",
+    "description": "",
+    "address": "21, Viale Galileo Galilei - 59100 Prato (PO)",
+    "streetAddress": "21, Viale Galileo Galilei",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88763,
+        "lon": 11.10102
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 442903"
+    ],
+    "rating": "4.0"
+}

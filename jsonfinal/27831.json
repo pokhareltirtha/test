@@ -1,0 +1,20 @@
+{
+    "name": "FATTORIA MUGNANO",
+    "description": "",
+    "address": "Via Volterrana - 53034 Campiglia (SI)",
+    "streetAddress": "Via Volterrana",
+    "postalCode": "53034",
+    "addressLocality": "Campiglia",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42137,
+        "lon": 11.10437
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 959023"
+    ],
+    "rating": ""
+}

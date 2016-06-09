@@ -1,0 +1,21 @@
+{
+    "name": "ENOTECA IL RUBACONTE",
+    "description": "",
+    "address": "Lungarno Delle Grazie 18 - 50122 Firenze (FI)",
+    "streetAddress": "Lungarno Delle Grazie 18",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76683,
+        "lon": 11.25943
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "348 6509017",
+        "055 241342"
+    ],
+    "rating": ""
+}

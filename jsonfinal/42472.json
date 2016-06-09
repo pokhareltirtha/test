@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA IL DELFINO",
+    "description": "",
+    "address": "83, Via Roma - 50052 Certaldo (FI)",
+    "streetAddress": "83, Via Roma",
+    "postalCode": "50052",
+    "addressLocality": "Certaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54668,
+        "lon": 11.04385
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 1720437",
+        "338 9850035"
+    ],
+    "rating": ""
+}

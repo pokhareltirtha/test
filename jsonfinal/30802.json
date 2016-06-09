@@ -1,0 +1,21 @@
+{
+    "name": "FLAVIA S.R.L.",
+    "description": "",
+    "address": "11, Via Crispi Francesco - 50129 Firenze (FI)",
+    "streetAddress": "11, Via Crispi Francesco",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78564,
+        "lon": 11.25364
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 360649",
+        "055 360649"
+    ],
+    "rating": ""
+}

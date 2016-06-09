@@ -1,0 +1,20 @@
+{
+    "name": "MAMMA MARIA",
+    "description": "",
+    "address": "95, Via Usciana - 56022 Castelfranco Di Sotto (PI)",
+    "streetAddress": "95, Via Usciana",
+    "postalCode": "56022",
+    "addressLocality": "Castelfranco Di Sotto",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70936,
+        "lon": 10.74016
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 481003"
+    ],
+    "rating": ""
+}

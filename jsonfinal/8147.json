@@ -1,0 +1,21 @@
+{
+    "name": "LOCANDA PRATO D'ERA",
+    "description": "",
+    "address": "1, Localita Prato D'Era - 56048 Volterra (PI)",
+    "streetAddress": "1, Localita Prato D'Era",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.42466,
+        "lon": 10.87643
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0588 42000"
+    ],
+    "rating": ""
+}

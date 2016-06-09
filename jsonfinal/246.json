@@ -1,0 +1,21 @@
+{
+    "name": "LAGUNA BLU",
+    "description": "",
+    "address": "77, Via Del Botteghino - 50018 Borgo Ai Fossi (FI)",
+    "streetAddress": "77, Via Del Botteghino",
+    "postalCode": "50018",
+    "addressLocality": "Borgo Ai Fossi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77179,
+        "lon": 11.15404
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 720470"
+    ],
+    "rating": ""
+}

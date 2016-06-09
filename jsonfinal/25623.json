@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PEPENERO",
+    "description": "Il ristorante ideale dove gustare la cucina tipica toscana con ottimo rapporto qualità/prezzo a San Miniato.",
+    "address": "13, V. IV Novembre - 56028 San Miniato (PI)",
+    "streetAddress": "13, V. IV Novembre",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67895,
+        "lon": 10.84787
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 419523",
+        "346 7490241"
+    ],
+    "rating": ""
+}

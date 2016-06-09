@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LORENZO DE MEDICI",
+    "description": "Il ristorante Lorenzo de Medici a Firenze in via Giglio propone piatti tipici toscani, dal maiale al forno alla bistecca alla fiorentina e altre specialità.",
+    "address": "49/R, V. Giglio - 50123 Firenze (FI)",
+    "streetAddress": "49/R, V. Giglio",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77427,
+        "lon": 11.25174
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 212932"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,22 @@
+{
+    "name": "PIZZERIA CIRCOLO LA LIBERTA'",
+    "description": "La Pizzeria Circolo La Liberta' nasce nel 1979 con la costruzione del nuovo circolo, dove tutto veniva svolto come volontariato e solo a fine settimana.",
+    "address": "659, V. Pistoiese - 59100 Prato (PO)",
+    "streetAddress": "659, V. Pistoiese",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.89819,
+        "lon": 11.05512
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "347 3118608",
+        "0574 810618"
+    ],
+    "rating": ""
+}

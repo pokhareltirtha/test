@@ -1,0 +1,21 @@
+{
+    "name": "LA LUNA",
+    "description": "",
+    "address": "93, Via Gioberti - 50121 Firenze (FI)",
+    "streetAddress": "93, Via Gioberti",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77042,
+        "lon": 11.27359
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "348 9147315",
+        "055 663810"
+    ],
+    "rating": ""
+}

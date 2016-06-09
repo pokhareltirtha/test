@@ -1,0 +1,21 @@
+{
+    "name": "PERSEUS",
+    "description": "",
+    "address": "9, Piazza Mino Da Fiesole - 50014 Fiesole (FI)",
+    "streetAddress": "9, Piazza Mino Da Fiesole",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80697,
+        "lon": 11.29221
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 59549",
+        "055 59143"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DI RENDOLA",
+    "description": "Per consumare un pasto in totale relax vieni a trovarci, siamo a Montevarchi. Ristorante tipico toscano zona valdarno.",
+    "address": "19, V. Mincio - 52025 Montevarchi (AR)",
+    "streetAddress": "19, V. Mincio",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.51646,
+        "lon": 11.56184
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9707713"
+    ],
+    "rating": ""
+}

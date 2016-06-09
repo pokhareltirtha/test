@@ -1,0 +1,20 @@
+{
+    "name": "STRIGO LA PIZZERIA",
+    "description": "Strigo la Pizzeria è situata in via Nazionale 8 a Granaglione e propone pizza al taglio ed al piatto anche a pranzo.",
+    "address": "8, V. Nazionale - 40045 Ponte Della Venturina (BO)",
+    "streetAddress": "8, V. Nazionale",
+    "postalCode": "40045",
+    "addressLocality": "Ponte Della Venturina",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.12959,
+        "lon": 10.99157
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0534 60621"
+    ],
+    "rating": ""
+}

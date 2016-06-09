@@ -1,0 +1,20 @@
+{
+    "name": "ROSA DEI VENTI S.R.L.S.",
+    "description": "",
+    "address": "1, Via Lunga A Mezzana - 59100 Prato (PO)",
+    "streetAddress": "1, Via Lunga A Mezzana",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.85705,
+        "lon": 11.11524
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 510922"
+    ],
+    "rating": ""
+}

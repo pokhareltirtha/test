@@ -1,0 +1,20 @@
+{
+    "name": "LA RISTORAZIONE ITALIANA SRL",
+    "description": "",
+    "address": "24, Via S. Giuseppe - 50122 Firenze (FI)",
+    "streetAddress": "24, Via S. Giuseppe",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76855,
+        "lon": 11.26352
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 243067"
+    ],
+    "rating": ""
+}

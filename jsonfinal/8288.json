@@ -1,0 +1,22 @@
+{
+    "name": "LA CAMPAGNOLA",
+    "description": "",
+    "address": "144, Via Cristoforo Colombo - 50054 Fucecchio (FI)",
+    "streetAddress": "144, Via Cristoforo Colombo",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73704,
+        "lon": 10.79025
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 261781",
+        "0571 242029"
+    ],
+    "rating": ""
+}

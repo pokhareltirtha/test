@@ -1,0 +1,21 @@
+{
+    "name": "DA FISCHIO",
+    "description": "",
+    "address": ", Localita IL Lago - 50066 Vallombrosa (FI)",
+    "streetAddress": ", Localita IL Lago",
+    "postalCode": "50066",
+    "addressLocality": "Vallombrosa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73336,
+        "lon": 11.55688
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 1158318",
+        "055 8351851"
+    ],
+    "rating": ""
+}

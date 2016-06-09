@@ -1,0 +1,20 @@
+{
+    "name": "BAR PIZZERIA ROSSINI DI MARTINO MASSIMILIANO",
+    "description": "",
+    "address": "140/C, Via Statale - 51039 Barba (PT)",
+    "streetAddress": "140/C, Via Statale",
+    "postalCode": "51039",
+    "addressLocality": "Barba",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8782,
+        "lon": 10.97671
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0573 718580"
+    ],
+    "rating": ""
+}

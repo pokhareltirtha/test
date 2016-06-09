@@ -1,0 +1,20 @@
+{
+    "name": "IL MICIO",
+    "description": "",
+    "address": "52, Via Fra Bartolomeo - 50126 Firenze (FI)",
+    "streetAddress": "52, Via Fra Bartolomeo",
+    "postalCode": "50126",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76133,
+        "lon": 11.28058
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 573257"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "TAVERNA DEL BRONZINO",
+    "description": "",
+    "address": "27, Via Delle Ruote - 50129 Firenze (FI)",
+    "streetAddress": "27, Via Delle Ruote",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78069,
+        "lon": 11.25731
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 495220",
+        "055 4620076"
+    ],
+    "rating": "4.8"
+}

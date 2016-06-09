@@ -1,0 +1,20 @@
+{
+    "name": "BUCA MARIO",
+    "description": "",
+    "address": "16, Piazza Degli Ottaviani - 50123 Firenze (FI)",
+    "streetAddress": "16, Piazza Degli Ottaviani",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7724,
+        "lon": 11.24912
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 214179"
+    ],
+    "rating": ""
+}

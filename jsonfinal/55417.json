@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA BAR DA QUEI DUE",
+    "description": "",
+    "address": "18, Via Campo Sportivo - 48013 Fognano (RA)",
+    "streetAddress": "18, Via Campo Sportivo",
+    "postalCode": "48013",
+    "addressLocality": "Fognano",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.20525,
+        "lon": 11.73869
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0546 85028"
+    ],
+    "rating": ""
+}

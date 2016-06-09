@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA MICHELACCIO",
+    "description": "",
+    "address": "15, Via Del Ponte Di Mezzo - 50127 Firenze (FI)",
+    "streetAddress": "15, Via Del Ponte Di Mezzo",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79166,
+        "lon": 11.23697
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 332495"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL CONVENTINO A MARIGNOLLE",
+    "description": "",
+    "address": "Via Santa Maria A Marignolle, 10 - 50124 Firenze (FI)",
+    "streetAddress": "Via Santa Maria A Marignolle, 10",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75841,
+        "lon": 11.22773
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3920401"
+    ],
+    "rating": ""
+}

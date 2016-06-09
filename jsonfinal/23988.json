@@ -1,0 +1,20 @@
+{
+    "name": "IL PARCO",
+    "description": "Il Parco di via Agnoletti, a Certaldo, è il ristorante pizzeria dove potrete gustare deliziose pizze e tanti piatti tipici della cucina toscana.",
+    "address": "316, V. Agnoletti - 50052 Certaldo (FI)",
+    "streetAddress": "316, V. Agnoletti",
+    "postalCode": "50052",
+    "addressLocality": "Certaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.56105,
+        "lon": 11.03581
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 652410"
+    ],
+    "rating": ""
+}

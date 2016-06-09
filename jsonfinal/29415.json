@@ -1,0 +1,20 @@
+{
+    "name": "MCDONALD'S CAVOUR",
+    "description": "",
+    "address": "19/R, Via S. Reparata - 50129 Firenze (FI)",
+    "streetAddress": "19/R, Via S. Reparata",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77866,
+        "lon": 11.25635
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 290559"
+    ],
+    "rating": ""
+}

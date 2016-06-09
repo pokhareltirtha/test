@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA GIARDINO DI STRADA",
+    "description": "",
+    "address": "Snc, Via Jacopo Da Strada - 50022 Greve In Chianti (FI)",
+    "streetAddress": "Snc, Via Jacopo Da Strada",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.65462,
+        "lon": 11.30191
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8586046"
+    ],
+    "rating": ""
+}

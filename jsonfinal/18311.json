@@ -1,0 +1,20 @@
+{
+    "name": "ENOTECA \"PANE E VINO\"",
+    "description": "",
+    "address": "Piazza Di Cestello, 3r - 50124 Firenze (FI)",
+    "streetAddress": "Piazza Di Cestello, 3r",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77047,
+        "lon": 11.24433
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2476956"
+    ],
+    "rating": ""
+}

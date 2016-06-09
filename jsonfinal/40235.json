@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PAPEROROSSO",
+    "description": "",
+    "address": "1/R, Via Garibaldi Giuseppe - 50123 Firenze (FI)",
+    "streetAddress": "1/R, Via Garibaldi Giuseppe",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77528,
+        "lon": 11.24099
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 218891"
+    ],
+    "rating": ""
+}

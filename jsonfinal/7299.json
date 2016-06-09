@@ -1,0 +1,20 @@
+{
+    "name": "AGRICOLA TOSCANA srl",
+    "description": "Agricola Toscana a Firenze in 27/r, v. Del Corso propone tutti i giorni, compresa la domenica, piatti toscani dal gusto unico e sfizioso.",
+    "address": "27/R, V. Del Corso - 50122 Firenze (FI)",
+    "streetAddress": "27/R, V. Del Corso",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77148,
+        "lon": 11.257
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 284014"
+    ],
+    "rating": ""
+}

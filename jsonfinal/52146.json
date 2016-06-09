@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA NUOVA",
+    "description": "",
+    "address": "14, Via Gelsomino - 50056 Sammontana (FI)",
+    "streetAddress": "14, Via Gelsomino",
+    "postalCode": "50056",
+    "addressLocality": "Sammontana",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71421,
+        "lon": 11.00173
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 994013"
+    ],
+    "rating": ""
+}

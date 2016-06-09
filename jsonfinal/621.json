@@ -1,0 +1,22 @@
+{
+    "name": "LA CAMBUSA",
+    "description": "",
+    "address": ", Viale Del Pino - 50041 Calenzano (FI)",
+    "streetAddress": ", Viale Del Pino",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85963,
+        "lon": 11.16308
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 3921028",
+        "055 8877768"
+    ],
+    "rating": "5.0"
+}

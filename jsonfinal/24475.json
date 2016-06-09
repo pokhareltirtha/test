@@ -1,0 +1,20 @@
+{
+    "name": "1950 AMERICAN DINER",
+    "description": "",
+    "address": "237, Via Tosco Romagnola - 56025 Pontedera (PI)",
+    "streetAddress": "237, Via Tosco Romagnola",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66672,
+        "lon": 10.64744
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "328 3997530"
+    ],
+    "rating": ""
+}

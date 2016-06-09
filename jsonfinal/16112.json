@@ -1,0 +1,21 @@
+{
+    "name": "IL GAMBERO",
+    "description": "",
+    "address": "19, Piazza Martiri Della Liberta - 56025 Pontedera (PI)",
+    "streetAddress": "19, Piazza Martiri Della Liberta",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66299,
+        "lon": 10.63907
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 52670"
+    ],
+    "rating": "4.0"
+}

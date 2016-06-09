@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA RISTORANTE DA PIERO DI SALVI GIAMPIERO",
+    "description": "",
+    "address": "2, Piazza Sisto Predieri - 40035 Castiglione Dei Pepoli (BO)",
+    "streetAddress": "2, Piazza Sisto Predieri",
+    "postalCode": "40035",
+    "addressLocality": "Castiglione Dei Pepoli",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.12919,
+        "lon": 11.20002
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0534 898194"
+    ],
+    "rating": ""
+}

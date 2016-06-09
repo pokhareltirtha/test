@@ -1,0 +1,20 @@
+{
+    "name": "BUSTECCA",
+    "description": "",
+    "address": "6, Via Di Bustecca - 50021 Barberino Val D'Elsa (FI)",
+    "streetAddress": "6, Via Di Bustecca",
+    "postalCode": "50021",
+    "addressLocality": "Barberino Val D'Elsa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54634,
+        "lon": 11.17684
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8075642"
+    ],
+    "rating": ""
+}

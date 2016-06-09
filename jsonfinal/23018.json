@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DELL'ORTOLANO",
+    "description": "",
+    "address": "Via Degli Alfani, 91r - 50121 Firenze (FI)",
+    "streetAddress": "Via Degli Alfani, 91r",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77648,
+        "lon": 11.25791
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2396466"
+    ],
+    "rating": ""
+}

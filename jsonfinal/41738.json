@@ -1,0 +1,20 @@
+{
+    "name": "AZIENDA AGRICOLA IL CILIEGIO",
+    "description": "L'azienda, a conduzione familiare, con i suoi 50 ettari di vigneto, coltiva vitigni come il Sangiovese il Cabernet e il Merlot, a Monteriggioni (SI).",
+    "address": "94, V. Uopini - 53035 Monteriggioni (SI)",
+    "streetAddress": "94, V. Uopini",
+    "postalCode": "53035",
+    "addressLocality": "Monteriggioni",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.37602,
+        "lon": 11.27929
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 309055"
+    ],
+    "rating": "4.5"
+}

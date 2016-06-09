@@ -1,0 +1,22 @@
+{
+    "name": "RISTORANTE DI LEO",
+    "description": "",
+    "address": "8, Via Del Proconsolo - 50122 Firenze (FI)",
+    "streetAddress": "8, Via Del Proconsolo",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77108,
+        "lon": 11.2579
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 216383",
+        "055 285217"
+    ],
+    "rating": "5.0"
+}

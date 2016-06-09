@@ -1,0 +1,20 @@
+{
+    "name": "SAN BARTOLOMEO S.R.L.",
+    "description": "",
+    "address": "12, Via S. Bartolomeo - 56028 Stibbio (PI)",
+    "streetAddress": "12, Via S. Bartolomeo",
+    "postalCode": "56028",
+    "addressLocality": "Stibbio",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67329,
+        "lon": 10.78208
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 419523"
+    ],
+    "rating": ""
+}

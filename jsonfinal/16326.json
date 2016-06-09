@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE CINESE LA FELICITA' S.A.S. DI LIU KANGBAN & C.",
+    "description": "",
+    "address": "26, Via Piaggio R. - 56025 Pontedera (PI)",
+    "streetAddress": "26, Via Piaggio R.",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.6611,
+        "lon": 10.63186
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 8695996",
+        "0587 290816"
+    ],
+    "rating": "4.0"
+}

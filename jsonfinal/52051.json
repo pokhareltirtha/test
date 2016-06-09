@@ -1,0 +1,21 @@
+{
+    "name": "VITO RE DELLA PIZZA",
+    "description": "",
+    "address": "25, Via Della Chiesa - 56022 Orentano (PI)",
+    "streetAddress": "25, Via Della Chiesa",
+    "postalCode": "56022",
+    "addressLocality": "Orentano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.7795,
+        "lon": 10.65927
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 23124",
+        "0583 23005"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE OSTERIA AL CASSERO",
+    "description": "",
+    "address": "Localita' Fortezza Medicea 1 - 53036 Poggibonsi (SI)",
+    "streetAddress": "Localita' Fortezza Medicea 1",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46543,
+        "lon": 11.14478
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 937134"
+    ],
+    "rating": ""
+}

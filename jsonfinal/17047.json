@@ -1,0 +1,20 @@
+{
+    "name": "LA SALETTA",
+    "description": "",
+    "address": "4, Via Roma - 50052 Certaldo (FI)",
+    "streetAddress": "4, Via Roma",
+    "postalCode": "50052",
+    "addressLocality": "Certaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54678,
+        "lon": 11.04367
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 668188"
+    ],
+    "rating": ""
+}

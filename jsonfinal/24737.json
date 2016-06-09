@@ -1,0 +1,20 @@
+{
+    "name": "RISTO & PIZZA DA I'GRILLO DI POGGI AZZURRA",
+    "description": "",
+    "address": "31, Viale Centofiori - 50056 Montelupo Fiorentino (FI)",
+    "streetAddress": "31, Viale Centofiori",
+    "postalCode": "50056",
+    "addressLocality": "Montelupo Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73039,
+        "lon": 11.01941
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 913309"
+    ],
+    "rating": ""
+}

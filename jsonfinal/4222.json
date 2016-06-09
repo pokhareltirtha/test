@@ -1,0 +1,20 @@
+{
+    "name": "DONATELLO SRL",
+    "description": "",
+    "address": "5/R, Piazza Degli Strozzi - 50123 Firenze (FI)",
+    "streetAddress": "5/R, Piazza Degli Strozzi",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77085,
+        "lon": 11.25211
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 283156"
+    ],
+    "rating": "3.5"
+}

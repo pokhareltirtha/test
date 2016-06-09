@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE BAR IL MONTE",
+    "description": "",
+    "address": "Localit? Sovestro, 29 - 53037 San Gimignano (SI)",
+    "streetAddress": "Localit? Sovestro, 29",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46704,
+        "lon": 11.04045
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 953012"
+    ],
+    "rating": ""
+}

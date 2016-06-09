@@ -1,0 +1,20 @@
+{
+    "name": "DAL BOCCI",
+    "description": "",
+    "address": "109, Via Nazionale - 52016 Rassina (AR)",
+    "streetAddress": "109, Via Nazionale",
+    "postalCode": "52016",
+    "addressLocality": "Rassina",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.6415,
+        "lon": 11.83685
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0575 487021"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "I' FICARELLO",
+    "description": "",
+    "address": "76, Via Statale - 59011 Seano (PO)",
+    "streetAddress": "76, Via Statale",
+    "postalCode": "59011",
+    "addressLocality": "Seano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.83331,
+        "lon": 11.03093
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8706901",
+        "339 4358581"
+    ],
+    "rating": ""
+}

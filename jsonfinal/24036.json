@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DA GIGI",
+    "description": "",
+    "address": "39  V. Togliatti - Ponsacco (PI)",
+    "streetAddress": "39, V. Togliatti",
+    "postalCode": "",
+    "addressLocality": "Ponsacco",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.61938,
+        "lon": 10.62755
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 931341"
+    ],
+    "rating": ""
+}

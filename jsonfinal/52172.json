@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA FOCACCERIA PABLO",
+    "description": "",
+    "address": "80, Via Livornese Ovest - 56035 Quattro Strade (PI)",
+    "streetAddress": "80, Via Livornese Ovest",
+    "postalCode": "56035",
+    "addressLocality": "Quattro Strade",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.60353,
+        "lon": 10.56987
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 616797"
+    ],
+    "rating": ""
+}

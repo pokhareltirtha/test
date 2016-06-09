@@ -1,0 +1,20 @@
+{
+    "name": "NOVOTEL FIRENZE/NOVOTELCAFE'",
+    "description": "",
+    "address": "23, Via Tevere - 50019 Osmannoro (FI)",
+    "streetAddress": "23, Via Tevere",
+    "postalCode": "50019",
+    "addressLocality": "Osmannoro",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80978,
+        "lon": 11.17778
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 53821"
+    ],
+    "rating": ""
+}

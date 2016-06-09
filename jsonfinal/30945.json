@@ -1,0 +1,20 @@
+{
+    "name": "GIOGOLI ROSSI",
+    "description": "",
+    "address": "10/B, Via Di Giogoli - 50018 Scandicci (FI)",
+    "streetAddress": "10/B, Via Di Giogoli",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74612,
+        "lon": 11.2034
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2571302"
+    ],
+    "rating": ""
+}

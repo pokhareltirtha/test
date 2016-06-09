@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL CANTUCCIO",
+    "description": "",
+    "address": "33, Via Primo Maggio - 51010 Massa E Cozzile (PT)",
+    "streetAddress": "33, Via Primo Maggio",
+    "postalCode": "51010",
+    "addressLocality": "Massa E Cozzile",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88633,
+        "lon": 10.75773
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 71984",
+        "0572 767370"
+    ],
+    "rating": ""
+}

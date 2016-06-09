@@ -1,0 +1,20 @@
+{
+    "name": "EURO RISTORAZIONE SRL",
+    "description": "",
+    "address": "297, Via Orme - 50025 Montespertoli (FI)",
+    "streetAddress": "297, Via Orme",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.67261,
+        "lon": 10.99267
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 608913"
+    ],
+    "rating": ""
+}

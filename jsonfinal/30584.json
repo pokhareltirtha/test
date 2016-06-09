@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE INDIANO BABA FATTA JI DI SINGH SNC",
+    "description": "",
+    "address": "12, Via Roma - 50064 Figline Valdarno (FI)",
+    "streetAddress": "12, Via Roma",
+    "postalCode": "50064",
+    "addressLocality": "Figline Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.6215,
+        "lon": 11.47124
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9158028",
+        "055 3921126"
+    ],
+    "rating": ""
+}

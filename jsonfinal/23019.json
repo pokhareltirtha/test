@@ -1,0 +1,20 @@
+{
+    "name": "EDHO",
+    "description": "",
+    "address": "64/A, Via Provinciale Limitese - 50050 Capraia E Limite (FI)",
+    "streetAddress": "64/A, Via Provinciale Limitese",
+    "postalCode": "50050",
+    "addressLocality": "Capraia E Limite",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73757,
+        "lon": 11.00677
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "345 4985555"
+    ],
+    "rating": ""
+}

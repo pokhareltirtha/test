@@ -1,0 +1,20 @@
+{
+    "name": "CANAPONE BIG S.R.L.",
+    "description": "",
+    "address": "100, Via Dalmazia - 56028 San Miniato (PI)",
+    "streetAddress": "100, Via Dalmazia",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67115,
+        "lon": 10.83784
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 418121"
+    ],
+    "rating": ""
+}

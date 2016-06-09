@@ -1,0 +1,20 @@
+{
+    "name": "PUNTO PIZZA S.N.C. DI AIELLO GIUSEPPE E GIOVANNI SNC",
+    "description": "",
+    "address": "75, Via Fiorentina - 59100 Prato (PO)",
+    "streetAddress": "75, Via Fiorentina",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86226,
+        "lon": 11.09196
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 564974"
+    ],
+    "rating": ""
+}

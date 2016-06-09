@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA E BOTTEGA",
+    "description": "",
+    "address": "2, Via Garibaldi Giuseppe - 50022 Greve In Chianti (FI)",
+    "streetAddress": "2, Via Garibaldi Giuseppe",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58161,
+        "lon": 11.31732
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "392 8586878"
+    ],
+    "rating": ""
+}

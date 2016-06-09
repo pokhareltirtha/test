@@ -1,0 +1,20 @@
+{
+    "name": "LA FAINA",
+    "description": "",
+    "address": "348, Via Coniale - 50033 Firenzuola (FI)",
+    "streetAddress": "348, Via Coniale",
+    "postalCode": "50033",
+    "addressLocality": "Firenzuola",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.08731,
+        "lon": 11.35849
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 816013"
+    ],
+    "rating": ""
+}

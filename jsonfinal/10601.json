@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA LIMONAIA DI VILLA SENNI",
+    "description": "",
+    "address": "Località Senni 5 - 50038 Scarperia (FI)",
+    "streetAddress": "Località Senni 5",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.96513,
+        "lon": 11.37049
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8457616"
+    ],
+    "rating": ""
+}

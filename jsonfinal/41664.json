@@ -1,0 +1,20 @@
+{
+    "name": "ARTIGIANI IN CUCINA SRL",
+    "description": "",
+    "address": "6, Via Molin Nuovo - 50018 Scandicci (FI)",
+    "streetAddress": "6, Via Molin Nuovo",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75707,
+        "lon": 11.19205
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 252193"
+    ],
+    "rating": ""
+}

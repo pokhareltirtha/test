@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL PORTICO snc",
+    "description": "A Calenzano la raffinatezza della cucina moderna incontra la sicurezza di quella tradizionale.",
+    "address": "12/14, V. Cherzani - 50041 Calenzano (FI)",
+    "streetAddress": "12/14, V. Cherzani",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85323,
+        "lon": 11.1649
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8839778"
+    ],
+    "rating": "5.0"
+}

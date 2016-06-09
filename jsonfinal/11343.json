@@ -1,0 +1,20 @@
+{
+    "name": "IL ROSMARINO",
+    "description": "",
+    "address": "Loc. Castelfalfi - 50050 Montaione (FI)",
+    "streetAddress": "Loc. Castelfalfi",
+    "postalCode": "50050",
+    "addressLocality": "Montaione",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54237,
+        "lon": 10.86616
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 890159"
+    ],
+    "rating": ""
+}

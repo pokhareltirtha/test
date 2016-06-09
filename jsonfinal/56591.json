@@ -1,0 +1,20 @@
+{
+    "name": "JIMMYS BISTROT",
+    "description": "",
+    "address": "55/57 R, Via Del Prete Carlo - 50127 Firenze (FI)",
+    "streetAddress": "55/57 R, Via Del Prete Carlo",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79546,
+        "lon": 11.232
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 0946366"
+    ],
+    "rating": ""
+}

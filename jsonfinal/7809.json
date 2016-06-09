@@ -1,0 +1,21 @@
+{
+    "name": "LA ZAFFERA",
+    "description": "",
+    "address": "Viale Cento Fiori, 31 - 50056 Montelupo Fiorentino (FI)",
+    "streetAddress": "Viale Cento Fiori, 31",
+    "postalCode": "50056",
+    "addressLocality": "Montelupo Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73039,
+        "lon": 11.01941
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "334 1211266",
+        "0571 51292"
+    ],
+    "rating": ""
+}

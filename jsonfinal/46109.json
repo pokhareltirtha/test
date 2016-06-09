@@ -1,0 +1,20 @@
+{
+    "name": "FINIFAST S.P.A.",
+    "description": "",
+    "address": "95, Via Di Prato - 50041 Calenzano (FI)",
+    "streetAddress": "95, Via Di Prato",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85415,
+        "lon": 11.15761
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8825236"
+    ],
+    "rating": ""
+}

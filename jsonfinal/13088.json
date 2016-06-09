@@ -1,0 +1,20 @@
+{
+    "name": "AZIENDA AGRICOLA RONCIGLIANO",
+    "description": "L'azienda agricola Roncigliano offre laboratori ai più piccini, nel verde delle colline fiorentine, a Scandicci (FI) in v. Roncigliano.",
+    "address": "6/A/B, V. Roncigliano - 50018 Scandicci (FI)",
+    "streetAddress": "6/A/B, V. Roncigliano",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73831,
+        "lon": 11.12428
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 768951"
+    ],
+    "rating": ""
+}

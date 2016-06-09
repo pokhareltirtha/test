@@ -1,0 +1,21 @@
+{
+    "name": "ODISSEA DI DEL GATTO ANDREA E C. SAS",
+    "description": "",
+    "address": "41/R, Via Circondaria - 50127 Firenze (FI)",
+    "streetAddress": "41/R, Via Circondaria",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78906,
+        "lon": 11.2383
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "338 4882454",
+        "333 66660951"
+    ],
+    "rating": "4.7"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "LO SCUDO RISTORANTE",
+    "description": "",
+    "address": "Via Oriuolo, 53 R - 50122 Firenze (FI)",
+    "streetAddress": "Via Oriuolo, 53 R",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77253,
+        "lon": 11.25839
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 284495",
+        "055 2729553"
+    ],
+    "rating": ""
+}

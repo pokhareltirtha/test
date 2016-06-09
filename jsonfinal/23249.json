@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LAGO GABBIANO",
+    "description": "",
+    "address": "11, Via Tazzeria E Sardigna - 51100 Pistoia (PT)",
+    "streetAddress": "11, Via Tazzeria E Sardigna",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90934,
+        "lon": 10.87984
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 570442"
+    ],
+    "rating": ""
+}

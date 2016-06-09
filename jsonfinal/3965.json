@@ -1,0 +1,20 @@
+{
+    "name": "TRIPPERIA IL MAGAZZINO",
+    "description": "",
+    "address": "2, Piazza Della Passera - 50125 Firenze (FI)",
+    "streetAddress": "2, Piazza Della Passera",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76722,
+        "lon": 11.25054
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 215969"
+    ],
+    "rating": "4.8"
+}

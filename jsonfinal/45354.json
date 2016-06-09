@@ -1,0 +1,20 @@
+{
+    "name": "DEL PORTO",
+    "description": "",
+    "address": "1, Via Francesca Romea - 55011 Altopascio (LU)",
+    "streetAddress": "1, Via Francesca Romea",
+    "postalCode": "55011",
+    "addressLocality": "Altopascio",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81606,
+        "lon": 10.67226
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 25152"
+    ],
+    "rating": "5.0"
+}

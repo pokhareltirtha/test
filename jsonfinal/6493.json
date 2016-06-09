@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA DA GUIDO",
+    "description": "",
+    "address": "34/R, Via Faenza - 50123 Firenze (FI)",
+    "streetAddress": "34/R, Via Faenza",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77581,
+        "lon": 11.25218
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2645741"
+    ],
+    "rating": ""
+}

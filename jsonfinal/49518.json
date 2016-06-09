@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA PARAMATTA",
+    "description": "",
+    "address": "20, Via Delle Cascine - 50018 Scandicci (FI)",
+    "streetAddress": "20, Via Delle Cascine",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74934,
+        "lon": 11.18177
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 7422063"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA VASCO DI PIERACCI RICCARDO",
+    "description": "",
+    "address": "8, Via Guidi Virgilio - 56029 Santa Croce Sull'Arno (PI)",
+    "streetAddress": "8, Via Guidi Virgilio",
+    "postalCode": "56029",
+    "addressLocality": "Santa Croce Sull'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.7114,
+        "lon": 10.78041
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 30827"
+    ],
+    "rating": ""
+}

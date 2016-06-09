@@ -1,0 +1,21 @@
+{
+    "name": "IL MILIONE",
+    "description": "",
+    "address": "Via Di Giogoli 12 - 50124 Firenze (FI)",
+    "streetAddress": "Via Di Giogoli 12",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73483,
+        "lon": 11.20654
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 232321",
+        "055 2047922"
+    ],
+    "rating": "5.0"
+}

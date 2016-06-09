@@ -1,0 +1,20 @@
+{
+    "name": "PECCHIOLI PAOLO",
+    "description": "",
+    "address": "40, Via Fabbrini Giovanni - 50063 Figline Valdarno (FI)",
+    "streetAddress": "40, Via Fabbrini Giovanni",
+    "postalCode": "50063",
+    "addressLocality": "Figline Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61745,
+        "lon": 11.4738
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9154123"
+    ],
+    "rating": ""
+}

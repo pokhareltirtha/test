@@ -1,0 +1,20 @@
+{
+    "name": "CAFFE' CRISTALLO",
+    "description": "Il Caffè Cristallo si trova in v. Tinto Da Battifolle ad Empoli (FI), un buon aperitivo dopo il lavoro o un cocktail fruttato per una serata con amici.",
+    "address": "V. Tinto Da Battifolle - 50053 Empoli (FI)",
+    "streetAddress": "V. Tinto Da Battifolle",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72101,
+        "lon": 10.94879
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 73108"
+    ],
+    "rating": "5.0"
+}

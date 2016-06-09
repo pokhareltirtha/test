@@ -1,0 +1,20 @@
+{
+    "name": "TRE PINI",
+    "description": "",
+    "address": "18, Via Toscana - 40035 Castiglione Dei Pepoli (BO)",
+    "streetAddress": "18, Via Toscana",
+    "postalCode": "40035",
+    "addressLocality": "Castiglione Dei Pepoli",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.12708,
+        "lon": 11.17173
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0534 91512"
+    ],
+    "rating": ""
+}

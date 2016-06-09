@@ -1,0 +1,20 @@
+{
+    "name": "BAR RISTORANTE PIZZERIA IL MURETTO",
+    "description": "",
+    "address": "18, Viale XI Febbraio - 53017 Radda In Chianti (SI)",
+    "streetAddress": "18, Viale XI Febbraio",
+    "postalCode": "53017",
+    "addressLocality": "Radda In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.4873,
+        "lon": 11.37908
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 735613"
+    ],
+    "rating": ""
+}

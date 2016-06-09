@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DEL VICOLO DI BIAGI GIANCARLO & C.  SAS",
+    "description": "",
+    "address": "6, Vicolo Stasino - 50066 Reggello (FI)",
+    "streetAddress": "6, Vicolo Stasino",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.68293,
+        "lon": 11.53689
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8664039"
+    ],
+    "rating": ""
+}

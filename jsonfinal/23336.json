@@ -1,0 +1,21 @@
+{
+    "name": "CIATTINI E CIATTINI SAS",
+    "description": "",
+    "address": "38/40, Via Cassia Per Firenze - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": "38/40, Via Cassia Per Firenze",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.67399,
+        "lon": 11.21328
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "335 5795454",
+        "055 828402"
+    ],
+    "rating": ""
+}

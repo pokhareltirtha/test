@@ -1,0 +1,21 @@
+{
+    "name": "LA CUGNA CARNE, TARTUFI, PESCE E PIZZA",
+    "description": "",
+    "address": "236, Via Bolognese - 51100 Pistoia (PT)",
+    "streetAddress": "236, Via Bolognese",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9891,
+        "lon": 10.91075
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 475059",
+        "0573 475000"
+    ],
+    "rating": ""
+}

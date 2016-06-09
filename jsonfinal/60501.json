@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA DA CECIO DI MORINI ANDREA",
+    "description": "",
+    "address": "201, Via Romana Est - 55016 Porcari (LU)",
+    "streetAddress": "201, Via Romana Est",
+    "postalCode": "55016",
+    "addressLocality": "Porcari",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.8317,
+        "lon": 10.63577
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 299315"
+    ],
+    "rating": ""
+}

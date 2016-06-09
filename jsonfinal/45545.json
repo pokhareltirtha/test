@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA IL POSTINO",
+    "description": "Ristorante Pizzeria Il Postino si trova in v. Bigiano e Castel Bovani, 60 a Pistoia. Presso di noi potrai trovare le migliori specialità della cucina toscana!",
+    "address": "60, V. Bigiano E Castel Bovani - 51100 Pistoia (PT)",
+    "streetAddress": "60, V. Bigiano E Castel Bovani",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.95853,
+        "lon": 10.92609
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 453552"
+    ],
+    "rating": ""
+}

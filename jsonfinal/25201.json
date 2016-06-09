@@ -1,0 +1,20 @@
+{
+    "name": "IL GASTRONOMO ROSSO VENEZIANO",
+    "description": "",
+    "address": "Via Piero Della Francesca, 200 - 51100 Pistoia (PT)",
+    "streetAddress": "Via Piero Della Francesca, 200",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94077,
+        "lon": 10.90075
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 33329"
+    ],
+    "rating": ""
+}

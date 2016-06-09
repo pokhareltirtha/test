@@ -1,0 +1,20 @@
+{
+    "name": "LA TAVERNA DEI FRATI",
+    "description": "",
+    "address": "33, Via Di San Quirico - 51100 Pistoia (PT)",
+    "streetAddress": "33, Via Di San Quirico",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.95015,
+        "lon": 10.96103
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 452651"
+    ],
+    "rating": ""
+}

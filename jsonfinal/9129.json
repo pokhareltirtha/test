@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE I CRISTALLI DI FONDELLI CARLA & C. - S.A.S.",
+    "description": "",
+    "address": "1, Via Monteserra - 56032 Buti (PI)",
+    "streetAddress": "1, Via Monteserra",
+    "postalCode": "56032",
+    "addressLocality": "Buti",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.7277,
+        "lon": 10.59689
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 938772",
+        "338 4895658"
+    ],
+    "rating": ""
+}

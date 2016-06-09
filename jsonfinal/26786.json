@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE SECOLO DECIMOQUINTO SRL",
+    "description": "",
+    "address": "Via Dante Alighieri - 50021 Barberino Val D'Elsa (FI)",
+    "streetAddress": "Via Dante Alighieri",
+    "postalCode": "50021",
+    "addressLocality": "Barberino Val D'Elsa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.48349,
+        "lon": 11.13485
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        ""
+    ],
+    "rating": ""
+}

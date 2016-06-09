@@ -1,0 +1,20 @@
+{
+    "name": "BAGHINO S.R.L.",
+    "description": "",
+    "address": "9, Via Dell' Accademia - 59100 Prato (PO)",
+    "streetAddress": "9, Via Dell' Accademia",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88084,
+        "lon": 11.09753
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 27920"
+    ],
+    "rating": ""
+}

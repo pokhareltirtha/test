@@ -1,0 +1,21 @@
+{
+    "name": "IL CASTELLARE DE' NOVESCHI",
+    "description": "",
+    "address": "Via Padre Chiantini 12 - 53013 San Sano (SI)",
+    "streetAddress": "Via Padre Chiantini 12",
+    "postalCode": "53013",
+    "addressLocality": "San Sano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42199,
+        "lon": 11.38933
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 746010",
+        "0577 746608"
+    ],
+    "rating": ""
+}

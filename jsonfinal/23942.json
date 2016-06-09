@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA RISTORANTE BAR DA GINO",
+    "description": "La Pizzeria Da Gino prepara per i propri clienti tante specialità cucinate con ingredienti altamente selezionati. Il locale si trova in via Zauli, a Dovadola.",
+    "address": "25, V. Zauli - 47013 Dovadola (FC)",
+    "streetAddress": "25, V. Zauli",
+    "postalCode": "47013",
+    "addressLocality": "Dovadola",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.11895,
+        "lon": 11.88589
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0543 934753"
+    ],
+    "rating": ""
+}

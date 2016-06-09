@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA BORGO ANTICO",
+    "description": "",
+    "address": "Sp16 - 50022 Greve In Chianti (FI)",
+    "streetAddress": "Sp16",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.59228,
+        "lon": 11.35421
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 851024"
+    ],
+    "rating": ""
+}

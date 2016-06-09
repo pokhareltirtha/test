@@ -1,0 +1,20 @@
+{
+    "name": "WONDERPARK PIZZA PARCO GIOCHI",
+    "description": "",
+    "address": "44, Via Montalbano - 51100 Pistoia (PT)",
+    "streetAddress": "44, Via Montalbano",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89736,
+        "lon": 10.91778
+    },
+    "categories": [
+        "Parchi divertimento ed acquatici"
+    ],
+    "telephone": [
+        "0573 528705"
+    ],
+    "rating": ""
+}

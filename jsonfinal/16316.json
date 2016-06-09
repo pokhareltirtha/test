@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA DA CINOTTO",
+    "description": "Trattoria di cucina toscana e non solo. Specialità stagionali, baccalà e coniglio.",
+    "address": "132, V. Provinciale Vicarese - 56010 Uliveto Terme (PI)",
+    "streetAddress": "132, V. Provinciale Vicarese",
+    "postalCode": "56010",
+    "addressLocality": "Uliveto Terme",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70003,
+        "lon": 10.51488
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 788043"
+    ],
+    "rating": ""
+}

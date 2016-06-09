@@ -1,0 +1,20 @@
+{
+    "name": "EUROHOTEL",
+    "description": "",
+    "address": "4, Viale Europa - 56021 Cascina (PI)",
+    "streetAddress": "4, Viale Europa",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66552,
+        "lon": 10.53852
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 710494"
+    ],
+    "rating": ""
+}

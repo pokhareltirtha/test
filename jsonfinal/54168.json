@@ -1,0 +1,21 @@
+{
+    "name": "RIMONDINO",
+    "description": "",
+    "address": "11, Via Icilio Franchi - 50050 Gambassi Terme (FI)",
+    "streetAddress": "11, Via Icilio Franchi",
+    "postalCode": "50050",
+    "addressLocality": "Gambassi Terme",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54074,
+        "lon": 10.95526
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 638919",
+        "0571 1933496"
+    ],
+    "rating": ""
+}

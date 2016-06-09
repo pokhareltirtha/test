@@ -1,0 +1,20 @@
+{
+    "name": "DA FIORINA",
+    "description": "",
+    "address": "145, Localita Castelletto Vado - 40036 Monzuno (BO)",
+    "streetAddress": "145, Localita Castelletto Vado",
+    "postalCode": "40036",
+    "addressLocality": "Monzuno",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.2949,
+        "lon": 11.23184
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "051 6775290"
+    ],
+    "rating": ""
+}

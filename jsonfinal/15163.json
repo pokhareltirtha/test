@@ -1,0 +1,20 @@
+{
+    "name": "LA VELA S.R.L.",
+    "description": "",
+    "address": "23/R, Via Finiguerra Maso - 50123 Firenze (FI)",
+    "streetAddress": "23/R, Via Finiguerra Maso",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77396,
+        "lon": 11.24518
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 294447"
+    ],
+    "rating": ""
+}

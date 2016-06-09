@@ -1,0 +1,22 @@
+{
+    "name": "RISTORANTE ARGENTINO 7 SECOLI",
+    "description": "",
+    "address": "140, Via Ghibellina - 50122 Firenze (FI)",
+    "streetAddress": "140, Via Ghibellina",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77044,
+        "lon": 11.26035
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "333 2373773",
+        "055 245205"
+    ],
+    "rating": "4.7"
+}

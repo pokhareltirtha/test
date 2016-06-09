@@ -1,0 +1,21 @@
+{
+    "name": "MANDRI S.A.S",
+    "description": "",
+    "address": "Frazione Fornace - 50060 Londa (FI)",
+    "streetAddress": "Frazione Fornace",
+    "postalCode": "50060",
+    "addressLocality": "Londa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85732,
+        "lon": 11.61165
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8354086",
+        "055 8354023"
+    ],
+    "rating": ""
+}

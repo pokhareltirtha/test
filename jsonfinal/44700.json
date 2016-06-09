@@ -1,0 +1,20 @@
+{
+    "name": "LA BIRITULLERA",
+    "description": "",
+    "address": "4/R, Via Cironi Pietro - 50134 Firenze (FI)",
+    "streetAddress": "4/R, Via Cironi Pietro",
+    "postalCode": "50134",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79174,
+        "lon": 11.24395
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        ""
+    ],
+    "rating": ""
+}

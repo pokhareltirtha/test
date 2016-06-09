@@ -1,0 +1,20 @@
+{
+    "name": "MISHI MISHI",
+    "description": "",
+    "address": "199, Via Raffaello Sanzio - 50053 Empoli (FI)",
+    "streetAddress": "199, Via Raffaello Sanzio",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71577,
+        "lon": 10.92276
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 946847"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA HAIDY DI AHMED MOHAMED FARRAG IBRAHIM",
+    "description": "",
+    "address": "4, Via Della Fonderia - 50142 Firenze (FI)",
+    "streetAddress": "4, Via Della Fonderia",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77281,
+        "lon": 11.2374
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2336849"
+    ],
+    "rating": ""
+}

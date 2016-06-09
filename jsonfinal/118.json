@@ -1,0 +1,20 @@
+{
+    "name": "GIRO DI BACCO SRL",
+    "description": "",
+    "address": "8, Via Nazionale - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "8, Via Nazionale",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.9649,
+        "lon": 11.2979
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8418173"
+    ],
+    "rating": ""
+}

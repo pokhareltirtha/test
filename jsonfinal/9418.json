@@ -1,0 +1,22 @@
+{
+    "name": "FERRETTI SANDRA",
+    "description": "",
+    "address": "103, Via Valdera C. - 56038 Ponsacco (PI)",
+    "streetAddress": "103, Via Valdera C.",
+    "postalCode": "56038",
+    "addressLocality": "Ponsacco",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.6284,
+        "lon": 10.62932
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "340 9081971",
+        "0587 732236"
+    ],
+    "rating": ""
+}

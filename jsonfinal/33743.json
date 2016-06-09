@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE SAPORI DI TOSCANA",
+    "description": "Il ristorante dove assaporare la cucina Toscana con piatti ricchi di prodotti dell'orto provenienti da aziende agricole limitrofe ad Empoli (FI).",
+    "address": "9, V. Monteboro - 50053 Empoli (FI)",
+    "streetAddress": "9, V. Monteboro",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.68845,
+        "lon": 10.9133
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "340 5098273"
+    ],
+    "rating": "4.0"
+}

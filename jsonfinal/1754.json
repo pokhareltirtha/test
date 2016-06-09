@@ -1,0 +1,20 @@
+{
+    "name": "TONINI GOFFREDO",
+    "description": "",
+    "address": "14, Localita' Lentula - 51020 Torri (PT)",
+    "streetAddress": "14, Localita' Lentula",
+    "postalCode": "51020",
+    "addressLocality": "Torri",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 44.0788,
+        "lon": 11.04958
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 898032"
+    ],
+    "rating": "5.0"
+}

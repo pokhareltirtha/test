@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA DI FONTERUTOLI S.R.L.",
+    "description": "",
+    "address": "1, Via Donizetti - 53011 Fonterutoli (SI)",
+    "streetAddress": "1, Via Donizetti",
+    "postalCode": "53011",
+    "addressLocality": "Fonterutoli",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.43581,
+        "lon": 11.30663
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 741125"
+    ],
+    "rating": ""
+}

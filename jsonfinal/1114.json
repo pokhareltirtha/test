@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA DA GIOVANNI - CAVALLINO ROSSO",
+    "description": "Per gustare specialità della tradizione toscana e pizze vieni a trovarvi al Ristorante Pizzeria Da Giovanni Il Cavallino Rosso in 3, v. Curtatone, Prato (PO).",
+    "address": "3, V. Curtatone - 59100 Prato (PO)",
+    "streetAddress": "3, V. Curtatone",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.8831,
+        "lon": 11.09154
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 23143"
+    ],
+    "rating": ""
+}

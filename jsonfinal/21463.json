@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE I VECCHI AMICI",
+    "description": "A Terranuova Bracciolini, il Ristorante I Vecchi Amici vi delizierà con le sue specialità a base di pesce e carne o con le sue strepitose pizze.",
+    "address": "295, V. VI Str. Poggilupi - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "295, V. VI Str. Poggilupi",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.55229,
+        "lon": 11.55964
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9198277"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "ADRIANO",
+    "description": "",
+    "address": "102, Via Vittorio Veneto - 50050 Cerreto Guidi (FI)",
+    "streetAddress": "102, Via Vittorio Veneto",
+    "postalCode": "50050",
+    "addressLocality": "Cerreto Guidi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7605,
+        "lon": 10.8738
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 55023"
+    ],
+    "rating": ""
+}

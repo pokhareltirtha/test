@@ -1,0 +1,20 @@
+{
+    "name": "ENOTECA FALORNI",
+    "description": "A Greve in Chianti (FI) lounge bar caffascinante con degustazione vini e vendita di olio.",
+    "address": "6, Gall. Cantine - 50022 Greve In Chianti (FI)",
+    "streetAddress": "6, Gall. Cantine",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58395,
+        "lon": 11.31658
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8546404"
+    ],
+    "rating": "5.0"
+}

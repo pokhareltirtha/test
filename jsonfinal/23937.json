@@ -1,0 +1,21 @@
+{
+    "name": "LA CANTINA DEI CONTI",
+    "description": "",
+    "address": "14, Via Aurelio Saffi - 47015 Modigliana (FC)",
+    "streetAddress": "14, Via Aurelio Saffi",
+    "postalCode": "47015",
+    "addressLocality": "Modigliana",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.15688,
+        "lon": 11.79349
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0546 940345"
+    ],
+    "rating": ""
+}

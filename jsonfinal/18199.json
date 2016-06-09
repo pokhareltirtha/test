@@ -1,0 +1,20 @@
+{
+    "name": "MARIA CRISTINA",
+    "description": "",
+    "address": "51, Via Del Romito - 50134 Firenze (FI)",
+    "streetAddress": "51, Via Del Romito",
+    "postalCode": "50134",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78943,
+        "lon": 11.24427
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "329 1655827"
+    ],
+    "rating": ""
+}

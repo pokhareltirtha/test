@@ -1,0 +1,20 @@
+{
+    "name": "AMICI DEL COLLE",
+    "description": "",
+    "address": "36, Via Falciano - 51011 Colle (PT)",
+    "streetAddress": "36, Via Falciano",
+    "postalCode": "51011",
+    "addressLocality": "Colle",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89369,
+        "lon": 10.73751
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 72180"
+    ],
+    "rating": ""
+}

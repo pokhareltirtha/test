@@ -1,0 +1,20 @@
+{
+    "name": "CITY RESTAURANT",
+    "description": "",
+    "address": "Via Sandro Pertini, 2/9 - 50127 Firenze (FI)",
+    "streetAddress": "Via Sandro Pertini, 2/9",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79304,
+        "lon": 11.22778
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 42402060"
+    ],
+    "rating": ""
+}

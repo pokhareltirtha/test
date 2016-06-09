@@ -1,0 +1,20 @@
+{
+    "name": "CANTINETTA ALLEGRI SNC",
+    "description": "",
+    "address": "58/R, Borgo Allegri - 50122 Firenze (FI)",
+    "streetAddress": "58/R, Borgo Allegri",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77053,
+        "lon": 11.26477
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2478987"
+    ],
+    "rating": ""
+}

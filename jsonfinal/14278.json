@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA TORRETTA",
+    "description": "La location migliore per assaporare le prelibatezze della cucina Toscana e godere dell¿ottima ospitalità di fantastici ristoratori a Vinci.",
+    "address": "",
+    "streetAddress": "",
+    "postalCode": "",
+    "addressLocality": "",
+    "addressRegion": "",
+    "coordinates": {
+        "lat": null,
+        "lon": null
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 56100"
+    ],
+    "rating": "3.0"
+}

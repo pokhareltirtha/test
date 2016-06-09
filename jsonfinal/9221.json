@@ -1,0 +1,20 @@
+{
+    "name": "SUPER OLMI",
+    "description": "Il ristorante Super Olmi offre cucina toscana rigorosamente espressa, angolo enoteca con vasto assortimento di vini toscani, parco giochi e salette compleanni. Prova anche il nostro gelato, prodotto s...",
+    "address": "177, V. Statale - 51039 Quarrata (PT)",
+    "streetAddress": "177, V. Statale",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8768,
+        "lon": 10.97848
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 705030"
+    ],
+    "rating": ""
+}

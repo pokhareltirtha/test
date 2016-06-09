@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL MONDO DEGLI GNOMI",
+    "description": "",
+    "address": "54, Piazza Del Popolo - 50025 Montespertoli (FI)",
+    "streetAddress": "54, Piazza Del Popolo",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.6434,
+        "lon": 11.07573
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 657538"
+    ],
+    "rating": "5.0"
+}

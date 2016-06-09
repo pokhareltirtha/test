@@ -1,0 +1,20 @@
+{
+    "name": "LA VILLA",
+    "description": "",
+    "address": "Via Del Poggetto - 51018 Pieve A Nievole (PT)",
+    "streetAddress": "Via Del Poggetto",
+    "postalCode": "51018",
+    "addressLocality": "Pieve A Nievole",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87997,
+        "lon": 10.79211
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 954111"
+    ],
+    "rating": ""
+}

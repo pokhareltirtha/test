@@ -1,0 +1,20 @@
+{
+    "name": "IL CANTASTORIE",
+    "description": "",
+    "address": "7, Via Della Condotta - 50122 Firenze (FI)",
+    "streetAddress": "7, Via Della Condotta",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77021,
+        "lon": 11.25644
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2396804"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA BELLA NAPOLI",
+    "description": "",
+    "address": "19/21/25, Via Gobetti Piero - 50053 Empoli (FI)",
+    "streetAddress": "19/21/25, Via Gobetti Piero",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.69473,
+        "lon": 10.90407
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 931573"
+    ],
+    "rating": ""
+}

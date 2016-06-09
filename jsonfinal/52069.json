@@ -1,0 +1,20 @@
+{
+    "name": "IL RUSTICHELLO",
+    "description": "",
+    "address": "4, Via Romana Lucchese - 50054 Fucecchio (FI)",
+    "streetAddress": "4, Via Romana Lucchese",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74504,
+        "lon": 10.76961
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 294048"
+    ],
+    "rating": ""
+}

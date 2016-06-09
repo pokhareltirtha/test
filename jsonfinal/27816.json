@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PORTOFINO",
+    "description": "Quello che caratterizza il nostro ristorante è lasciare il cliente piacevolmente sorpreso da piatti unici, cucinati con amore e sapienza.",
+    "address": "25/27, Vl. Mazzini - 50132 Firenze (FI)",
+    "streetAddress": "25/27, Vl. Mazzini",
+    "postalCode": "50132",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77431,
+        "lon": 11.2723
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 244140"
+    ],
+    "rating": "4.0"
+}

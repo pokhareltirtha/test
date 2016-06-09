@@ -1,0 +1,21 @@
+{
+    "name": "IL BOCCALE",
+    "description": "",
+    "address": "33, Borgo Santi Apostoli - 50123 Firenze (FI)",
+    "streetAddress": "33, Borgo Santi Apostoli",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76988,
+        "lon": 11.25135
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 283384"
+    ],
+    "rating": "4.0"
+}

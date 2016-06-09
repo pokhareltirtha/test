@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL MESTOLO",
+    "description": "",
+    "address": "3, Via Giuseppe Verdi - 51035 Lamporecchio (PT)",
+    "streetAddress": "3, Via Giuseppe Verdi",
+    "postalCode": "51035",
+    "addressLocality": "Lamporecchio",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.81689,
+        "lon": 10.89572
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 803163"
+    ],
+    "rating": ""
+}

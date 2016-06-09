@@ -1,0 +1,20 @@
+{
+    "name": "ANNA S.R.L.",
+    "description": "",
+    "address": "138/R, Via Pisana - 50143 Firenze (FI)",
+    "streetAddress": "138/R, Via Pisana",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77147,
+        "lon": 11.23485
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 225766"
+    ],
+    "rating": ""
+}

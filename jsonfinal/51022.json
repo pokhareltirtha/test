@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA I' VECCHIO LUPO",
+    "description": "",
+    "address": "638, Via Pistoiese - 59100 Prato (PO)",
+    "streetAddress": "638, Via Pistoiese",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.89617,
+        "lon": 11.06207
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 664117"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "DA BIBO",
+    "description": "",
+    "address": "454, Via Traversa - 50033 Traversa (FI)",
+    "streetAddress": "454, Via Traversa",
+    "postalCode": "50033",
+    "addressLocality": "Traversa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.11123,
+        "lon": 11.28416
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 815231"
+    ],
+    "rating": "5.0"
+}

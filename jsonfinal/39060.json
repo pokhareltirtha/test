@@ -1,0 +1,20 @@
+{
+    "name": "EMME HOTEL SRL",
+    "description": "",
+    "address": "66, Via Redolone - 51034 Serravalle Pistoiese (PT)",
+    "streetAddress": "66, Via Redolone",
+    "postalCode": "51034",
+    "addressLocality": "Serravalle Pistoiese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88526,
+        "lon": 10.90746
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 526237"
+    ],
+    "rating": ""
+}

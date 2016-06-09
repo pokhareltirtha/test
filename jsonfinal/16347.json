@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA LA COSTA DI PAGANO ANTONINO",
+    "description": "",
+    "address": "14, Via Giuseppe Verdi - 51010 Uzzano (PT)",
+    "streetAddress": "14, Via Giuseppe Verdi",
+    "postalCode": "51010",
+    "addressLocality": "Uzzano",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89057,
+        "lon": 10.71321
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 479844"
+    ],
+    "rating": ""
+}

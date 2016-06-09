@@ -1,0 +1,20 @@
+{
+    "name": "ANTICA TOSCANA",
+    "description": "",
+    "address": "23, Localita Fosci - 53036 Poggibonsi (SI)",
+    "streetAddress": "23, Localita Fosci",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46206,
+        "lon": 11.11159
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 933887"
+    ],
+    "rating": ""
+}

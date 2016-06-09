@@ -1,0 +1,22 @@
+{
+    "name": "LA TORRICELLA",
+    "description": "",
+    "address": "14, Localita Torricella - 52014 Ponte A Poppi (AR)",
+    "streetAddress": "14, Localita Torricella",
+    "postalCode": "52014",
+    "addressLocality": "Ponte A Poppi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.73169,
+        "lon": 11.7688
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0575 527046",
+        "0575 527045"
+    ],
+    "rating": ""
+}

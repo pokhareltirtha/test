@@ -1,0 +1,21 @@
+{
+    "name": "GOLDEN VIEW OPEN BAR",
+    "description": "",
+    "address": "Via De Bardi 58r - 50125 Firenze (FI)",
+    "streetAddress": "Via De Bardi 58r",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76729,
+        "lon": 11.25306
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 214502",
+        "055 2729343"
+    ],
+    "rating": ""
+}

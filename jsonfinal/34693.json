@@ -1,0 +1,21 @@
+{
+    "name": "GRA S.R.L.",
+    "description": "",
+    "address": "59, Via Baldanzese - 50041 Calenzano (FI)",
+    "streetAddress": "59, Via Baldanzese",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85174,
+        "lon": 11.176
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8811422",
+        "055 8832993"
+    ],
+    "rating": ""
+}

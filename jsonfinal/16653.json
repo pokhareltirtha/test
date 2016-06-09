@@ -1,0 +1,21 @@
+{
+    "name": "IMMOBILIARE ERREGI S.R.L.",
+    "description": "",
+    "address": "110, Via Comunale Vecchia Pesciatina - 55012 Lunata (LU)",
+    "streetAddress": "110, Via Comunale Vecchia Pesciatina",
+    "postalCode": "55012",
+    "addressLocality": "Lunata",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.859,
+        "lon": 10.58079
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 935066",
+        "0583 429342"
+    ],
+    "rating": ""
+}

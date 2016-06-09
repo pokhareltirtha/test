@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA IL PORTO",
+    "description": "Utilizziamo solo prodotti del nostro territorio, a Poppi, in provincia di Arezzo.",
+    "address": "224/226, V. Roma - 52014 Poppi (AR)",
+    "streetAddress": "224/226, V. Roma",
+    "postalCode": "52014",
+    "addressLocality": "Poppi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.72633,
+        "lon": 11.77261
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 8960781",
+        "0575 529233"
+    ],
+    "rating": ""
+}

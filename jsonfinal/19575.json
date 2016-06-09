@@ -1,0 +1,21 @@
+{
+    "name": "VILLA CARUSO BELLOSGUARDO",
+    "description": "",
+    "address": "Via Bellosguardo, 54 - 50055 Lastra A Signa (FI)",
+    "streetAddress": "Via Bellosguardo, 54",
+    "postalCode": "50055",
+    "addressLocality": "Lastra A Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76613,
+        "lon": 11.08234
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8728242",
+        "055 8721783"
+    ],
+    "rating": ""
+}

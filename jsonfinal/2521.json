@@ -1,0 +1,21 @@
+{
+    "name": "LA MONTAGNOLA",
+    "description": "",
+    "address": "127, Via Gramsci - 50050 Gambassi Terme (FI)",
+    "streetAddress": "127, Via Gramsci",
+    "postalCode": "50050",
+    "addressLocality": "Gambassi Terme",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.53418,
+        "lon": 10.9511
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 638284"
+    ],
+    "rating": ""
+}

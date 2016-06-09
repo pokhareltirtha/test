@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL PORCELLINO",
+    "description": "",
+    "address": "199, Via Sanzio Raffaello - 50053 Empoli (FI)",
+    "streetAddress": "199, Via Sanzio Raffaello",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.71577,
+        "lon": 10.92276
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 946588",
+        "0571 83790"
+    ],
+    "rating": ""
+}

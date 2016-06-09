@@ -1,0 +1,20 @@
+{
+    "name": "EUROPA",
+    "description": "",
+    "address": "12, Piazza Amendola Giorgio - 50066 Ciliegi (FI)",
+    "streetAddress": "12, Piazza Amendola Giorgio",
+    "postalCode": "50066",
+    "addressLocality": "Ciliegi",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.66564,
+        "lon": 11.45745
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8662049"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "NEGRONI FLORENCE BAR",
+    "description": "",
+    "address": "17, Via Dei Renai - 50125 Firenze (FI)",
+    "streetAddress": "17, Via Dei Renai",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76504,
+        "lon": 11.25956
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 243647"
+    ],
+    "rating": "3.5"
+}

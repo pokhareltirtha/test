@@ -1,0 +1,20 @@
+{
+    "name": "PALAZZOLO",
+    "description": "",
+    "address": "37, Via Giuseppe Mazzini - 59100 Prato (PO)",
+    "streetAddress": "37, Via Giuseppe Mazzini",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87891,
+        "lon": 11.10027
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 400730"
+    ],
+    "rating": ""
+}

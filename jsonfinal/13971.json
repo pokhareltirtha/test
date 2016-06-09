@@ -1,0 +1,21 @@
+{
+    "name": "TORNABUONI BEACCI",
+    "description": "",
+    "address": "Via Tornabuoni 3 - 50123 Firenze (FI)",
+    "streetAddress": "Via Tornabuoni 3",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77038,
+        "lon": 11.25132
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 283594",
+        "055 294283"
+    ],
+    "rating": ""
+}

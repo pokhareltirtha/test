@@ -1,0 +1,20 @@
+{
+    "name": "CHIC SRL",
+    "description": "",
+    "address": "3, Via Poggio Dei Colli - 59015 Carmignano (PO)",
+    "streetAddress": "3, Via Poggio Dei Colli",
+    "postalCode": "59015",
+    "addressLocality": "Carmignano",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.80052,
+        "lon": 11.00839
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8711249"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA AMICI",
+    "description": "Ristorante Pizzeria Amici L'Uguccione Srl è in Via Pratese 42/B a Firenze. Venite a gustare le nostre specialità e festeggiate con noi le vostre ricorrenze.",
+    "address": "42/E, V. Pratese - 50145 Firenze (FI)",
+    "streetAddress": "42/E, V. Pratese",
+    "postalCode": "50145",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79877,
+        "lon": 11.19502
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3436271"
+    ],
+    "rating": ""
+}

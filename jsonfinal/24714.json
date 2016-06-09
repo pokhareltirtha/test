@@ -1,0 +1,20 @@
+{
+    "name": "CHEN AIHONG",
+    "description": "",
+    "address": "5, Via Avignone - 59100 Prato (PO)",
+    "streetAddress": "5, Via Avignone",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87933,
+        "lon": 11.07373
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 29775"
+    ],
+    "rating": ""
+}

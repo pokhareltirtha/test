@@ -1,0 +1,21 @@
+{
+    "name": "RICCAPIZZA",
+    "description": "",
+    "address": "5, Via S Matteo - 53037 San Gimignano (SI)",
+    "streetAddress": "5, Via S Matteo",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46846,
+        "lon": 11.04288
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 942273",
+        "0577 941817"
+    ],
+    "rating": ""
+}

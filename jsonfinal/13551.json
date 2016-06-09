@@ -1,0 +1,20 @@
+{
+    "name": "ZIBIBBO 2.0",
+    "description": "",
+    "address": "14, Via Delle Seggiole - 50122 Firenze (FI)",
+    "streetAddress": "14, Via Delle Seggiole",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77102,
+        "lon": 11.25992
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2466462"
+    ],
+    "rating": ""
+}

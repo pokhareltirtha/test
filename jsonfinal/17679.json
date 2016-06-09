@@ -1,0 +1,20 @@
+{
+    "name": "TENNIS MICHELANGELO",
+    "description": "",
+    "address": "61, Viale Michelangiolo Buonarroti - 50122 Firenze (FI)",
+    "streetAddress": "61, Viale Michelangiolo Buonarroti",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77065,
+        "lon": 11.26423
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6811880"
+    ],
+    "rating": ""
+}

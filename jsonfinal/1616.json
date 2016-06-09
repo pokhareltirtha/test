@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ROSTICCERIA DA PAOLO E ALBA",
+    "description": "",
+    "address": "21, Via G. Villani - 50033 Firenzuola (FI)",
+    "streetAddress": "21, Via G. Villani",
+    "postalCode": "50033",
+    "addressLocality": "Firenzuola",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.1187,
+        "lon": 11.37909
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 819351"
+    ],
+    "rating": ""
+}

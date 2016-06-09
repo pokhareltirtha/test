@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE OSTERIA DEL CAVALLINO BIANCO DI EMME EMME SNC",
+    "description": "",
+    "address": "7, Viale Della Repubblica - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "7, Viale Della Repubblica",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.00002,
+        "lon": 11.23846
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8416201"
+    ],
+    "rating": "3.5"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "IL CUOCO",
+    "description": "",
+    "address": "7, Via De Tommasi - 50142 Firenze (FI)",
+    "streetAddress": "7, Via De Tommasi",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77334,
+        "lon": 11.20327
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 7323525"
+    ],
+    "rating": ""
+}

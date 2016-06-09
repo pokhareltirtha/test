@@ -1,0 +1,20 @@
+{
+    "name": "IL CAVALIERE",
+    "description": "",
+    "address": "20, Viale Spartaco Lavagnini - 50129 Firenze (FI)",
+    "streetAddress": "20, Viale Spartaco Lavagnini",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78308,
+        "lon": 11.25798
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 471914"
+    ],
+    "rating": ""
+}

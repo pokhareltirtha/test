@@ -1,0 +1,20 @@
+{
+    "name": "ALEX PIZZA",
+    "description": "",
+    "address": "66, Via Provinciale Francesca Sud - 56029 Santa Croce Sull'Arno (PI)",
+    "streetAddress": "66, Via Provinciale Francesca Sud",
+    "postalCode": "56029",
+    "addressLocality": "Santa Croce Sull'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70677,
+        "lon": 10.77384
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 32767"
+    ],
+    "rating": ""
+}

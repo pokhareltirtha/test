@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA IL SIPARIO",
+    "description": "",
+    "address": "40, Via Firenze - 59100 Prato (PO)",
+    "streetAddress": "40, Via Firenze",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86992,
+        "lon": 11.12339
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 562282"
+    ],
+    "rating": "4.2"
+}

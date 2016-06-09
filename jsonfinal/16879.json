@@ -1,0 +1,20 @@
+{
+    "name": "MONNA LISA",
+    "description": "",
+    "address": "53, Viale 2 Giugno - 56022 Castelfranco Di Sotto (PI)",
+    "streetAddress": "53, Viale 2 Giugno",
+    "postalCode": "56022",
+    "addressLocality": "Castelfranco Di Sotto",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69779,
+        "lon": 10.74851
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 9605048"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "PIZZA TAXI",
+    "description": "",
+    "address": "36/R, V. Dello Steccuto - 50141 Firenze (FI)",
+    "streetAddress": "36/R, V. Dello Steccuto",
+    "postalCode": "50141",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80092,
+        "lon": 11.24006
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "345 0572845",
+        "055 434343"
+    ],
+    "rating": ""
+}

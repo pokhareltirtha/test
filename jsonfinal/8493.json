@@ -1,0 +1,22 @@
+{
+    "name": "RISTORANTE PIZZERIA DA REMO srl",
+    "description": "Ristorante/pizzeria situato a Monsummano Terme (PT) che propone molte specialità toscane, come tagliata ai funghi porcini, etc.",
+    "address": "271, V. Francesca Sud Uggia - 51015 Cintolese (PT)",
+    "streetAddress": "271, V. Francesca Sud Uggia",
+    "postalCode": "51015",
+    "addressLocality": "Cintolese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83618,
+        "lon": 10.82996
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 62550",
+        "333 6487872"
+    ],
+    "rating": "4.5"
+}

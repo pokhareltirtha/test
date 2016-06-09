@@ -1,0 +1,21 @@
+{
+    "name": "GRAN CAFFE' SAN MARCO",
+    "description": "",
+    "address": "11, Piazza San Marco - 50121 Firenze (FI)",
+    "streetAddress": "11, Piazza San Marco",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77777,
+        "lon": 11.25842
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 215833",
+        "055 215946"
+    ],
+    "rating": "2.0"
+}

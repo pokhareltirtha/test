@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA SELVA BASSA",
+    "description": "",
+    "address": "Via Boschetti E Campano 10 - 51039 Quarrata (PT)",
+    "streetAddress": "Via Boschetti E Campano 10",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.84702,
+        "lon": 10.96838
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 7974192",
+        "0573 775870"
+    ],
+    "rating": ""
+}

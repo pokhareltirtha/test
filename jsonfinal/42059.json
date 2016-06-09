@@ -1,0 +1,20 @@
+{
+    "name": "PALAZZO SAN NICCOLÒ",
+    "description": "",
+    "address": "16, Via Roma - 53017 Radda In Chianti (SI)",
+    "streetAddress": "16, Via Roma",
+    "postalCode": "53017",
+    "addressLocality": "Radda In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.4867,
+        "lon": 11.37443
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 735666"
+    ],
+    "rating": ""
+}

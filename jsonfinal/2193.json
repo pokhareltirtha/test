@@ -1,0 +1,20 @@
+{
+    "name": "ENOTECA BARNI",
+    "description": "",
+    "address": "22, Via Francesco Ferrucci - 59100 Prato (PO)",
+    "streetAddress": "22, Via Francesco Ferrucci",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87681,
+        "lon": 11.1023
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 607845"
+    ],
+    "rating": ""
+}

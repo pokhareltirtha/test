@@ -1,0 +1,21 @@
+{
+    "name": "CIBRE'O",
+    "description": "",
+    "address": "8, Via Andrea Del Verrocchio - 50122 Firenze (FI)",
+    "streetAddress": "8, Via Andrea Del Verrocchio",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77106,
+        "lon": 11.26649
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2345853",
+        "055 2341100"
+    ],
+    "rating": "4.5"
+}

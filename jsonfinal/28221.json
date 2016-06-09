@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA CURVA",
+    "description": "Il Ristorante Pizzeria La Curva immerso nel verde delle colline di Casole Valsenio in via Senio, 110.",
+    "address": "110, V. Senio - 48032 Casola Valsenio (RA)",
+    "streetAddress": "110, V. Senio",
+    "postalCode": "48032",
+    "addressLocality": "Casola Valsenio",
+    "addressRegion": "(RA)",
+    "coordinates": {
+        "lat": 44.24316,
+        "lon": 11.65074
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 73612",
+        "329 5462224"
+    ],
+    "rating": ""
+}

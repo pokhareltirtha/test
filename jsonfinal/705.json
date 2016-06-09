@@ -1,0 +1,22 @@
+{
+    "name": "'O MUNACIELLO RISTORANTE PIZZERIA",
+    "description": "Nel nostro ristorante pizzeria 'O Munaciello potrete gustare piatti tipicamente napoletani e pizze cotte nel forno a legna a Firenze.",
+    "address": "31/33r, V. Maffia - 50125 Firenze (FI)",
+    "streetAddress": "31/33r, V. Maffia",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76759,
+        "lon": 11.24651
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "392 6373963",
+        "055 287198"
+    ],
+    "rating": ""
+}

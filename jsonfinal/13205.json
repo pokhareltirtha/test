@@ -1,0 +1,20 @@
+{
+    "name": "IL CASTELLUCCIO",
+    "description": "",
+    "address": "Via Ariano - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "Via Ariano",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.98732,
+        "lon": 11.22559
+    },
+    "categories": [
+        "Agriturismo"
+    ],
+    "telephone": [
+        "055 8420772"
+    ],
+    "rating": ""
+}

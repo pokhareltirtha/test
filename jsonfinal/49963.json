@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA PORTONE PUB",
+    "description": "",
+    "address": "5, Piazza Del Teatro - 56025 Pontedera (PI)",
+    "streetAddress": "5, Piazza Del Teatro",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66426,
+        "lon": 10.63879
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 53933"
+    ],
+    "rating": ""
+}

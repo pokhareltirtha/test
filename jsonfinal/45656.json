@@ -1,0 +1,20 @@
+{
+    "name": "LO SCOGLIO",
+    "description": "",
+    "address": "45, Viale Leonardo Da Vinci - 56028 San Miniato (PI)",
+    "streetAddress": "45, Viale Leonardo Da Vinci",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70343,
+        "lon": 10.78572
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 35446"
+    ],
+    "rating": ""
+}

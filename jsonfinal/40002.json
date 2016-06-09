@@ -1,0 +1,20 @@
+{
+    "name": "E.P S.R.L.",
+    "description": "",
+    "address": "5, Via Fontevivo - 56028 San Miniato (PI)",
+    "streetAddress": "5, Via Fontevivo",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.68958,
+        "lon": 10.85166
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 418014"
+    ],
+    "rating": ""
+}

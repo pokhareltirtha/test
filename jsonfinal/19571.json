@@ -1,0 +1,21 @@
+{
+    "name": "TERRAZZA BRUNELLESCHI",
+    "description": "",
+    "address": "6, Piazza Dell Unita Italiana - 50123 Firenze (FI)",
+    "streetAddress": "6, Piazza Dell Unita Italiana",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77487,
+        "lon": 11.25103
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 23580",
+        "055 23588560"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "GASTRONOMIA&DESIGN G&D",
+    "description": "",
+    "address": "Via Di Capalle 41/A - 50041 Calenzano (FI)",
+    "streetAddress": "Via Di Capalle 41/A",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8523,
+        "lon": 11.14858
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "348 9108570"
+    ],
+    "rating": ""
+}

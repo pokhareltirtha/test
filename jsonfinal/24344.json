@@ -1,0 +1,21 @@
+{
+    "name": "LOCANDA DEL MORO S.R.L.",
+    "description": "",
+    "address": "69, Via Caverni Raffaello - 50056 Montelupo Fiorentino (FI)",
+    "streetAddress": "69, Via Caverni Raffaello",
+    "postalCode": "50056",
+    "addressLocality": "Montelupo Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73173,
+        "lon": 11.01962
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 518876",
+        "328 0964668"
+    ],
+    "rating": ""
+}

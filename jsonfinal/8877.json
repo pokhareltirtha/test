@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE MONTECRISTO",
+    "description": "",
+    "address": "Via Pistoiese 59 - 51016 Montecatini Terme (PT)",
+    "streetAddress": "Via Pistoiese 59",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87925,
+        "lon": 10.78485
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 910077",
+        "366 1863590"
+    ],
+    "rating": "5.0"
+}

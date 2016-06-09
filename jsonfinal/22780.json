@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DA MARIO DI CERONE MARIO",
+    "description": "",
+    "address": "945, Via Orlandini - 51015 Monsummano Terme (PT)",
+    "streetAddress": "945, Via Orlandini",
+    "postalCode": "51015",
+    "addressLocality": "Monsummano Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83518,
+        "lon": 10.84203
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 62101"
+    ],
+    "rating": ""
+}

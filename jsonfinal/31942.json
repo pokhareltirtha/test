@@ -1,0 +1,20 @@
+{
+    "name": "PARK HOTEL GALILEO",
+    "description": "Park Hotel Galileo in via Prulli 103/B a Reggello offre alberghi, ristorante e ricevimenti cerimonie.",
+    "address": "103/B, V. Prulli - 50066 Reggello (FI)",
+    "streetAddress": "103/B, V. Prulli",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.6497,
+        "lon": 11.46638
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 863341"
+    ],
+    "rating": ""
+}

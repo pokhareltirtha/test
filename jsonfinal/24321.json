@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LE GRAZIE",
+    "description": "Il Ristorante Pizzeria Le Grazie, ambiente confortevole con terrazza all'aperto, propone cucina classica e creativa, a Colle Val d'Elsa (SI) in v. Volterrana.",
+    "address": "41, V. Volterrana - 53034 Colle Di Val D'Elsa (SI)",
+    "streetAddress": "41, V. Volterrana",
+    "postalCode": "53034",
+    "addressLocality": "Colle Di Val D'Elsa",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.42024,
+        "lon": 11.10055
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 958065"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "TERMINAL BAR PIZZERIA",
+    "description": "",
+    "address": "98, Viale Petrarca Francesco - 50053 Empoli (FI)",
+    "streetAddress": "98, Viale Petrarca Francesco",
+    "postalCode": "50053",
+    "addressLocality": "Empoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72461,
+        "lon": 10.95572
+    },
+    "categories": [
+        "Pasticcerie e confetterie - vendita al dettaglio"
+    ],
+    "telephone": [
+        "0571 76688"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "NUMBER ONE SNC",
+    "description": "",
+    "address": "19, Viale Marconi Guglielmo - 51017 Pescia (PT)",
+    "streetAddress": "19, Viale Marconi Guglielmo",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8883,
+        "lon": 10.68777
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 445520",
+        "0572 444726"
+    ],
+    "rating": ""
+}

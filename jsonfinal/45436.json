@@ -1,0 +1,20 @@
+{
+    "name": "LEGNAIA",
+    "description": "",
+    "address": "180, Via Baccio Da Montelupo - 50142 Firenze (FI)",
+    "streetAddress": "180, Via Baccio Da Montelupo",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76555,
+        "lon": 11.18182
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 7358277"
+    ],
+    "rating": "5.0"
+}

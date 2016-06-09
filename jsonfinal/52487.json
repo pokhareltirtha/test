@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA IL FIANO",
+    "description": "",
+    "address": "94, Via Firenze - 50052 Fiano (FI)",
+    "streetAddress": "94, Via Firenze",
+    "postalCode": "50052",
+    "addressLocality": "Fiano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58941,
+        "lon": 11.11775
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 669029"
+    ],
+    "rating": "4.3"
+}

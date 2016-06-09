@@ -1,0 +1,20 @@
+{
+    "name": "ANTICA TRATTORIA LA PIAZZA - RISTORANTE",
+    "description": "L’Antica Trattoria La Piazza, a Monzuno località Montorio, il gusto e piacevolezza delle migliori specialità gastronomiche della cucina tradizionale bolognese.",
+    "address": "6, Loc. Montorio - 40036 Rioveggio (BO)",
+    "streetAddress": "6, Loc. Montorio",
+    "postalCode": "40036",
+    "addressLocality": "Rioveggio",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.25947,
+        "lon": 11.21045
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "051 6777644"
+    ],
+    "rating": "4.2"
+}

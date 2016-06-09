@@ -1,0 +1,20 @@
+{
+    "name": "CESTELLO RISTOCLUB",
+    "description": "",
+    "address": "8, Piazza Di Cestello - 50124 Firenze (FI)",
+    "streetAddress": "8, Piazza Di Cestello",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77047,
+        "lon": 11.24373
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2645364"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA DA ENFRY",
+    "description": "",
+    "address": "91, Via Locchi Vittorio - 50063 Figline Valdarno (FI)",
+    "streetAddress": "91, Via Locchi Vittorio",
+    "postalCode": "50063",
+    "addressLocality": "Figline Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.62132,
+        "lon": 11.47277
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 951837"
+    ],
+    "rating": ""
+}

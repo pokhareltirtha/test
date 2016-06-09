@@ -1,0 +1,20 @@
+{
+    "name": "IL GIARDINO RISTORANTE PIZZERIA",
+    "description": "",
+    "address": "24, Piazza Giusti - 51015 Monsummano Terme (PT)",
+    "streetAddress": "24, Piazza Giusti",
+    "postalCode": "51015",
+    "addressLocality": "Monsummano Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.87064,
+        "lon": 10.81402
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "335 7836654"
+    ],
+    "rating": ""
+}

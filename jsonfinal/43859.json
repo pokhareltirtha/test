@@ -1,0 +1,20 @@
+{
+    "name": "GEGRI SRLS",
+    "description": "",
+    "address": "27/R, Borgo S. Frediano - 50124 Firenze (FI)",
+    "streetAddress": "27/R, Borgo S. Frediano",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76958,
+        "lon": 11.24448
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 241288"
+    ],
+    "rating": ""
+}

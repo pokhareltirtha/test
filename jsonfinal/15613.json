@@ -1,0 +1,21 @@
+{
+    "name": "GUALTIERI SETTIMO",
+    "description": "",
+    "address": "Via Santa Lucia 5 - 50031 Monte Di Fò (FI)",
+    "streetAddress": "Via Santa Lucia 5",
+    "postalCode": "50031",
+    "addressLocality": "Monte Di Fò",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.07857,
+        "lon": 11.28017
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8423051",
+        "055 8423163"
+    ],
+    "rating": ""
+}

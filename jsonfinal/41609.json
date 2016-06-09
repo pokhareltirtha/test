@@ -1,0 +1,21 @@
+{
+    "name": "CASAFRASSI",
+    "description": "",
+    "address": "40, Localita Casafrassi - 53011 Castellina In Chianti (SI)",
+    "streetAddress": "40, Localita Casafrassi",
+    "postalCode": "53011",
+    "addressLocality": "Castellina In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.41808,
+        "lon": 11.30625
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 741240",
+        "0577 741300"
+    ],
+    "rating": ""
+}

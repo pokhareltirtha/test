@@ -1,0 +1,20 @@
+{
+    "name": "AZIENDA AGRICOLA BORGARUCCIO",
+    "description": "",
+    "address": "Via Del Molino, 122/124 - 56037 Peccioli (PI)",
+    "streetAddress": "Via Del Molino, 122/124",
+    "postalCode": "56037",
+    "addressLocality": "Peccioli",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.52949,
+        "lon": 10.71964
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 636037"
+    ],
+    "rating": ""
+}

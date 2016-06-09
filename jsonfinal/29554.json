@@ -1,0 +1,20 @@
+{
+    "name": "SALOON DA LELE",
+    "description": "",
+    "address": "14, Piazza Piave - 52018 Strada In Casentino (AR)",
+    "streetAddress": "14, Piazza Piave",
+    "postalCode": "52018",
+    "addressLocality": "Strada In Casentino",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.74179,
+        "lon": 11.70554
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 572782"
+    ],
+    "rating": ""
+}

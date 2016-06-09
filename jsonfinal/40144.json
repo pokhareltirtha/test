@@ -1,0 +1,20 @@
+{
+    "name": "MANZONI",
+    "description": "",
+    "address": "112, Corso Antonio Gramsci - 51100 Pistoia (PT)",
+    "streetAddress": "112, Corso Antonio Gramsci",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9327,
+        "lon": 10.91179
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 28101"
+    ],
+    "rating": "5.0"
+}

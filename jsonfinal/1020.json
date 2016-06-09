@@ -1,0 +1,21 @@
+{
+    "name": "IL CAVALLINO",
+    "description": "",
+    "address": "6, Via Delle Farine - 50122 Firenze (FI)",
+    "streetAddress": "6, Via Delle Farine",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77009,
+        "lon": 11.25607
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 215818"
+    ],
+    "rating": ""
+}

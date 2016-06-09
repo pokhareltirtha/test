@@ -1,0 +1,20 @@
+{
+    "name": "LUCI DELLA CITTÀ",
+    "description": "",
+    "address": "Via Del Cavallaccio, 36 - 50142 Firenze (FI)",
+    "streetAddress": "Via Del Cavallaccio, 36",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77309,
+        "lon": 11.19006
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 78771"
+    ],
+    "rating": ""
+}

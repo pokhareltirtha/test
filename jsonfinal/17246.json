@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE TRATTORIA IL LAGO",
+    "description": "",
+    "address": "22, Via Vecchia Di Le Mura - 50050 Montaione (FI)",
+    "streetAddress": "22, Via Vecchia Di Le Mura",
+    "postalCode": "50050",
+    "addressLocality": "Montaione",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.58372,
+        "lon": 10.87851
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 677168"
+    ],
+    "rating": ""
+}

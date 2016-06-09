@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA GROTTA S.N.C.",
+    "description": "",
+    "address": "35, Via Rio Magno - 56032 Buti (PI)",
+    "streetAddress": "35, Via Rio Magno",
+    "postalCode": "56032",
+    "addressLocality": "Buti",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.72665,
+        "lon": 10.5885
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 724660"
+    ],
+    "rating": "4.2"
+}

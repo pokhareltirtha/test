@@ -1,0 +1,20 @@
+{
+    "name": "AZIENDA AGRICOLA E AGRITURISTICA LA TORRACCIA",
+    "description": "L'Agriturismo La Torraccia offre percorsi naturalistici e piacevoli soggiorni nell'antico casale con torre medievale, a Camugnano (BO) in 72/b, v. Fiovenza.",
+    "address": "72/B, V. Fiovenza - 40032 Bargi (BO)",
+    "streetAddress": "72/B, V. Fiovenza",
+    "postalCode": "40032",
+    "addressLocality": "Bargi",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.12675,
+        "lon": 11.05786
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0534 43233"
+    ],
+    "rating": ""
+}

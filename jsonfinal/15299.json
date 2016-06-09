@@ -1,0 +1,20 @@
+{
+    "name": "SNACK SELF SERVICE MARCHETTI",
+    "description": "",
+    "address": "100, Via Calzaiuoli - 50122 Firenze (FI)",
+    "streetAddress": "100, Via Calzaiuoli",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77212,
+        "lon": 11.25533
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 210805"
+    ],
+    "rating": ""
+}

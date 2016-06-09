@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA CAFFE' ITALIANO",
+    "description": "",
+    "address": "11, Via Dell Isola Delle Stinche - 50122 Firenze (FI)",
+    "streetAddress": "11, Via Dell Isola Delle Stinche",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77002,
+        "lon": 11.26026
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 289080",
+        "055 289020"
+    ],
+    "rating": "4.0"
+}

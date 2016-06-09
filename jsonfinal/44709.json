@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA CASA DI CACCIA",
+    "description": "Il Ristorante La Casa di Caccia, a Barberino di Mugello, vi attende per proporvi deliziosi piatti con funghi, cacciagione, bistecche fiorentine e molto altro.",
+    "address": "17/19, V. Galliano - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "17/19, V. Galliano",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.0122,
+        "lon": 11.28745
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8428223",
+        "055 8407629"
+    ],
+    "rating": ""
+}

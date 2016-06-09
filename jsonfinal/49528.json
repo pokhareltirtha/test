@@ -1,0 +1,20 @@
+{
+    "name": "BAR PIZZERIA BABILONIA DI GIAGAB SNC",
+    "description": "",
+    "address": "385, Via Montalese - 59013 Fornacelle Di Montemurlo (PO)",
+    "streetAddress": "385, Via Montalese",
+    "postalCode": "59013",
+    "addressLocality": "Fornacelle Di Montemurlo",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.9244,
+        "lon": 11.04235
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "0574 680816"
+    ],
+    "rating": ""
+}

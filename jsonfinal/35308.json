@@ -1,0 +1,21 @@
+{
+    "name": "DA PESCATORE CASA DI CUCINA",
+    "description": "",
+    "address": "Piazza Del Carmine, 8 - 50124 Firenze (FI)",
+    "streetAddress": "Piazza Del Carmine, 8",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76861,
+        "lon": 11.24439
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 219978",
+        "055 2656595"
+    ],
+    "rating": ""
+}

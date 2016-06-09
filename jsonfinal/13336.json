@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA ANNA TREND",
+    "description": "Il Ristorante Pizzeria Anna Trend, è un punto di riferimento di Scarperia e San Piero, in provincia di Firenze che, nel 2004, ha vinto Premio Tortello.",
+    "address": "50, Vl. Kennedy - 50038 Scarperia E San Piero (FI)",
+    "streetAddress": "50, Vl. Kennedy",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia E San Piero",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.98584,
+        "lon": 11.33804
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 846219"
+    ],
+    "rating": ""
+}

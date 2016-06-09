@@ -1,0 +1,21 @@
+{
+    "name": "LA FAVOLA MIA",
+    "description": "",
+    "address": "75, Via Camillo Cavour - 51013 Chiesina Uzzanese (PT)",
+    "streetAddress": "75, Via Camillo Cavour",
+    "postalCode": "51013",
+    "addressLocality": "Chiesina Uzzanese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83752,
+        "lon": 10.72015
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 480168",
+        "0572 411405"
+    ],
+    "rating": "5.0"
+}

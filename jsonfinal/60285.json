@@ -1,0 +1,20 @@
+{
+    "name": "LA PIZZERIA",
+    "description": "",
+    "address": "115, Borgo Ognissanti - 50123 Firenze (FI)",
+    "streetAddress": "115, Borgo Ognissanti",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77422,
+        "lon": 11.24311
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 280873"
+    ],
+    "rating": ""
+}

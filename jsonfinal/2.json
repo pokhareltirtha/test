@@ -1,0 +1,22 @@
+{
+    "name": "ALBERGO RISTORANTE DA ARCHIMEDE",
+    "description": "Ristorante Archimede di Reggello (FI) in 68, loc. Pietrapiana, per gustare piatti tipici toscani come la ribollita, l'arrosto e grigliata mista e la fiorentina.",
+    "address": "68, Loc. Pietrapiana - 50066 Reggello (FI)",
+    "streetAddress": "68, Loc. Pietrapiana",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.69349,
+        "lon": 11.53616
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8667500",
+        "055 869055"
+    ],
+    "rating": ""
+}

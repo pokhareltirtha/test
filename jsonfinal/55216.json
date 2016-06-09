@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA AL CASTALDO",
+    "description": "La Pizzeria Al Castaldo a Lamporecchio (PT) offre ottime pizze cotte nel forno a legna e piatti tipici toscani.",
+    "address": "309, V. Provinciale Montalbano - 51035 Lamporecchio (PT)",
+    "streetAddress": "309, V. Provinciale Montalbano",
+    "postalCode": "51035",
+    "addressLocality": "Lamporecchio",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.82247,
+        "lon": 10.9252
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 81942"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "BAR RISTORANTE DA RENATA PIZZERIA - TAVOLA CALDA",
+    "description": "",
+    "address": "5, P. Matteotti - 56029 Santa Croce Sull'Arno (PI)",
+    "streetAddress": "5, P. Matteotti",
+    "postalCode": "56029",
+    "addressLocality": "Santa Croce Sull'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.7104,
+        "lon": 10.78033
+    },
+    "categories": [
+        "Ristoranti - self service e fast food"
+    ],
+    "telephone": [
+        "0571 30020",
+        "0571 30128"
+    ],
+    "rating": ""
+}

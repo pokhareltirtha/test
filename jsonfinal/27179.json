@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA STADIO",
+    "description": "",
+    "address": "Viale Manfredo Fanti 3 - 50137 Firenze (FI)",
+    "streetAddress": "Viale Manfredo Fanti 3",
+    "postalCode": "50137",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78073,
+        "lon": 11.28122
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 577053"
+    ],
+    "rating": ""
+}

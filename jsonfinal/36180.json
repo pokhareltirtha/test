@@ -1,0 +1,20 @@
+{
+    "name": "LA VALLE",
+    "description": "",
+    "address": "58, Via Val Di Bisenzio - 59100 Prato (PO)",
+    "streetAddress": "58, Via Val Di Bisenzio",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.88167,
+        "lon": 11.09743
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 984042"
+    ],
+    "rating": ""
+}

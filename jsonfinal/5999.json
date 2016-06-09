@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA IL GALLO GIALLO",
+    "description": "L'Osteria Il Gallo Giallo è nata da un desiderio maturato fin dagli anni dell'adolescenza. Per ritrovare i sapori e le atmosfere delle campagne di un tempo, Lucia e suo marito hanno creato un'osteria ...",
+    "address": "50/A, V. Grevigiana - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": "50/A, V. Grevigiana",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.64837,
+        "lon": 11.20711
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8290252"
+    ],
+    "rating": ""
+}

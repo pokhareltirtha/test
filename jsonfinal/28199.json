@@ -1,0 +1,20 @@
+{
+    "name": "DAMODE'",
+    "description": "",
+    "address": "5, Via Sillaro - 40050 Monterenzio (BO)",
+    "streetAddress": "5, Via Sillaro",
+    "postalCode": "40050",
+    "addressLocality": "Monterenzio",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.32023,
+        "lon": 11.48429
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "051 929532"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "AMERICA GRAFFITI",
+    "description": "",
+    "address": "46, Via Biscolla - 51010 Massa E Cozzile (PT)",
+    "streetAddress": "46, Via Biscolla",
+    "postalCode": "51010",
+    "addressLocality": "Massa E Cozzile",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86332,
+        "lon": 10.76648
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 771464"
+    ],
+    "rating": ""
+}

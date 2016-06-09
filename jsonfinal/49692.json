@@ -1,0 +1,20 @@
+{
+    "name": "PLANET PIZZERIA",
+    "description": "",
+    "address": "382, Viale Adua - 51100 Pistoia (PT)",
+    "streetAddress": "382, Viale Adua",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.94806,
+        "lon": 10.90082
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 903553"
+    ],
+    "rating": ""
+}

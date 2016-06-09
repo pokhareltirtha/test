@@ -1,0 +1,20 @@
+{
+    "name": "RESIDENCE RISTORANTE CORTE TOMMASI",
+    "description": "Appena si giunge a Corte Tommasi si rimane incantati dalla bellezza della natura circostante e dal senso di tranquillità e pace che vi regna.",
+    "address": "56/C, V. Giovanni XXIII - 56022 Orentano (PI)",
+    "streetAddress": "56/C, V. Giovanni XXIII",
+    "postalCode": "56022",
+    "addressLocality": "Orentano",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.77476,
+        "lon": 10.65692
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 23332"
+    ],
+    "rating": ""
+}

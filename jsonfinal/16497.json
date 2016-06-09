@@ -1,0 +1,20 @@
+{
+    "name": "I GIGIONI",
+    "description": "",
+    "address": "122, Via Leccio - 55016 Porcari (LU)",
+    "streetAddress": "122, Via Leccio",
+    "postalCode": "55016",
+    "addressLocality": "Porcari",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81344,
+        "lon": 10.62366
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 297744"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LOCANDA LA CONTEA",
+    "description": "",
+    "address": "38, Via Roma - 40045 Molino Del Pallone (BO)",
+    "streetAddress": "38, Via Roma",
+    "postalCode": "40045",
+    "addressLocality": "Molino Del Pallone",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.10032,
+        "lon": 10.96099
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "340 5751142"
+    ],
+    "rating": ""
+}

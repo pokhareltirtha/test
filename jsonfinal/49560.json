@@ -1,0 +1,21 @@
+{
+    "name": "QUELLI DELLA NOTTE",
+    "description": "",
+    "address": "40, Via Marco Polo - 56031 Bientina (PI)",
+    "streetAddress": "40, Via Marco Polo",
+    "postalCode": "56031",
+    "addressLocality": "Bientina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70647,
+        "lon": 10.6184
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "393 1474068",
+        "0587 755533"
+    ],
+    "rating": ""
+}

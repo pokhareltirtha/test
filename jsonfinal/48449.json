@@ -1,0 +1,20 @@
+{
+    "name": "DAVID",
+    "description": "",
+    "address": "95, Via Della Rondinella - 50135 Firenze (FI)",
+    "streetAddress": "95, Via Della Rondinella",
+    "postalCode": "50135",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7753,
+        "lon": 11.29199
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 604565"
+    ],
+    "rating": "4.7"
+}

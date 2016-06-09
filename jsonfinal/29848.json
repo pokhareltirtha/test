@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE APEL BAR",
+    "description": "",
+    "address": "145/A, Localita' Levanella - 52025 Levanella (AR)",
+    "streetAddress": "145/A, Localita' Levanella",
+    "postalCode": "52025",
+    "addressLocality": "Levanella",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.50999,
+        "lon": 11.59763
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9789492"
+    ],
+    "rating": ""
+}

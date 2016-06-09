@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA PIZZA AL TAGLIO, DA ASPORTO, A DOMICILIO",
+    "description": "",
+    "address": "162-164/R, V. Senese - Galluzzo - 50124 Firenze (FI)",
+    "streetAddress": "162-164/R, V. Senese - Galluzzo",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.73699,
+        "lon": 11.22471
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "055 2477085"
+    ],
+    "rating": ""
+}

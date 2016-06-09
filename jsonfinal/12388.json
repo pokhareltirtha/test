@@ -1,0 +1,20 @@
+{
+    "name": "GIRODIBACCO",
+    "description": "",
+    "address": "Localita Cafaggiolo - 50031 Barberino Di Mugello (FI)",
+    "streetAddress": "Localita Cafaggiolo",
+    "postalCode": "50031",
+    "addressLocality": "Barberino Di Mugello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.00666,
+        "lon": 11.23791
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8418173"
+    ],
+    "rating": "4.0"
+}

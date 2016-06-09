@@ -1,0 +1,20 @@
+{
+    "name": "IL GALLO NERO DI TAFI CRISTINA - PIZZERIA TRATTORIA",
+    "description": "",
+    "address": "12, Viale Duca D Aosta - 50051 Castelfiorentino (FI)",
+    "streetAddress": "12, Viale Duca D Aosta",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.6054,
+        "lon": 10.96574
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 1723331"
+    ],
+    "rating": ""
+}

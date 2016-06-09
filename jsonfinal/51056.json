@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LA ROCCA",
+    "description": "Pizzeria La Rocca si trova in v, Bologna, 174/a a Cantagallo (PO). Mangiare e bere bene, non basta, se non è condito da cordialità e simpatia. Venite a provare!",
+    "address": "174/A, V, Bologna - 59025 Carmignanello (PO)",
+    "streetAddress": "174/A, V, Bologna",
+    "postalCode": "59025",
+    "addressLocality": "Carmignanello",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.9992,
+        "lon": 11.141
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 982680"
+    ],
+    "rating": ""
+}

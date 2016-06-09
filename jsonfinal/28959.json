@@ -1,0 +1,20 @@
+{
+    "name": "RISTORO DI CAMBI",
+    "description": "",
+    "address": "1, Via Sant'Onofrio - 50124 Firenze (FI)",
+    "streetAddress": "1, Via Sant'Onofrio",
+    "postalCode": "50124",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77055,
+        "lon": 11.24193
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 217134"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PONTE NUOVO",
+    "description": "Il ristorante dove assaporare piatti di pesce e cacciagione...un ampio assortimento di primi e pizze cotte nel forno a legna a Tavarnelle Val di Pesa.",
+    "address": "11, V. Cassia - 50028 Tavarnelle Val Di Pesa (FI)",
+    "streetAddress": "11, V. Cassia",
+    "postalCode": "50028",
+    "addressLocality": "Tavarnelle Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.56275,
+        "lon": 11.17726
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "338 9769593",
+        "055 8070148"
+    ],
+    "rating": ""
+}

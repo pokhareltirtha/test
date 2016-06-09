@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CINESE NUOVA HONG KONG",
+    "description": "",
+    "address": "22, Piazza Garibaldi Giuseppe - 52025 Montevarchi (AR)",
+    "streetAddress": "22, Piazza Garibaldi Giuseppe",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.52104,
+        "lon": 11.56878
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 981592"
+    ],
+    "rating": ""
+}

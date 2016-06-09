@@ -1,0 +1,20 @@
+{
+    "name": "A CASA MIA",
+    "description": "",
+    "address": "5, Piazza Lorenzo Ghiberti - 50122 Firenze (FI)",
+    "streetAddress": "5, Piazza Lorenzo Ghiberti",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77024,
+        "lon": 11.26642
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2638223"
+    ],
+    "rating": "5.0"
+}

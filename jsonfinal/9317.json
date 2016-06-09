@@ -1,0 +1,21 @@
+{
+    "name": "SALE E PEPE",
+    "description": "",
+    "address": "10  V. Pratolini - Castelfranco Di Sotto (PI)",
+    "streetAddress": "10, V. Pratolini",
+    "postalCode": "",
+    "addressLocality": "Castelfranco Di Sotto",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.70025,
+        "lon": 10.74693
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "392 7798840",
+        "0571 479054"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "BAR LA VELETTA DI ROMANI ORNELLA",
+    "description": "",
+    "address": "5, Localita' La Veletta - 56032 Cascine (PI)",
+    "streetAddress": "5, Localita' La Veletta",
+    "postalCode": "56032",
+    "addressLocality": "Cascine",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.72304,
+        "lon": 10.60285
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "0587 723569"
+    ],
+    "rating": ""
+}

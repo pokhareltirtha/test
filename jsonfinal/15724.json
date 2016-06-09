@@ -1,0 +1,20 @@
+{
+    "name": "BAR FIERA DI RAFFREDDATO BEATRICE",
+    "description": "",
+    "address": "60, Via Fiera - 40035 Castiglione Dei Pepoli (BO)",
+    "streetAddress": "60, Via Fiera",
+    "postalCode": "40035",
+    "addressLocality": "Castiglione Dei Pepoli",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.14043,
+        "lon": 11.15637
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0534 91477"
+    ],
+    "rating": ""
+}

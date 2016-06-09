@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PALAZZO PRETORIO",
+    "description": "Il locale di Tavernelle Val di Pesa che prepara per i propri clienti menù sempre vari e prelibati.",
+    "address": "2/B, V. Baluardi - 50028 San Donato In Poggio (FI)",
+    "streetAddress": "2/B, V. Baluardi",
+    "postalCode": "50028",
+    "addressLocality": "San Donato In Poggio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.53537,
+        "lon": 11.23488
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8072928"
+    ],
+    "rating": "1.0"
+}

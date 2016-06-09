@@ -1,0 +1,20 @@
+{
+    "name": "LA PICCANTINA DI PAMELA MELIS",
+    "description": "",
+    "address": "141, Via Roma - 59100 Prato (PO)",
+    "streetAddress": "141, Via Roma",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.8697,
+        "lon": 11.08756
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0574 636981"
+    ],
+    "rating": ""
+}

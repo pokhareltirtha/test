@@ -1,0 +1,21 @@
+{
+    "name": "VIA VAI",
+    "description": "",
+    "address": "33, Via Pisana - 50143 Firenze (FI)",
+    "streetAddress": "33, Via Pisana",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7712,
+        "lon": 11.23647
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 223132"
+    ],
+    "rating": "3.9"
+}

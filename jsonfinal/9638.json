@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL BIVIO",
+    "description": "",
+    "address": "Via Provinciale Di Mercatale 309 - 50059 Mercatale (FI)",
+    "streetAddress": "Via Provinciale Di Mercatale 309",
+    "postalCode": "50059",
+    "addressLocality": "Mercatale",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74302,
+        "lon": 10.90145
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "344 0683001",
+        "0571 501984"
+    ],
+    "rating": ""
+}

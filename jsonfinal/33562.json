@@ -1,0 +1,20 @@
+{
+    "name": "I TREDICI GOBBI",
+    "description": "",
+    "address": "9, Via Del Porcellana - 50123 Firenze (FI)",
+    "streetAddress": "9, Via Del Porcellana",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77221,
+        "lon": 11.24667
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 284015"
+    ],
+    "rating": "4.5"
+}

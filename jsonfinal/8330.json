@@ -1,0 +1,21 @@
+{
+    "name": "VILLA NENCINI",
+    "description": "",
+    "address": "Borgo Santo Stefano 55 - 56048 Volterra (PI)",
+    "streetAddress": "Borgo Santo Stefano 55",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40509,
+        "lon": 10.85347
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 86386",
+        "0588 86571"
+    ],
+    "rating": ""
+}

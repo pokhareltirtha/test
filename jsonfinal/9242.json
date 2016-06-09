@@ -1,0 +1,20 @@
+{
+    "name": "LE FOLLIE RISTORANTE",
+    "description": "Il Ritornate Le Follie, a Pescia in Via Buonvicini, vi conquisterà con i suoi prelibati fritti dell’aia e tordelli con ragù medioevale.",
+    "address": "8, V. Buonvicini - 51017 Pescia (PT)",
+    "streetAddress": "8, V. Buonvicini",
+    "postalCode": "51017",
+    "addressLocality": "Pescia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90056,
+        "lon": 10.68834
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 7640478"
+    ],
+    "rating": ""
+}

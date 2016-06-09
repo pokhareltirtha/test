@@ -1,0 +1,20 @@
+{
+    "name": "FOSSO BANDITO",
+    "description": "",
+    "address": "2, Via Del Fosso Macinante - 50144 Firenze (FI)",
+    "streetAddress": "2, Via Del Fosso Macinante",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7779,
+        "lon": 11.2332
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 365500"
+    ],
+    "rating": ""
+}

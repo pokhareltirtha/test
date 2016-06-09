@@ -1,0 +1,21 @@
+{
+    "name": "LO SPIGO",
+    "description": "",
+    "address": "99, Via Pulica - 50056 La Villa (FI)",
+    "streetAddress": "99, Via Pulica",
+    "postalCode": "50056",
+    "addressLocality": "La Villa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.6976,
+        "lon": 11.04948
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 929111",
+        "0571 929134"
+    ],
+    "rating": "3.0"
+}

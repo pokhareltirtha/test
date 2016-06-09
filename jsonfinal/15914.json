@@ -1,0 +1,21 @@
+{
+    "name": "CAMST SOCIETA' COOPERATIVA A R.L.",
+    "description": "",
+    "address": "Snc, Via Fosso Vecchio - 56021 Cascina (PI)",
+    "streetAddress": "Snc, Via Fosso Vecchio",
+    "postalCode": "56021",
+    "addressLocality": "Cascina",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.6707,
+        "lon": 10.52645
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 769221",
+        "050 779199"
+    ],
+    "rating": ""
+}

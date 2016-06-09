@@ -1,0 +1,21 @@
+{
+    "name": "BREAK HOUSE CAFFE' RISTORANTE HOTEL",
+    "description": "",
+    "address": "148, Localita Della Penna - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "148, Localita Della Penna",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.55797,
+        "lon": 11.598
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9705424"
+    ],
+    "rating": ""
+}

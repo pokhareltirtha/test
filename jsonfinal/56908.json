@@ -1,0 +1,21 @@
+{
+    "name": "BAR PIZZERIA LEONARDO DEI F.LLI GIOVACCHINI SNC",
+    "description": "",
+    "address": "61, Viale Togliatti Palmiro - 50059 Vinci (FI)",
+    "streetAddress": "61, Viale Togliatti Palmiro",
+    "postalCode": "50059",
+    "addressLocality": "Vinci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72583,
+        "lon": 10.9437
+    },
+    "categories": [
+        "Bar e caffe'"
+    ],
+    "telephone": [
+        "0571 508764",
+        "0571 902745"
+    ],
+    "rating": ""
+}

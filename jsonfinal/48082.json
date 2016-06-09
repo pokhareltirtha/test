@@ -1,0 +1,20 @@
+{
+    "name": "LA GROTTA DEGLI ANGELI",
+    "description": "",
+    "address": "32, Via Roma - 50012 Bagno A Ripoli (FI)",
+    "streetAddress": "32, Via Roma",
+    "postalCode": "50012",
+    "addressLocality": "Bagno A Ripoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75356,
+        "lon": 11.31224
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 6510045"
+    ],
+    "rating": ""
+}

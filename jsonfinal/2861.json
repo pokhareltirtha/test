@@ -1,0 +1,22 @@
+{
+    "name": "LA GRIGLIA",
+    "description": "",
+    "address": "34, Via San Matteo - 53037 San Gimignano (SI)",
+    "streetAddress": "34, Via San Matteo",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46865,
+        "lon": 11.04262
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 942131",
+        "0577 940005"
+    ],
+    "rating": ""
+}

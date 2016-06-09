@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE EGISTO",
+    "description": "Il Ristorante Egisto di piazza Battisti, a Montecatini Terme, propone specialità tipiche toscane e prelibate pizze cotte nel forno a legna.",
+    "address": "13, P. Battisti - 51016 Montecatini Terme (PT)",
+    "streetAddress": "13, P. Battisti",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88255,
+        "lon": 10.766
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 78413"
+    ],
+    "rating": ""
+}

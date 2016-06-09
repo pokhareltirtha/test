@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA VOLPAIA",
+    "description": "",
+    "address": "2, Vicolo Della Torre - 53017 Volpaia (SI)",
+    "streetAddress": "2, Vicolo Della Torre",
+    "postalCode": "53017",
+    "addressLocality": "Volpaia",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.51661,
+        "lon": 11.38113
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 738066"
+    ],
+    "rating": ""
+}

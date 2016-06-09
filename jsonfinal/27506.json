@@ -1,0 +1,20 @@
+{
+    "name": "LA CASA ROSSA DI ROCCHINI LUCREZIA",
+    "description": "",
+    "address": "Provinciale Francesca - 50054 Fucecchio (FI)",
+    "streetAddress": "Provinciale Francesca",
+    "postalCode": "50054",
+    "addressLocality": "Fucecchio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.74026,
+        "lon": 10.8146
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 297088"
+    ],
+    "rating": ""
+}

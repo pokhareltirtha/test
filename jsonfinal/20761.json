@@ -1,0 +1,20 @@
+{
+    "name": "LA PECORA NERA",
+    "description": "",
+    "address": ", Localita Ricavo - 53011 Castellina In Chianti (SI)",
+    "streetAddress": ", Localita Ricavo",
+    "postalCode": "53011",
+    "addressLocality": "Castellina In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.49314,
+        "lon": 11.2648
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 740221"
+    ],
+    "rating": ""
+}

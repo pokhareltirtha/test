@@ -1,0 +1,20 @@
+{
+    "name": "SOLO TOSCANO",
+    "description": "",
+    "address": "22, Piazza Mercato Centrale - 50123 Firenze (FI)",
+    "streetAddress": "22, Piazza Mercato Centrale",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77669,
+        "lon": 11.2541
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 291541"
+    ],
+    "rating": ""
+}

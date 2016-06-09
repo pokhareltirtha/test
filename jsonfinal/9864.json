@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA L'ORCO",
+    "description": "Il Ristorante Pizzeria L'Orco è un locale in via Cipressi, a Poggibonsi, che propone piatti tipici toscani e prelibate pizze.",
+    "address": "1, V. Cipressi - 53036 Poggibonsi (SI)",
+    "streetAddress": "1, V. Cipressi",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46691,
+        "lon": 11.14062
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 936396",
+        "392 6668649"
+    ],
+    "rating": ""
+}

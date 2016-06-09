@@ -1,0 +1,20 @@
+{
+    "name": "CIAO",
+    "description": "",
+    "address": "291, Via Ginetta Chirici - 51100 Pistoia (PT)",
+    "streetAddress": "291, Via Ginetta Chirici",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93889,
+        "lon": 10.93626
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 450884"
+    ],
+    "rating": ""
+}

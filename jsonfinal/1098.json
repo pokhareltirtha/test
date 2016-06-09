@@ -1,0 +1,22 @@
+{
+    "name": "NEW FREE TIME",
+    "description": "Un locale di Borgo San Lorenzo (FI) per tutti coloro che desiderano assaggiare gli antichi sapori della cucina toscana in un'atmosfera elegante e familiare.",
+    "address": "30, Vl. Pecori Giraldi - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "30, Vl. Pecori Giraldi",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.95216,
+        "lon": 11.3923
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8494596",
+        "320 0922666"
+    ],
+    "rating": ""
+}

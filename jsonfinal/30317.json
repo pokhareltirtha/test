@@ -1,0 +1,20 @@
+{
+    "name": "IL VEGETARIANO",
+    "description": "",
+    "address": "30, Via Delle Ruote - 50129 Firenze (FI)",
+    "streetAddress": "30, Via Delle Ruote",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78078,
+        "lon": 11.25723
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 475030"
+    ],
+    "rating": "4.0"
+}

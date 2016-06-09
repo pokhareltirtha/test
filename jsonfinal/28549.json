@@ -1,0 +1,21 @@
+{
+    "name": "DAVID 2",
+    "description": "",
+    "address": "193, Via Aretina - 50136 Firenze (FI)",
+    "streetAddress": "193, Via Aretina",
+    "postalCode": "50136",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76661,
+        "lon": 11.311
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 8125426",
+        "055 691514"
+    ],
+    "rating": ""
+}

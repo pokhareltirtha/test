@@ -1,0 +1,20 @@
+{
+    "name": "ICHIBAN SUSHI WOK SAS",
+    "description": "",
+    "address": "20/A, Viale Lavagnini Spartaco - 50129 Firenze (FI)",
+    "streetAddress": "20/A, Viale Lavagnini Spartaco",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7833,
+        "lon": 11.25826
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 4684568"
+    ],
+    "rating": ""
+}

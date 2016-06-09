@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE DI TRAVALLE",
+    "description": "Il Ristorante di Travalle organizza nell'ampia sala banchetti a buffet, pranzi o cene di lavoro o per cerimonie in genere.",
+    "address": "10, V. Di Macia - 50041 Travalle (FI)",
+    "streetAddress": "10, V. Di Macia",
+    "postalCode": "50041",
+    "addressLocality": "Travalle",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.87643,
+        "lon": 11.15544
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8873303"
+    ],
+    "rating": "4.0"
+}

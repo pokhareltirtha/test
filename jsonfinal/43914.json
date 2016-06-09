@@ -1,0 +1,21 @@
+{
+    "name": "ROY G.E.I.E",
+    "description": "",
+    "address": "61, Traversa IL Purgatorio - 59100 Prato (PO)",
+    "streetAddress": "61, Traversa IL Purgatorio",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87126,
+        "lon": 11.08371
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 630763",
+        "377 2400472"
+    ],
+    "rating": ""
+}

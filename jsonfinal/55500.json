@@ -1,0 +1,20 @@
+{
+    "name": "BALLINI",
+    "description": "",
+    "address": "1227, Via Bolognese - 50036 Vaglia (FI)",
+    "streetAddress": "1227, Via Bolognese",
+    "postalCode": "50036",
+    "addressLocality": "Vaglia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.9075,
+        "lon": 11.28094
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 407910"
+    ],
+    "rating": ""
+}

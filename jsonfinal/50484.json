@@ -1,0 +1,20 @@
+{
+    "name": "LA PERLA",
+    "description": "",
+    "address": "57, Via Provinciale Lucchese - 51034 Stazione Masotti (PT)",
+    "streetAddress": "57, Via Provinciale Lucchese",
+    "postalCode": "51034",
+    "addressLocality": "Stazione Masotti",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.91097,
+        "lon": 10.85849
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 51638"
+    ],
+    "rating": "5.0"
+}

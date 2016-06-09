@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA IL TOSCANO",
+    "description": "Il Ristorante Pizzeria Il Toscano, a Serravalle Pistoiese in Via Montalbano, vi stupirà con la sua cordialità e buona cucina casareccia.",
+    "address": "112, V. Montalbano - 51034 Ponte Alla Stella (PT)",
+    "streetAddress": "112, V. Montalbano",
+    "postalCode": "51034",
+    "addressLocality": "Ponte Alla Stella",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86915,
+        "lon": 10.91915
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "338 2079321"
+    ],
+    "rating": ""
+}

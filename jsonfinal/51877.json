@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA IL GATTO E LA VOLPE DI DEL SORDO EUGENIO",
+    "description": "",
+    "address": "5, Via Fantozzi - 56012 Fornacette (PI)",
+    "streetAddress": "5, Via Fantozzi",
+    "postalCode": "56012",
+    "addressLocality": "Fornacette",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.67052,
+        "lon": 10.58607
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 421532"
+    ],
+    "rating": "4.5"
+}

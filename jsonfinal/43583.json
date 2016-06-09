@@ -1,0 +1,20 @@
+{
+    "name": "VITALI MARCO",
+    "description": "",
+    "address": "59, Via Confini - 50013 Campi Bisenzio (FI)",
+    "streetAddress": "59, Via Confini",
+    "postalCode": "50013",
+    "addressLocality": "Campi Bisenzio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83658,
+        "lon": 11.13196
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8952269"
+    ],
+    "rating": ""
+}

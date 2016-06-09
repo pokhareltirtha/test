@@ -1,0 +1,20 @@
+{
+    "name": "CAVEMARE",
+    "description": "",
+    "address": "18, Via Cave Di Maiano - 50014 Fiesole (FI)",
+    "streetAddress": "18, Via Cave Di Maiano",
+    "postalCode": "50014",
+    "addressLocality": "Fiesole",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79636,
+        "lon": 11.30732
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 599963"
+    ],
+    "rating": ""
+}

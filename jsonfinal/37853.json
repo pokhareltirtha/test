@@ -1,0 +1,21 @@
+{
+    "name": "BUCA LAPI",
+    "description": "",
+    "address": "1, Via Del Trebbio - 50123 Firenze (FI)",
+    "streetAddress": "1, Via Del Trebbio",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77289,
+        "lon": 11.25128
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 284862",
+        "055 213768"
+    ],
+    "rating": "5.0"
+}

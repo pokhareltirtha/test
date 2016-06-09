@@ -1,0 +1,20 @@
+{
+    "name": "CASAGRANDE",
+    "description": "",
+    "address": "3, Via Faentina - 50030 Vaglia (FI)",
+    "streetAddress": "3, Via Faentina",
+    "postalCode": "50030",
+    "addressLocality": "Vaglia",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.87073,
+        "lon": 11.34417
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 405000"
+    ],
+    "rating": ""
+}

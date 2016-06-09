@@ -1,0 +1,20 @@
+{
+    "name": "MIRKO",
+    "description": "",
+    "address": "83, Via Antonio Gramsci - 51035 Lamporecchio (PT)",
+    "streetAddress": "83, Via Antonio Gramsci",
+    "postalCode": "51035",
+    "addressLocality": "Lamporecchio",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8152,
+        "lon": 10.89549
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 82118"
+    ],
+    "rating": ""
+}

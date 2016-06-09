@@ -1,0 +1,20 @@
+{
+    "name": "IN VINO VERITAS",
+    "description": "",
+    "address": "11, Via Fermi - 52020 Laterina (AR)",
+    "streetAddress": "11, Via Fermi",
+    "postalCode": "52020",
+    "addressLocality": "Laterina",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.50818,
+        "lon": 11.71225
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 894791"
+    ],
+    "rating": ""
+}

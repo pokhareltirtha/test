@@ -1,0 +1,20 @@
+{
+    "name": "RIFLESSI",
+    "description": "",
+    "address": "86, Via Camillo Benso Cavour - 50129 Firenze (FI)",
+    "streetAddress": "86, Via Camillo Benso Cavour",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7808,
+        "lon": 11.26046
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 5522688"
+    ],
+    "rating": "3.5"
+}

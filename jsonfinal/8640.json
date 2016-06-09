@@ -1,0 +1,20 @@
+{
+    "name": "IL FALCHETTO",
+    "description": "",
+    "address": "4, Piazza Duomo - 56025 Pontedera (PI)",
+    "streetAddress": "4, Piazza Duomo",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66632,
+        "lon": 10.63835
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 52295"
+    ],
+    "rating": ""
+}

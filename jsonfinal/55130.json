@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA CHE DELIZIA  DI BONACCHI GIOVANNI",
+    "description": "",
+    "address": "6, Via Corrado Da Montemagno - 51039 Quarrata (PT)",
+    "streetAddress": "6, Via Corrado Da Montemagno",
+    "postalCode": "51039",
+    "addressLocality": "Quarrata",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8476,
+        "lon": 10.97859
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 774297"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "CONSORZIO AGRARIO DI SIENA",
+    "description": "",
+    "address": "13, Via XX Settembre - 53017 Radda In Chianti (SI)",
+    "streetAddress": "13, Via XX Settembre",
+    "postalCode": "53017",
+    "addressLocality": "Radda In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.48618,
+        "lon": 11.37404
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 230148"
+    ],
+    "rating": ""
+}

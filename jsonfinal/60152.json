@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LA GIOCONDA",
+    "description": "",
+    "address": "2, Via Degli Arcipressi - 50143 Firenze (FI)",
+    "streetAddress": "2, Via Degli Arcipressi",
+    "postalCode": "50143",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76633,
+        "lon": 11.21248
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "055 711800"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "L'ORTONE TRATTORIA",
+    "description": "",
+    "address": "87/R, Piazza Ghiberti Lorenzo - 50122 Firenze (FI)",
+    "streetAddress": "87/R, Piazza Ghiberti Lorenzo",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77063,
+        "lon": 11.26737
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2340804"
+    ],
+    "rating": ""
+}

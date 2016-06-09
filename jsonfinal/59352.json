@@ -1,0 +1,20 @@
+{
+    "name": "AMORE MIO PIZZA",
+    "description": "",
+    "address": ", Corso Dei Tintori - 50122 Firenze (FI)",
+    "streetAddress": ", Corso Dei Tintori",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76731,
+        "lon": 11.2605
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 242209"
+    ],
+    "rating": ""
+}

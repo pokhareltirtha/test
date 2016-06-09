@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL TUGURIO PIZZERIA PUB",
+    "description": "",
+    "address": "Via Marlianese 35 - 51030 Serravalle Pistoiese (PT)",
+    "streetAddress": "Via Marlianese 35",
+    "postalCode": "51030",
+    "addressLocality": "Serravalle Pistoiese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.9056,
+        "lon": 10.81879
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 51362",
+        "333 2133357"
+    ],
+    "rating": ""
+}

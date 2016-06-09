@@ -1,0 +1,20 @@
+{
+    "name": "ROSSOSAPORE - C/O CENTRO COMMERICALE I GIGLI",
+    "description": "",
+    "address": "165, Via San Quirico - 50013 Capalle (FI)",
+    "streetAddress": "165, Via San Quirico",
+    "postalCode": "50013",
+    "addressLocality": "Capalle",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84554,
+        "lon": 11.14372
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 898358"
+    ],
+    "rating": "4.0"
+}

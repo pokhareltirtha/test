@@ -1,0 +1,20 @@
+{
+    "name": "FARAONE RISTORANTE PIZZERIA",
+    "description": "",
+    "address": "34, Via Duccio Di Boninsegna - 53036 Poggibonsi (SI)",
+    "streetAddress": "34, Via Duccio Di Boninsegna",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.47449,
+        "lon": 11.13975
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0577 601203"
+    ],
+    "rating": ""
+}

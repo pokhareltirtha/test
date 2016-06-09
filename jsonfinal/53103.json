@@ -1,0 +1,20 @@
+{
+    "name": "PLANET PIZZA DI MOSCA MARCO",
+    "description": "",
+    "address": "42, Via Franceschini Baldassarre - 50142 Firenze (FI)",
+    "streetAddress": "42, Via Franceschini Baldassarre",
+    "postalCode": "50142",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77272,
+        "lon": 11.21842
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 715005"
+    ],
+    "rating": ""
+}

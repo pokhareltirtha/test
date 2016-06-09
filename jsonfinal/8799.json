@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE DA ENRICO DI MARRUCCI ROSSELLA",
+    "description": "",
+    "address": "5, Piazza L.Tronchetti - 56032 Cascine (PI)",
+    "streetAddress": "5, Piazza L.Tronchetti",
+    "postalCode": "56032",
+    "addressLocality": "Cascine",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.72252,
+        "lon": 10.61666
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 489766"
+    ],
+    "rating": ""
+}

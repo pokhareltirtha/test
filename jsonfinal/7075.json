@@ -1,0 +1,21 @@
+{
+    "name": "VILLA AZALEE",
+    "description": "",
+    "address": "44, Viale Fratelli Rosselli - 50123 Firenze (FI)",
+    "streetAddress": "44, Viale Fratelli Rosselli",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77852,
+        "lon": 11.24154
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 284331",
+        "055 214242"
+    ],
+    "rating": ""
+}

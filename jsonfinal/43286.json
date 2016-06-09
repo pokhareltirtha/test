@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE SOLE ROSSO S.N.C. DI HU CHUNLEI & C.",
+    "description": "",
+    "address": "27, Via Del Pratignone - 50041 Calenzano (FI)",
+    "streetAddress": "27, Via Del Pratignone",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85079,
+        "lon": 11.16332
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "338 3196630",
+        "055 8873345"
+    ],
+    "rating": "3.4"
+}

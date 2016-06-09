@@ -1,0 +1,21 @@
+{
+    "name": "MERCATO CENTRALE",
+    "description": "",
+    "address": "Piazza Del Mercato Centrale - 50123 Firenze (FI)",
+    "streetAddress": "Piazza Del Mercato Centrale",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77678,
+        "lon": 11.25392
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2657424",
+        "055 2741150"
+    ],
+    "rating": ""
+}

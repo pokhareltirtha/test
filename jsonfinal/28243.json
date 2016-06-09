@@ -1,0 +1,20 @@
+{
+    "name": "MONTE BUSCA",
+    "description": "",
+    "address": "Monte Busca - 47019 Tredozio (FC)",
+    "streetAddress": "Monte Busca",
+    "postalCode": "47019",
+    "addressLocality": "Tredozio",
+    "addressRegion": "(FC)",
+    "coordinates": {
+        "lat": 44.05396,
+        "lon": 11.77237
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0546 943941"
+    ],
+    "rating": ""
+}

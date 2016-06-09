@@ -1,0 +1,21 @@
+{
+    "name": "PAOLI SIMONE",
+    "description": "",
+    "address": "29, Via Donizetti Gaetano - 50018 Scandicci (FI)",
+    "streetAddress": "29, Via Donizetti Gaetano",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76236,
+        "lon": 11.17444
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "328 6621909",
+        "339 6895929"
+    ],
+    "rating": ""
+}

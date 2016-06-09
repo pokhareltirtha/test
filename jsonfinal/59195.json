@@ -1,0 +1,20 @@
+{
+    "name": "RUNNER PIZZA",
+    "description": "Da oltre 12 anni a Firenze, sforniamo ottime pizze, gustosi primi, fritti sfiziosi, fresche insalate e molto altro ancora.",
+    "address": "101, V. Indicatorio - 50058 Signa (FI)",
+    "streetAddress": "101, V. Indicatorio",
+    "postalCode": "50058",
+    "addressLocality": "Signa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80571,
+        "lon": 11.1161
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 333333"
+    ],
+    "rating": ""
+}

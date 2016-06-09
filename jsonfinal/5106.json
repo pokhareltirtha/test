@@ -1,0 +1,20 @@
+{
+    "name": "PREDELLINI RICCARDO",
+    "description": "",
+    "address": "17/R, Via Dello Sprone - 50125 Firenze (FI)",
+    "streetAddress": "17/R, Via Dello Sprone",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76743,
+        "lon": 11.25037
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 219508"
+    ],
+    "rating": ""
+}

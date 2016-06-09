@@ -1,0 +1,20 @@
+{
+    "name": "ANTICA PIZZERIA NUTI",
+    "description": "",
+    "address": "Via Borgo San Lorenzo 39 - 50123 Firenze (FI)",
+    "streetAddress": "Via Borgo San Lorenzo 39",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77493,
+        "lon": 11.25506
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 210410"
+    ],
+    "rating": ""
+}

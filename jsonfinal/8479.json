@@ -1,0 +1,20 @@
+{
+    "name": "LA TERRAZZA",
+    "description": "",
+    "address": "50, Viale Giacomo Matteotti - 50025 Montespertoli (FI)",
+    "streetAddress": "50, Viale Giacomo Matteotti",
+    "postalCode": "50025",
+    "addressLocality": "Montespertoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.64276,
+        "lon": 11.07649
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 608055"
+    ],
+    "rating": ""
+}

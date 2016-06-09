@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL POMODORO",
+    "description": "",
+    "address": "6, Via G. De Chirico - 56037 Peccioli (PI)",
+    "streetAddress": "6, Via G. De Chirico",
+    "postalCode": "56037",
+    "addressLocality": "Peccioli",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.55444,
+        "lon": 10.7123
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 635422"
+    ],
+    "rating": ""
+}

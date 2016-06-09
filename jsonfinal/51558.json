@@ -1,0 +1,20 @@
+{
+    "name": "MOTO PERPETUO",
+    "description": "",
+    "address": "17, Via Aleardi A. - 50018 Scandicci (FI)",
+    "streetAddress": "17, Via Aleardi A.",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.75465,
+        "lon": 11.18831
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2579878"
+    ],
+    "rating": ""
+}

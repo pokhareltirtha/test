@@ -1,0 +1,20 @@
+{
+    "name": "LE GEMELLE",
+    "description": "",
+    "address": "38, Via Roma - 56011 Calci (PI)",
+    "streetAddress": "38, Via Roma",
+    "postalCode": "56011",
+    "addressLocality": "Calci",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.72574,
+        "lon": 10.51471
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "050 938521"
+    ],
+    "rating": ""
+}

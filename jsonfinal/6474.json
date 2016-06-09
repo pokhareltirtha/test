@@ -1,0 +1,21 @@
+{
+    "name": "ART CAFFE' - BAR PUNTO PRANZO",
+    "description": "Il bar dove ogni giorno accogliamo la nostra clientela con un ottimo caffè ed una gustosissima colazione a Firenze (FI).",
+    "address": "3, V. Lombroso - 50134 Firenze (FI)",
+    "streetAddress": "3, V. Lombroso",
+    "postalCode": "50134",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79684,
+        "lon": 11.24281
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 2895222",
+        "055 5275056"
+    ],
+    "rating": "4.0"
+}

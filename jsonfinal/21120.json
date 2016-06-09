@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE OSTERIA IL CASOLARE",
+    "description": "",
+    "address": "111, V. Persignano - 52028 Terranuova Bracciolini (AR)",
+    "streetAddress": "111, V. Persignano",
+    "postalCode": "52028",
+    "addressLocality": "Terranuova Bracciolini",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.57885,
+        "lon": 11.53564
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 969390"
+    ],
+    "rating": ""
+}

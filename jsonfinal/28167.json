@@ -1,0 +1,20 @@
+{
+    "name": "ANTICO RISTORO PIATTIEFAGOTTI",
+    "description": "L’Antico Ristoro Piatti e Fagotti è un ristorante che propone piatti tipici toscani a Fiesole.",
+    "address": "3/9/11, V. Fontanelle - 50014 San Domenico (FI)",
+    "streetAddress": "3/9/11, V. Fontanelle",
+    "postalCode": "50014",
+    "addressLocality": "San Domenico",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79902,
+        "lon": 11.29346
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 5276764"
+    ],
+    "rating": ""
+}

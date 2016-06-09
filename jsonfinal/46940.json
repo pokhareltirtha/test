@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA IT CIAMPARINI CORRADO",
+    "description": "",
+    "address": "20, Via Roma - 53013 Gaiole In Chianti (SI)",
+    "streetAddress": "20, Via Roma",
+    "postalCode": "53013",
+    "addressLocality": "Gaiole In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46948,
+        "lon": 11.4334
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 744069"
+    ],
+    "rating": ""
+}

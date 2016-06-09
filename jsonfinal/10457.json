@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE TRATTORIA IL BARRINO",
+    "description": "L´Antica Trattoria \"Il Barrino\" dal 1927 delizia i palati piú raffinati con una cucina toscana d´eccellenza. La scelta degli ingredienti, tutti provenienti dalle migliori fattorie del territorio, è cu...",
+    "address": "71/R, V. Gioberti - 50121 Firenze (FI)",
+    "streetAddress": "71/R, V. Gioberti",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77031,
+        "lon": 11.2747
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 660565"
+    ],
+    "rating": "4.3"
+}

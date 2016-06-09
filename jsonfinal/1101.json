@@ -1,0 +1,22 @@
+{
+    "name": "LA VERANDA DI CAMPAGNA",
+    "description": "",
+    "address": "21, Via Di Prato - 50041 Calenzano (FI)",
+    "streetAddress": "21, Via Di Prato",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.85762,
+        "lon": 11.1472
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8879197",
+        "055 8810637"
+    ],
+    "rating": "3.3"
+}

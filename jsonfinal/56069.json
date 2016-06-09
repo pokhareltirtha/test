@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA TOTO'",
+    "description": "",
+    "address": "16/R, Via S. Elisabetta - 50122 Firenze (FI)",
+    "streetAddress": "16/R, Via S. Elisabetta",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77211,
+        "lon": 11.25604
+    },
+    "categories": [
+        "Gastronomie, salumerie e rosticcerie"
+    ],
+    "telephone": [
+        "055 285595"
+    ],
+    "rating": ""
+}

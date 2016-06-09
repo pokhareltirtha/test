@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE CANTINETTA DEL NONNO",
+    "description": "La cucina antica come lo è l'arte della ristorazione a San Casciano in Val di Pesa in provincia di Firenze.",
+    "address": "18, V. IV Novembre - 50026 San Casciano In Val Di Pesa (FI)",
+    "streetAddress": "18, V. IV Novembre",
+    "postalCode": "50026",
+    "addressLocality": "San Casciano In Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.65805,
+        "lon": 11.18768
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 820570"
+    ],
+    "rating": "4.0"
+}

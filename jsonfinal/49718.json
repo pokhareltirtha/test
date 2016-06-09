@@ -1,0 +1,20 @@
+{
+    "name": "NICKY PIZZA DI DEL RY ROBERTA",
+    "description": "",
+    "address": "11, Via Vittorio Veneto - 56025 Pontedera (PI)",
+    "streetAddress": "11, Via Vittorio Veneto",
+    "postalCode": "56025",
+    "addressLocality": "Pontedera",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.66373,
+        "lon": 10.64143
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0587 213680"
+    ],
+    "rating": "4.0"
+}

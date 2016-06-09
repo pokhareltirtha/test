@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PONTE ROSSO",
+    "description": "Vi aspetta nei suoi locali per farvi degustare le vere specialità della cucina toscana e la loro buonissima pizza. A Figline Valdarno (FI).",
+    "address": "5, V. Ponterosso - 50063 Figline Valdarno (FI)",
+    "streetAddress": "5, V. Ponterosso",
+    "postalCode": "50063",
+    "addressLocality": "Figline Valdarno",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.62335,
+        "lon": 11.46416
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9544180"
+    ],
+    "rating": ""
+}

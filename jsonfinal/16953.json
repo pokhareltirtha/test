@@ -1,0 +1,20 @@
+{
+    "name": "GAZZANELLI MARZIA",
+    "description": "",
+    "address": "14, Via Guarnacci - 56048 Volterra (PI)",
+    "streetAddress": "14, Via Guarnacci",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.40303,
+        "lon": 10.8613
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 88155"
+    ],
+    "rating": ""
+}

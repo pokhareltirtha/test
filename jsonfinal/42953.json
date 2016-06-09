@@ -1,0 +1,20 @@
+{
+    "name": "CIAPPI GABRIELLA",
+    "description": "",
+    "address": "1/R, Borgo Ognissanti - 50123 Firenze (FI)",
+    "streetAddress": "1/R, Borgo Ognissanti",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77121,
+        "lon": 11.24749
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2670461"
+    ],
+    "rating": ""
+}

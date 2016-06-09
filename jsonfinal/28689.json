@@ -1,0 +1,20 @@
+{
+    "name": "TRATTORIA DI SORDO",
+    "description": "",
+    "address": "172, Via Vincenzo Gioberti - 50121 Firenze (FI)",
+    "streetAddress": "172, Via Vincenzo Gioberti",
+    "postalCode": "50121",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7706,
+        "lon": 11.27155
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 245634"
+    ],
+    "rating": ""
+}

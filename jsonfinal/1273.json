@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE SENZA NOME",
+    "description": "Il Ristorante Pizzeria Senza Nome, da 10 anni, soddisfa i palati più esigenti con specialità tipiche toscane, calabresi e lucane. La passione per la cucina e per la pizza spinge i titolari a migliorar...",
+    "address": "43/45r, V. Doni - 50144 Firenze (FI)",
+    "streetAddress": "43/45r, V. Doni",
+    "postalCode": "50144",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7872,
+        "lon": 11.23395
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 350696"
+    ],
+    "rating": "4.0"
+}

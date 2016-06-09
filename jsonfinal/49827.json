@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA DA VIRGILIO",
+    "description": "",
+    "address": "6, Via Tirso - 59100 Prato (PO)",
+    "streetAddress": "6, Via Tirso",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.89853,
+        "lon": 11.08951
+    },
+    "categories": [
+        "Associazioni artistiche, culturali e ricreative"
+    ],
+    "telephone": [
+        "0574 465265"
+    ],
+    "rating": ""
+}

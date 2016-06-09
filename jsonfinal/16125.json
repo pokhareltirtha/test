@@ -1,0 +1,20 @@
+{
+    "name": "BAR RISTORANTE ARTEGRAPPE",
+    "description": "",
+    "address": "4, Piazza Del Popolo - 56037 Peccioli (PI)",
+    "streetAddress": "4, Piazza Del Popolo",
+    "postalCode": "56037",
+    "addressLocality": "Peccioli",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.54795,
+        "lon": 10.72086
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 670154"
+    ],
+    "rating": ""
+}

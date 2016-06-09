@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA LUNA ROSSA DI SIMEOLI VINCENZO & C.",
+    "description": "",
+    "address": "51100 Pistoia (PT)",
+    "streetAddress": "",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92931,
+        "lon": 10.9147
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 34267"
+    ],
+    "rating": ""
+}

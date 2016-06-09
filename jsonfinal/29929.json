@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA BIZIGHELLO",
+    "description": "Il Bizighello è un ristorante pub che offre specialità toscane ed organizza feste ed eventi a Bibbiena (AR), in via della Falcetorta 8/b.",
+    "address": "8/B, V. Della Falcetorta - 52011 Soci (AR)",
+    "streetAddress": "8/B, V. Della Falcetorta",
+    "postalCode": "52011",
+    "addressLocality": "Soci",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.73659,
+        "lon": 11.8085
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 560325",
+        "347 6633715"
+    ],
+    "rating": ""
+}

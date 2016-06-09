@@ -1,0 +1,21 @@
+{
+    "name": "THE DINER",
+    "description": "",
+    "address": "Via Dell' Acqua 2/3 - 50122 Firenze (FI)",
+    "streetAddress": "Via Dell' Acqua 2/3",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76988,
+        "lon": 11.25862
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 284170",
+        "055 290748"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "LA CASTELLANA",
+    "description": "",
+    "address": "2, Via Montefiorale - 50022 Greve In Chianti (FI)",
+    "streetAddress": "2, Via Montefiorale",
+    "postalCode": "50022",
+    "addressLocality": "Greve In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.5826,
+        "lon": 11.30808
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 853134",
+        "339 6242866"
+    ],
+    "rating": ""
+}

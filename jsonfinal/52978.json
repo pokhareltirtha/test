@@ -1,0 +1,20 @@
+{
+    "name": "DIVINA MARGHERITA PIZZA",
+    "description": "Divina Margherita Pizza, la vera pizza napoletana realizzata con prodotti freschi e genuini a Firenze.",
+    "address": "13/R, V. Milanesi (C/O Stazione Statuto) - 50134 Firenze (FI)",
+    "streetAddress": "13/R, V. Milanesi (C/O Stazione Statuto)",
+    "postalCode": "50134",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78915,
+        "lon": 11.24595
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "377 1904588"
+    ],
+    "rating": ""
+}

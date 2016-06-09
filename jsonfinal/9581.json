@@ -1,0 +1,22 @@
+{
+    "name": "RISTORANTE PIZZERIA AL SOLITO POSTO",
+    "description": "Il Ristorante Pizzeria Al Solito Posto di Ponte Buggianese propone i deliziosi piatti della cucina toscana e strepitose pizze cotte nel forno a legna.",
+    "address": "42, V. Puccini - 51019 Ponte Buggianese (PT)",
+    "streetAddress": "42, V. Puccini",
+    "postalCode": "51019",
+    "addressLocality": "Ponte Buggianese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.84174,
+        "lon": 10.74891
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 930151",
+        "347 5783295"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "BENVENUTI",
+    "description": "",
+    "address": "9, Via Roma - 40050 Loiano (BO)",
+    "streetAddress": "9, Via Roma",
+    "postalCode": "40050",
+    "addressLocality": "Loiano",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.26775,
+        "lon": 11.32422
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "051 6544800",
+        "051 6544587"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "I CAVALLACCI S.A.S.",
+    "description": "",
+    "address": "3, Viale Moro Aldo - 50023 Impruneta (FI)",
+    "streetAddress": "3, Viale Moro Aldo",
+    "postalCode": "50023",
+    "addressLocality": "Impruneta",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.68829,
+        "lon": 11.25214
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2312389"
+    ],
+    "rating": ""
+}

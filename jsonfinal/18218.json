@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA \"LA BOTTE\"",
+    "description": "",
+    "address": "Via Del Sergente, 6 - 53019 Vagliagli (SI)",
+    "streetAddress": "Via Del Sergente, 6",
+    "postalCode": "53019",
+    "addressLocality": "Vagliagli",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.4218,
+        "lon": 11.34778
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "340 5949790",
+        "0577 322779"
+    ],
+    "rating": ""
+}

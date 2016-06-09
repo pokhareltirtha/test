@@ -1,0 +1,21 @@
+{
+    "name": "LA CANTINA DI PINOCCHIO",
+    "description": "",
+    "address": "2, Via Benvenuto Pasquinelli - 51012 Collodi (PT)",
+    "streetAddress": "2, Via Benvenuto Pasquinelli",
+    "postalCode": "51012",
+    "addressLocality": "Collodi",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.89774,
+        "lon": 10.65335
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 451040",
+        "0572 428634"
+    ],
+    "rating": ""
+}

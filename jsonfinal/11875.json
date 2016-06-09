@@ -1,0 +1,21 @@
+{
+    "name": "LE FONTANELLE",
+    "description": "",
+    "address": "7, Via Traversa Del Crocifisso - 59100 Prato (PO)",
+    "streetAddress": "7, Via Traversa Del Crocifisso",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.84611,
+        "lon": 11.06733
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 623692",
+        "0574 735642"
+    ],
+    "rating": ""
+}

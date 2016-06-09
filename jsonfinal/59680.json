@@ -1,0 +1,21 @@
+{
+    "name": "BRISCOLA FIRENZE SRL",
+    "description": "",
+    "address": "10/R, Via Del Campidoglio - 50123 Firenze (FI)",
+    "streetAddress": "10/R, Via Del Campidoglio",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7722,
+        "lon": 11.25304
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2381990",
+        "055 2381576"
+    ],
+    "rating": ""
+}

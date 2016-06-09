@@ -1,0 +1,21 @@
+{
+    "name": "GALLERY HOTEL ART",
+    "description": "",
+    "address": "Vicolo Dell'Oro 5 - 50123 Firenze (FI)",
+    "streetAddress": "Vicolo Dell'Oro 5",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7688,
+        "lon": 11.25319
+    },
+    "categories": [
+        "Alberghi"
+    ],
+    "telephone": [
+        "055 27264000",
+        "055 27263"
+    ],
+    "rating": ""
+}

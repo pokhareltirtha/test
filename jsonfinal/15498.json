@@ -1,0 +1,21 @@
+{
+    "name": "LA TERRAZZA",
+    "description": "",
+    "address": "25, Via Del Castello - 50041 Calenzano (FI)",
+    "streetAddress": "25, Via Del Castello",
+    "postalCode": "50041",
+    "addressLocality": "Calenzano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.86317,
+        "lon": 11.16145
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "338 3952006",
+        "055 8873302"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "STACCIA BURATTA",
+    "description": "",
+    "address": "22, Via Di Pulicciano - 50012 Antella (FI)",
+    "streetAddress": "22, Via Di Pulicciano",
+    "postalCode": "50012",
+    "addressLocality": "Antella",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72608,
+        "lon": 11.32198
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 621643"
+    ],
+    "rating": ""
+}

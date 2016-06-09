@@ -1,0 +1,21 @@
+{
+    "name": "LUNE D'ACQUA",
+    "description": "",
+    "address": "56, Via Calenzano - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "56, Via Calenzano",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84161,
+        "lon": 11.19101
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 4250310",
+        "055 4251032"
+    ],
+    "rating": ""
+}

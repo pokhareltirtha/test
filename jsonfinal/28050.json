@@ -1,0 +1,21 @@
+{
+    "name": "IL FOCOLARE",
+    "description": "",
+    "address": "12, Via S Vivaldo - 50050 San Vivaldo (FI)",
+    "streetAddress": "12, Via S Vivaldo",
+    "postalCode": "50050",
+    "addressLocality": "San Vivaldo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.5241,
+        "lon": 10.89656
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 698435",
+        "338 1127073"
+    ],
+    "rating": ""
+}

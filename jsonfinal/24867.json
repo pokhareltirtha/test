@@ -1,0 +1,21 @@
+{
+    "name": "OLD WILD WEST",
+    "description": "",
+    "address": "18, Via Delle Pleiadi - 59100 Prato (PO)",
+    "streetAddress": "18, Via Delle Pleiadi",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87462,
+        "lon": 11.06404
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 981791",
+        "0574 638356"
+    ],
+    "rating": "4.6"
+}

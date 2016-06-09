@@ -1,0 +1,20 @@
+{
+    "name": "FUJIYAMA S.R.L.",
+    "description": "",
+    "address": "18, Via Abruzzi - 56029 Santa Croce Sull'Arno (PI)",
+    "streetAddress": "18, Via Abruzzi",
+    "postalCode": "56029",
+    "addressLocality": "Santa Croce Sull'Arno",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.72146,
+        "lon": 10.76974
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0571 31546"
+    ],
+    "rating": ""
+}

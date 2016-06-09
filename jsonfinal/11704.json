@@ -1,0 +1,20 @@
+{
+    "name": "ARCI PONTELUNGO",
+    "description": "",
+    "address": "85, Via Lucchese - 51100 Pontelungo (PT)",
+    "streetAddress": "85, Via Lucchese",
+    "postalCode": "51100",
+    "addressLocality": "Pontelungo",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.92281,
+        "lon": 10.88828
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 570256"
+    ],
+    "rating": ""
+}

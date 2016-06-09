@@ -1,0 +1,20 @@
+{
+    "name": "AUTOGRILL",
+    "description": "",
+    "address": "1, Via Trento - 56028 San Miniato (PI)",
+    "streetAddress": "1, Via Trento",
+    "postalCode": "56028",
+    "addressLocality": "San Miniato",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.69253,
+        "lon": 10.86357
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 419201"
+    ],
+    "rating": ""
+}

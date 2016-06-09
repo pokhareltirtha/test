@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE VINERIA GASTONE",
+    "description": "Due locali in uno: la vineria per uno spuntino veloce e il ristorante per le specialità tipiche della cucina toscana.",
+    "address": "26/R, V. Palmieri - 50122 Firenze (FI)",
+    "streetAddress": "26/R, V. Palmieri",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.7711,
+        "lon": 11.26119
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 2638763"
+    ],
+    "rating": "4.0"
+}

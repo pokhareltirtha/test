@@ -1,0 +1,20 @@
+{
+    "name": "STRAY TIME",
+    "description": "",
+    "address": "36, Via Vittorio Niccoli - 50051 Castelfiorentino (FI)",
+    "streetAddress": "36, Via Vittorio Niccoli",
+    "postalCode": "50051",
+    "addressLocality": "Castelfiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.61919,
+        "lon": 10.96379
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 633964"
+    ],
+    "rating": ""
+}

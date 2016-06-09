@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA - OSTERIA CIAO SONO RENZO",
+    "description": "",
+    "address": "9, Via IV Novembre - 55011 Altopascio (LU)",
+    "streetAddress": "9, Via IV Novembre",
+    "postalCode": "55011",
+    "addressLocality": "Altopascio",
+    "addressRegion": "(LU)",
+    "coordinates": {
+        "lat": 43.81793,
+        "lon": 10.65554
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0583 276535"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "HOTEL INDICATORE",
+    "description": "",
+    "address": "282, Via XIII Martiri - 50013 San Piero A Ponti (FI)",
+    "streetAddress": "282, Via XIII Martiri",
+    "postalCode": "50013",
+    "addressLocality": "San Piero A Ponti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.80572,
+        "lon": 11.11782
+    },
+    "categories": [
+        "Alberghi"
+    ],
+    "telephone": [
+        "055 8964396",
+        "334 3667475"
+    ],
+    "rating": ""
+}

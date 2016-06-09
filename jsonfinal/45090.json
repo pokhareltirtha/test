@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE KAI YUE S.A.S. DI ZHENG XIU CAI & C.",
+    "description": "",
+    "address": "67, Via Curtatone - 59100 Prato (PO)",
+    "streetAddress": "67, Via Curtatone",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.8847,
+        "lon": 11.09307
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 26072"
+    ],
+    "rating": ""
+}

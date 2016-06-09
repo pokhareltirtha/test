@@ -1,0 +1,20 @@
+{
+    "name": "DINO IN VIA GHIBELLINA",
+    "description": "",
+    "address": "47, Via Ghibellina - 50122 Firenze (FI)",
+    "streetAddress": "47, Via Ghibellina",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76928,
+        "lon": 11.26611
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 241452"
+    ],
+    "rating": ""
+}

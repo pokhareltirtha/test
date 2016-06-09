@@ -1,0 +1,20 @@
+{
+    "name": "IL CRINALE",
+    "description": "",
+    "address": "Via Pietrafitta 28 - 40030 Grizzana Morandi (BO)",
+    "streetAddress": "Via Pietrafitta 28",
+    "postalCode": "40030",
+    "addressLocality": "Grizzana Morandi",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.25671,
+        "lon": 11.15151
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "051 913328"
+    ],
+    "rating": ""
+}

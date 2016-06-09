@@ -1,0 +1,22 @@
+{
+    "name": "MISTRAL RISTORANTE PIZZERIA",
+    "description": "Il ristorante Mistrale di Lorenzelli Emma accoglie i suoi ospiti in un locale moderno e confortevole, a Castel di Casio.",
+    "address": "1, Fr. Suviana (Via Lungo Lago) - 40030 Castel Di Casio (BO)",
+    "streetAddress": "1, Fr. Suviana (Via Lungo Lago)",
+    "postalCode": "40030",
+    "addressLocality": "Castel Di Casio",
+    "addressRegion": "(BO)",
+    "coordinates": {
+        "lat": 44.13632,
+        "lon": 11.03479
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0534 42778",
+        "328 7178003"
+    ],
+    "rating": ""
+}

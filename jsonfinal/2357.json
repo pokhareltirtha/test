@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE SELVA DELLE TORRI",
+    "description": "A San Gimignano in loc. Santa Lucia, all’interno del camping, il Ristorante Selva delle Torri con i migliori prodotti tipici della cucina tradizionale Toscana.",
+    "address": "38/B, Loc. Santa Lucia - 53037 San Gimignano (SI)",
+    "streetAddress": "38/B, Loc. Santa Lucia",
+    "postalCode": "53037",
+    "addressLocality": "San Gimignano",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.45158,
+        "lon": 11.06013
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 941982"
+    ],
+    "rating": ""
+}

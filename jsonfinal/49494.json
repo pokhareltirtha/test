@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA MORDI E FUGGI",
+    "description": "Per un'ottima pizza vieni a Montecatini Terme (PT).",
+    "address": "76, C. Roma - 51016 Montecatini Terme (PT)",
+    "streetAddress": "76, C. Roma",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88503,
+        "lon": 10.76666
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0572 050427",
+        "347 7556632"
+    ],
+    "rating": ""
+}

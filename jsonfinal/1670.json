@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE ALBERGO IL BRONCO",
+    "description": "Il Ristorante Albergo Il Bronco di Scarperia e San Piero offre ospitalità in un ambiente tranquillo e confortevole vicino all'autodromo del Mugello.",
+    "address": "95, Vl. Dante Alighieri - 50038 Scarperia E San Piero (FI)",
+    "streetAddress": "95, Vl. Dante Alighieri",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia E San Piero",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.00205,
+        "lon": 11.3608
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8430207"
+    ],
+    "rating": ""
+}

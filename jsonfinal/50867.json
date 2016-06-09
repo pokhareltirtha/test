@@ -1,0 +1,20 @@
+{
+    "name": "MISS PIZZA SNC",
+    "description": "",
+    "address": "49, Via Veneto Vittorio - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "49, Via Veneto Vittorio",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83157,
+        "lon": 11.19875
+    },
+    "categories": [
+        "Gastronomie, salumerie e rosticcerie"
+    ],
+    "telephone": [
+        "055 3851450"
+    ],
+    "rating": ""
+}

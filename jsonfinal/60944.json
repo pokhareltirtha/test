@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA EXPRESS DI STINGO PASQUALE",
+    "description": "",
+    "address": "11, Via Calimara - 59100 Prato (PO)",
+    "streetAddress": "11, Via Calimara",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87718,
+        "lon": 11.10034
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0574 607777"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZAMANIA",
+    "description": "A Poggibonsi, in provincia di Siena, la pizzeria d'asporto che vi aspetta per farvi gustare tutte le sue fantasiose pizze, farcite coi migliori ingredienti.",
+    "address": "123/A, V. Senese - 53036 Poggibonsi (SI)",
+    "streetAddress": "123/A, V. Senese",
+    "postalCode": "53036",
+    "addressLocality": "Poggibonsi",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.46444,
+        "lon": 11.15292
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0577 985911"
+    ],
+    "rating": ""
+}

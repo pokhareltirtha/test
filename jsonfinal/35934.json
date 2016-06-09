@@ -1,0 +1,20 @@
+{
+    "name": "LA BOTTEGA A ROSANO",
+    "description": "",
+    "address": "10, Via I Maggio - 50067 Rosano (FI)",
+    "streetAddress": "10, Via I Maggio",
+    "postalCode": "50067",
+    "addressLocality": "Rosano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77039,
+        "lon": 11.42183
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8303013"
+    ],
+    "rating": ""
+}

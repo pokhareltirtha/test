@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA PLANET",
+    "description": "",
+    "address": "18, Via Giachetti A. - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "18, Via Giachetti A.",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83034,
+        "lon": 11.20035
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 4491846"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "IL GRETO",
+    "description": "",
+    "address": "Piazza Della Repubblica, 5 - 50062 Dicomano (FI)",
+    "streetAddress": "Piazza Della Repubblica, 5",
+    "postalCode": "50062",
+    "addressLocality": "Dicomano",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.89136,
+        "lon": 11.52388
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8351813"
+    ],
+    "rating": ""
+}

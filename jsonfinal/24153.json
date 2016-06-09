@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA CHIARA DI CASINI PATRIZIA",
+    "description": "",
+    "address": "42, Corso Matteotti - 56038 Ponsacco (PI)",
+    "streetAddress": "42, Corso Matteotti",
+    "postalCode": "56038",
+    "addressLocality": "Ponsacco",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.62004,
+        "lon": 10.63283
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 731121"
+    ],
+    "rating": ""
+}

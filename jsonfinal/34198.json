@@ -1,0 +1,20 @@
+{
+    "name": "VICOLO DEI GOLOSI",
+    "description": "",
+    "address": "35, Via Guidacci - 50021 Vico D Elsa (FI)",
+    "streetAddress": "35, Via Guidacci",
+    "postalCode": "50021",
+    "addressLocality": "Vico D Elsa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.51341,
+        "lon": 11.0975
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8073172"
+    ],
+    "rating": ""
+}

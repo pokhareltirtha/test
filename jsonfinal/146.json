@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE GRECO CÀLLISTOS",
+    "description": "In Via Baracca a Firenze, il ristorante greco Càllistos vi aspetta con le sue deliziose specialità greche, salsa tzatziki, moussakà, lahanodolmades ed altro.",
+    "address": "2/R, V. Baracca - 50127 Firenze (FI)",
+    "streetAddress": "2/R, V. Baracca",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78899,
+        "lon": 11.22409
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "333 6230374",
+        "339 5471412"
+    ],
+    "rating": ""
+}

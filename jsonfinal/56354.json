@@ -1,0 +1,20 @@
+{
+    "name": "LITTLE DAVID WINEX",
+    "description": "",
+    "address": "14, Via Dei Martelli - 50129 Firenze (FI)",
+    "streetAddress": "14, Via Dei Martelli",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77386,
+        "lon": 11.25548
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 2302695"
+    ],
+    "rating": ""
+}

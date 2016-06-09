@@ -1,0 +1,20 @@
+{
+    "name": "LA BUSSOLA",
+    "description": "",
+    "address": "26, Via Gaetano Donizetti - 50018 Scandicci (FI)",
+    "streetAddress": "26, Via Gaetano Donizetti",
+    "postalCode": "50018",
+    "addressLocality": "Scandicci",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76154,
+        "lon": 11.17615
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 751867"
+    ],
+    "rating": ""
+}

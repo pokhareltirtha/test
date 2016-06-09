@@ -1,0 +1,20 @@
+{
+    "name": "AL POSTO GIUSTO",
+    "description": "",
+    "address": "106, Via Dante Alighieri - 50066 Reggello (FI)",
+    "streetAddress": "106, Via Dante Alighieri",
+    "postalCode": "50066",
+    "addressLocality": "Reggello",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.68217,
+        "lon": 11.52904
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8667082"
+    ],
+    "rating": ""
+}

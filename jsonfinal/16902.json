@@ -1,0 +1,21 @@
+{
+    "name": "LOCANDA LE PIAZZE",
+    "description": "",
+    "address": "41, Localita Le Piazze - 53011 Castellina In Chianti (SI)",
+    "streetAddress": "41, Localita Le Piazze",
+    "postalCode": "53011",
+    "addressLocality": "Castellina In Chianti",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.45592,
+        "lon": 11.22976
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 743192",
+        "0577 743191"
+    ],
+    "rating": ""
+}

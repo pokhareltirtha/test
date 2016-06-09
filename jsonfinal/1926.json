@@ -1,0 +1,22 @@
+{
+    "name": "RISTORANTE PIZZERIA IL BRONCO ACCANTO ALL'AUTODR. DEL MUGELLO",
+    "description": "",
+    "address": "95, Vl. Dante - 50038 Scarperia E San Piero (FI)",
+    "streetAddress": "95, Vl. Dante",
+    "postalCode": "50038",
+    "addressLocality": "Scarperia E San Piero",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 44.0019,
+        "lon": 11.36086
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "334 6715871",
+        "055 8430207"
+    ],
+    "rating": ""
+}

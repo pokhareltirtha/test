@@ -1,0 +1,21 @@
+{
+    "name": "OSTERIA LA SOSTA DI PIO VII",
+    "description": "",
+    "address": "25, Via Cassia - 50021 Barberino Val D'Elsa (FI)",
+    "streetAddress": "25, Via Cassia",
+    "postalCode": "50021",
+    "addressLocality": "Barberino Val D'Elsa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54357,
+        "lon": 11.17323
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "349 6462419",
+        "055 8066291"
+    ],
+    "rating": ""
+}

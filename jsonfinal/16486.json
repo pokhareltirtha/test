@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA ALBERGO BOLOGNESE DI DELLA MAGGIORA DANIELA",
+    "description": "",
+    "address": "90, Corso Matteotti Giacomo - 51016 Montecatini Terme (PT)",
+    "streetAddress": "90, Corso Matteotti Giacomo",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88113,
+        "lon": 10.77444
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 78832"
+    ],
+    "rating": "1.0"
+}

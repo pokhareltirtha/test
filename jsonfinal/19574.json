@@ -1,0 +1,21 @@
+{
+    "name": "EQUINOX PIZZORANTE SRL",
+    "description": "",
+    "address": "1, Via Leonardo Da Vinci - 50021 Barberino Val D'Elsa (FI)",
+    "streetAddress": "1, Via Leonardo Da Vinci",
+    "postalCode": "50021",
+    "addressLocality": "Barberino Val D'Elsa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.48091,
+        "lon": 11.1397
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 3987120",
+        "055 8078039"
+    ],
+    "rating": ""
+}

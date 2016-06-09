@@ -1,0 +1,21 @@
+{
+    "name": "LA TORRE ANTICA",
+    "description": "",
+    "address": "Via Santa Maria A Chianni, 79 - 50050 Gambassi Terme (FI)",
+    "streetAddress": "Via Santa Maria A Chianni, 79",
+    "postalCode": "50050",
+    "addressLocality": "Gambassi Terme",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.54857,
+        "lon": 10.95852
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0571 639272",
+        "0571 639635"
+    ],
+    "rating": ""
+}

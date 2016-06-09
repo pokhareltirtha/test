@@ -1,0 +1,20 @@
+{
+    "name": "OSTERIA DEL GRILLO",
+    "description": "",
+    "address": "Via San Francesco - 56048 Volterra (PI)",
+    "streetAddress": "Via San Francesco",
+    "postalCode": "56048",
+    "addressLocality": "Volterra",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.39996,
+        "lon": 10.8589
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0588 35131"
+    ],
+    "rating": ""
+}

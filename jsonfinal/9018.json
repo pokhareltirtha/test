@@ -1,0 +1,20 @@
+{
+    "name": "IL VECCHIO GUSCI",
+    "description": "",
+    "address": "3, Via Cervi Fratelli - 51010 Massa E Cozzile (PT)",
+    "streetAddress": "3, Via Cervi Fratelli",
+    "postalCode": "51010",
+    "addressLocality": "Massa E Cozzile",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.8695,
+        "lon": 10.75325
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 766156"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "MAMMA MIA PIZZERIA RISTORANTE",
+    "description": "Il Ristorante Pizzeria Mamma Mia, a Firenze, vi attende per proporvi tante specialità della cucina tipica toscana ed eccellenti vini regionali.",
+    "address": "18/R, P. Merc. Nuovo - 50123 Firenze (FI)",
+    "streetAddress": "18/R, P. Merc. Nuovo",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76994,
+        "lon": 11.25404
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 280594"
+    ],
+    "rating": "4.2"
+}

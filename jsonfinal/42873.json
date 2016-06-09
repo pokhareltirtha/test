@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PEPE NERO",
+    "description": "Il ristorante è dotato di una carta riservata ai flan e di una carta riservata ai caffè,tè e infusi.",
+    "address": "289, V. Zarini - 59100 Prato (PO)",
+    "streetAddress": "289, V. Zarini",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.86798,
+        "lon": 11.10511
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 550353",
+        "339 3400460"
+    ],
+    "rating": ""
+}

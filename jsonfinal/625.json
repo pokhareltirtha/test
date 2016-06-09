@@ -1,0 +1,22 @@
+{
+    "name": "MOVIDA",
+    "description": "",
+    "address": "120, Via Francesco Baracca - 50127 Firenze (FI)",
+    "streetAddress": "120, Via Francesco Baracca",
+    "postalCode": "50127",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79192,
+        "lon": 11.21699
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "333 2189695",
+        "055 434604"
+    ],
+    "rating": "2.9"
+}

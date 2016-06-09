@@ -1,0 +1,20 @@
+{
+    "name": "LOAD SRL",
+    "description": "",
+    "address": "17, Via Di Rosano - 50065 Pontassieve (FI)",
+    "streetAddress": "17, Via Di Rosano",
+    "postalCode": "50065",
+    "addressLocality": "Pontassieve",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77194,
+        "lon": 11.43216
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9753972"
+    ],
+    "rating": ""
+}

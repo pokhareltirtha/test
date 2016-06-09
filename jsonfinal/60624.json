@@ -1,0 +1,20 @@
+{
+    "name": "PIZZERIA FRIGGITORIA ZIO SAM",
+    "description": "",
+    "address": "115, Via Primo Maggio - 51010 Massa E Cozzile (PT)",
+    "streetAddress": "115, Via Primo Maggio",
+    "postalCode": "51010",
+    "addressLocality": "Massa E Cozzile",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88602,
+        "lon": 10.75462
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0572 70751"
+    ],
+    "rating": ""
+}

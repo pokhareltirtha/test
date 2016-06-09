@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA PLAYGROUND",
+    "description": "Il Ristorante Pizzeria Playground è il locale ideale per una cena con gli amici oppure una cena più formale, a Montecatini Terme.",
+    "address": "46, V. L. Da Vinci - 51016 Montecatini Terme (PT)",
+    "streetAddress": "46, V. L. Da Vinci",
+    "postalCode": "51016",
+    "addressLocality": "Montecatini Terme",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88087,
+        "lon": 10.76566
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 913860",
+        "335 5776203"
+    ],
+    "rating": ""
+}

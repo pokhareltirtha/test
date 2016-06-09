@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PUNTO A CAPO - D.V.B. SNC",
+    "description": "",
+    "address": "22, Via Calderaio - 51010 Massa E Cozzile (PT)",
+    "streetAddress": "22, Via Calderaio",
+    "postalCode": "51010",
+    "addressLocality": "Massa E Cozzile",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86869,
+        "lon": 10.75366
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 911541"
+    ],
+    "rating": "5.0"
+}

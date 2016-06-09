@@ -1,0 +1,22 @@
+{
+    "name": "PIZZERIA IL CASTALDO",
+    "description": "A Lamporecchio (PT), il locale che ti regala un panorama mozzafiato gustando una fantastica pizza cotta nel forno a legna!",
+    "address": "309, V. Provinciale Montalbano - 51035 Fornello (PT)",
+    "streetAddress": "309, V. Provinciale Montalbano",
+    "postalCode": "51035",
+    "addressLocality": "Fornello",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.82247,
+        "lon": 10.9252
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "334 8641622",
+        "0573 81942"
+    ],
+    "rating": ""
+}

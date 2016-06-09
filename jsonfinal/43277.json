@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PESCE ROSSO",
+    "description": "",
+    "address": "12, Piazza Della Repubblica - 50123 Firenze (FI)",
+    "streetAddress": "12, Piazza Della Repubblica",
+    "postalCode": "50123",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77151,
+        "lon": 11.25366
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 290052",
+        "055 212280"
+    ],
+    "rating": "1.0"
+}

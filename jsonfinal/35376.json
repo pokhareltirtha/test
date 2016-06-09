@@ -1,0 +1,20 @@
+{
+    "name": "SHANGHAI",
+    "description": "",
+    "address": "4, Via Degli Argini - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "4, Via Degli Argini",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.9534,
+        "lon": 11.38538
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8456843"
+    ],
+    "rating": ""
+}

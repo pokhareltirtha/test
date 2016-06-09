@@ -1,0 +1,21 @@
+{
+    "name": "BACCAROSSA",
+    "description": "",
+    "address": "Via Ghibellina,46r - 50122 Firenze (FI)",
+    "streetAddress": "Via Ghibellina,46r",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76954,
+        "lon": 11.26495
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "392 6844063",
+        "055 240620"
+    ],
+    "rating": "2.5"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE PIZZERIA I LAKE FOREST",
+    "description": "",
+    "address": "52, Via Tassaia - 50032 Borgo San Lorenzo (FI)",
+    "streetAddress": "52, Via Tassaia",
+    "postalCode": "50032",
+    "addressLocality": "Borgo San Lorenzo",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.90215,
+        "lon": 11.34066
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "339 8034978",
+        "055 8409800"
+    ],
+    "rating": ""
+}

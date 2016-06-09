@@ -1,0 +1,20 @@
+{
+    "name": "AUTOGRILL CHIANTI",
+    "description": "",
+    "address": ",,Autostrada A1 Firenze - 50126 Bagno A Ripoli (FI)",
+    "streetAddress": ",  Autostrada A1 Firenze",
+    "postalCode": "50126",
+    "addressLocality": "Bagno A Ripoli",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.72964,
+        "lon": 11.32431
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6560063"
+    ],
+    "rating": ""
+}

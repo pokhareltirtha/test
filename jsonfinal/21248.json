@@ -1,0 +1,21 @@
+{
+    "name": "ZICOCCO S.R.L.",
+    "description": "",
+    "address": "1/C, Via Poggio Amaro - 52021 Bucine (AR)",
+    "streetAddress": "1/C, Via Poggio Amaro",
+    "postalCode": "52021",
+    "addressLocality": "Bucine",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.47203,
+        "lon": 11.61525
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "331 7486007",
+        "055 9911296"
+    ],
+    "rating": ""
+}

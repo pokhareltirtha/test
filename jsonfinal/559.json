@@ -1,0 +1,22 @@
+{
+    "name": "RISTORANTE PIZZERIA SESTO SENSO",
+    "description": "Il Ristorante il Sesto Senso organizza aperitivi e serate musicali e propone menù raffinati e una cucina gluten free a Sesto Fiorentino in p. Mercato 5.",
+    "address": "5, P. Mercato - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "5, P. Mercato",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83127,
+        "lon": 11.20001
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "334 9470526",
+        "055 4480247"
+    ],
+    "rating": ""
+}

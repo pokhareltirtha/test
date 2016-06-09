@@ -1,0 +1,20 @@
+{
+    "name": "DE SANTIS VALTER",
+    "description": "",
+    "address": "40/B, Via Della Querciola - 50141 Firenze (FI)",
+    "streetAddress": "40/B, Via Della Querciola",
+    "postalCode": "50141",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.8172,
+        "lon": 11.23103
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 707148"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA NEW",
+    "description": "",
+    "address": "61, Via Dalmazia - 51100 Pistoia (PT)",
+    "streetAddress": "61, Via Dalmazia",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93816,
+        "lon": 10.91033
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "0573 22215"
+    ],
+    "rating": ""
+}

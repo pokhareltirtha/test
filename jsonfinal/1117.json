@@ -1,0 +1,22 @@
+{
+    "name": "RISTORANTE PIZZERIA DON CHISCIOTTE",
+    "description": "",
+    "address": "1, Via Fratelli Cervi - 50013 Capalle (FI)",
+    "streetAddress": "1, Via Fratelli Cervi",
+    "postalCode": "50013",
+    "addressLocality": "Capalle",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.84464,
+        "lon": 11.13743
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 8969839",
+        "055 39023"
+    ],
+    "rating": ""
+}

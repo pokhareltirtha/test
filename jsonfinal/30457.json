@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE IL LOCALE - PALAZZO MEDICI TORNAQUINCI",
+    "description": "",
+    "address": "Via Delle Seggiole - 50122 Firenze (FI)",
+    "streetAddress": "Via Delle Seggiole",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77106,
+        "lon": 11.25992
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 9067188"
+    ],
+    "rating": ""
+}

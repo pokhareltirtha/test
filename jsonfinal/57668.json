@@ -1,0 +1,20 @@
+{
+    "name": "BLACK BAR",
+    "description": "",
+    "address": "107, Via Calzaiuoli - 50122 Firenze (FI)",
+    "streetAddress": "107, Via Calzaiuoli",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77215,
+        "lon": 11.25533
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 211431"
+    ],
+    "rating": ""
+}

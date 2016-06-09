@@ -1,0 +1,21 @@
+{
+    "name": "IMPIANTI SPORTIVI S.R.L.",
+    "description": "",
+    "address": "30/A, Via Di Campo - 51013 Chiesina Uzzanese (PT)",
+    "streetAddress": "30/A, Via Di Campo",
+    "postalCode": "51013",
+    "addressLocality": "Chiesina Uzzanese",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.86278,
+        "lon": 10.71456
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0583 434404",
+        "0572 67353"
+    ],
+    "rating": ""
+}

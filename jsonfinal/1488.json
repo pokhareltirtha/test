@@ -1,0 +1,22 @@
+{
+    "name": "RISTORANTE LA PAGLIETTA",
+    "description": "Ristorante a Greve in Chianti (FI) propone piatti tipici della tradizione toscana, buone pizze e tanta allegria.",
+    "address": "14, Vl. Lavagnini - 50022 San Polo In Chianti (FI)",
+    "streetAddress": "14, Vl. Lavagnini",
+    "postalCode": "50022",
+    "addressLocality": "San Polo In Chianti",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.67072,
+        "lon": 11.35377
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 855382",
+        "055 8555126"
+    ],
+    "rating": ""
+}

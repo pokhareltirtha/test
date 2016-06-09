@@ -1,0 +1,21 @@
+{
+    "name": "PIZZERIA DA CIRO",
+    "description": "La Pizzeria da Ciro vi attende a Ponsacco per proporvi deliziose specialità di carne e di pesce e tante pizze biologiche, cotte nel forno a legna.",
+    "address": "39, V. Togliatti - 56038 Ponsacco (PI)",
+    "streetAddress": "39, V. Togliatti",
+    "postalCode": "56038",
+    "addressLocality": "Ponsacco",
+    "addressRegion": "(PI)",
+    "coordinates": {
+        "lat": 43.61938,
+        "lon": 10.62755
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0587 732084",
+        "338 9039212"
+    ],
+    "rating": ""
+}

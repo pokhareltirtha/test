@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE LA BOTTEGA DEL BUON CAFFE'",
+    "description": "La Bottega del Buon Caffè integra il tradizionale stile fiorentino con un'eleganza rilassata all'interno di un'atmosfera urban chic.",
+    "address": "69/R, Lungarno Cellini - 50125 Firenze (FI)",
+    "streetAddress": "69/R, Lungarno Cellini",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76453,
+        "lon": 11.2654
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 5535677"
+    ],
+    "rating": ""
+}

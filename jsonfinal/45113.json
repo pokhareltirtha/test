@@ -1,0 +1,21 @@
+{
+    "name": "SIGNORINO",
+    "description": "",
+    "address": "207, Via Bolognese - 51100 Pistoia (PT)",
+    "streetAddress": "207, Via Bolognese",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 44.00211,
+        "lon": 10.91945
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 475293",
+        "0573 475028"
+    ],
+    "rating": "5.0"
+}

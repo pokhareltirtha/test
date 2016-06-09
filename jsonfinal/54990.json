@@ -1,0 +1,20 @@
+{
+    "name": "UNIVERSO PIZZA",
+    "description": "",
+    "address": "12, Via Delle Ruote - 50129 Firenze (FI)",
+    "streetAddress": "12, Via Delle Ruote",
+    "postalCode": "50129",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.78039,
+        "lon": 11.25761
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 489609"
+    ],
+    "rating": ""
+}

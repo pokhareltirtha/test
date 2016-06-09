@@ -1,0 +1,20 @@
+{
+    "name": "JAMES JOYCE PUB",
+    "description": "",
+    "address": "Lungarno Benvenuto Cellini, 1/R - 50125 Firenze (FI)",
+    "streetAddress": "Lungarno Benvenuto Cellini, 1/R",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76389,
+        "lon": 11.2706
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 6580856"
+    ],
+    "rating": ""
+}

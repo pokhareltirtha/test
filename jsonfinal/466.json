@@ -1,0 +1,22 @@
+{
+    "name": "MIRO'",
+    "description": "",
+    "address": "7, Viale Giovan Battista Morgagni - 50134 Firenze (FI)",
+    "streetAddress": "7, Viale Giovan Battista Morgagni",
+    "postalCode": "50134",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.79675,
+        "lon": 11.24118
+    },
+    "categories": [
+        "Ristoranti",
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 3905575",
+        "055 3905573"
+    ],
+    "rating": ""
+}

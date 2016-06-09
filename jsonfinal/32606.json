@@ -1,0 +1,20 @@
+{
+    "name": "SASSO DI DANTE",
+    "description": "",
+    "address": "6, Piazza Delle Pallottole - 50122 Firenze (FI)",
+    "streetAddress": "6, Piazza Delle Pallottole",
+    "postalCode": "50122",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.77245,
+        "lon": 11.25739
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 282113"
+    ],
+    "rating": "5.0"
+}

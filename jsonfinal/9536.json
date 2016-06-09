@@ -1,0 +1,21 @@
+{
+    "name": "I SETTE BORGHI",
+    "description": "",
+    "address": "Via Guglielmo Marconi, 43 - 51010 Massa E Cozzile (PT)",
+    "streetAddress": "Via Guglielmo Marconi, 43",
+    "postalCode": "51010",
+    "addressLocality": "Massa E Cozzile",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.90919,
+        "lon": 10.74164
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0572 30642",
+        "335 6139268"
+    ],
+    "rating": ""
+}

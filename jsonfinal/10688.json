@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE I GIARDINI NAXOS",
+    "description": "",
+    "address": "74, Via Dalmazia - 51100 Pistoia (PT)",
+    "streetAddress": "74, Via Dalmazia",
+    "postalCode": "51100",
+    "addressLocality": "Pistoia",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.93816,
+        "lon": 10.91033
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 1700571"
+    ],
+    "rating": ""
+}

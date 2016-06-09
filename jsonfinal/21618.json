@@ -1,0 +1,20 @@
+{
+    "name": "CASA DI MONTE",
+    "description": "",
+    "address": "Via Del Madonnino 8 - 51035 Lamporecchio (PT)",
+    "streetAddress": "Via Del Madonnino 8",
+    "postalCode": "51035",
+    "addressLocality": "Lamporecchio",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.83012,
+        "lon": 10.93732
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0573 82607"
+    ],
+    "rating": ""
+}

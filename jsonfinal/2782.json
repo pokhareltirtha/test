@@ -1,0 +1,21 @@
+{
+    "name": "LA TOPPA",
+    "description": "",
+    "address": "43, Via Del Giglio - 50028 San Donato In Poggio (FI)",
+    "streetAddress": "43, Via Del Giglio",
+    "postalCode": "50028",
+    "addressLocality": "San Donato In Poggio",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.53546,
+        "lon": 11.23447
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8072973",
+        "055 8072900"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "SANTA FELICITA",
+    "description": "",
+    "address": "Piazza Santa Felicita, 6/7 R - 50125 Firenze (FI)",
+    "streetAddress": "Piazza Santa Felicita, 6/7 R",
+    "postalCode": "50125",
+    "addressLocality": "Firenze",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.76717,
+        "lon": 11.25228
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 5384963",
+        "055 2398554"
+    ],
+    "rating": ""
+}

@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE LA BOTTEGA",
+    "description": "",
+    "address": "1, Piazza Della Torre - 53017 Volpaia (SI)",
+    "streetAddress": "1, Piazza Della Torre",
+    "postalCode": "53017",
+    "addressLocality": "Volpaia",
+    "addressRegion": "(SI)",
+    "coordinates": {
+        "lat": 43.51657,
+        "lon": 11.38119
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0577 738001",
+        "0577 735602"
+    ],
+    "rating": ""
+}

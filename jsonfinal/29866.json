@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE IL CORALLO DI BARBERA ENRICA",
+    "description": "",
+    "address": "5/A, Via Rignano - 52011 Bibbiena (AR)",
+    "streetAddress": "5/A, Via Rignano",
+    "postalCode": "52011",
+    "addressLocality": "Bibbiena",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.70012,
+        "lon": 11.80533
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0575 594232",
+        "320 4472840"
+    ],
+    "rating": ""
+}

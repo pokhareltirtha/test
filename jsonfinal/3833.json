@@ -1,0 +1,20 @@
+{
+    "name": "LE ANFORE",
+    "description": "",
+    "address": "21/23/25, Via Cambioni - 59100 Prato (PO)",
+    "streetAddress": "21/23/25, Via Cambioni",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87911,
+        "lon": 11.09494
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "0574 440428"
+    ],
+    "rating": ""
+}

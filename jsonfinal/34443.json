@@ -1,0 +1,20 @@
+{
+    "name": "BORGO DI CORTEFREDA HOTEL RELAIS",
+    "description": "Venite a scoprire le bellezze e le ricchezze gastronomiche delle valli del Chianti all’ Hotel Relais Borgo di Cortefreda, a Tavernelle Val di Pesa.",
+    "address": "191, V. Roma - 50028 Tavarnelle Val Di Pesa (FI)",
+    "streetAddress": "191, V. Roma",
+    "postalCode": "50028",
+    "addressLocality": "Tavarnelle Val Di Pesa",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.55355,
+        "lon": 11.17341
+    },
+    "categories": [
+        "Ristoranti"
+    ],
+    "telephone": [
+        "055 8073333"
+    ],
+    "rating": "4.0"
+}

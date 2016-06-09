@@ -1,0 +1,20 @@
+{
+    "name": "PIZZA E VAI DI CARDINALI M.G. E C. S.N.C.",
+    "description": "",
+    "address": "25, Via Leona-Levane - 52025 Montevarchi (AR)",
+    "streetAddress": "25, Via Leona-Levane",
+    "postalCode": "52025",
+    "addressLocality": "Montevarchi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.52944,
+        "lon": 11.56478
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 9788551"
+    ],
+    "rating": ""
+}

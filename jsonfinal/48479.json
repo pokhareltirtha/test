@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA  NOME VIENNA",
+    "description": "",
+    "address": "61, Via Del Purgatorio - 59100 Prato (PO)",
+    "streetAddress": "61, Via Del Purgatorio",
+    "postalCode": "59100",
+    "addressLocality": "Prato",
+    "addressRegion": "(PO)",
+    "coordinates": {
+        "lat": 43.87109,
+        "lon": 11.08352
+    },
+    "categories": [
+        ""
+    ],
+    "telephone": [
+        "0574 636857"
+    ],
+    "rating": ""
+}

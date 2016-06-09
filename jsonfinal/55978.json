@@ -1,0 +1,20 @@
+{
+    "name": "RISTORANTE PIZZERIA LA VERA NAPOLI",
+    "description": "",
+    "address": "52, Piazza Quattro Novembre - 50019 Sesto Fiorentino (FI)",
+    "streetAddress": "52, Piazza Quattro Novembre",
+    "postalCode": "50019",
+    "addressLocality": "Sesto Fiorentino",
+    "addressRegion": "(FI)",
+    "coordinates": {
+        "lat": 43.83316,
+        "lon": 11.19882
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "055 3921248"
+    ],
+    "rating": ""
+}

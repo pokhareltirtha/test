@@ -1,0 +1,21 @@
+{
+    "name": "RISTORANTE BUFFALO STEAKHOUSE",
+    "description": "",
+    "address": "Via I Maggio 48 - 51010 Massa E Cozzile (PT)",
+    "streetAddress": "Via I Maggio 48",
+    "postalCode": "51010",
+    "addressLocality": "Massa E Cozzile",
+    "addressRegion": "(PT)",
+    "coordinates": {
+        "lat": 43.88628,
+        "lon": 10.75529
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "329 6393440",
+        "0572 030439"
+    ],
+    "rating": ""
+}

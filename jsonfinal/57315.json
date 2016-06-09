@@ -1,0 +1,21 @@
+{
+    "name": "IL CAPANNO",
+    "description": "",
+    "address": "1, Via Fangancci - 52014 Poppi (AR)",
+    "streetAddress": "1, Via Fangancci",
+    "postalCode": "52014",
+    "addressLocality": "Poppi",
+    "addressRegion": "(AR)",
+    "coordinates": {
+        "lat": 43.80151,
+        "lon": 11.86498
+    },
+    "categories": [
+        "Pizzerie"
+    ],
+    "telephone": [
+        "339 4016989",
+        "0575 559437"
+    ],
+    "rating": ""
+}
